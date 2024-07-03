@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_008a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:52.454+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="764" WIDTH="2814" VPOS="240" HPOS="768">
+               <Shape>
+                  <Polygon POINTS="787,240 768,1004 3582,998 3556,240"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="808,362 941,358 1075,354 1209,350 1343,346 1477,344 1611,340 1745,338 1879,336 2013,334 2147,334 2280,332 2414,332 2548,332 2682,332 2816,332 2950,332 3084,334 3218,336 3352,338 3486,340"
+                         HEIGHT="91"
+                         WIDTH="2678"
+                         VPOS="291"
+                         HPOS="808">
+                  <String ID="string_r1l1"
+                          HEIGHT="91"
+                          WIDTH="2678"
+                          VPOS="291"
+                          HPOS="808"
+                          CONTENT="RARIO, Rarium, et ΡΑΡΙΟΝ, è nome di Poggio, di luogho illustre et di edificio, et di Tempio et claustro in Eleusina."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="866,440 996,436 1127,432 1258,429 1389,426 1520,424 1651,422 1782,420 1913,418 2044,416 2175,416 2305,416 2436,416 2567,416 2698,416 2829,418 2960,419 3091,420 3222,422 3353,424 3484,426"
+                         HEIGHT="82"
+                         WIDTH="2618"
+                         VPOS="377"
+                         HPOS="866">
+                  <String ID="string_r1l2"
+                          HEIGHT="82"
+                          WIDTH="2618"
+                          VPOS="377"
+                          HPOS="866"
+                          CONTENT="opera degli Eleusini populi d'Eleusi città nell'Attica, dove si adorava Cerere Raria. Come luogo consecrato"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="872,528 1002,523 1132,518 1262,514 1393,512 1523,508 1653,506 1784,504 1914,504 2044,502 2175,502 2305,502 2435,502 2565,502 2696,502 2826,504 2956,504 3087,504 3217,505 3347,506 3478,506"
+                         HEIGHT="84"
+                         WIDTH="2606"
+                         VPOS="463"
+                         HPOS="872">
+                  <String ID="string_r1l3"
+                          HEIGHT="84"
+                          WIDTH="2606"
+                          VPOS="463"
+                          HPOS="872"
+                          CONTENT="alla Madre Cerere Eleusina, ove pria mostro il frumento all'antichi nell'uso della coltura et della divitia, et"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="872,618 1000,612 1128,606 1256,602 1384,598 1512,594 1640,592 1768,590 1896,590 2024,588 2153,588 2281,588 2409,589 2537,590 2665,590 2793,592 2921,593 3049,594 3177,596 3305,598 3434,598"
+                         HEIGHT="91"
+                         WIDTH="2562"
+                         VPOS="547"
+                         HPOS="872">
+                  <String ID="string_r1l4"
+                          HEIGHT="91"
+                          WIDTH="2562"
+                          VPOS="547"
+                          HPOS="872"
+                          CONTENT="mostro l'uso da fare le pizze ò focaccie, et la Farratione. Onde la dissero Raria Matre, inquesto suono,"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="874,704 1005,700 1137,696 1269,692 1400,690 1532,688 1664,686 1795,684 1927,682 2059,682 2191,680 2322,682 2454,682 2586,682 2717,684 2849,686 2981,690 3112,692 3244,696 3376,700 3508,706"
+                         HEIGHT="87"
+                         WIDTH="2634"
+                         VPOS="639"
+                         HPOS="874">
+                  <String ID="string_r1l5"
+                          HEIGHT="87"
+                          WIDTH="2634"
+                          VPOS="639"
+                          HPOS="874"
+                          CONTENT="ΡΑΡΙΑ ΜΗΤΗΡ, et ΡΑΡΙΑ Η ΑΗΜΗΤΗΡ, et vi veneravano Apolline, et Ptriptolemo predicattore delle frugie"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="858,784 989,782 1121,780 1253,778 1385,776 1517,776 1649,774 1781,772 1913,772 2045,772 2177,772 2308,772 2440,772 2572,774 2704,775 2836,778 2968,780 3100,784 3232,788 3364,792 3496,798"
+                         HEIGHT="84"
+                         WIDTH="2638"
+                         VPOS="733"
+                         HPOS="858">
+                  <String ID="string_r1l6"
+                          HEIGHT="84"
+                          WIDTH="2638"
+                          VPOS="733"
+                          HPOS="858"
+                          CONTENT="cereali. per che dicono che Cerere albergo con Raro Aare di Triptolemo et di Baubona, fanciulla che ralle"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="858,868 989,868 1121,866 1253,866 1385,864 1517,862 1649,862 1781,860 1913,858 2045,858 2177,856 2308,856 2440,856 2572,856 2704,858 2836,860 2968,862 3100,864 3232,869 3364,873 3496,880"
+                         HEIGHT="82"
+                         WIDTH="2638"
+                         VPOS="817"
+                         HPOS="858">
+                  <String ID="string_r1l7"
+                          HEIGHT="82"
+                          WIDTH="2638"
+                          VPOS="817"
+                          HPOS="858"
+                          CONTENT="gro Cerere perle sue burle. Et dal medesimo luogo fu detta Ravia Diana. Et scrivesi Rhario per spira¬"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="874,968 932,966 991,964 1049,962 1108,962 1166,960 1225,960 1283,958 1342,958 1400,958 1459,956 1517,956 1576,955 1634,954 1693,954 1751,952 1810,951 1868,950 1927,948 1985,945 2044,942"
+                         HEIGHT="87"
+                         WIDTH="1170"
+                         VPOS="901"
+                         HPOS="874">
+                  <String ID="string_r1l8"
+                          HEIGHT="87"
+                          WIDTH="1170"
+                          VPOS="901"
+                          HPOS="874"
+                          CONTENT="tione come, è detto piu oltre nell'altro suo luogo."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

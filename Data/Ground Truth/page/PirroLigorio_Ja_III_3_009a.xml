@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:34.516+01:00</Created>
+        <LastChange>2024-06-25T19:22:38.767+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902809" pageNr="17" tsid="174113546" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=YYHXPZDVOESEPJSUJTDHGWJA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYLBMRDSROTSRKAJCLDBFJNE" imageId="17873885"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_009a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337492609" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="930,302 891,4819 3616,4810 3611,324"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="980,439 1108,447 1237,454 1365,462 1494,468 1623,474 1751,479 1880,483 2008,487 2137,491 2266,494 2394,495 2523,497 2651,497 2780,497 2909,497 3037,495 3166,493 3294,491 3423,486 3552,481 3552,423 3423,428 3294,433 3166,435 3037,437 2909,439 2780,439 2651,439 2523,439 2394,437 2266,436 2137,433 2008,429 1880,425 1751,421 1623,416 1494,410 1365,404 1237,396 1108,389 980,381"/>
+                <Baseline points="980,420 1108,428 1237,435 1365,443 1494,449 1623,455 1751,460 1880,464 2008,468 2137,472 2266,475 2394,476 2523,478 2651,478 2780,478 2909,478 3037,476 3166,474 3294,472 3423,467 3552,462"/>
+                <TextEquiv>
+                    <Unicode>RAPHANEAE, è nome della citta detta ancho Raphaneas come la denomino il Scepsio, è picciola</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} unclear {offset:40; length:11;} Greek {offset:58; length:10;} unclear {offset:77; length:5;}">
+                <Coords points="1064,519 1186,526 1309,533 1432,540 1555,547 1678,554 1801,560 1924,567 2047,573 2170,578 2293,584 2415,589 2538,593 2661,597 2784,599 2907,603 3030,604 3153,605 3276,605 3399,605 3522,605 3522,547 3399,547 3276,547 3153,547 3030,546 2907,545 2784,541 2661,539 2538,535 2415,531 2293,526 2170,520 2047,515 1924,509 1801,502 1678,496 1555,489 1432,482 1309,475 1186,468 1064,461"/>
+                <Baseline points="1064,500 1186,507 1309,514 1432,521 1555,528 1678,535 1801,541 1924,548 2047,554 2170,559 2293,565 2415,570 2538,574 2661,578 2784,580 2907,584 3030,585 3153,586 3276,586 3399,586 3522,586"/>
+                <TextEquiv>
+                    <Unicode>citta della Syria. donde Stephano forma Raphaneotia, cosi ΡΑΦΑΝΕΩΤΗΣ come da Pelae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} unclear {offset:0; length:7;} Greek {offset:11; length:8;} unclear {offset:11; length:8;} Greek {offset:37; length:10;}">
+                <Coords points="1054,629 1178,629 1302,632 1426,637 1551,640 1675,645 1799,651 1924,658 2048,663 2172,670 2297,675 2421,681 2545,687 2669,692 2794,695 2918,699 3042,701 3167,701 3291,701 3415,698 3540,693 3540,635 3415,640 3291,643 3167,643 3042,643 2918,641 2794,637 2669,634 2545,629 2421,623 2297,617 2172,612 2048,605 1924,600 1799,593 1675,587 1551,582 1426,579 1302,574 1178,571 1054,571"/>
+                <Baseline points="1054,610 1178,610 1302,613 1426,618 1551,621 1675,626 1799,632 1924,639 2048,644 2172,651 2297,656 2421,662 2545,668 2669,673 2794,676 2918,680 3042,682 3167,682 3291,682 3415,679 3540,674"/>
+                <TextEquiv>
+                    <Unicode>Peliote, ò ΠΗΛΙΩΤΗΣ, et da Heraclea, ΗΡΑΚΛΕΩΤΗΣ, sicome è detto nelle Miscellanie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1044,715 1070,718 1096,719 1122,721 1148,721 1174,723 1200,723 1226,723 1253,725 1279,725 1305,725 1331,725 1357,725 1383,724 1409,723 1436,723 1436,671 1409,671 1383,672 1357,673 1331,673 1305,673 1279,673 1253,673 1226,671 1200,671 1174,671 1148,669 1122,669 1096,667 1070,666 1044,663"/>
+                <Baseline points="1044,698 1070,701 1096,702 1122,704 1148,704 1174,706 1200,706 1226,706 1253,708 1279,708 1305,708 1331,708 1357,708 1383,707 1409,706 1436,706"/>
+                <TextEquiv>
+                    <Unicode>delle Medaglie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="998,787 1111,791 1224,795 1338,797 1451,800 1565,803 1678,805 1791,807 1905,809 2018,812 2132,815 2245,818 2358,823 2472,827 2585,830 2699,836 2812,841 2925,847 3039,854 3152,863 3266,871 3266,819 3152,811 3039,802 2925,795 2812,789 2699,784 2585,778 2472,775 2358,771 2245,766 2132,763 2018,760 1905,757 1791,755 1678,753 1565,751 1451,748 1338,745 1224,743 1111,739 998,735"/>
+                <Baseline points="998,770 1111,774 1224,778 1338,780 1451,783 1565,786 1678,788 1791,790 1905,792 2018,795 2132,798 2245,801 2358,806 2472,810 2585,813 2699,819 2812,824 2925,830 3039,837 3152,846 3266,854"/>
+                <TextEquiv>
+                    <Unicode>RAPHANEA, è la sunominata citta nella Syria, ò Soria Regione secondo la scrive Ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} Greek {offset:13; length:6;}">
+                <Coords points="974,1471 1102,1477 1230,1483 1358,1487 1486,1491 1615,1495 1743,1497 1871,1499 1999,1501 2127,1503 2256,1503 2384,1503 2512,1503 2640,1503 2768,1502 2896,1501 3025,1499 3153,1498 3281,1497 3409,1495 3538,1493 3538,1435 3409,1437 3281,1439 3153,1440 3025,1441 2896,1443 2768,1444 2640,1445 2512,1445 2384,1445 2256,1445 2127,1445 1999,1443 1871,1441 1743,1439 1615,1437 1486,1433 1358,1429 1230,1425 1102,1419 974,1413"/>
+                <Baseline points="974,1452 1102,1458 1230,1464 1358,1468 1486,1472 1615,1476 1743,1478 1871,1480 1999,1482 2127,1484 2256,1484 2384,1484 2512,1484 2640,1484 2768,1483 2896,1482 3025,1480 3153,1479 3281,1478 3409,1476 3538,1474"/>
+                <TextEquiv>
+                    <Unicode>RAPHEIA, et, ΡΑΦΕΙΑ, è citta della Syria, et il nome gentile, secondo Stephano Raphiote, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} Greek {offset:33; length:8;}">
+                <Coords points="1050,1581 1162,1585 1274,1587 1386,1591 1498,1593 1611,1597 1723,1599 1835,1601 1947,1603 2059,1605 2172,1607 2284,1607 2396,1609 2508,1609 2620,1609 2733,1609 2845,1608 2957,1607 3069,1605 3181,1602 3294,1599 3294,1541 3181,1544 3069,1547 2957,1549 2845,1550 2733,1551 2620,1551 2508,1551 2396,1551 2284,1549 2172,1549 2059,1547 1947,1545 1835,1543 1723,1541 1611,1539 1498,1535 1386,1533 1274,1529 1162,1527 1050,1523"/>
+                <Baseline points="1050,1562 1162,1566 1274,1568 1386,1572 1498,1574 1611,1578 1723,1580 1835,1582 1947,1584 2059,1586 2172,1588 2284,1588 2396,1590 2508,1590 2620,1590 2733,1590 2845,1589 2957,1588 3069,1586 3181,1583 3294,1580"/>
+                <TextEquiv>
+                    <Unicode>questo modo nella lingua greca., ΡΑΦΙΩΤΗΣ, come disse Dionysio nella sua historia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1006,1684 1132,1688 1258,1692 1384,1694 1511,1697 1637,1698 1763,1700 1890,1702 2016,1704 2142,1704 2269,1706 2395,1706 2521,1706 2647,1706 2774,1706 2900,1706 3026,1706 3153,1706 3279,1704 3405,1704 3532,1704 3532,1649 3405,1649 3279,1649 3153,1651 3026,1651 2900,1651 2774,1651 2647,1651 2521,1651 2395,1651 2269,1651 2142,1649 2016,1649 1890,1647 1763,1645 1637,1643 1511,1642 1384,1639 1258,1637 1132,1633 1006,1629"/>
+                <Baseline points="1006,1666 1132,1670 1258,1674 1384,1676 1511,1679 1637,1680 1763,1682 1890,1684 2016,1686 2142,1686 2269,1688 2395,1688 2521,1688 2647,1688 2774,1688 2900,1688 3026,1688 3153,1688 3279,1686 3405,1686 3532,1686"/>
+                <TextEquiv>
+                    <Unicode>RAPHIA è città della Iudaea Palaestina, che fudetta Ramà. Come è detto piu disopra in Ramà: dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1102,1762 1137,1763 1173,1764 1208,1766 1244,1767 1279,1768 1315,1768 1350,1770 1386,1770 1421,1770 1457,1771 1492,1772 1528,1772 1563,1772 1599,1772 1634,1772 1670,1772 1705,1770 1741,1770 1776,1768 1812,1768 1812,1713 1776,1713 1741,1715 1705,1715 1670,1717 1634,1717 1599,1717 1563,1717 1528,1717 1492,1717 1457,1716 1421,1715 1386,1715 1350,1715 1315,1713 1279,1713 1244,1712 1208,1711 1173,1709 1137,1708 1102,1707"/>
+                <Baseline points="1102,1744 1137,1745 1173,1746 1208,1748 1244,1749 1279,1750 1315,1750 1350,1752 1386,1752 1421,1752 1457,1753 1492,1754 1528,1754 1563,1754 1599,1754 1634,1754 1670,1754 1705,1752 1741,1752 1776,1750 1812,1750"/>
+                <TextEquiv>
+                    <Unicode>quale Raphiaei et Ramaei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="938,2986 1065,2988 1192,2992 1320,2995 1447,2998 1575,3002 1702,3006 1829,3010 1957,3014 2084,3016 2212,3020 2339,3024 2466,3028 2594,3032 2721,3036 2849,3040 2976,3042 3103,3046 3231,3050 3358,3052 3486,3056 3486,3001 3358,2997 3231,2995 3103,2991 2976,2987 2849,2985 2721,2981 2594,2977 2466,2973 2339,2969 2212,2965 2084,2961 1957,2959 1829,2955 1702,2951 1575,2947 1447,2943 1320,2940 1192,2937 1065,2933 938,2931"/>
+                <Baseline points="938,2968 1065,2970 1192,2974 1320,2977 1447,2980 1575,2984 1702,2988 1829,2992 1957,2996 2084,2998 2212,3002 2339,3006 2466,3010 2594,3014 2721,3018 2849,3022 2976,3024 3103,3028 3231,3032 3358,3034 3486,3038"/>
+                <TextEquiv>
+                    <Unicode>RASALMA, è fiume della Mauretania nell'Africa gia dall'antichi chiamato Sala, donde i paesani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1016,3060 1042,3062 1069,3064 1096,3066 1123,3069 1150,3070 1176,3071 1203,3074 1230,3074 1257,3075 1284,3076 1310,3077 1337,3078 1364,3078 1391,3078 1418,3080 1444,3080 1471,3082 1498,3082 1525,3084 1552,3084 1552,3029 1525,3029 1498,3027 1471,3027 1444,3025 1418,3025 1391,3023 1364,3023 1337,3023 1310,3022 1284,3021 1257,3020 1230,3019 1203,3019 1176,3016 1150,3015 1123,3014 1096,3011 1069,3009 1042,3007 1016,3005"/>
+                <Baseline points="1016,3042 1042,3044 1069,3046 1096,3048 1123,3051 1150,3052 1176,3053 1203,3056 1230,3056 1257,3057 1284,3058 1310,3059 1337,3060 1364,3060 1391,3060 1418,3062 1444,3062 1471,3064 1498,3064 1525,3066 1552,3066"/>
+                <TextEquiv>
+                    <Unicode>Rasalmatei appellati.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="966,3225 1089,3227 1212,3229 1335,3231 1458,3231 1581,3233 1704,3235 1827,3237 1950,3239 2073,3241 2197,3243 2320,3247 2443,3249 2566,3253 2689,3255 2812,3259 2935,3264 3058,3268 3181,3273 3304,3279 3428,3285 3428,3233 3304,3227 3181,3221 3058,3216 2935,3212 2812,3207 2689,3203 2566,3201 2443,3197 2320,3195 2197,3191 2073,3189 1950,3187 1827,3185 1704,3183 1581,3181 1458,3179 1335,3179 1212,3177 1089,3175 966,3173"/>
+                <Baseline points="966,3208 1089,3210 1212,3212 1335,3214 1458,3214 1581,3216 1704,3218 1827,3220 1950,3222 2073,3224 2197,3226 2320,3230 2443,3232 2566,3236 2689,3238 2812,3242 2935,3247 3058,3251 3181,3256 3304,3262 3428,3268"/>
+                <TextEquiv>
+                    <Unicode>RASOCULMO, è voce vulgare, preso perlo promontorio di Sicilia gia chiamato dell'antichi Phalacro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1044,3299 1082,3300 1120,3301 1158,3301 1196,3301 1234,3303 1272,3303 1310,3303 1348,3303 1386,3303 1424,3303 1462,3303 1500,3303 1538,3303 1576,3303 1614,3303 1652,3303 1690,3301 1728,3301 1766,3301 1804,3299 1804,3247 1766,3249 1728,3249 1690,3249 1652,3251 1614,3251 1576,3251 1538,3251 1500,3251 1462,3251 1424,3251 1386,3251 1348,3251 1310,3251 1272,3251 1234,3251 1196,3249 1158,3249 1120,3249 1082,3248 1044,3247"/>
+                <Baseline points="1044,3282 1082,3283 1120,3284 1158,3284 1196,3284 1234,3286 1272,3286 1310,3286 1348,3286 1386,3286 1424,3286 1462,3286 1500,3286 1538,3286 1576,3286 1614,3286 1652,3286 1690,3284 1728,3284 1766,3284 1804,3282"/>
+                <TextEquiv>
+                    <Unicode>dall'essere bianco sassoso incima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} Greek {offset:11; length:7;}">
+                <Coords points="986,3393 1109,3391 1233,3389 1357,3389 1481,3389 1605,3389 1728,3390 1852,3391 1976,3395 2100,3397 2224,3399 2347,3403 2471,3407 2595,3412 2719,3417 2843,3422 2966,3428 3090,3433 3214,3439 3338,3445 3462,3451 3462,3393 3338,3387 3214,3381 3090,3375 2966,3370 2843,3364 2719,3359 2595,3354 2471,3349 2347,3345 2224,3341 2100,3339 1976,3337 1852,3333 1728,3332 1605,3331 1481,3331 1357,3331 1233,3331 1109,3333 986,3335"/>
+                <Baseline points="986,3374 1109,3372 1233,3370 1357,3370 1481,3370 1605,3370 1728,3371 1852,3372 1976,3376 2100,3378 2224,3380 2347,3384 2471,3388 2595,3393 2719,3398 2843,3403 2966,3409 3090,3414 3214,3420 3338,3426 3462,3432"/>
+                <TextEquiv>
+                    <Unicode>RASTIA, et ΡΑΣΤΕΙΑ, è antica città della Galatia come narra Ptolemaeo. et donde i populi si scrivono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} unclear {offset:0; length:8;}">
+                <Coords points="1048,3469 1073,3471 1099,3472 1125,3473 1151,3473 1177,3475 1203,3475 1229,3475 1255,3476 1281,3477 1307,3477 1332,3477 1358,3477 1384,3477 1410,3477 1436,3475 1462,3475 1488,3475 1514,3474 1540,3473 1566,3473 1566,3415 1540,3415 1514,3416 1488,3417 1462,3417 1436,3417 1410,3419 1384,3419 1358,3419 1332,3419 1307,3419 1281,3419 1255,3418 1229,3417 1203,3417 1177,3417 1151,3415 1125,3415 1099,3414 1073,3413 1048,3411"/>
+                <Baseline points="1048,3450 1073,3452 1099,3453 1125,3454 1151,3454 1177,3456 1203,3456 1229,3456 1255,3457 1281,3458 1307,3458 1332,3458 1358,3458 1384,3458 1410,3458 1436,3456 1462,3456 1488,3456 1514,3455 1540,3454 1594,3455"/>
+                <TextEquiv>
+                    <Unicode>Rastiaei, et Rastiaensi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} Greek {offset:16; length:11;}">
+                <Coords points="970,3653 1096,3653 1222,3654 1348,3655 1474,3657 1601,3659 1727,3661 1853,3664 1979,3667 2105,3671 2232,3673 2358,3678 2484,3683 2610,3687 2736,3691 2863,3696 2989,3701 3115,3707 3241,3713 3367,3718 3494,3725 3494,3668 3367,3661 3241,3656 3115,3650 2989,3644 2863,3639 2736,3634 2610,3630 2484,3626 2358,3621 2232,3616 2105,3614 1979,3610 1853,3607 1727,3604 1601,3602 1474,3600 1348,3598 1222,3597 1096,3596 970,3596"/>
+                <Baseline points="970,3634 1096,3634 1222,3635 1348,3636 1474,3638 1601,3640 1727,3642 1853,3645 1979,3648 2105,3652 2232,3654 2358,3659 2484,3664 2610,3668 2736,3672 2863,3677 2989,3682 3115,3688 3241,3694 3367,3699 3494,3706"/>
+                <TextEquiv>
+                    <Unicode>RATACENSII, et, ΡΑΤΑΚΕΝΣΙΟΙ, sono Populi della Dacia, come piace a Ptolemaeo. Detti gia da Ratace loro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1048,3731 1075,3731 1102,3731 1129,3730 1156,3729 1184,3727 1184,3669 1156,3671 1129,3672 1102,3673 1075,3673 1048,3673"/>
+                <Baseline points="1048,3712 1075,3712 1102,3712 1129,3711 1156,3710 1184,3708"/>
+                <TextEquiv>
+                    <Unicode>città.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} Greek {offset:19; length:8;}">
+                <Coords points="962,3969 1087,3967 1212,3967 1337,3967 1462,3967 1587,3969 1712,3970 1837,3973 1962,3976 2087,3979 2212,3983 2337,3988 2462,3993 2587,3999 2712,4004 2837,4011 2962,4017 3087,4024 3212,4030 3337,4037 3462,4045 3462,3994 3337,3986 3212,3979 3087,3973 2962,3966 2837,3960 2712,3953 2587,3948 2462,3942 2337,3937 2212,3932 2087,3928 1962,3925 1837,3922 1712,3919 1587,3918 1462,3916 1337,3916 1212,3916 1087,3916 962,3918"/>
+                <Baseline points="962,3952 1087,3950 1212,3950 1337,3950 1462,3950 1587,3952 1712,3953 1837,3956 1962,3959 2087,3962 2212,3966 2337,3971 2462,3976 2587,3982 2712,3987 2837,3994 2962,4000 3087,4007 3212,4013 3337,4020 3462,4028"/>
+                <TextEquiv>
+                    <Unicode>RATENIO, Ratenium, ΡΑΤΗΝΙΟΝ, è castello della Liburnia Regione, di cui singularmente scrive Pli¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1030,4031 1136,4031 1243,4031 1349,4033 1456,4035 1563,4037 1669,4041 1776,4043 1882,4047 1989,4050 2096,4054 2202,4059 2309,4063 2415,4069 2522,4074 2629,4080 2735,4086 2842,4093 2948,4099 3055,4105 3162,4113 3162,4062 3055,4054 2948,4048 2842,4042 2735,4035 2629,4029 2522,4023 2415,4018 2309,4012 2202,4008 2096,4003 1989,3999 1882,3996 1776,3992 1669,3990 1563,3986 1456,3984 1349,3982 1243,3980 1136,3980 1030,3980"/>
+                <Baseline points="1030,4014 1136,4014 1243,4014 1349,4016 1456,4018 1563,4020 1669,4024 1776,4026 1882,4030 1989,4033 2096,4037 2202,4042 2309,4046 2415,4052 2522,4057 2629,4063 2735,4069 2842,4076 2948,4082 3055,4088 3162,4096"/>
+                <TextEquiv>
+                    <Unicode>nio nel terzo libro al capo ventiduoi. donde s'ha da scrivere Ratenio, Ratenij lhabitatori.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} Greek {offset:21; length:9;}">
+                <Coords points="962,4219 1089,4217 1217,4215 1344,4213 1472,4211 1600,4211 1727,4213 1855,4213 1982,4215 2110,4218 2238,4221 2365,4225 2493,4230 2620,4235 2748,4241 2876,4246 3003,4253 3131,4261 3258,4268 3386,4276 3514,4285 3514,4227 3386,4218 3258,4210 3131,4203 3003,4195 2876,4188 2748,4183 2620,4177 2493,4172 2365,4167 2238,4163 2110,4160 1982,4157 1855,4155 1727,4155 1600,4153 1472,4153 1344,4155 1217,4157 1089,4159 962,4161"/>
+                <Baseline points="962,4200 1089,4198 1217,4196 1344,4194 1472,4192 1600,4192 1727,4194 1855,4194 1982,4196 2110,4199 2238,4202 2365,4206 2493,4211 2620,4216 2748,4222 2876,4227 3003,4234 3131,4242 3258,4249 3386,4257 3514,4266"/>
+                <TextEquiv>
+                    <Unicode>RATIASTO, Ratiastum; ΡΑΤΙΑΣΤΟΝ, è città nelli Pictoni populi nell'Aquitania, nominata da Ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1034,4289 1157,4289 1281,4289 1404,4291 1528,4293 1651,4297 1775,4301 1898,4307 2022,4311 2145,4317 2269,4323 2392,4327 2516,4333 2639,4340 2763,4345 2886,4352 3010,4357 3133,4363 3257,4367 3380,4371 3504,4375 3504,4329 3380,4325 3257,4321 3133,4317 3010,4311 2886,4306 2763,4299 2639,4294 2516,4287 2392,4281 2269,4277 2145,4271 2022,4265 1898,4261 1775,4255 1651,4251 1528,4247 1404,4245 1281,4243 1157,4243 1034,4243"/>
+                <Baseline points="1034,4278 1157,4278 1281,4278 1404,4280 1528,4282 1651,4286 1775,4290 1898,4296 2022,4300 2145,4306 2269,4312 2392,4316 2516,4322 2639,4329 2763,4334 2886,4341 3010,4346 3133,4352 3257,4356 3380,4360 3504,4364"/>
+                <TextEquiv>
+                    <Unicode>donde Ratiastonensij i populi. Come Rastiastona Pallade Iddea gia venerata nelluogo. comesi trova nella me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="1038,4353 1103,4355 1168,4357 1233,4361 1298,4363 1363,4367 1428,4370 1493,4375 1558,4377 1623,4382 1689,4385 1754,4391 1819,4393 1884,4398 1949,4401 2014,4405 2079,4409 2144,4413 2209,4415 2274,4419 2340,4421 2340,4375 2274,4373 2209,4369 2144,4367 2079,4363 2014,4359 1949,4355 1884,4352 1819,4347 1754,4345 1689,4339 1623,4336 1558,4331 1493,4329 1428,4324 1363,4321 1298,4317 1233,4315 1168,4311 1103,4309 1038,4307"/>
+                <Baseline points="1038,4338 1103,4340 1168,4342 1233,4346 1298,4348 1363,4352 1428,4355 1493,4360 1558,4362 1623,4367 1689,4370 1754,4376 1819,4378 1884,4383 1949,4386 2014,4390 2079,4394 2144,4398 2209,4400 2274,4404 2340,4406"/>
+                <TextEquiv>
+                    <Unicode>daglia Municipale, con essa Dea et il Bove con l'altare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;} unclear {offset:111; length:7;}">
+                <Coords points="984,4427 1111,4436 1239,4447 1367,4455 1494,4463 1622,4470 1750,4478 1877,4484 2005,4491 2133,4498 2261,4504 2388,4510 2516,4516 2644,4523 2771,4529 2899,4535 3027,4541 3154,4549 3282,4555 3410,4563 3538,4571 3538,4514 3410,4506 3282,4498 3154,4492 3027,4484 2899,4478 2771,4472 2644,4466 2516,4459 2388,4453 2261,4447 2133,4441 2005,4434 1877,4427 1750,4421 1622,4413 1494,4406 1367,4398 1239,4390 1111,4379 984,4370"/>
+                <Baseline points="984,4408 1111,4417 1239,4428 1367,4436 1494,4444 1622,4451 1750,4459 1877,4465 2005,4472 2133,4479 2261,4485 2388,4491 2516,4497 2644,4504 2771,4510 2899,4516 3027,4522 3154,4530 3282,4536 3410,4544 3538,4552"/>
+                <TextEquiv>
+                    <Unicode>RATIO, Rationis, ò vogliamo dire la Ragione. L'antichi dipignevano una bella Donna vestita di stola sottile et candida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="1028,4521 1152,4529 1277,4538 1402,4547 1527,4554 1652,4561 1777,4569 1902,4576 2027,4581 2152,4589 2277,4594 2401,4600 2526,4605 2651,4611 2776,4617 2901,4623 3026,4627 3151,4633 3276,4637 3401,4642 3526,4647 3526,4590 3401,4585 3276,4580 3151,4576 3026,4570 2901,4566 2776,4560 2651,4554 2526,4548 2401,4543 2277,4537 2152,4532 2027,4524 1902,4519 1777,4512 1652,4504 1527,4497 1402,4490 1277,4481 1152,4472 1028,4464"/>
+                <Baseline points="1028,4502 1152,4510 1277,4519 1402,4528 1527,4535 1652,4542 1777,4550 1902,4557 2027,4562 2152,4570 2277,4575 2401,4581 2526,4586 2651,4592 2776,4598 2901,4604 3026,4608 3151,4614 3276,4618 3401,4623 3526,4628"/>
+                <TextEquiv>
+                    <Unicode>trasparente conl a castula vesticciola corta sopra alla stola col Mantelletto Azzurro dalla destra tiene una Tazza con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="1036,4623 1158,4629 1281,4635 1404,4641 1527,4647 1650,4653 1772,4659 1895,4664 2018,4669 2141,4675 2264,4679 2386,4685 2509,4689 2632,4694 2755,4699 2878,4705 3000,4709 3123,4713 3246,4720 3369,4724 3492,4729 3492,4672 3369,4667 3246,4663 3123,4656 3000,4652 2878,4648 2755,4642 2632,4637 2509,4632 2386,4628 2264,4622 2141,4618 2018,4612 1895,4607 1772,4602 1650,4596 1527,4590 1404,4584 1281,4578 1158,4572 1036,4566"/>
+                <Baseline points="1036,4604 1158,4610 1281,4616 1404,4622 1527,4628 1650,4634 1772,4640 1895,4645 2018,4650 2141,4656 2264,4660 2386,4666 2509,4670 2632,4675 2755,4680 2878,4686 3000,4690 3123,4694 3246,4701 3369,4705 3492,4710"/>
+                <TextEquiv>
+                    <Unicode>una lingua humana sopra la quale una limma, per le cose bene rationate et limmate, dalla sinistra tiene una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="1014,4709 1091,4709 1169,4711 1247,4714 1325,4716 1403,4719 1481,4723 1559,4727 1637,4730 1715,4735 1793,4739 1870,4743 1948,4749 2026,4753 2104,4758 2182,4762 2260,4766 2338,4769 2416,4774 2494,4778 2572,4781 2572,4724 2494,4721 2416,4717 2338,4712 2260,4709 2182,4705 2104,4701 2026,4696 1948,4692 1870,4686 1793,4682 1715,4678 1637,4673 1559,4670 1481,4666 1403,4662 1325,4659 1247,4657 1169,4654 1091,4652 1014,4652"/>
+                <Baseline points="1014,4690 1091,4690 1169,4692 1247,4695 1325,4697 1403,4700 1481,4704 1559,4708 1637,4711 1715,4716 1793,4720 1870,4724 1948,4730 2026,4734 2104,4739 2182,4743 2260,4747 2338,4750 2416,4755 2494,4759 2572,4762"/>
+                <TextEquiv>
+                    <Unicode>scure ò bipenne accetta da due tagli ch'è della iustitia instrumento.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAPHANEAE, è nome della citta detta ancho Raphaneas come la denomino il Scepsio, è picciola
+citta della Syria. donde Stephano forma Raphaneotia, cosi ΡΑΦΑΝΕΩΤΗΣ come da Pelae
+Peliote, ò ΠΗΛΙΩΤΗΣ, et da Heraclea, ΗΡΑΚΛΕΩΤΗΣ, sicome è detto nelle Miscellanie
+delle Medaglie.
+RAPHANEA, è la sunominata citta nella Syria, ò Soria Regione secondo la scrive Ptolemaeo.
+RAPHEIA, et, ΡΑΦΕΙΑ, è citta della Syria, et il nome gentile, secondo Stephano Raphiote, in
+questo modo nella lingua greca., ΡΑΦΙΩΤΗΣ, come disse Dionysio nella sua historia.
+RAPHIA è città della Iudaea Palaestina, che fudetta Ramà. Come è detto piu disopra in Ramà: dalla
+quale Raphiaei et Ramaei.
+RASALMA, è fiume della Mauretania nell'Africa gia dall'antichi chiamato Sala, donde i paesani
+Rasalmatei appellati.
+RASOCULMO, è voce vulgare, preso perlo promontorio di Sicilia gia chiamato dell'antichi Phalacro.
+dall'essere bianco sassoso incima
+RASTIA, et ΡΑΣΤΕΙΑ, è antica città della Galatia come narra Ptolemaeo. et donde i populi si scrivono
+Rastiaei, et Rastiaensi.
+RATACENSII, et, ΡΑΤΑΚΕΝΣΙΟΙ, sono Populi della Dacia, come piace a Ptolemaeo. Detti gia da Ratace loro
+città.
+RATENIO, Ratenium, ΡΑΤΗΝΙΟΝ, è castello della Liburnia Regione, di cui singularmente scrive Pli¬
+nio nel terzo libro al capo ventiduoi. donde s'ha da scrivere Ratenio, Ratenij lhabitatori.
+RATIASTO, Ratiastum; ΡΑΤΙΑΣΤΟΝ, è città nelli Pictoni populi nell'Aquitania, nominata da Ptolemaeo.
+donde Ratiastonensij i populi. Come Rastiastona Pallade Iddea gia venerata nelluogo. comesi trova nella me¬
+daglia Municipale, con essa Dea et il Bove con l'altare.
+RATIO, Rationis, ò vogliamo dire la Ragione. L'antichi dipignevano una bella Donna vestita di stola sottile et candida
+trasparente conl a castula vesticciola corta sopra alla stola col Mantelletto Azzurro dalla destra tiene una Tazza con
+una lingua humana sopra la quale una limma, per le cose bene rationate et limmate, dalla sinistra tiene una
+scure ò bipenne accetta da due tagli ch'è della iustitia instrumento.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:35.211+01:00</Created>
+        <LastChange>2023-01-07T16:39:15.439+01:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902829" pageNr="30" tsid="108717118" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=HWALFCVKAQBSWJQGHRUWYBPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIDXVRVTDNIQCHSAVAHGNRWD" imageId="17873898"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_015b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337495337" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643802778197_1070"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1663341733756_183"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1663341721793_175"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1639758514969_887"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643802778197_1070" custom="readingOrder {index:0;}">
+            <Coords points="2997,154 3406,147 3406,318 2997,324"/>
+            <TextLine id="line_1639758572113_898" custom="readingOrder {index:0;}">
+                <Coords points="3053,211 3175,211 3175,261 3053,261"/>
+                <Baseline points="3053,229 3175,229"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1639758576876_903" custom="readingOrder {index:1;}">
+                <Coords points="3194,237 3300,232 3302,282 3196,287"/>
+                <Baseline points="3196,282 3302,277"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>18
+15</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1663341733756_183" custom="readingOrder {index:1;}">
+            <Coords points="80,2881 289,2881 289,3024 77,3024"/>
+            <TextLine id="line_1652883063693_211" custom="readingOrder {index:0;} unclear {offset:0; length:1;}">
+                <Coords points="192,2894 211,2894 211,2944 192,2944"/>
+                <Baseline points="192,2939 211,2939"/>
+                <TextEquiv>
+                    <Unicode>c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1673105402530_125" custom="readingOrder {index:1;}">
+                <Coords points="206,2919 251,2920 259,2952 251,2970 244,2974 217,2983 111,2991 98,2943 155,2927"/>
+                <Baseline points="110,2986 164,2971 212,2964 215,2963 219,2979 240,2971 240,2965 251,2965"/>
+                <TextEquiv>
+                    <Unicode>P•I on•3•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>c
+P•I on•3•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1663341721793_175" custom="readingOrder {index:2;}">
+            <Coords points="821,3645 1211,3645 1211,3748 821,3756"/>
+            <TextLine id="r3l2" custom="readingOrder {index:0;}">
+                <Coords points="856,3753 881,3753 906,3754 931,3755 956,3755 981,3755 1006,3755 1031,3755 1056,3755 1081,3755 1106,3754 1131,3752 1156,3749 1156,3691 1131,3694 1106,3696 1081,3697 1056,3697 1031,3697 1006,3697 981,3697 956,3697 931,3697 906,3696 881,3695 856,3695"/>
+                <Baseline points="860,3740 885,3740 910,3741 935,3742 960,3742 985,3742 1010,3742 1035,3742 1060,3742 1085,3742 1110,3741 1135,3739 1160,3736"/>
+                <TextEquiv>
+                    <Unicode>Piedi • X̄I•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi • X̄I•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639758514969_887" custom="readingOrder {index:3;}">
+            <Coords points="170,3776 3369,3719 3371,4672 178,4715"/>
+            <TextLine id="r3l3" custom="readingOrder {index:0;}">
+                <Coords points="414,3883 536,3870 659,3860 782,3849 905,3841 1028,3835 1151,3829 1274,3825 1397,3821 1520,3819 1643,3817 1765,3817 1888,3815 2011,3815 2134,3815 2257,3813 2380,3813 2503,3811 2626,3809 2749,3807 2872,3805 2872,3747 2749,3749 2626,3751 2503,3753 2380,3755 2257,3755 2134,3757 2011,3757 1888,3757 1765,3759 1643,3759 1520,3761 1397,3763 1274,3767 1151,3771 1028,3777 905,3783 782,3791 659,3802 536,3812 414,3825"/>
+                <Baseline points="414,3864 536,3851 659,3841 782,3830 905,3822 1028,3816 1151,3810 1274,3806 1397,3802 1520,3800 1643,3798 1765,3798 1888,3796 2011,3796 2134,3796 2257,3794 2380,3794 2503,3792 2626,3790 2749,3788 2872,3786"/>
+                <TextEquiv>
+                    <Unicode>Cosi similimente si vede nella colonia Ariminense in Arimino, ove sono sculpiti gli iddij Tutelari d'essa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:1;} unclear {offset:83; length:5;}">
+                <Coords points="424,3968 544,3956 665,3945 786,3934 907,3926 1028,3920 1149,3914 1270,3908 1391,3904 1512,3901 1633,3898 1753,3896 1874,3894 1995,3894 2116,3892 2237,3892 2358,3890 2479,3890 2600,3890 2721,3888 2842,3886 2842,3826 2721,3828 2600,3830 2479,3830 2358,3830 2237,3832 2116,3832 1995,3834 1874,3834 1753,3836 1633,3838 1512,3841 1391,3844 1270,3848 1149,3854 1028,3860 907,3866 786,3874 665,3885 544,3896 424,3908"/>
+                <Baseline points="424,3948 544,3936 665,3925 786,3914 907,3906 1028,3900 1149,3894 1270,3888 1391,3884 1512,3881 1633,3878 1753,3876 1874,3874 1995,3874 2116,3872 2237,3872 2358,3870 2479,3870 2600,3870 2721,3868 2842,3866"/>
+                <TextEquiv>
+                    <Unicode>città. Iove et Iunione dentro quelli Rotondi luoghi. Cosi nell'antiche medaglie le porte delle colonie doppie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:2;}">
+                <Coords points="416,4050 538,4040 661,4031 783,4022 906,4015 1029,4007 1151,4001 1274,3996 1396,3990 1519,3986 1642,3983 1764,3980 1887,3977 2009,3974 2132,3973 2255,3972 2377,3970 2500,3970 2622,3970 2745,3970 2868,3970 2868,3910 2745,3910 2622,3910 2500,3910 2377,3910 2255,3912 2132,3913 2009,3914 1887,3917 1764,3920 1642,3923 1519,3926 1396,3930 1274,3936 1151,3941 1029,3947 906,3955 783,3962 661,3971 538,3980 416,3990"/>
+                <Baseline points="416,4030 538,4020 661,4011 783,4002 906,3995 1029,3987 1151,3981 1274,3976 1396,3970 1519,3966 1642,3963 1764,3960 1887,3957 2009,3954 2132,3953 2255,3952 2377,3950 2500,3950 2622,3950 2745,3950 2868,3950"/>
+                <TextEquiv>
+                    <Unicode>si vegono, onde il simile, è di queste della Nobilissima Ravenna. dove doveano essere, nelli Vani di quelli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:3;}">
+                <Coords points="440,4134 561,4128 683,4124 805,4118 927,4112 1049,4106 1170,4098 1292,4094 1414,4087 1536,4080 1658,4075 1779,4070 1901,4065 2023,4062 2145,4058 2267,4054 2388,4052 2510,4052 2632,4052 2754,4053 2876,4056 2876,3996 2754,3993 2632,3992 2510,3992 2388,3992 2267,3994 2145,3998 2023,4002 1901,4005 1779,4010 1658,4015 1536,4020 1414,4027 1292,4034 1170,4038 1049,4046 927,4052 805,4058 683,4064 561,4068 440,4074"/>
+                <Baseline points="440,4114 561,4108 683,4104 805,4098 927,4092 1049,4086 1170,4078 1292,4074 1414,4067 1536,4060 1658,4055 1779,4050 1901,4045 2023,4042 2145,4038 2267,4034 2388,4032 2510,4032 2632,4032 2754,4033 2876,4036"/>
+                <TextEquiv>
+                    <Unicode>Tondi l'effigie d'Hercole et di Diana Tutelari della città, come dall'altra parte di dentro, vi dovea essere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:4;}">
+                <Coords points="422,4238 545,4234 668,4230 792,4224 915,4217 1039,4211 1162,4204 1285,4198 1409,4191 1532,4184 1656,4177 1779,4170 1902,4165 2026,4160 2149,4155 2273,4150 2396,4147 2519,4145 2643,4144 2766,4144 2890,4144 2890,4084 2766,4084 2643,4084 2519,4085 2396,4087 2273,4090 2149,4095 2026,4100 1902,4105 1779,4110 1656,4117 1532,4124 1409,4131 1285,4138 1162,4144 1039,4151 915,4157 792,4164 668,4170 545,4174 422,4178"/>
+                <Baseline points="422,4218 545,4214 668,4210 792,4204 915,4197 1039,4191 1162,4184 1285,4178 1409,4171 1532,4164 1656,4157 1779,4150 1902,4145 2026,4140 2149,4135 2273,4130 2396,4127 2519,4125 2643,4124 2766,4124 2890,4124"/>
+                <TextEquiv>
+                    <Unicode>Iove et Neptuno, et non vi erano altramente quelli specchi chelvulgo dice esservi stati posti, che sono sugget¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:5;}">
+                <Coords points="424,4326 548,4324 672,4322 796,4318 920,4314 1044,4309 1168,4304 1292,4298 1416,4291 1540,4284 1664,4278 1788,4271 1912,4266 2036,4260 2160,4254 2284,4250 2408,4246 2532,4244 2656,4242 2780,4242 2904,4244 2904,4184 2780,4182 2656,4182 2532,4184 2408,4186 2284,4190 2160,4194 2036,4200 1912,4206 1788,4211 1664,4218 1540,4224 1416,4231 1292,4238 1168,4244 1044,4249 920,4254 796,4258 672,4262 548,4264 424,4266"/>
+                <Baseline points="424,4306 548,4304 672,4302 796,4298 920,4294 1044,4289 1168,4284 1292,4278 1416,4271 1540,4264 1664,4258 1788,4251 1912,4246 2036,4240 2160,4234 2284,4230 2408,4226 2532,4224 2656,4222 2780,4222 2904,4224"/>
+                <TextEquiv>
+                    <Unicode>ti senza proposito. Dovea de Iure bello sulla sommita d'essa porta ornamenti Triomphali, segni di qua¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:6;}">
+                <Coords points="424,4420 547,4422 670,4422 793,4420 916,4418 1040,4413 1163,4407 1286,4402 1409,4394 1532,4388 1656,4380 1779,4371 1902,4363 2025,4357 2148,4351 2272,4345 2395,4341 2518,4338 2641,4338 2764,4338 2888,4340 2888,4280 2764,4278 2641,4278 2518,4278 2395,4281 2272,4285 2148,4291 2025,4297 1902,4303 1779,4311 1656,4320 1532,4328 1409,4334 1286,4342 1163,4347 1040,4353 916,4358 793,4360 670,4362 547,4362 424,4360"/>
+                <Baseline points="424,4400 547,4402 670,4402 793,4400 916,4398 1040,4393 1163,4387 1286,4382 1409,4374 1532,4368 1656,4360 1779,4351 1902,4343 2025,4337 2148,4331 2272,4325 2395,4321 2518,4318 2641,4318 2764,4318 2888,4320"/>
+                <TextEquiv>
+                    <Unicode>drighe, di Trophei et della Vittoria; de Germani debellati et de Brittanni, sogiogati: secondo si puote giu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:7;}">
+                <Coords points="408,4519 531,4518 654,4515 777,4513 900,4508 1023,4503 1146,4498 1269,4491 1392,4485 1515,4478 1638,4472 1761,4465 1884,4459 2007,4453 2130,4447 2253,4442 2376,4437 2499,4433 2622,4431 2745,4429 2868,4427 2868,4375 2745,4377 2622,4379 2499,4381 2376,4385 2253,4390 2130,4395 2007,4401 1884,4407 1761,4413 1638,4420 1515,4426 1392,4433 1269,4439 1146,4446 1023,4451 900,4456 777,4461 654,4463 531,4466 408,4467"/>
+                <Baseline points="408,4502 531,4501 654,4498 777,4496 900,4491 1023,4486 1146,4481 1269,4474 1392,4468 1515,4461 1638,4455 1761,4448 1884,4442 2007,4436 2130,4430 2253,4425 2376,4420 2499,4416 2622,4414 2745,4412 2868,4410"/>
+                <TextEquiv>
+                    <Unicode>stamente credere. Come simili cose veggiamo nell'antiche medaglie di Domitiano conla Triomphale porta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:8;}">
+                <Coords points="424,4611 546,4607 668,4603 790,4599 913,4595 1035,4590 1157,4585 1280,4581 1402,4577 1524,4572 1647,4566 1769,4561 1891,4555 2013,4550 2136,4543 2258,4538 2380,4530 2503,4522 2625,4515 2747,4507 2870,4497 2870,4445 2747,4455 2625,4463 2503,4470 2380,4478 2258,4486 2136,4491 2013,4498 1891,4503 1769,4509 1647,4514 1524,4520 1402,4525 1280,4529 1157,4533 1035,4538 913,4543 790,4547 668,4551 546,4555 424,4559"/>
+                <Baseline points="424,4594 546,4590 668,4586 790,4582 913,4578 1035,4573 1157,4568 1280,4564 1402,4560 1524,4555 1647,4549 1769,4544 1891,4538 2013,4533 2136,4526 2258,4521 2380,4513 2503,4505 2625,4498 2747,4490 2870,4480"/>
+                <TextEquiv>
+                    <Unicode>quadrifronte, della Vittoria Germanica, in Troiano, con doppij carri guidati dalla Vittoria: et con carri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:9;}">
+                <Coords points="420,4704 545,4698 671,4692 797,4685 923,4680 1049,4674 1175,4668 1301,4664 1427,4659 1553,4654 1679,4648 1804,4644 1930,4638 2056,4634 2182,4627 2308,4622 2434,4614 2560,4608 2686,4601 2812,4593 2938,4584 2938,4524 2812,4533 2686,4541 2560,4548 2434,4554 2308,4562 2182,4567 2056,4574 1930,4578 1804,4584 1679,4588 1553,4594 1427,4599 1301,4604 1175,4608 1049,4614 923,4620 797,4625 671,4632 545,4638 420,4644"/>
+                <Baseline points="420,4684 545,4678 671,4672 797,4665 923,4660 1049,4654 1175,4648 1301,4644 1427,4639 1553,4634 1679,4628 1804,4624 1930,4618 2056,4614 2182,4607 2308,4602 2434,4594 2560,4588 2686,4581 2812,4573 2938,4564"/>
+                <TextEquiv>
+                    <Unicode>tirati da Elephanti, quelli di Domitiano, et da cavalli Tirato il carro di Traiano: et cosi similmente crede¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cosi similimente si vede nella colonia Ariminense in Arimino, ove sono sculpiti gli iddij Tutelari d'essa
+città. Iove et Iunione dentro quelli Rotondi luoghi. Cosi nell'antiche medaglie le porte delle colonie doppie
+si vegono, onde il simile, è di queste della Nobilissima Ravenna. dove doveano essere, nelli Vani di quelli
+Tondi l'effigie d'Hercole et di Diana Tutelari della città, come dall'altra parte di dentro, vi dovea essere
+Iove et Neptuno, et non vi erano altramente quelli specchi chelvulgo dice esservi stati posti, che sono sugget¬
+ti senza proposito. Dovea de Iure bello sulla sommita d'essa porta ornamenti Triomphali, segni di qua¬
+drighe, di Trophei et della Vittoria; de Germani debellati et de Brittanni, sogiogati: secondo si puote giu
+stamente credere. Come simili cose veggiamo nell'antiche medaglie di Domitiano conla Triomphale porta
+quadrifronte, della Vittoria Germanica, in Troiano, con doppij carri guidati dalla Vittoria: et con carri
+tirati da Elephanti, quelli di Domitiano, et da cavalli Tirato il carro di Traiano: et cosi similmente crede¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

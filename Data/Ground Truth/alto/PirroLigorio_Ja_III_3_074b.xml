@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_074b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:13.79+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r3" HEIGHT="296" WIDTH="116" VPOS="78" HPOS="3104">
+               <Shape>
+                  <Polygon POINTS="3104,78 3104,374 3220,374 3220,78"/>
+               </Shape>
+               <TextLine ID="r3l1"
+                         BASELINE="3124,168 3156,165 3188,162 3220,160"
+                         HEIGHT="104"
+                         WIDTH="136"
+                         VPOS="107"
+                         HPOS="3104">
+                  <String ID="string_r3l1"
+                          HEIGHT="104"
+                          WIDTH="136"
+                          VPOS="107"
+                          HPOS="3104"
+                          CONTENT="77"/>
+               </TextLine>
+               <TextLine ID="r3l2"
+                         BASELINE="3104,332 3133,333 3162,331 3192,332"
+                         HEIGHT="127"
+                         WIDTH="120"
+                         VPOS="245"
+                         HPOS="3087">
+                  <String ID="string_r3l2"
+                          HEIGHT="127"
+                          WIDTH="120"
+                          VPOS="245"
+                          HPOS="3087"
+                          CONTENT="74"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760092998_1911"
+                       HEIGHT="715"
+                       WIDTH="2720"
+                       VPOS="145"
+                       HPOS="336">
+               <Shape>
+                  <Polygon POINTS="336,145 3056,145 3056,860 1263,860 1216,635 336,649"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1284,202 1309,200 1334,199 1359,196 1384,196 1409,194 1434,193 1459,191 1484,190 1509,189 1534,186 1559,185 1584,183 1609,181 1634,178 1660,176"
+                         HEIGHT="127"
+                         WIDTH="412"
+                         VPOS="116"
+                         HPOS="1265">
+                  <String ID="string_r1l1"
+                          HEIGHT="127"
+                          WIDTH="412"
+                          VPOS="116"
+                          HPOS="1265"
+                          CONTENT="DI ROMA."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="336,440 461,438 586,434 712,431 837,427 963,424 1088,420 1213,416 1339,412 1464,408 1590,402 1715,398 1840,394 1966,390 2091,384 2217,379 2342,375 2467,370 2593,366 2718,362 2844,356"
+                         HEIGHT="209"
+                         WIDTH="2542"
+                         VPOS="282"
+                         HPOS="317">
+                  <String ID="string_r1l2"
+                          HEIGHT="209"
+                          WIDTH="2542"
+                          VPOS="282"
+                          HPOS="317"
+                          CONTENT="Questa sententia scritta in Marmo, è condutta in Roma. Laquale Fu nella Via Campana, et si trova nella"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="380,520 505,520 630,520 755,519 880,516 1005,514 1130,512 1255,508 1380,504 1505,500 1630,496 1755,491 1880,487 2005,483 2130,478 2255,476 2380,472 2505,468 2630,466 2755,464 2880,464"
+                         HEIGHT="176"
+                         WIDTH="2533"
+                         VPOS="363"
+                         HPOS="364">
+                  <String ID="string_r1l3"
+                          HEIGHT="176"
+                          WIDTH="2533"
+                          VPOS="363"
+                          HPOS="364"
+                          CONTENT="casa di Delphini. L'altra è nella chiesa di Sanpaulo in via Ostiense quivi presso trovata: che fu nel mo"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1320,600 1396,600 1473,598 1549,595 1626,592 1702,590 1779,587 1855,584 1932,581 2008,578 2085,575 2161,572 2238,568 2314,566 2391,564 2467,562 2544,559 2620,557 2697,556 2773,556 2850,554"
+                         HEIGHT="140"
+                         WIDTH="1564"
+                         VPOS="484"
+                         HPOS="1302">
+                  <String ID="string_r1l4"
+                          HEIGHT="140"
+                          WIDTH="1564"
+                          VPOS="484"
+                          HPOS="1302"
+                          CONTENT="numento di Marco Aurelio Asclepiodoto liberto de duoi imperadori"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="1322,686 1400,686 1478,686 1556,684 1634,682 1712,680 1790,677 1868,674 1946,672 2024,668 2102,666 2180,663 2258,660 2336,658 2414,656 2492,654 2570,654 2648,652 2726,652 2804,654 2882,656"
+                         HEIGHT="164"
+                         WIDTH="1592"
+                         VPOS="570"
+                         HPOS="1306">
+                  <String ID="string_r1l5"
+                          HEIGHT="164"
+                          WIDTH="1592"
+                          VPOS="570"
+                          HPOS="1306"
+                          CONTENT="di Marco Aurelio et di Lucio Vero. et il terzo nella Via Ardeatina"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1324,796 1401,794 1479,793 1557,792 1635,789 1713,787 1790,784 1868,782 1946,780 2024,778 2102,776 2179,774 2257,772 2335,770 2413,768 2491,767 2568,766 2646,766 2724,764 2802,764 2880,766"
+                         HEIGHT="149"
+                         WIDTH="1589"
+                         VPOS="684"
+                         HPOS="1306">
+                  <String ID="string_r1l7"
+                          HEIGHT="149"
+                          WIDTH="1589"
+                          VPOS="684"
+                          HPOS="1306"
+                          CONTENT="che fù nel monumento di Lucio Ovinio Tudetano: et la colonna nella Via"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="2604,846 2632,844 2660,843 2688,842 2716,843 2744,844 2772,846"
+                         HEIGHT="106"
+                         WIDTH="201"
+                         VPOS="775"
+                         HPOS="2587">
+                  <String ID="string_r1l9"
+                          HEIGHT="106"
+                          WIDTH="201"
+                          VPOS="775"
+                          HPOS="2587"
+                          CONTENT="Appia"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760109433_1920"
+                       HEIGHT="2357"
+                       WIDTH="915"
+                       VPOS="635"
+                       HPOS="336">
+               <Shape>
+                  <Polygon POINTS="336,649 1216,635 1251,802 1251,2992 336,2992"/>
+               </Shape>
+               <TextLine ID="r1l6"
+                         BASELINE="604,759 629,757 655,755 680,755 706,755 731,755 757,754 782,753 808,751"
+                         HEIGHT="116"
+                         WIDTH="237"
+                         VPOS="659"
+                         HPOS="586">
+                  <String ID="string_r1l6"
+                          HEIGHT="116"
+                          WIDTH="237"
+                          VPOS="659"
+                          HPOS="586"
+                          CONTENT="HVIC"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="380,824 418,824 456,826 494,826 532,826 570,825 608,824 646,823 684,822 722,821 761,820 799,818 837,816 875,814 913,814 951,812 989,811 1027,810 1065,810 1103,810 1169,815"
+                         HEIGHT="132"
+                         WIDTH="820"
+                         VPOS="732"
+                         HPOS="364">
+                  <String ID="string_r1l8"
+                          HEIGHT="132"
+                          WIDTH="820"
+                          VPOS="732"
+                          HPOS="364"
+                          CONTENT="MONVMENTO ITER"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="390,906 429,907 469,908 509,908 548,908 588,908 628,908 667,908 707,906 747,906 787,904 826,904 866,904 906,902 945,901 985,900 1025,899 1064,898 1104,898 1144,898 1184,896"
+                         HEIGHT="140"
+                         WIDTH="826"
+                         VPOS="810"
+                         HPOS="374">
+                  <String ID="string_r1l10"
+                          HEIGHT="140"
+                          WIDTH="826"
+                          VPOS="810"
+                          HPOS="374"
+                          CONTENT="ADITVS•AMBITVS•DEBETVR"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="382,990 422,991 462,993 503,994 543,994 584,996 624,996 664,996 705,996 745,994 786,994 826,994 866,992 907,992 947,990 988,990 1028,988 1068,986 1109,985 1149,984 1211,984"
+                         HEIGHT="133"
+                         WIDTH="860"
+                         VPOS="904"
+                         HPOS="366">
+                  <String ID="string_r1l12"
+                          HEIGHT="133"
+                          WIDTH="860"
+                          VPOS="904"
+                          HPOS="366"
+                          CONTENT="EX•SENTENTIA•EROTIS•AVG•L"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="392,1076 430,1081 469,1085 508,1089 546,1090 585,1092 624,1092 662,1094 701,1092 740,1092 779,1090 817,1089 856,1088 895,1086 933,1084 972,1084 1011,1082 1049,1080 1088,1080 1127,1080 1166,1080"
+                         HEIGHT="145"
+                         WIDTH="804"
+                         VPOS="993"
+                         HPOS="377">
+                  <String ID="string_r1l14"
+                          HEIGHT="145"
+                          WIDTH="804"
+                          VPOS="993"
+                          HPOS="377"
+                          CONTENT="IVDICIS•A•VIA•CAMPANA"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="402,1178 441,1179 481,1182 521,1184 561,1185 601,1186 641,1187 681,1188 721,1188 761,1188 801,1187 840,1186 880,1186 920,1186 960,1184 1000,1184 1040,1183 1080,1182 1120,1182 1160,1181 1200,1180"
+                         HEIGHT="139"
+                         WIDTH="828"
+                         VPOS="1090"
+                         HPOS="387">
+                  <String ID="string_r1l17"
+                          HEIGHT="139"
+                          WIDTH="828"
+                          VPOS="1090"
+                          HPOS="387"
+                          CONTENT="PVBLICA•DEXTRORSVS•INTER"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="404,1278 442,1280 480,1280 518,1282 556,1282 594,1282 632,1282 670,1282 708,1280 746,1280 784,1280 822,1280 860,1279 898,1278 936,1278 974,1278 1012,1278 1050,1278 1088,1278 1126,1278 1164,1278"
+                         HEIGHT="123"
+                         WIDTH="791"
+                         VPOS="1202"
+                         HPOS="389">
+                  <String ID="string_r1l20"
+                          HEIGHT="123"
+                          WIDTH="791"
+                          VPOS="1202"
+                          HPOS="389"
+                          CONTENT="MACERIAM•CALAMINAM"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="400,1388 439,1386 478,1384 518,1382 557,1380 597,1380 636,1378 675,1378 715,1378 754,1378 794,1378 833,1378 872,1378 912,1378 951,1378 991,1377 1030,1376 1069,1376 1109,1376 1148,1376 1188,1376"
+                         HEIGHT="129"
+                         WIDTH="819"
+                         VPOS="1294"
+                         HPOS="385">
+                  <String ID="string_r1l24"
+                          HEIGHT="129"
+                          WIDTH="819"
+                          VPOS="1294"
+                          HPOS="385"
+                          CONTENT="ET•INSVLAM•EVCARPIANAM"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="404,1480 443,1478 482,1477 521,1476 561,1476 600,1476 639,1474 679,1474 718,1474 757,1474 797,1474 836,1474 875,1474 914,1474 954,1474 993,1474 1032,1474 1072,1473 1111,1472 1150,1472 1190,1470"
+                         HEIGHT="130"
+                         WIDTH="820"
+                         VPOS="1389"
+                         HPOS="386">
+                  <String ID="string_r1l30"
+                          HEIGHT="130"
+                          WIDTH="820"
+                          VPOS="1389"
+                          HPOS="386"
+                          CONTENT="PER•LATITVDINEM•PEDES DVO"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="406,1574 444,1572 482,1572 520,1572 558,1572 597,1572 635,1570 673,1570 711,1570 749,1570 788,1568 826,1568 864,1568 902,1568 940,1568 979,1566 1017,1566 1055,1566 1093,1565 1131,1564 1170,1564"
+                         HEIGHT="132"
+                         WIDTH="798"
+                         VPOS="1481"
+                         HPOS="388">
+                  <String ID="string_r1l34"
+                          HEIGHT="132"
+                          WIDTH="798"
+                          VPOS="1481"
+                          HPOS="388"
+                          CONTENT="SEMIS•VSQVE•AD•HOC"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="408,1646 446,1648 485,1650 523,1650 562,1652 600,1653 639,1654 677,1654 716,1654 754,1653 793,1652 831,1652 870,1652 908,1652 947,1650 985,1650 1024,1650 1062,1650 1101,1650 1139,1650 1178,1652"
+                         HEIGHT="113"
+                         WIDTH="800"
+                         VPOS="1584"
+                         HPOS="392">
+                  <String ID="string_r1l39"
+                          HEIGHT="113"
+                          WIDTH="800"
+                          VPOS="1584"
+                          HPOS="392"
+                          CONTENT="MONVMENTVM•ET•HINC"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="408,1732 446,1734 485,1735 524,1736 562,1736 601,1736 640,1734 678,1734 717,1732 756,1732 795,1730 833,1728 872,1728 911,1726 949,1724 988,1723 1027,1722 1065,1720 1104,1720 1143,1720 1182,1720"
+                         HEIGHT="102"
+                         WIDTH="808"
+                         VPOS="1664"
+                         HPOS="390">
+                  <String ID="string_r1l43"
+                          HEIGHT="102"
+                          WIDTH="808"
+                          VPOS="1664"
+                          HPOS="390"
+                          CONTENT="PER•CIRCVITVM•TOTIVS"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="400,1803 459,1805 498,1806 537,1808 576,1808 615,1808 654,1806 693,1806 732,1806 771,1804 810,1802 849,1802 888,1800 927,1799 966,1798 1005,1798 1044,1798 1083,1798 1122,1798 1161,1799 1200,1800"
+                         HEIGHT="121"
+                         WIDTH="832"
+                         VPOS="1731"
+                         HPOS="385">
+                  <String ID="string_r1l47"
+                          HEIGHT="121"
+                          WIDTH="832"
+                          VPOS="1731"
+                          HPOS="385"
+                          CONTENT="MONVMENTI•VSQVE•IN•VIA"/>
+               </TextLine>
+               <TextLine ID="r1l49"
+                         BASELINE="414,1886 453,1886 492,1886 531,1886 570,1886 609,1884 648,1884 687,1883 726,1882 765,1881 804,1880 843,1880 882,1879 921,1878 960,1878 999,1876 1038,1876 1077,1876 1116,1875 1155,1874 1194,1874"
+                         HEIGHT="110"
+                         WIDTH="813"
+                         VPOS="1814"
+                         HPOS="397">
+                  <String ID="string_r1l49"
+                          HEIGHT="110"
+                          WIDTH="813"
+                          VPOS="1814"
+                          HPOS="397"
+                          CONTENT="QVAE•DVCIT•IN•AGRO•ITEM"/>
+               </TextLine>
+               <TextLine ID="r1l53"
+                         BASELINE="398,1966 437,1964 477,1964 517,1964 557,1964 597,1964 636,1964 676,1962 716,1962 756,1962 796,1962 835,1962 875,1962 915,1962 955,1962 995,1962 1034,1962 1074,1961 1114,1960 1154,1960 1194,1958"
+                         HEIGHT="109"
+                         WIDTH="828"
+                         VPOS="1890"
+                         HPOS="382">
+                  <String ID="string_r1l53"
+                          HEIGHT="109"
+                          WIDTH="828"
+                          VPOS="1890"
+                          HPOS="382"
+                          CONTENT="IDEM•MONVMENTI•ITER"/>
+               </TextLine>
+               <TextLine ID="r1l56"
+                         BASELINE="406,2054 445,2054 484,2054 523,2052 562,2052 602,2052 641,2052 680,2050 719,2050 758,2050 798,2049 837,2048 876,2047 915,2046 954,2046 994,2044 1033,2044 1072,2041 1111,2040 1150,2038 1190,2036"
+                         HEIGHT="126"
+                         WIDTH="816"
+                         VPOS="1970"
+                         HPOS="391">
+                  <String ID="string_r1l56"
+                          HEIGHT="126"
+                          WIDTH="816"
+                          VPOS="1970"
+                          HPOS="391"
+                          CONTENT="ADITVS•DEBETVR•HVIC"/>
+               </TextLine>
+               <TextLine ID="r1l60"
+                         BASELINE="422,2134 460,2134 498,2134 537,2135 575,2136 614,2134 652,2134 690,2134 729,2132 767,2132 806,2131 844,2130 882,2130 921,2128 959,2128 998,2126 1036,2126 1074,2126 1113,2126 1151,2127 1207,2130"
+                         HEIGHT="135"
+                         WIDTH="820"
+                         VPOS="2044"
+                         HPOS="404">
+                  <String ID="string_r1l60"
+                          HEIGHT="135"
+                          WIDTH="820"
+                          VPOS="2044"
+                          HPOS="404"
+                          CONTENT="SECVNDVM•MONVMENT"/>
+               </TextLine>
+               <TextLine ID="r1l63"
+                         BASELINE="414,2211 452,2212 491,2213 529,2215 568,2215 606,2215 645,2217 683,2216 722,2215 760,2215 799,2215 837,2213 876,2213 914,2213 953,2211 991,2211 1030,2210 1068,2209 1107,2209 1145,2209 1191,2200"
+                         HEIGHT="114"
+                         WIDTH="810"
+                         VPOS="2140"
+                         HPOS="398">
+                  <String ID="string_r1l63"
+                          HEIGHT="114"
+                          WIDTH="810"
+                          VPOS="2140"
+                          HPOS="398"
+                          CONTENT="VM•AFINIAE•TYCES•ET"/>
+               </TextLine>
+               <TextLine ID="r1l67"
+                         BASELINE="419,2280 457,2282 496,2284 535,2286 573,2287 612,2288 651,2290 689,2290 728,2290 767,2290 806,2292 844,2292 883,2292 922,2292 960,2292 999,2292 1038,2294 1076,2294 1115,2295 1154,2296 1216,2299"
+                         HEIGHT="121"
+                         WIDTH="828"
+                         VPOS="2211"
+                         HPOS="402">
+                  <String ID="string_r1l67"
+                          HEIGHT="121"
+                          WIDTH="828"
+                          VPOS="2211"
+                          HPOS="402"
+                          CONTENT="INDE•SECVNDVM•MACERIAM"/>
+               </TextLine>
+               <TextLine ID="r1l70"
+                         BASELINE="416,2354 455,2357 495,2361 535,2363 575,2364 615,2366 655,2366 695,2366 735,2366 775,2366 815,2364 854,2364 894,2364 934,2362 974,2362 1014,2362 1054,2362 1094,2364 1134,2364 1174,2367 1214,2368"
+                         HEIGHT="101"
+                         WIDTH="831"
+                         VPOS="2302"
+                         HPOS="400">
+                  <String ID="string_r1l70"
+                          HEIGHT="101"
+                          WIDTH="831"
+                          VPOS="2302"
+                          HPOS="400"
+                          CONTENT="EVCARPIANAM•IN•QVA•OLLA"/>
+               </TextLine>
+               <TextLine ID="r1l74"
+                         BASELINE="414,2440 453,2442 493,2444 532,2444 572,2444 612,2444 651,2444 691,2444 730,2442 770,2442 810,2440 849,2439 889,2438 928,2436 968,2436 1008,2435 1047,2434 1087,2434 1126,2434 1166,2435 1206,2436"
+                         HEIGHT="99"
+                         WIDTH="826"
+                         VPOS="2387"
+                         HPOS="397">
+                  <String ID="string_r1l74"
+                          HEIGHT="99"
+                          WIDTH="826"
+                          VPOS="2387"
+                          HPOS="397"
+                          CONTENT="SVNT•ET•IN•DEORETO•VSQVEAD"/>
+               </TextLine>
+               <TextLine ID="r1l78"
+                         BASELINE="424,2522 465,2522 506,2522 547,2522 588,2522 629,2522 670,2522 711,2522 752,2522 793,2522 834,2522 875,2522 916,2522 957,2522 998,2522 1039,2522 1080,2522 1121,2522 1162,2520 1203,2520 1244,2520"
+                         HEIGHT="119"
+                         WIDTH="850"
+                         VPOS="2451"
+                         HPOS="409">
+                  <String ID="string_r1l78"
+                          HEIGHT="119"
+                          WIDTH="850"
+                          VPOS="2451"
+                          HPOS="409"
+                          CONTENT="VIAM•PVBLICAM•CAMPANAM•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760132320_1937"
+                       HEIGHT="1082"
+                       WIDTH="1255"
+                       VPOS="802"
+                       HPOS="1251">
+               <Shape>
+                  <Polygon POINTS="1251,802 1263,860 2506,860 2506,1884 1251,1884"/>
+               </Shape>
+               <TextLine ID="r1l11"
+                         BASELINE="1472,972 1510,972 1549,973 1588,974 1627,973 1666,972 1705,972 1744,972 1783,972 1822,970 1861,970 1899,970 1938,968 1977,968 2016,966 2055,965 2094,964 2133,962 2172,962 2211,960 2250,958"
+                         HEIGHT="156"
+                         WIDTH="811"
+                         VPOS="864"
+                         HPOS="1457">
+                  <String ID="string_r1l11"
+                          HEIGHT="156"
+                          WIDTH="811"
+                          VPOS="864"
+                          HPOS="1457"
+                          CONTENT="M•AVR•ASCLEPIADOTVS"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="1704,1060 1730,1059 1756,1058 1782,1058 1808,1058 1834,1058 1861,1058 1887,1056 1913,1055 1939,1054 1965,1053 1992,1050"
+                         HEIGHT="111"
+                         WIDTH="322"
+                         VPOS="979"
+                         HPOS="1687">
+                  <String ID="string_r1l13"
+                          HEIGHT="111"
+                          WIDTH="322"
+                          VPOS="979"
+                          HPOS="1687"
+                          CONTENT="AVGG•L•"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1479,1168 1518,1168 1557,1168 1597,1168 1636,1168 1676,1168 1715,1168 1754,1167 1794,1166 1833,1166 1873,1166 1912,1166 1951,1166 1991,1164 2030,1164 2070,1164 2109,1164 2148,1162 2188,1162 2227,1162 2280,1162"
+                         HEIGHT="119"
+                         WIDTH="835"
+                         VPOS="1074"
+                         HPOS="1462">
+                  <String ID="string_r1l15"
+                          HEIGHT="119"
+                          WIDTH="835"
+                          VPOS="1074"
+                          HPOS="1462"
+                          CONTENT="ET•AELIA•HYGIA•MATER"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1486,1242 1524,1242 1562,1240 1600,1240 1638,1238 1677,1238 1715,1237 1753,1236 1791,1236 1829,1235 1868,1234 1906,1234 1944,1234 1982,1234 2020,1234 2059,1234 2097,1234 2135,1234 2173,1232 2211,1232 2250,1232"
+                         HEIGHT="108"
+                         WIDTH="797"
+                         VPOS="1169"
+                         HPOS="1470">
+                  <String ID="string_r1l18"
+                          HEIGHT="108"
+                          WIDTH="797"
+                          VPOS="1169"
+                          HPOS="1470"
+                          CONTENT="SE•VIVI•FECERVNT"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="1500,1316 1539,1316 1578,1314 1617,1313 1656,1312 1696,1311 1735,1310 1774,1310 1813,1308 1852,1308 1892,1308 1931,1306 1970,1306 2009,1306 2048,1306 2088,1308 2127,1308 2166,1308 2205,1310 2244,1310 2284,1312"
+                         HEIGHT="124"
+                         WIDTH="816"
+                         VPOS="1226"
+                         HPOS="1484">
+                  <String ID="string_r1l22"
+                          HEIGHT="124"
+                          WIDTH="816"
+                          VPOS="1226"
+                          HPOS="1484"
+                          CONTENT="SIBI•ET•SVIS•LIBERTIS"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1486,1386 1527,1386 1568,1386 1609,1386 1650,1384 1692,1384 1733,1382 1774,1381 1815,1380 1856,1380 1898,1379 1939,1378 1980,1378 2021,1378 2062,1378 2104,1380 2145,1380 2186,1383 2227,1384 2268,1388 2310,1390"
+                         HEIGHT="112"
+                         WIDTH="854"
+                         VPOS="1321"
+                         HPOS="1471">
+                  <String ID="string_r1l25"
+                          HEIGHT="112"
+                          WIDTH="854"
+                          VPOS="1321"
+                          HPOS="1471"
+                          CONTENT="LIBERTABVSQVE•POSTERISQ"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1728,1456 1755,1454 1782,1454 1809,1454 1836,1456 1864,1456 1891,1457 1918,1458 1945,1458 1972,1456 2025,1458"
+                         HEIGHT="86"
+                         WIDTH="330"
+                         VPOS="1396"
+                         HPOS="1712">
+                  <String ID="string_r1l29"
+                          HEIGHT="86"
+                          WIDTH="330"
+                          VPOS="1396"
+                          HPOS="1712"
+                          CONTENT="FORVM"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="1500,1528 1541,1524 1582,1522 1623,1519 1664,1517 1705,1516 1746,1514 1787,1513 1828,1512 1869,1512 1911,1510 1952,1510 1993,1510 2034,1510 2075,1508 2116,1508 2157,1508 2198,1506 2239,1505 2280,1504 2349,1504"
+                         HEIGHT="122"
+                         WIDTH="880"
+                         VPOS="1415"
+                         HPOS="1483">
+                  <String ID="string_r1l32"
+                          HEIGHT="122"
+                          WIDTH="880"
+                          VPOS="1415"
+                          HPOS="1483"
+                          CONTENT="QVISQVIS•HVNC•MVNIMENTVM"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="1722,1584 1747,1584 1773,1586 1799,1586 1824,1586 1850,1585 1876,1584 1902,1584 1927,1584 1953,1582 1979,1582 2004,1582 2030,1582 2056,1582 2112,1585"
+                         HEIGHT="87"
+                         WIDTH="420"
+                         VPOS="1515"
+                         HPOS="1707">
+                  <String ID="string_r1l35"
+                          HEIGHT="87"
+                          WIDTH="420"
+                          VPOS="1515"
+                          HPOS="1707"
+                          CONTENT="VENDIDERIT"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="1514,1636 1554,1638 1595,1638 1636,1638 1677,1638 1718,1638 1758,1636 1799,1636 1840,1635 1881,1634 1922,1632 1962,1631 2003,1630 2044,1628 2085,1626 2126,1625 2166,1624 2207,1622 2248,1621 2289,1620 2336,1617"
+                         HEIGHT="119"
+                         WIDTH="855"
+                         VPOS="1551"
+                         HPOS="1498">
+                  <String ID="string_r1l37"
+                          HEIGHT="119"
+                          WIDTH="855"
+                          VPOS="1551"
+                          HPOS="1498"
+                          CONTENT="INFERET•AERARIO•SATVRNI"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="1520,1706 1560,1706 1600,1704 1640,1704 1681,1702 1721,1700 1761,1698 1802,1697 1842,1696 1882,1694 1923,1693 1963,1692 2003,1690 2043,1690 2084,1688 2124,1688 2164,1688 2205,1688 2245,1688 2285,1688 2326,1690"
+                         HEIGHT="126"
+                         WIDTH="839"
+                         VPOS="1625"
+                         HPOS="1502">
+                  <String ID="string_r1l41"
+                          HEIGHT="126"
+                          WIDTH="839"
+                          VPOS="1625"
+                          HPOS="1502"
+                          CONTENT="SESTERTIOS•QVINQVAGINTA"/>
+               </TextLine>
+               <TextLine ID="line_1649761047837_2013"
+                         BASELINE="1542,1780 1568,1782 1595,1785 1621,1786 1648,1788 1674,1787 1701,1785 1728,1782 2084,1772 2111,1770 2138,1770 2165,1768 2192,1768 2219,1768 2246,1768 2273,1766 2300,1766 2328,1768"
+                         HEIGHT="136"
+                         WIDTH="817"
+                         VPOS="1698"
+                         HPOS="1526">
+                  <String ID="string_line_1649761047837_2013"
+                          HEIGHT="136"
+                          WIDTH="817"
+                          VPOS="1698"
+                          HPOS="1526"
+                          CONTENT="MILIA•NVMMVM"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760132320_1936"
+                       HEIGHT="1108"
+                       WIDTH="1255"
+                       VPOS="1884"
+                       HPOS="1251">
+               <Shape>
+                  <Polygon POINTS="1251,1884 2506,1884 2506,2992 1251,2992"/>
+               </Shape>
+               <TextLine ID="r1l58"
+                         BASELINE="1498,2110 1541,2110 1585,2110 1628,2108 1672,2108 1715,2108 1759,2106 1802,2106 1846,2104 1889,2104 1933,2102 1976,2100 2020,2100 2063,2098 2107,2098 2150,2096 2194,2096 2237,2094 2281,2094 2324,2094 2368,2094"
+                         HEIGHT="127"
+                         WIDTH="901"
+                         VPOS="2008"
+                         HPOS="1483">
+                  <String ID="string_r1l58"
+                          HEIGHT="127"
+                          WIDTH="901"
+                          VPOS="2008"
+                          HPOS="1483"
+                          CONTENT="L•OVINIVS•L•F•TVDETANVS"/>
+               </TextLine>
+               <TextLine ID="r1l62"
+                         BASELINE="1518,2190 1557,2188 1597,2186 1637,2184 1676,2183 1716,2180 1756,2178 1795,2175 1835,2174 1875,2172 1915,2170 1954,2168 1994,2166 2034,2164 2073,2164 2113,2162 2153,2162 2192,2162 2232,2162 2272,2162 2312,2164"
+                         HEIGHT="106"
+                         WIDTH="827"
+                         VPOS="2105"
+                         HPOS="1502">
+                  <String ID="string_r1l62"
+                          HEIGHT="106"
+                          WIDTH="827"
+                          VPOS="2105"
+                          HPOS="1502"
+                          CONTENT="ET•OVINIA•FLAVILLA"/>
+               </TextLine>
+               <TextLine ID="r1l65"
+                         BASELINE="1520,2252 1562,2250 1604,2247 1646,2245 1688,2244 1731,2242 1773,2240 1815,2238 1857,2238 1899,2238 1942,2236 1984,2236 2026,2236 2068,2234 2110,2234 2153,2234 2195,2234 2237,2234 2279,2234 2321,2234 2393,2232"
+                         HEIGHT="117"
+                         WIDTH="904"
+                         VPOS="2175"
+                         HPOS="1505">
+                  <String ID="string_r1l65"
+                          HEIGHT="117"
+                          WIDTH="904"
+                          VPOS="2175"
+                          HPOS="1505"
+                          CONTENT="VXOR•ET•M•OVINIVS•SPE"/>
+               </TextLine>
+               <TextLine ID="r1l68"
+                         BASELINE="1711,2321 1739,2323 1768,2323 1797,2323 1826,2323 1855,2323 1884,2323 1913,2323 1942,2323 1971,2323 2000,2323 2028,2323 2057,2321 2086,2321 2115,2321 2144,2321 2173,2321 2202,2319 2231,2319 2260,2319 2289,2317"
+                         HEIGHT="106"
+                         WIDTH="609"
+                         VPOS="2247"
+                         HPOS="1696">
+                  <String ID="string_r1l68"
+                          HEIGHT="106"
+                          WIDTH="609"
+                          VPOS="2247"
+                          HPOS="1696"
+                          CONTENT="RATVS•PROCVRATOR"/>
+               </TextLine>
+               <TextLine ID="r1l72"
+                         BASELINE="1702,2391 1727,2391 1753,2391 1778,2391 1804,2390 1830,2389 1855,2389 1881,2389 1906,2388 1932,2387 1958,2387 1983,2387 2009,2387 2034,2385 2060,2385 2086,2385 2111,2385 2137,2385 2162,2385 2188,2387 2255,2388"
+                         HEIGHT="95"
+                         WIDTH="584"
+                         VPOS="2317"
+                         HPOS="1686">
+                  <String ID="string_r1l72"
+                          HEIGHT="95"
+                          WIDTH="584"
+                          VPOS="2317"
+                          HPOS="1686"
+                          CONTENT="LVDI•MAGNI"/>
+               </TextLine>
+               <TextLine ID="r1l75"
+                         BASELINE="1512,2454 1553,2454 1595,2452 1637,2452 1679,2452 1721,2450 1763,2450 1805,2449 1847,2448 1889,2448 1931,2446 1972,2446 2014,2445 2056,2444 2098,2444 2140,2444 2182,2444 2224,2444 2266,2444 2308,2446 2380,2451"
+                         HEIGHT="112"
+                         WIDTH="901"
+                         VPOS="2360"
+                         HPOS="1496">
+                  <String ID="string_r1l75"
+                          HEIGHT="112"
+                          WIDTH="901"
+                          VPOS="2360"
+                          HPOS="1496"
+                          CONTENT="FECERVNT•SIBI•ET•SVIS•LIBE"/>
+               </TextLine>
+               <TextLine ID="r1l77"
+                         BASELINE="1520,2518 1559,2518 1598,2516 1637,2516 1676,2515 1715,2514 1754,2514 1793,2514 1832,2512 1871,2512 1910,2512 1949,2512 1988,2512 2027,2510 2066,2510 2105,2510 2144,2510 2183,2508 2222,2508 2261,2508 2333,2509"
+                         HEIGHT="78"
+                         WIDTH="844"
+                         VPOS="2453"
+                         HPOS="1505">
+                  <String ID="string_r1l77"
+                          HEIGHT="78"
+                          WIDTH="844"
+                          VPOS="2453"
+                          HPOS="1505"
+                          CONTENT="RIS•POSTERISQVE EORVM"/>
+               </TextLine>
+               <TextLine ID="r1l79"
+                         BASELINE="1510,2572 1553,2572 1596,2572 1639,2572 1682,2572 1726,2572 1769,2572 1812,2570 1855,2570 1898,2570 1942,2569 1985,2568 2028,2568 2071,2566 2114,2566 2158,2566 2201,2564 2244,2564 2287,2563 2330,2562 2400,2561"
+                         HEIGHT="88"
+                         WIDTH="923"
+                         VPOS="2511"
+                         HPOS="1493">
+                  <String ID="string_r1l79"
+                          HEIGHT="88"
+                          WIDTH="923"
+                          VPOS="2511"
+                          HPOS="1493"
+                          CONTENT="QVIS QVIS•MONVMENTVM•NOL•VENDE"/>
+               </TextLine>
+               <TextLine ID="r1l80"
+                         BASELINE="1516,2632 1559,2630 1603,2628 1647,2626 1691,2624 1735,2622 1778,2621 1822,2618 1866,2618 1910,2616 1954,2616 1997,2614 2041,2614 2085,2612 2129,2612 2173,2611 2216,2610 2260,2610 2304,2610 2348,2610 2392,2610"
+                         HEIGHT="98"
+                         WIDTH="907"
+                         VPOS="2568"
+                         HPOS="1500">
+                  <String ID="string_r1l80"
+                          HEIGHT="98"
+                          WIDTH="907"
+                          VPOS="2568"
+                          HPOS="1500"
+                          CONTENT="RIT•VEL•ALIENAR•VER•FEDVCIAR•"/>
+               </TextLine>
+               <TextLine ID="r1l81"
+                         BASELINE="1612,2682 1643,2682 1675,2682 1707,2682 1738,2682 1770,2682 1802,2682 1833,2680 1865,2680 1897,2679 1929,2678 1960,2676 1992,2676 2024,2674 2055,2674 2087,2673 2119,2672 2150,2672 2182,2672 2214,2672 2246,2672"
+                         HEIGHT="91"
+                         WIDTH="666"
+                         VPOS="2619"
+                         HPOS="1597">
+                  <String ID="string_r1l81"
+                          HEIGHT="91"
+                          WIDTH="666"
+                          VPOS="2619"
+                          HPOS="1597"
+                          CONTENT="DAB•VIRGIN•VESTAL"/>
+               </TextLine>
+               <TextLine ID="line_1649761213262_2032"
+                         BASELINE="1710,2738 1739,2739 1768,2737 1798,2734 1920,2732 1945,2730 1971,2728 1996,2728 2022,2726 2048,2726 2073,2724 2099,2723 2124,2721 2150,2720 2201,2723"
+                         HEIGHT="78"
+                         WIDTH="525"
+                         VPOS="2680"
+                         HPOS="1692">
+                  <String ID="string_line_1649761213262_2032"
+                          HEIGHT="78"
+                          WIDTH="525"
+                          VPOS="2680"
+                          HPOS="1692"
+                          CONTENT="☿•L̄•NVM•"/>
+               </TextLine>
+               <TextLine ID="r1l84"
+                         BASELINE="1508,2790 1553,2790 1599,2790 1645,2790 1691,2788 1737,2787 1782,2786 1828,2784 1874,2782 1920,2780 1966,2778 2011,2776 2057,2774 2103,2772 2149,2770 2195,2768 2240,2766 2286,2766 2332,2764 2378,2764 2436,2765"
+                         HEIGHT="175"
+                         WIDTH="962"
+                         VPOS="2660"
+                         HPOS="1489">
+                  <String ID="string_r1l84"
+                          HEIGHT="175"
+                          WIDTH="962"
+                          VPOS="2660"
+                          HPOS="1489"
+                          CONTENT="INFR•PED•XXIII•ARETR•PED•XXXS•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760117518_1924"
+                       HEIGHT="2132"
+                       WIDTH="550"
+                       VPOS="860"
+                       HPOS="2506">
+               <Shape>
+                  <Polygon POINTS="2506,860 3056,860 3056,2992 2506,2992"/>
+               </Shape>
+               <TextLine ID="r1l16"
+                         BASELINE="2545,1184 2570,1184 2596,1184 2622,1182 2647,1182 2673,1181 2699,1180 2725,1179 2750,1178 2776,1177 2802,1176 2827,1175 2853,1174 2879,1174 2934,1177"
+                         HEIGHT="107"
+                         WIDTH="422"
+                         VPOS="1098"
+                         HPOS="2527">
+                  <String ID="string_r1l16"
+                          HEIGHT="107"
+                          WIDTH="422"
+                          VPOS="1098"
+                          HPOS="2527"
+                          CONTENT="TERTINIA PAVLLA"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="2556,1250 2581,1249 2606,1248 2632,1247 2657,1246 2683,1245 2708,1244 2734,1243 2759,1242 2784,1240 2810,1240 2835,1238 2861,1237 2886,1235 2930,1232"
+                         HEIGHT="92"
+                         WIDTH="408"
+                         VPOS="1176"
+                         HPOS="2539">
+                  <String ID="string_r1l19"
+                          HEIGHT="92"
+                          WIDTH="408"
+                          VPOS="1176"
+                          HPOS="2539"
+                          CONTENT="T•TERTINIVS•T•F"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="2592,1296 2618,1293 2645,1292 2672,1290 2699,1288 2726,1288 2753,1288 2780,1286 2807,1285 2834,1284 2861,1283 2900,1280"
+                         HEIGHT="68"
+                         WIDTH="341"
+                         VPOS="1243"
+                         HPOS="2575">
+                  <String ID="string_r1l21"
+                          HEIGHT="68"
+                          WIDTH="341"
+                          VPOS="1243"
+                          HPOS="2575"
+                          CONTENT="PAL•SEVERVS"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="2540,1350 2565,1347 2591,1343 2616,1342 2642,1341 2668,1340 2693,1340 2719,1340 2744,1342 2770,1342 2796,1342 2821,1342 2847,1341 2872,1340 2898,1337 2938,1341"
+                         HEIGHT="110"
+                         WIDTH="431"
+                         VPOS="1268"
+                         HPOS="2525">
+                  <String ID="string_r1l23"
+                          HEIGHT="110"
+                          WIDTH="431"
+                          VPOS="1268"
+                          HPOS="2525"
+                          CONTENT="ET•Q•TERTINIVSQF"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="2595,1394 2623,1394 2651,1394 2679,1392 2707,1391 2735,1389 2763,1388 2830,1390"
+                         HEIGHT="82"
+                         WIDTH="269"
+                         VPOS="1326"
+                         HPOS="2577">
+                  <String ID="string_r1l26"
+                          HEIGHT="82"
+                          WIDTH="269"
+                          VPOS="1326"
+                          HPOS="2577"
+                          CONTENT="PRISCVS"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="2539,1444 2564,1446 2589,1444 2614,1444 2639,1444 2664,1443 2689,1442 2715,1441 2740,1440 2765,1440 2790,1439 2815,1438 2840,1438 2865,1438 2928,1439"
+                         HEIGHT="94"
+                         WIDTH="421"
+                         VPOS="1366"
+                         HPOS="2522">
+                  <String ID="string_r1l28"
+                          HEIGHT="94"
+                          WIDTH="421"
+                          VPOS="1366"
+                          HPOS="2522"
+                          CONTENT="VETERANVS•LEG"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="2539,1496 2564,1495 2589,1494 2614,1492 2639,1492 2664,1492 2689,1492 2715,1490 2740,1490 2765,1490 2790,1490 2815,1490 2840,1491 2865,1492 2928,1494"
+                         HEIGHT="65"
+                         WIDTH="420"
+                         VPOS="1441"
+                         HPOS="2524">
+                  <String ID="string_r1l31"
+                          HEIGHT="65"
+                          WIDTH="420"
+                          VPOS="1441"
+                          HPOS="2524"
+                          CONTENT="PRIMAE MINEVAE"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="2571,1542 2596,1542 2621,1542 2646,1541 2671,1540 2697,1540 2722,1540 2747,1539 2772,1538 2798,1538 2823,1536 2848,1535 2873,1534 2922,1533"
+                         HEIGHT="60"
+                         WIDTH="381"
+                         VPOS="1495"
+                         HPOS="2556">
+                  <String ID="string_r1l33"
+                          HEIGHT="60"
+                          WIDTH="381"
+                          VPOS="1495"
+                          HPOS="2556"
+                          CONTENT="FLAVIAE•FELIC"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="2533,1582 2559,1584 2585,1584 2611,1585 2638,1586 2664,1586 2690,1586 2717,1586 2743,1586 2769,1584 2795,1584 2822,1584 2848,1584 2874,1585 2926,1585"
+                         HEIGHT="78"
+                         WIDTH="423"
+                         VPOS="1529"
+                         HPOS="2518">
+                  <String ID="string_r1l36"
+                          HEIGHT="78"
+                          WIDTH="423"
+                          VPOS="1529"
+                          HPOS="2518"
+                          CONTENT="ET•SEX•TERTINVS"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="2540,1636 2566,1636 2592,1636 2619,1636 2645,1636 2672,1636 2698,1636 2725,1636 2751,1634 2777,1634 2804,1635 2830,1636 2857,1636 2883,1637 2926,1636"
+                         HEIGHT="69"
+                         WIDTH="417"
+                         VPOS="1587"
+                         HPOS="2525">
+                  <String ID="string_r1l38"
+                          HEIGHT="69"
+                          WIDTH="417"
+                          VPOS="1587"
+                          HPOS="2525"
+                          CONTENT="TERTINIA PAVLLA"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="2600,1676 2626,1676 2652,1676 2678,1676 2704,1676 2730,1676 2757,1676 2783,1674 2809,1674 2835,1674 2861,1674 2888,1676"
+                         HEIGHT="62"
+                         WIDTH="317"
+                         VPOS="1633"
+                         HPOS="2585">
+                  <String ID="string_r1l40"
+                          HEIGHT="62"
+                          WIDTH="317"
+                          VPOS="1633"
+                          HPOS="2585"
+                          CONTENT="MARINIANA"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="2652,1720 2680,1720 2708,1720 2736,1720 2764,1720 2792,1720 2820,1720 2848,1720"
+                         HEIGHT="69"
+                         WIDTH="225"
+                         VPOS="1675"
+                         HPOS="2638">
+                  <String ID="string_r1l42"
+                          HEIGHT="69"
+                          WIDTH="225"
+                          VPOS="1675"
+                          HPOS="2638"
+                          CONTENT="MATER"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="2538,1786 2563,1786 2589,1784 2615,1781 2640,1780 2666,1779 2692,1778 2718,1777 2743,1776 2769,1776 2795,1774 2821,1774 2846,1774 2872,1774 2898,1776 2937,1778"
+                         HEIGHT="91"
+                         WIDTH="435"
+                         VPOS="1716"
+                         HPOS="2520">
+                  <String ID="string_r1l45"
+                          HEIGHT="91"
+                          WIDTH="435"
+                          VPOS="1716"
+                          HPOS="2520"
+                          CONTENT="FECERVNT•IN•F•"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="2566,1836 2591,1834 2616,1834 2641,1834 2666,1834 2691,1834 2716,1834 2741,1834 2766,1834 2791,1834 2816,1834 2841,1834 2866,1834 2891,1834 2916,1832"
+                         HEIGHT="82"
+                         WIDTH="380"
+                         VPOS="1781"
+                         HPOS="2551">
+                  <String ID="string_r1l48"
+                          HEIGHT="82"
+                          WIDTH="380"
+                          VPOS="1781"
+                          HPOS="2551"
+                          CONTENT="PED•XIIX•IN•LAT"/>
+               </TextLine>
+               <TextLine ID="r1l50"
+                         BASELINE="2642,1888 2668,1886 2694,1886 2720,1887 2746,1888 2773,1889 2799,1890 2825,1890 2851,1890 2904,1887"
+                         HEIGHT="75"
+                         WIDTH="292"
+                         VPOS="1836"
+                         HPOS="2627">
+                  <String ID="string_r1l50"
+                          HEIGHT="75"
+                          WIDTH="292"
+                          VPOS="1836"
+                          HPOS="2627"
+                          CONTENT="AGR•P•XXIIX"/>
+               </TextLine>
+               <TextLine ID="r1l51"
+                         BASELINE="2533,1944 2559,1944 2585,1944 2612,1943 2638,1942 2665,1942 2691,1942 2718,1942 2744,1940 2771,1940 2797,1940 2824,1940 2850,1942 2912,1936"
+                         HEIGHT="86"
+                         WIDTH="412"
+                         VPOS="1882"
+                         HPOS="2516">
+                  <String ID="string_r1l51"
+                          HEIGHT="86"
+                          WIDTH="412"
+                          VPOS="1882"
+                          HPOS="2516"
+                          CONTENT="CVM•MACERIAE"/>
+               </TextLine>
+               <TextLine ID="r1l54"
+                         BASELINE="2539,1998 2564,1998 2589,1998 2615,1998 2640,1998 2666,1998 2691,1998 2717,1998 2742,1998 2768,1998 2793,1998 2819,1998 2844,1998 2870,1998 2895,1997 2944,1995"
+                         HEIGHT="91"
+                         WIDTH="437"
+                         VPOS="1937"
+                         HPOS="2522">
+                  <String ID="string_r1l54"
+                          HEIGHT="91"
+                          WIDTH="437"
+                          VPOS="1937"
+                          HPOS="2522"
+                          CONTENT="CIRCVN•PED•QVOQ"/>
+               </TextLine>
+               <TextLine ID="r1l55"
+                         BASELINE="2579,2047 2604,2045 2630,2047 2655,2048 2681,2049 2707,2050 2732,2053 2758,2053 2784,2053 2809,2053 2835,2051 2908,2048"
+                         HEIGHT="61"
+                         WIDTH="361"
+                         VPOS="2002"
+                         HPOS="2562">
+                  <String ID="string_r1l55"
+                          HEIGHT="61"
+                          WIDTH="361"
+                          VPOS="2002"
+                          HPOS="2562"
+                          CONTENT="VERS•PEDXL•"/>
+               </TextLine>
+               <TextLine ID="r1l57"
+                         BASELINE="2529,2092 2554,2091 2580,2090 2606,2090 2632,2090 2657,2090 2683,2088 2709,2088 2735,2088 2760,2088 2786,2088 2812,2088 2838,2088 2863,2088 2889,2088 2915,2088 2963,2088"
+                         HEIGHT="74"
+                         WIDTH="468"
+                         VPOS="2035"
+                         HPOS="2512">
+                  <String ID="string_r1l57"
+                          HEIGHT="74"
+                          WIDTH="468"
+                          VPOS="2035"
+                          HPOS="2512"
+                          CONTENT="QVISQVIS•HVNC•MONVME"/>
+               </TextLine>
+               <TextLine ID="r1l59"
+                         BASELINE="2537,2143 2563,2141 2589,2141 2615,2141 2641,2139 2667,2139 2693,2137 2719,2136 2746,2135 2772,2134 2798,2133 2824,2133 2850,2133 2876,2133 2924,2127 2951,2127"
+                         HEIGHT="58"
+                         WIDTH="447"
+                         VPOS="2089"
+                         HPOS="2520">
+                  <String ID="string_r1l59"
+                          HEIGHT="58"
+                          WIDTH="447"
+                          VPOS="2089"
+                          HPOS="2520"
+                          CONTENT="NTVM•CONDERE•VOL"/>
+               </TextLine>
+               <TextLine ID="r1l61"
+                         BASELINE="2532,2182 2557,2180 2582,2179 2607,2178 2632,2177 2657,2176 2682,2176 2707,2175 2732,2174 2757,2174 2782,2174 2807,2173 2832,2172 2857,2172 2882,2172 2907,2174 2932,2174"
+                         HEIGHT="89"
+                         WIDTH="431"
+                         VPOS="2131"
+                         HPOS="2517">
+                  <String ID="string_r1l61"
+                          HEIGHT="89"
+                          WIDTH="431"
+                          VPOS="2131"
+                          HPOS="2517"
+                          CONTENT="DABIT•ARCAE•PONT"/>
+               </TextLine>
+               <TextLine ID="r1l64"
+                         BASELINE="2589,2228 2615,2226 2641,2225 2667,2224 2693,2224 2719,2224 2745,2223 2771,2222 2797,2220"
+                         HEIGHT="67"
+                         WIDTH="242"
+                         VPOS="2180"
+                         HPOS="2571">
+                  <String ID="string_r1l64"
+                          HEIGHT="67"
+                          WIDTH="242"
+                          VPOS="2180"
+                          HPOS="2571"
+                          CONTENT="♀•CCC•"/>
+               </TextLine>
+               <TextLine ID="r1l66"
+                         BASELINE="2530,2282 2555,2282 2581,2280 2606,2280 2632,2278 2657,2278 2683,2276 2708,2276 2734,2276 2759,2274 2785,2274 2810,2274 2836,2273 2861,2272 2887,2271 2912,2270 2938,2270 2964,2268"
+                         HEIGHT="82"
+                         WIDTH="469"
+                         VPOS="2217"
+                         HPOS="2512">
+                  <String ID="string_r1l66"
+                          HEIGHT="82"
+                          WIDTH="469"
+                          VPOS="2217"
+                          HPOS="2512"
+                          CONTENT="SIQVIS ALIERAR•VEL"/>
+               </TextLine>
+               <TextLine ID="r1l69"
+                         BASELINE="2568,2330 2593,2329 2618,2328 2644,2328 2669,2328 2694,2327 2720,2326 2745,2326 2770,2326 2796,2325 2821,2324 2846,2322 2872,2322 2897,2320 2922,2318 2948,2318"
+                         HEIGHT="73"
+                         WIDTH="413"
+                         VPOS="2269"
+                         HPOS="2551">
+                  <String ID="string_r1l69"
+                          HEIGHT="73"
+                          WIDTH="413"
+                          VPOS="2269"
+                          HPOS="2551"
+                          CONTENT="FEDVCIAR•INFER"/>
+               </TextLine>
+               <TextLine ID="r1l71"
+                         BASELINE="2527,2380 2552,2382 2577,2382 2602,2382 2627,2382 2652,2381 2677,2380 2702,2380 2727,2380 2752,2379 2777,2378 2802,2378 2827,2377 2852,2376 2877,2376 2937,2374"
+                         HEIGHT="69"
+                         WIDTH="444"
+                         VPOS="2328"
+                         HPOS="2509">
+                  <String ID="string_r1l71"
+                          HEIGHT="69"
+                          WIDTH="444"
+                          VPOS="2328"
+                          HPOS="2509"
+                          CONTENT="AERARIO•SATVRNI"/>
+               </TextLine>
+               <TextLine ID="r1l73"
+                         BASELINE="2537,2430 2563,2430 2590,2430 2616,2430 2643,2430 2669,2428 2696,2428 2723,2428 2749,2428 2776,2428 2802,2428 2829,2428 2855,2428 2882,2427 2946,2425"
+                         HEIGHT="90"
+                         WIDTH="440"
+                         VPOS="2380"
+                         HPOS="2521">
+                  <String ID="string_r1l73"
+                          HEIGHT="90"
+                          WIDTH="440"
+                          VPOS="2380"
+                          HPOS="2521"
+                          CONTENT="LX̄•MILLIANVM"/>
+               </TextLine>
+               <TextLine ID="r1l76"
+                         BASELINE="2654,2474 2679,2476 2705,2475 2730,2474 2756,2473 2815,2471"
+                         HEIGHT="86"
+                         WIDTH="196"
+                         VPOS="2433"
+                         HPOS="2637">
+                  <String ID="string_r1l76"
+                          HEIGHT="86"
+                          WIDTH="196"
+                          VPOS="2433"
+                          HPOS="2637"
+                          CONTENT="MVM•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760149546_1942"
+                       HEIGHT="1120"
+                       WIDTH="1690"
+                       VPOS="3051"
+                       HPOS="359">
+               <Shape>
+                  <Polygon POINTS="359,3051 2049,3051 2049,4171 359,4171"/>
+               </Shape>
+               <TextLine ID="r1l85"
+                         BASELINE="390,3122 433,3122 477,3124 521,3124 564,3124 608,3124 652,3124 695,3124 739,3124 783,3122 827,3122 870,3122 914,3122 958,3122 1001,3120 1045,3120 1089,3120 1132,3118 1176,3118 1220,3116 1264,3116"
+                         HEIGHT="123"
+                         WIDTH="907"
+                         VPOS="3031"
+                         HPOS="374">
+                  <String ID="string_r1l85"
+                          HEIGHT="123"
+                          WIDTH="907"
+                          VPOS="3031"
+                          HPOS="374"
+                          CONTENT="Trovato nella Via Gabinia praenestina;"/>
+               </TextLine>
+               <TextLine ID="r1l87"
+                         BASELINE="505,3451 571,3453 637,3455 704,3455 770,3455 837,3455 903,3453 969,3451 1036,3449 1102,3446 1169,3443 1235,3439 1301,3436 1368,3433 1434,3430 1501,3427 1567,3425 1633,3424 1700,3423 1766,3423 1833,3423"
+                         HEIGHT="124"
+                         WIDTH="1358"
+                         VPOS="3353"
+                         HPOS="488">
+                  <String ID="string_r1l87"
+                          HEIGHT="124"
+                          WIDTH="1358"
+                          VPOS="3353"
+                          HPOS="488"
+                          CONTENT="M•POPILLIVS•POPILLIA•M•POPILLI"/>
+               </TextLine>
+               <TextLine ID="r1l89"
+                         BASELINE="513,3536 576,3538 640,3540 704,3539 768,3538 832,3535 895,3532 959,3528 1023,3523 1087,3518 1151,3514 1214,3508 1278,3502 1342,3497 1406,3493 1470,3489 1533,3485 1597,3482 1661,3480 1725,3480 1812,3480"
+                         HEIGHT="153"
+                         WIDTH="1336"
+                         VPOS="3420"
+                         HPOS="494">
+                  <String ID="string_r1l89"
+                          HEIGHT="153"
+                          WIDTH="1336"
+                          VPOS="3420"
+                          HPOS="494"
+                          CONTENT="M•LALEXANDER•M•L•DIONYSIA•M•Ↄ•L•SALVI"/>
+               </TextLine>
+               <TextLine ID="r1l91"
+                         BASELINE="503,3624 572,3626 641,3626 710,3624 780,3623 849,3620 918,3616 988,3614 1057,3608 1126,3604 1196,3599 1265,3595 1334,3591 1403,3587 1473,3583 1542,3580 1611,3576 1681,3576 1750,3574 1819,3574 1912,3573"
+                         HEIGHT="174"
+                         WIDTH="1442"
+                         VPOS="3476"
+                         HPOS="485">
+                  <String ID="string_r1l91"
+                          HEIGHT="174"
+                          WIDTH="1442"
+                          VPOS="3476"
+                          HPOS="485"
+                          CONTENT="POPILLIA•ARCHE•EX•SVA PECVNIA•SIBI•ET•SVIS•F"/>
+               </TextLine>
+               <TextLine ID="r1l92"
+                         BASELINE="513,3700 584,3700 655,3699 727,3697 798,3695 870,3692 941,3688 1012,3687 1084,3682 1155,3679 1227,3674 1298,3670 1369,3666 1441,3664 1512,3660 1584,3656 1655,3654 1726,3653 1798,3651 1869,3650 1941,3650"
+                         HEIGHT="144"
+                         WIDTH="1463"
+                         VPOS="3567"
+                         HPOS="495">
+                  <String ID="string_r1l92"
+                          HEIGHT="144"
+                          WIDTH="1463"
+                          VPOS="3567"
+                          HPOS="495"
+                          CONTENT="M•POPILLIVS•M•Ↄ•L•AVCTVS•M•POPILLIVS•LER"/>
+               </TextLine>
+               <TextLine ID="r1l94"
+                         BASELINE="508,3776 580,3771 652,3768 724,3766 796,3762 868,3759 940,3757 1012,3754 1084,3751 1156,3749 1228,3747 1300,3744 1372,3742 1444,3740 1516,3738 1588,3736 1660,3734 1732,3732 1804,3730 1876,3728 1948,3726"
+                         HEIGHT="134"
+                         WIDTH="1472"
+                         VPOS="3656"
+                         HPOS="491">
+                  <String ID="string_r1l94"
+                          HEIGHT="134"
+                          WIDTH="1472"
+                          VPOS="3656"
+                          HPOS="491"
+                          CONTENT="M•POPILLIVS•M•L•AMOMVS•M•POPILLIVS HILAR"/>
+               </TextLine>
+               <TextLine ID="r1l96"
+                         BASELINE="524,3844 594,3839 665,3835 736,3832 807,3829 878,3826 948,3823 1019,3820 1090,3818 1161,3815 1232,3812 1302,3810 1373,3808 1444,3805 1515,3802 1586,3800 1656,3797 1727,3793 1798,3790 1869,3786 1967,3785"
+                         HEIGHT="126"
+                         WIDTH="1475"
+                         VPOS="3736"
+                         HPOS="508">
+                  <String ID="string_r1l96"
+                          HEIGHT="126"
+                          WIDTH="1475"
+                          VPOS="3736"
+                          HPOS="508"
+                          CONTENT="M•POPILLIVS•M•L•PHILAGYRVS•M•POPILLIVS•IANTH•"/>
+               </TextLine>
+               <TextLine ID="r1l98"
+                         BASELINE="531,3914 602,3910 673,3904 744,3900 815,3897 887,3892 958,3889 1029,3884 1100,3880 1171,3878 1243,3874 1314,3870 1385,3867 1456,3864 1527,3861 1599,3858 1670,3854 1741,3852 1812,3850 1883,3848 1955,3846"
+                         HEIGHT="140"
+                         WIDTH="1459"
+                         VPOS="3791"
+                         HPOS="513">
+                  <String ID="string_r1l98"
+                          HEIGHT="140"
+                          WIDTH="1459"
+                          VPOS="3791"
+                          HPOS="513"
+                          CONTENT="M•POPILLIVS•M•L•HELENVS•M•POPILLIVS•EPAPI•R•"/>
+               </TextLine>
+               <TextLine ID="r1l100"
+                         BASELINE="523,3982 590,3980 658,3976 726,3973 794,3969 862,3965 929,3962 997,3957 1065,3952 1133,3948 1201,3943 1268,3939 1336,3935 1404,3931 1472,3926 1540,3924 1607,3920 1675,3918 1743,3916 1811,3914 1879,3912"
+                         HEIGHT="170"
+                         WIDTH="1390"
+                         VPOS="3856"
+                         HPOS="506">
+                  <String ID="string_r1l100"
+                          HEIGHT="170"
+                          WIDTH="1390"
+                          VPOS="3856"
+                          HPOS="506"
+                          CONTENT="M•POPILLIVS•M•L•CLEMENS•VITRIARI"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="170" WIDTH="416" VPOS="3391" HPOS="3050">
+               <Shape>
+                  <Polygon POINTS="3050,3391 3050,3561 3466,3561 3466,3391"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="3050,3420 3075,3422 3100,3425 3126,3427 3151,3428 3176,3429 3202,3430 3227,3430 3252,3432 3278,3432 3303,3432 3328,3434 3354,3434 3379,3434 3404,3434 3430,3436"
+                         HEIGHT="144"
+                         WIDTH="413"
+                         VPOS="3328"
+                         HPOS="3034">
+                  <String ID="string_r2l1"
+                          HEIGHT="144"
+                          WIDTH="413"
+                          VPOS="3328"
+                          HPOS="3034"
+                          CONTENT="Nellhorti carpensi"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="3070,3488 3096,3490 3122,3490 3149,3492 3175,3492 3202,3493 3228,3494 3254,3495 3281,3496 3307,3498 3334,3498 3360,3498 3386,3500 3413,3501 3439,3502 3466,3504"
+                         HEIGHT="105"
+                         WIDTH="428"
+                         VPOS="3439"
+                         HPOS="3054">
+                  <String ID="string_r2l2"
+                          HEIGHT="105"
+                          WIDTH="428"
+                          VPOS="3439"
+                          HPOS="3054"
+                          CONTENT="tolto dalla Via nomen"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="3064,3548 3095,3548 3126,3548 3157,3546 3188,3544"
+                         HEIGHT="73"
+                         WIDTH="156"
+                         VPOS="3506"
+                         HPOS="3048">
+                  <String ID="string_r2l3"
+                          HEIGHT="73"
+                          WIDTH="156"
+                          VPOS="3506"
+                          HPOS="3048"
+                          CONTENT="tana."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649760149546_1941"
+                       HEIGHT="1122"
+                       WIDTH="1075"
+                       VPOS="3049"
+                       HPOS="2049">
+               <Shape>
+                  <Polygon POINTS="2049,3051 2969,3049 3124,4087 2049,4171"/>
+               </Shape>
+               <TextLine ID="r1l86"
+                         BASELINE="2174,3390 2211,3392 2248,3392 2285,3394 2322,3394 2359,3394 2396,3394 2433,3394 2470,3394 2507,3394 2545,3393 2582,3392 2619,3390 2656,3389 2693,3388 2730,3386 2767,3385 2804,3383 2841,3381 2878,3380 2916,3376"
+                         HEIGHT="138"
+                         WIDTH="773"
+                         VPOS="3283"
+                         HPOS="2158">
+                  <String ID="string_r1l86"
+                          HEIGHT="138"
+                          WIDTH="773"
+                          VPOS="3283"
+                          HPOS="2158"
+                          CONTENT="RVPILIAE•FORTVNATAE"/>
+               </TextLine>
+               <TextLine ID="r1l88"
+                         BASELINE="2194,3464 2226,3467 2258,3468 2290,3471 2322,3472 2355,3472 2387,3472 2419,3472 2451,3472 2483,3470 2516,3470 2548,3468 2580,3467 2612,3466 2644,3464 2677,3463 2709,3462 2741,3460 2773,3460 2805,3459 2838,3458"
+                         HEIGHT="109"
+                         WIDTH="679"
+                         VPOS="3409"
+                         HPOS="2176">
+                  <String ID="string_r1l88"
+                          HEIGHT="109"
+                          WIDTH="679"
+                          VPOS="3409"
+                          HPOS="2176"
+                          CONTENT="QVI•HANC•ARAM"/>
+               </TextLine>
+               <TextLine ID="r1l90"
+                         BASELINE="2266,3546 2294,3548 2323,3548 2351,3548 2380,3549 2409,3550 2437,3550 2466,3548 2494,3548 2523,3548 2552,3548 2580,3546 2609,3546 2637,3544 2666,3544 2695,3543 2723,3541 2752,3540 2780,3538 2809,3537 2838,3534"
+                         HEIGHT="132"
+                         WIDTH="604"
+                         VPOS="3464"
+                         HPOS="2251">
+                  <String ID="string_r1l90"
+                          HEIGHT="132"
+                          WIDTH="604"
+                          VPOS="3464"
+                          HPOS="2251"
+                          CONTENT="SVST•MAN•IRAT•H"/>
+               </TextLine>
+               <TextLine ID="r1l93"
+                         BASELINE="2204,3692 2233,3692 2263,3692 2293,3694 2323,3694 2353,3694 2382,3694 2412,3693 2442,3692 2472,3692 2502,3690 2531,3690 2561,3688 2591,3688 2621,3686 2651,3686 2680,3685 2710,3684 2740,3682 2770,3682 2800,3682"
+                         HEIGHT="134"
+                         WIDTH="629"
+                         VPOS="3599"
+                         HPOS="2188">
+                  <String ID="string_r1l93"
+                          HEIGHT="134"
+                          WIDTH="629"
+                          VPOS="3599"
+                          HPOS="2188"
+                          CONTENT="in unaltra in scrittione"/>
+               </TextLine>
+               <TextLine ID="r1l95"
+                         BASELINE="2213,3812 2251,3808 2290,3807 2329,3804 2368,3802 2407,3800 2445,3798 2484,3797 2523,3795 2562,3794 2601,3792 2639,3792 2678,3790 2717,3790 2756,3788 2795,3788 2833,3786 2872,3786 2911,3784 2950,3784 3024,3781"
+                         HEIGHT="125"
+                         WIDTH="844"
+                         VPOS="3704"
+                         HPOS="2196">
+                  <String ID="string_r1l95"
+                          HEIGHT="125"
+                          WIDTH="844"
+                          VPOS="3704"
+                          HPOS="2196"
+                          CONTENT="HIC EST POSITVS•FL•HER"/>
+               </TextLine>
+               <TextLine ID="r1l97"
+                         BASELINE="2223,3868 2259,3864 2296,3861 2333,3856 2370,3855 2407,3852 2444,3850 2481,3850 2518,3848 2555,3848 2592,3848 2628,3848 2665,3847 2702,3846 2739,3846 2776,3846 2813,3844 2850,3843 2887,3842 2924,3840 2991,3842"
+                         HEIGHT="98"
+                         WIDTH="801"
+                         VPOS="3793"
+                         HPOS="2206">
+                  <String ID="string_r1l97"
+                          HEIGHT="98"
+                          WIDTH="801"
+                          VPOS="3793"
+                          HPOS="2206"
+                          CONTENT="MES•QVEM•FATVS•LONGIVS"/>
+               </TextLine>
+               <TextLine ID="r1l99"
+                         BASELINE="2222,3930 2263,3929 2305,3926 2347,3924 2388,3921 2430,3919 2472,3918 2513,3916 2555,3914 2597,3912 2639,3911 2680,3910 2722,3908 2764,3908 2805,3906 2847,3906 2889,3906 2930,3904 2972,3904 3014,3904 3056,3904"
+                         HEIGHT="106"
+                         WIDTH="867"
+                         VPOS="3835"
+                         HPOS="2204">
+                  <String ID="string_r1l99"
+                          HEIGHT="106"
+                          WIDTH="867"
+                          VPOS="3835"
+                          HPOS="2204"
+                          CONTENT="DVCERE•NOLVIT•QVI•MALVIT•LVC"/>
+               </TextLine>
+               <TextLine ID="r1l101"
+                         BASELINE="2236,3984 2274,3982 2313,3981 2352,3980 2391,3978 2430,3976 2468,3975 2507,3974 2546,3972 2585,3972 2624,3970 2662,3970 2701,3968 2740,3968 2779,3966 2818,3964 2856,3964 2895,3963 2934,3962 2973,3960 3026,3962"
+                         HEIGHT="84"
+                         WIDTH="823"
+                         VPOS="3909"
+                         HPOS="2221">
+                  <String ID="string_r1l101"
+                          HEIGHT="84"
+                          WIDTH="823"
+                          VPOS="3909"
+                          HPOS="2221"
+                          CONTENT="TVM•LINQVERE•QVAM•GRATIAS"/>
+               </TextLine>
+               <TextLine ID="r1l102"
+                         BASELINE="2231,4044 2270,4042 2310,4040 2350,4038 2389,4037 2429,4035 2469,4034 2508,4033 2548,4032 2588,4030 2628,4029 2667,4028 2707,4028 2747,4026 2786,4026 2826,4024 2866,4022 2905,4022 2945,4018 2985,4017 3057,4014"
+                         HEIGHT="109"
+                         WIDTH="858"
+                         VPOS="3963"
+                         HPOS="2215">
+                  <String ID="string_r1l102"
+                          HEIGHT="109"
+                          WIDTH="858"
+                          VPOS="3963"
+                          HPOS="2215"
+                          CONTENT="REDDERE•SVIS•DERISOR•AVIAE"/>
+               </TextLine>
+               <TextLine ID="r1l103"
+                         BASELINE="2238,4109 2268,4107 2298,4105 2328,4104 2358,4103 2388,4101 2418,4101 2448,4100 2478,4099 2508,4099 2539,4097 2569,4096 2599,4095 2629,4095 2659,4093 2689,4091 2719,4090 2749,4087 2779,4085 2809,4082 2920,4075"
+                         HEIGHT="119"
+                         WIDTH="717"
+                         VPOS="4029"
+                         HPOS="2220">
+                  <String ID="string_r1l103"
+                          HEIGHT="119"
+                          WIDTH="717"
+                          VPOS="4029"
+                          HPOS="2220"
+                          CONTENT="S•QVIA.........."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

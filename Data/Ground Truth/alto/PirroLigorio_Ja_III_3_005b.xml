@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_005b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:51.509+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1641287125761_1365"
+                       HEIGHT="178"
+                       WIDTH="495"
+                       VPOS="126"
+                       HPOS="2877">
+               <Shape>
+                  <Polygon POINTS="2877,126 3372,127 3351,304 2890,304"/>
+               </Shape>
+               <TextLine ID="line_1641287140331_1369"
+                         BASELINE="3021,209 3132,209"
+                         HEIGHT="50"
+                         WIDTH="111"
+                         VPOS="164"
+                         HPOS="3021">
+                  <String ID="string_line_1641287140331_1369"
+                          HEIGHT="50"
+                          WIDTH="111"
+                          VPOS="164"
+                          HPOS="3021"
+                          CONTENT="8"/>
+               </TextLine>
+               <TextLine ID="line_1641287143853_1374"
+                         BASELINE="3202,271 3297,262"
+                         HEIGHT="59"
+                         WIDTH="99"
+                         VPOS="225"
+                         HPOS="3194">
+                  <String ID="string_line_1641287143853_1374"
+                          HEIGHT="59"
+                          WIDTH="99"
+                          VPOS="225"
+                          HPOS="3194"
+                          CONTENT="5"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_043a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:06.826+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="4111" WIDTH="2727" VPOS="327" HPOS="821">
+               <Shape>
+                  <Polygon POINTS="890,327 821,4419 3548,4438 3488,363"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="928,406 1050,412 1173,416 1296,421 1419,424 1542,428 1665,430 1788,432 1911,434 2034,436 2157,438 2279,440 2402,442 2525,444 2648,446 2771,448 2894,452 3017,455 3140,458 3263,464 3386,468"
+                         HEIGHT="126"
+                         WIDTH="2458"
+                         VPOS="363"
+                         HPOS="928">
+                  <String ID="string_r1l1"
+                          HEIGHT="126"
+                          WIDTH="2458"
+                          VPOS="363"
+                          HPOS="928"
+                          CONTENT="che Herodoto, et Apollodoro: mettono l'edificatione di phoinici di Carthagine molto prima, et sono auttori"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="926,502 1049,507 1171,506 1295,510 1418,512 1542,516 1666,518 1789,520 1897,530 2037,525 2161,528 2284,530 2408,532 2532,534 2655,536 2779,540 2903,544 3026,546 3150,550 3274,554 3398,560"
+                         HEIGHT="127"
+                         WIDTH="2474"
+                         VPOS="454"
+                         HPOS="924">
+                  <String ID="string_r1l2"
+                          HEIGHT="127"
+                          WIDTH="2474"
+                          VPOS="454"
+                          HPOS="924"
+                          CONTENT="antichi à Virgilio: onde non confrontandosi con esso poeta conviene, che egli habbi voluto ornare il suo poe"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="928,590 1051,596 1174,592 1297,597 1420,601 1543,604 1666,608 1789,613 1912,616 2035,620 2158,623 2281,626 2404,630 2527,632 2650,636 2773,639 2896,642 3019,646 3142,648 3265,652 3388,656"
+                         HEIGHT="132"
+                         WIDTH="2460"
+                         VPOS="543"
+                         HPOS="928">
+                  <String ID="string_r1l3"
+                          HEIGHT="132"
+                          WIDTH="2460"
+                          VPOS="543"
+                          HPOS="928"
+                          CONTENT="ma, piutosto che dire come la stava. Ma che Roma fusse finalmente da Romolo et Remo edificata"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="924,674 1047,676 1170,680 1293,684 1416,688 1539,694 1662,700 1785,705 1908,710 2031,716 2155,720 2278,726 2401,737 2524,741 2647,738 2770,740 2893,742 3016,744 3139,742 3262,740 3392,743"
+                         HEIGHT="128"
+                         WIDTH="2462"
+                         VPOS="633"
+                         HPOS="922">
+                  <String ID="string_r1l4"
+                          HEIGHT="128"
+                          WIDTH="2462"
+                          VPOS="633"
+                          HPOS="922"
+                          CONTENT="niuno il niega: et sebene si contradicono: et li piu di loro vengono, al medesimo: come sibene confron"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="934,752 1056,756 1179,761 1302,765 1425,772 1548,779 1671,786 1794,793 1917,797 2040,808 2163,815 2285,822 2408,828 2531,833 2654,838 2777,842 2900,844 3023,844 3146,844 3269,841 3392,838"
+                         HEIGHT="153"
+                         WIDTH="2458"
+                         VPOS="711"
+                         HPOS="934">
+                  <String ID="string_r1l5"
+                          HEIGHT="153"
+                          WIDTH="2458"
+                          VPOS="711"
+                          HPOS="934"
+                          CONTENT="tano insieme tutti questi. Trogo Pompeio, Livio, et l'altri scrittori latini: et vengono accertare, che"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="920,838 1044,842 1169,845 1293,851 1418,856 1543,864 1667,871 1792,877 1916,885 2041,893 2166,900 2290,908 2415,915 2539,922 2664,928 2789,932 2913,937 3038,941 3162,944 3287,944 3412,944"
+                         HEIGHT="163"
+                         WIDTH="2492"
+                         VPOS="800"
+                         HPOS="920">
+                  <String ID="string_r1l6"
+                          HEIGHT="163"
+                          WIDTH="2492"
+                          VPOS="800"
+                          HPOS="920"
+                          CONTENT="Romolo et Remo l'edificasse: discesi dala stirpa deli Re Albani. Onde Lucio Cincio, che loro allegano"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="932,945 1056,950 1180,955 1304,960 1428,965 1552,969 1676,973 1800,977 1924,981 2048,986 2172,989 2296,995 2420,999 2544,1005 2668,1011 2792,1017 2916,1025 3040,1034 3164,1044 3288,1053 3412,1065"
+                         HEIGHT="177"
+                         WIDTH="2480"
+                         VPOS="902"
+                         HPOS="934">
+                  <String ID="string_r1l7"
+                          HEIGHT="177"
+                          WIDTH="2480"
+                          VPOS="902"
+                          HPOS="934"
+                          CONTENT="dell'ordine senatorio, scrisse, che essa edificatione fu nel quarto della undecima olympiade, et non nel"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="920,1044 1045,1048 1170,1050 1295,1054 1420,1056 1545,1060 1670,1062 1795,1064 1920,1067 2045,1070 2171,1074 2296,1078 2421,1083 2546,1089 2671,1095 2796,1102 2921,1112 3046,1121 3171,1132 3296,1145 3422,1160"
+                         HEIGHT="182"
+                         WIDTH="2502"
+                         VPOS="1000"
+                         HPOS="920">
+                  <String ID="string_r1l8"
+                          HEIGHT="182"
+                          WIDTH="2502"
+                          VPOS="1000"
+                          HPOS="920"
+                          CONTENT="primo della settima. Et Quinesto Fabio; disse nel primo dell'ottava, Porcio Catone non distinse"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="934,1165 1057,1158 1180,1162 1303,1164 1427,1166 1550,1168 1673,1170 1797,1172 1920,1174 2043,1176 2167,1178 2290,1180 2413,1184 2536,1188 2660,1194 2783,1200 2906,1206 3030,1215 3153,1226 3276,1236 3400,1250"
+                         HEIGHT="161"
+                         WIDTH="2466"
+                         VPOS="1111"
+                         HPOS="924">
+                  <String ID="string_r1l9"
+                          HEIGHT="161"
+                          WIDTH="2466"
+                          VPOS="1111"
+                          HPOS="924"
+                          CONTENT="il tempo all'uso greco delle olympiadi: ma molto diligentemente narra et affermando essere stata"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="920,1266 1044,1270 1169,1274 1293,1276 1418,1278 1542,1280 1667,1280 1791,1280 1916,1280 2040,1282 2165,1282 2289,1284 2414,1284 2538,1288 2663,1290 2787,1296 2912,1301 3036,1308 3161,1318 3285,1329 3410,1342"
+                         HEIGHT="143"
+                         WIDTH="2490"
+                         VPOS="1221"
+                         HPOS="920">
+                  <String ID="string_r1l10"
+                          HEIGHT="143"
+                          WIDTH="2490"
+                          VPOS="1221"
+                          HPOS="920"
+                          CONTENT="l'edificatione ultima doppo la presa di Ilio quattrocento trenta duoi. anni. il cui tempo misura"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="932,1366 1054,1372 1177,1378 1299,1383 1422,1386 1544,1390 1667,1392 1789,1394 1912,1396 2034,1396 2157,1398 2279,1400 2402,1400 2524,1402 2647,1404 2769,1406 2892,1410 3014,1413 3137,1418 3259,1423 3382,1430"
+                         HEIGHT="131"
+                         WIDTH="2450"
+                         VPOS="1321"
+                         HPOS="932">
+                  <String ID="string_r1l11"
+                          HEIGHT="131"
+                          WIDTH="2450"
+                          VPOS="1321"
+                          HPOS="932"
+                          CONTENT="to con la discrittione di Eratosthene, cade sotto all'anno primo delasettima olympiade. Polybio,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="932,1478 1054,1484 1177,1490 1300,1494 1422,1498 1545,1502 1668,1504 1790,1506 1913,1508 2036,1510 2159,1510 2281,1512 2404,1514 2527,1514 2649,1516 2772,1518 2895,1522 3017,1524 3140,1528 3263,1534 3386,1540"
+                         HEIGHT="129"
+                         WIDTH="2454"
+                         VPOS="1433"
+                         HPOS="932">
+                  <String ID="string_r1l12"
+                          HEIGHT="129"
+                          WIDTH="2454"
+                          VPOS="1433"
+                          HPOS="932"
+                          CONTENT="Megalopolitano dice nel secondo anno di essa settima olympiade, et il medesimo dice Pamphilo"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="934,1608 1057,1608 1181,1608 1304,1614 1428,1614 1551,1608 1675,1610 1798,1610 1922,1610 2045,1610 2169,1612 2292,1612 2416,1614 2539,1614 2663,1616 2786,1618 2910,1619 3033,1621 3157,1624 3280,1626 3408,1630"
+                         HEIGHT="87"
+                         WIDTH="2470"
+                         VPOS="1563"
+                         HPOS="934">
+                  <String ID="string_r1l13"
+                          HEIGHT="87"
+                          WIDTH="2470"
+                          VPOS="1563"
+                          HPOS="934"
+                          CONTENT="Cesariense nella chromia, come afferma Catone, in che condescende il sudetto Dionysio Alicarnasseo."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="922,1700 1047,1700 1173,1700 1299,1700 1425,1702 1551,1702 1677,1704 1803,1704 1929,1706 2055,1707 2181,1708 2306,1710 2432,1712 2558,1712 2684,1714 2810,1716 2936,1718 3062,1718 3188,1720 3314,1722 3440,1722"
+                         HEIGHT="83"
+                         WIDTH="2518"
+                         VPOS="1659"
+                         HPOS="922">
+                  <String ID="string_r1l14"
+                          HEIGHT="83"
+                          WIDTH="2518"
+                          VPOS="1659"
+                          HPOS="922"
+                          CONTENT="Per cio che Romolo come dicono dall'anno primo della detta olympiade, insino che egli si parti trali viventi."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="936,1796 1061,1796 1186,1796 1311,1796 1436,1796 1561,1796 1686,1796 1811,1798 1936,1798 2061,1798 2186,1798 2311,1798 2436,1800 2561,1800 2686,1800 2811,1802 2936,1802 3061,1802 3186,1804 3311,1804 3436,1804"
+                         HEIGHT="69"
+                         WIDTH="2500"
+                         VPOS="1755"
+                         HPOS="936">
+                  <String ID="string_r1l15"
+                          HEIGHT="69"
+                          WIDTH="2500"
+                          VPOS="1755"
+                          HPOS="936"
+                          CONTENT="passarono trentasette anni d'imperio: et uno anno di interregno. fucreato Numa Re successore, che regnò"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="952,1882 1076,1882 1200,1884 1324,1884 1449,1884 1573,1886 1697,1886 1822,1888 1946,1888 2070,1890 2195,1892 2319,1892 2443,1894 2567,1896 2692,1897 2816,1898 2940,1900 3065,1900 3189,1900 3313,1902 3438,1902"
+                         HEIGHT="86"
+                         WIDTH="2486"
+                         VPOS="1838"
+                         HPOS="952">
+                  <String ID="string_r1l16"
+                          HEIGHT="86"
+                          WIDTH="2486"
+                          VPOS="1838"
+                          HPOS="952"
+                          CONTENT="quaranta sette anni. Doppo Numa Tullo Hostilio tenne la signoria anni trentaduoi. A cui Anco Mar¬"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="952,1986 1076,1984 1201,1984 1326,1984 1451,1986 1576,1986 1700,1986 1825,1986 1950,1986 2075,1986 2200,1986 2324,1988 2449,1988 2574,1988 2699,1988 2824,1990 2948,1990 3073,1990 3198,1990 3323,1990 3456,1994"
+                         HEIGHT="72"
+                         WIDTH="2496"
+                         VPOS="1940"
+                         HPOS="952">
+                  <String ID="string_r1l17"
+                          HEIGHT="72"
+                          WIDTH="2496"
+                          VPOS="1940"
+                          HPOS="952"
+                          CONTENT="tio succeduto regno ventiquattro anni, di poi Tarquinio Prisco anni quaranta quattro. A cui suc"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="934,2082 1059,2081 1184,2080 1309,2080 1435,2080 1560,2080 1685,2080 1811,2080 1936,2080 2061,2080 2187,2080 2312,2080 2437,2080 2562,2082 2688,2082 2813,2082 2938,2082 3064,2082 3189,2082 3314,2082 3440,2082"
+                         HEIGHT="69"
+                         WIDTH="2506"
+                         VPOS="2035"
+                         HPOS="934">
+                  <String ID="string_r1l18"
+                          HEIGHT="69"
+                          WIDTH="2506"
+                          VPOS="2035"
+                          HPOS="934"
+                          CONTENT="cedendo Servio Tullio sendo ammazzato et postosi inluogo suo Tarquinio Superbo Tyranno et stet"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="952,2166 1076,2168 1200,2170 1324,2170 1448,2170 1573,2172 1697,2172 1821,2172 1945,2172 2069,2174 2194,2174 2318,2174 2442,2174 2566,2174 2690,2174 2815,2174 2939,2174 3063,2174 3187,2176 3311,2176 3436,2176"
+                         HEIGHT="77"
+                         WIDTH="2484"
+                         VPOS="2121"
+                         HPOS="952">
+                  <String ID="string_r1l19"
+                          HEIGHT="77"
+                          WIDTH="2484"
+                          VPOS="2121"
+                          HPOS="952"
+                          CONTENT="tero per vinticinque anni inquesto governo. et sendo cacciato Tarquinio. i Re durarono sinqui du"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="942,2278 1066,2280 1191,2280 1316,2281 1441,2282 1566,2282 1691,2282 1816,2282 1941,2282 2066,2282 2191,2280 2315,2280 2440,2280 2565,2280 2690,2278 2815,2278 2940,2278 3065,2278 3190,2278 3315,2278 3440,2278"
+                         HEIGHT="71"
+                         WIDTH="2498"
+                         VPOS="2233"
+                         HPOS="942">
+                  <String ID="string_r1l20"
+                          HEIGHT="71"
+                          WIDTH="2498"
+                          VPOS="2233"
+                          HPOS="942"
+                          CONTENT="cento quarantaquattro anni, che importano sessanta olympiadi. tal che Romolo prese lo imperio in"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="934,2384 1059,2384 1185,2384 1311,2384 1437,2384 1563,2384 1689,2384 1815,2384 1941,2384 2067,2384 2193,2384 2318,2384 2444,2386 2570,2386 2696,2386 2822,2386 2948,2386 3074,2388 3200,2388 3326,2388 3452,2388"
+                         HEIGHT="71"
+                         WIDTH="2518"
+                         VPOS="2339"
+                         HPOS="934">
+                  <String ID="string_r1l21"
+                          HEIGHT="71"
+                          WIDTH="2518"
+                          VPOS="2339"
+                          HPOS="934"
+                          CONTENT="detto tempo nel primo della settima olympiade. Regnando in Athene Charopo nel primo anno del"/>
+               </TextLine>
+               <TextLine ID="line_1643715483769_633"
+                         BASELINE="936,2486 1062,2486 1188,2488 1314,2488 1440,2488 1567,2490 1693,2490 1819,2490 1945,2490 2071,2490 2198,2490 2324,2490 2450,2490 2576,2492 2594,2492"
+                         HEIGHT="73"
+                         WIDTH="1658"
+                         VPOS="2441"
+                         HPOS="936">
+                  <String ID="string_line_1643715483769_633"
+                          HEIGHT="73"
+                          WIDTH="1658"
+                          VPOS="2441"
+                          HPOS="936"
+                          CONTENT="suo decennio. et di questo tempo niuno è delli scrittori greci et latini"/>
+               </TextLine>
+               <TextLine ID="line_1643715494661_637"
+                         BASELINE="2582,2449 2623,2449"
+                         HEIGHT="50"
+                         WIDTH="41"
+                         VPOS="2404"
+                         HPOS="2582">
+                  <String ID="string_line_1643715494661_637"
+                          HEIGHT="50"
+                          WIDTH="41"
+                          VPOS="2404"
+                          HPOS="2582"
+                          CONTENT="e"/>
+               </TextLine>
+               <TextLine ID="line_1643715483768_632"
+                         BASELINE="2594,2498 2702,2498 2829,2492 2955,2494 3081,2496 3207,2498 3333,2500 3460,2502"
+                         HEIGHT="77"
+                         WIDTH="866"
+                         VPOS="2447"
+                         HPOS="2594">
+                  <String ID="string_line_1643715483768_632"
+                          HEIGHT="77"
+                          WIDTH="866"
+                          VPOS="2447"
+                          HPOS="2594"
+                          CONTENT="chelnegano. Et vogliono che in Alba"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="928,2597 1051,2597 1175,2595 1299,2595 1423,2595 1547,2595 1671,2595 1795,2595 1919,2595 2043,2595 2167,2595 2290,2595 2414,2595 2538,2593 2662,2593 2786,2593 2912,2594 3034,2593 3158,2591 3282,2591 3406,2591"
+                         HEIGHT="73"
+                         WIDTH="2478"
+                         VPOS="2541"
+                         HPOS="928">
+                  <String ID="string_r1l23"
+                          HEIGHT="73"
+                          WIDTH="2478"
+                          VPOS="2541"
+                          HPOS="928"
+                          CONTENT="Longa Romolo rimettesse in stato Numitore havendo gittato dalla Regia Amulio perseguitore del suo"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="952,2692 1077,2690 1203,2690 1329,2689 1454,2688 1580,2688 1706,2688 1831,2688 1957,2690 2083,2690 2209,2690 2334,2690 2460,2690 2586,2690 2711,2690 2837,2690 2963,2688 3088,2688 3214,2686 3340,2684 3466,2682"
+                         HEIGHT="77"
+                         WIDTH="2514"
+                         VPOS="2637"
+                         HPOS="952">
+                  <String ID="string_r1l24"
+                          HEIGHT="77"
+                          WIDTH="2514"
+                          VPOS="2637"
+                          HPOS="952"
+                          CONTENT="perentato. Et poscia che Amulio à se tirato havea il Regno dell'Albani tolto via la parte di Numitore"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="938,2786 1064,2788 1190,2790 1316,2790 1442,2792 1568,2792 1694,2792 1820,2792 1946,2790 2072,2790 2199,2788 2325,2788 2451,2786 2577,2786 2703,2786 2829,2784 2955,2784 3081,2785 3207,2786 3344,2796 3471,2798"
+                         HEIGHT="75"
+                         WIDTH="2522"
+                         VPOS="2739"
+                         HPOS="938">
+                  <String ID="string_r1l25"
+                          HEIGHT="75"
+                          WIDTH="2522"
+                          VPOS="2739"
+                          HPOS="938"
+                          CONTENT="sene stava senza pensiero et sicuro nel suo inleggitimo stato. tenendosi sadisfatto dihavere tolto gli honori"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="940,2892 1064,2892 1189,2892 1314,2892 1438,2890 1563,2890 1688,2890 1812,2888 1937,2888 2062,2888 2187,2886 2311,2886 2436,2884 2561,2884 2685,2882 2810,2882 2935,2880 3059,2880 3184,2879 3309,2878 3434,2878"
+                         HEIGHT="74"
+                         WIDTH="2494"
+                         VPOS="2838"
+                         HPOS="940">
+                  <String ID="string_r1l26"
+                          HEIGHT="74"
+                          WIDTH="2494"
+                          VPOS="2838"
+                          HPOS="940"
+                          CONTENT="et la potesta à Numitore suo fratello. et per queste cose ingiuste che fece fu fatto à tutti odioso, et non te"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="930,2972 1057,2974 1184,2976 1311,2978 1438,2980 1565,2982 1692,2982 1819,2984 1946,2984 2073,2986 2201,2986 2328,2986 2455,2986 2582,2986 2709,2986 2836,2986 2963,2986 3090,2986 3217,2986 3344,2984 3472,2984"
+                         HEIGHT="74"
+                         WIDTH="2542"
+                         VPOS="2932"
+                         HPOS="930">
+                  <String ID="string_r1l27"
+                          HEIGHT="74"
+                          WIDTH="2542"
+                          VPOS="2932"
+                          HPOS="930"
+                          CONTENT="meva alcuna punitione che potesse venire à vendicare le sue sceleratezze: havendo posto ogni vigore"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="948,3058 1073,3062 1198,3064 1323,3066 1448,3068 1573,3070 1698,3072 1823,3074 1948,3074 2073,3076 2199,3076 2324,3078 2449,3078 2574,3080 2699,3082 2824,3083 2949,3084 3074,3087 3199,3090 3324,3092 3450,3096"
+                         HEIGHT="102"
+                         WIDTH="2502"
+                         VPOS="3015"
+                         HPOS="948">
+                  <String ID="string_r1l28"
+                          HEIGHT="102"
+                          WIDTH="2502"
+                          VPOS="3015"
+                          HPOS="948"
+                          CONTENT="di Numitore lontan'del suo stato. Et oltre all'altre cose atrocimente fatte fece questo. Un figliuolo di Nu"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="930,3162 1056,3164 1182,3166 1308,3168 1434,3170 1560,3172 1686,3173 1812,3174 1938,3175 2064,3176 2191,3176 2317,3178 2443,3178 2569,3180 2695,3180 2821,3182 2947,3184 3073,3186 3199,3188 3325,3190 3452,3194"
+                         HEIGHT="99"
+                         WIDTH="2522"
+                         VPOS="3117"
+                         HPOS="930">
+                  <String ID="string_r1l29"
+                          HEIGHT="99"
+                          WIDTH="2522"
+                          VPOS="3117"
+                          HPOS="930"
+                          CONTENT="mitore chiamato Egesto, allhora di prima barba uccise nella caccia in un'luogo oscuro pieno di sivestri"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="932,3260 1056,3262 1181,3264 1306,3266 1431,3268 1556,3270 1681,3270 1806,3272 1931,3274 2056,3274 2181,3276 2305,3276 2430,3278 2555,3278 2680,3280 2805,3280 2930,3280 3055,3282 3180,3282 3305,3282 3430,3284"
+                         HEIGHT="91"
+                         WIDTH="2498"
+                         VPOS="3215"
+                         HPOS="932">
+                  <String ID="string_r1l30"
+                          HEIGHT="91"
+                          WIDTH="2498"
+                          VPOS="3215"
+                          HPOS="932"
+                          CONTENT="sterpi, dando nome esser quel misero da ladroni stato ammazzato. La qual cosa saputa da Numitore"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="946,3352 1071,3354 1197,3356 1323,3358 1449,3359 1575,3360 1701,3360 1827,3360 1953,3360 2079,3362 2205,3362 2330,3362 2456,3362 2582,3362 2708,3364 2834,3366 2960,3367 3086,3370 3212,3372 3338,3376 3492,3398"
+                         HEIGHT="95"
+                         WIDTH="2518"
+                         VPOS="3307"
+                         HPOS="946">
+                  <String ID="string_r1l31"
+                          HEIGHT="95"
+                          WIDTH="2518"
+                          VPOS="3307"
+                          HPOS="946"
+                          CONTENT="suo padre la dissimulò, aspettando meglior'occasione di vendicarsi. Amulio dipoi fece sacerdotessa di Vesta"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="930,3454 1056,3454 1182,3456 1308,3458 1434,3458 1560,3460 1686,3460 1812,3462 1938,3462 2064,3464 2191,3464 2317,3466 2443,3467 2569,3468 2695,3470 2821,3472 2947,3474 3073,3476 3199,3478 3325,3480 3452,3484"
+                         HEIGHT="93"
+                         WIDTH="2522"
+                         VPOS="3412"
+                         HPOS="930">
+                  <String ID="string_r1l32"
+                          HEIGHT="93"
+                          WIDTH="2522"
+                          VPOS="3412"
+                          HPOS="930"
+                          CONTENT="Rhea Silvia altramente detta Ilia figliuola di Numitore et sorella d'Egesto, accio che non piu si ma"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="950,3562 1074,3562 1199,3562 1323,3562 1448,3562 1572,3562 1697,3562 1821,3562 1946,3562 2070,3562 2195,3562 2319,3562 2444,3562 2568,3562 2693,3562 2817,3562 2942,3564 3066,3564 3191,3564 3315,3564 3440,3564"
+                         HEIGHT="65"
+                         WIDTH="2490"
+                         VPOS="3520"
+                         HPOS="950">
+                  <String ID="string_r1l33"
+                          HEIGHT="65"
+                          WIDTH="2490"
+                          VPOS="3520"
+                          HPOS="950"
+                          CONTENT="ritasse, e non procreasse figliuoli, che potessero far vendetta del suo sangue: per cio che secondo le sa"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="944,3668 1068,3666 1192,3664 1316,3664 1440,3662 1564,3662 1688,3660 1812,3660 1936,3660 2060,3660 2185,3660 2309,3660 2433,3658 2557,3658 2681,3658 2805,3658 2929,3658 3053,3658 3177,3656 3301,3656 3426,3654"
+                         HEIGHT="81"
+                         WIDTH="2482"
+                         VPOS="3609"
+                         HPOS="944">
+                  <String ID="string_r1l34"
+                          HEIGHT="81"
+                          WIDTH="2482"
+                          VPOS="3609"
+                          HPOS="944"
+                          CONTENT="cre leggi trenta anni conveniva stare nel sacro luogho dela Dea Vesta, et poscia poteva maritarsi."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="950,3764 1075,3766 1200,3766 1325,3766 1451,3766 1576,3766 1701,3764 1827,3764 1952,3764 2077,3762 2203,3762 2328,3760 2453,3760 2578,3760 2704,3760 2829,3758 2954,3758 3080,3758 3205,3760 3330,3760 3456,3762"
+                         HEIGHT="75"
+                         WIDTH="2506"
+                         VPOS="3713"
+                         HPOS="950">
+                  <String ID="string_r1l35"
+                          HEIGHT="75"
+                          WIDTH="2506"
+                          VPOS="3713"
+                          HPOS="950"
+                          CONTENT="et con questo modo, come se volesse honorare la fanciulla. Numitore ad dunque sendo privo del sta"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="958,3860 1083,3860 1209,3860 1334,3860 1460,3860 1585,3860 1711,3860 1836,3860 1962,3860 2087,3860 2213,3860 2338,3860 2464,3860 2589,3860 2715,3860 2840,3860 2966,3860 3091,3860 3217,3860 3342,3860 3485,3877"
+                         HEIGHT="67"
+                         WIDTH="2510"
+                         VPOS="3815"
+                         HPOS="958">
+                  <String ID="string_r1l36"
+                          HEIGHT="67"
+                          WIDTH="2510"
+                          VPOS="3815"
+                          HPOS="958"
+                          CONTENT="to et di figliuoli dimorava con gran piacenza. Ma Rhea Silvia, nel quarto anno doppo l'ordine del sacer"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="954,3954 1078,3952 1203,3952 1327,3952 1452,3952 1576,3952 1701,3952 1825,3952 1950,3952 2074,3954 2199,3954 2323,3954 2448,3956 2572,3956 2697,3956 2821,3958 2946,3958 3070,3958 3195,3960 3319,3960 3444,3960"
+                         HEIGHT="75"
+                         WIDTH="2490"
+                         VPOS="3907"
+                         HPOS="954">
+                  <String ID="string_r1l37"
+                          HEIGHT="75"
+                          WIDTH="2490"
+                          VPOS="3907"
+                          HPOS="954"
+                          CONTENT="dotio, andata nella selva di Marte, per portarne dell'acqua dal fonte perla cerimonia del sacri"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="952,4056 1078,4056 1205,4058 1332,4058 1459,4058 1586,4058 1712,4058 1839,4058 1966,4056 2093,4056 2220,4056 2346,4056 2473,4056 2600,4054 2727,4056 2854,4056 2980,4056 3107,4058 3234,4059 3408,4065 3487,4098"
+                         HEIGHT="77"
+                         WIDTH="2536"
+                         VPOS="4009"
+                         HPOS="952">
+                  <String ID="string_r1l38"
+                          HEIGHT="77"
+                          WIDTH="2536"
+                          VPOS="4009"
+                          HPOS="952"
+                          CONTENT="ficio, fu da uno fuor'del Tempio sforzata, et fustimato, che fusse stato uno degli amanti della fanciulla:"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="938,4150 1065,4152 1192,4154 1319,4156 1446,4158 1574,4158 1701,4158 1828,4156 1955,4156 2082,4154 2210,4152 2337,4152 2464,4150 2591,4150 2718,4150 2846,4150 2973,4150 3100,4152 3227,4154 3371,4154 3495,4174"
+                         HEIGHT="77"
+                         WIDTH="2544"
+                         VPOS="4105"
+                         HPOS="938">
+                  <String ID="string_r1l39"
+                          HEIGHT="77"
+                          WIDTH="2544"
+                          VPOS="4105"
+                          HPOS="938"
+                          CONTENT="et alcuni credettero, che fusse stato esso Numitore, non piu per cavarsi la voglia di lebidine, che perfar"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="942,4256 1068,4258 1194,4260 1320,4262 1446,4262 1572,4262 1698,4264 1824,4264 1950,4264 2076,4263 2203,4262 2329,4262 2455,4262 2581,4262 2707,4260 2833,4260 2959,4260 3085,4260 3211,4260 3337,4260 3486,4268"
+                         HEIGHT="75"
+                         WIDTH="2522"
+                         VPOS="4211"
+                         HPOS="942">
+                  <String ID="string_r1l40"
+                          HEIGHT="75"
+                          WIDTH="2522"
+                          VPOS="4211"
+                          HPOS="942"
+                          CONTENT="creare de figliuoli al dispetto d'Amulio. Altri dicono che fu Amulio nontanto per violar quella come"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="954,4354 1080,4354 1207,4356 1334,4356 1460,4356 1587,4356 1714,4358 1840,4358 1967,4358 2094,4358 2221,4360 2347,4360 2474,4360 2601,4360 2727,4362 2854,4362 2981,4364 3107,4365 3234,4366 3361,4368 3488,4370"
+                         HEIGHT="83"
+                         WIDTH="2534"
+                         VPOS="4309"
+                         HPOS="954">
+                  <String ID="string_r1l41"
+                          HEIGHT="83"
+                          WIDTH="2534"
+                          VPOS="4309"
+                          HPOS="954"
+                          CONTENT="per corla in fallo, et farla morire perlo stupendo peccato punirla come si punivano le Vergini Vestali."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

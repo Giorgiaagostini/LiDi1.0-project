@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:42.856+01:00</Created>
+        <LastChange>2022-05-18T22:33:06.624+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903078" pageNr="197" tsid="82546593" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=QLXZKNELEEBLPNSCVZMZYSAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GNGQOYGCXWKZBIXXQKKABWRV" imageId="17874065"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_099a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337520939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1650529750464_388"/>
+                <RegionRefIndexed index="1" regionRef="region_1650529761222_394"/>
+                <RegionRefIndexed index="2" regionRef="region_1650529777529_400"/>
+                <RegionRefIndexed index="3" regionRef="region_1650529773118_397"/>
+                <RegionRefIndexed index="4" regionRef="region_1650529780904_403"/>
+                <RegionRefIndexed index="5" regionRef="region_1650529783009_406"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1650529742292_379"/>
+                <RegionRefIndexed index="7" regionRef="region_1650529793518_409"/>
+                <RegionRefIndexed index="8" regionRef="region_1650529800402_412"/>
+                <RegionRefIndexed index="9" regionRef="region_1650529802290_415"/>
+                <RegionRefIndexed index="10" regionRef="region_1650529804528_418"/>
+                <RegionRefIndexed index="11" regionRef="region_1650529806984_421"/>
+                <RegionRefIndexed index="12" regionRef="region_1650529814319_424"/>
+                <RegionRefIndexed index="13" regionRef="region_1650529816407_427"/>
+                <RegionRefIndexed index="14" regionRef="region_1650529820096_430"/>
+                <RegionRefIndexed index="15" regionRef="region_1650529821916_433"/>
+                <RegionRefIndexed index="16" regionRef="region_1650529831285_436"/>
+                <RegionRefIndexed index="17" regionRef="region_1650529832938_439"/>
+                <RegionRefIndexed index="18" regionRef="region_1650529834842_442"/>
+                <RegionRefIndexed index="19" regionRef="region_1650529836346_445"/>
+                <RegionRefIndexed index="20" regionRef="region_1650529838719_448"/>
+                <RegionRefIndexed index="21" regionRef="region_1650529841958_451"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1650529750464_388" custom="readingOrder {index:0;}">
+            <Coords points="1033,313 3360,242 3360,1126 1043,1126"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1508,441 1573,443 1639,445 1704,445 1770,447 1836,447 1901,447 1967,447 2032,447 2098,447 2164,447 2229,447 2295,447 2360,447 2426,445 2491,445 2557,445 2623,443 2688,443 2754,443 2820,441 2820,377 2754,379 2688,379 2623,379 2557,381 2491,381 2426,381 2360,383 2295,383 2229,383 2164,383 2098,383 2032,383 1967,383 1901,383 1836,383 1770,383 1704,381 1639,381 1573,379 1508,377"/>
+                <Baseline points="1508,420 1573,422 1639,424 1704,424 1770,426 1836,426 1901,426 1967,426 2032,426 2098,426 2164,426 2229,426 2295,426 2360,426 2426,424 2491,424 2557,424 2623,422 2688,422 2754,422 2820,420"/>
+                <TextEquiv>
+                    <Unicode>DELLE SPIRE, OVER' BASE CORINTHIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1190,583 1287,580 1385,579 1482,577 1580,576 1678,575 1775,575 1873,575 1970,575 2068,577 2166,577 2263,579 2361,581 2458,583 2556,585 2654,587 2751,591 2849,593 2946,597 3044,600 3142,603 3142,539 3044,536 2946,533 2849,529 2751,527 2654,523 2556,521 2458,519 2361,517 2263,515 2166,513 2068,513 1970,511 1873,511 1775,511 1678,511 1580,512 1482,513 1385,515 1287,516 1190,519"/>
+                <Baseline points="1190,562 1287,559 1385,558 1482,556 1580,555 1678,554 1775,554 1873,554 1970,554 2068,556 2166,556 2263,558 2361,560 2458,562 2556,564 2654,566 2751,570 2849,572 2946,576 3044,579 3142,582"/>
+                <TextEquiv>
+                    <Unicode>Fu base dell'ordine corinthio del Tempio Heroico fatto ad' honore di Sabina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1222,661 1319,663 1416,663 1513,664 1610,665 1708,666 1805,667 1902,669 1999,669 2096,671 2194,672 2291,673 2388,675 2485,677 2582,679 2680,681 2777,683 2874,685 2971,687 3068,691 3166,693 3166,630 3068,628 2971,624 2874,622 2777,620 2680,618 2582,616 2485,614 2388,612 2291,610 2194,609 2096,608 1999,606 1902,606 1805,604 1708,603 1610,602 1513,601 1416,600 1319,600 1222,598"/>
+                <Baseline points="1222,640 1319,642 1416,642 1513,643 1610,644 1708,645 1805,646 1902,648 1999,648 2096,650 2194,651 2291,652 2388,654 2485,656 2582,658 2680,660 2777,662 2874,664 2971,666 3068,670 3166,672"/>
+                <TextEquiv>
+                    <Unicode>moglie di Hadriano imperadore, ch'era poco discosto al Foro Traiano verso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1214,769 1310,765 1407,761 1504,759 1601,757 1698,755 1794,755 1891,755 1988,755 2085,755 2182,757 2278,759 2375,761 2472,764 2569,768 2666,771 2762,775 2859,780 2956,785 3053,789 3150,795 3150,732 3053,726 2956,722 2859,717 2762,712 2666,708 2569,705 2472,701 2375,698 2278,696 2182,694 2085,692 1988,692 1891,692 1794,692 1698,692 1601,694 1504,696 1407,698 1310,702 1214,706"/>
+                <Baseline points="1214,748 1310,744 1407,740 1504,738 1601,736 1698,734 1794,734 1891,734 1988,734 2085,734 2182,736 2278,738 2375,740 2472,743 2569,747 2666,750 2762,754 2859,759 2956,764 3053,768 3150,774"/>
+                <TextEquiv>
+                    <Unicode>la piazza che hora si dice di Santi Apostoli, Iacovo et philippo. ove fù</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1222,873 1318,869 1414,867 1510,864 1606,861 1702,861 1798,859 1894,859 1990,859 2086,859 2182,861 2278,862 2374,864 2470,866 2566,869 2662,871 2758,875 2854,878 2950,882 3046,887 3142,891 3142,828 3046,824 2950,819 2854,815 2758,812 2662,808 2566,806 2470,803 2374,801 2278,799 2182,798 2086,796 1990,796 1894,796 1798,796 1702,798 1606,798 1510,801 1414,804 1318,806 1222,810"/>
+                <Baseline points="1222,852 1318,848 1414,846 1510,843 1606,840 1702,840 1798,838 1894,838 1990,838 2086,838 2182,840 2278,841 2374,843 2470,845 2566,848 2662,850 2758,854 2854,857 2950,861 3046,866 3142,870"/>
+                <TextEquiv>
+                    <Unicode>rono trovate alcune in scrittioni et statoe rovinate. et le colonne erano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1238,965 1333,961 1428,959 1523,957 1618,957 1714,957 1809,957 1904,959 1999,961 2094,961 2190,965 2285,967 2380,969 2475,971 2570,973 2666,975 2761,977 2856,977 2951,979 3046,977 3142,977 3142,914 3046,914 2951,916 2856,914 2761,914 2666,912 2570,910 2475,908 2380,906 2285,904 2190,902 2094,898 1999,898 1904,896 1809,894 1714,894 1618,894 1523,894 1428,896 1333,898 1238,902"/>
+                <Baseline points="1238,944 1333,940 1428,938 1523,936 1618,936 1714,936 1809,936 1904,938 1999,940 2094,940 2190,944 2285,946 2380,948 2475,950 2570,952 2666,954 2761,956 2856,956 2951,958 3046,956 3142,956"/>
+                <TextEquiv>
+                    <Unicode>del marmo Augustale fatto ad' onde et à colore marino verdeggiante et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1214,1062 1267,1059 1320,1058 1374,1056 1427,1054 1481,1054 1534,1054 1587,1054 1641,1054 1694,1054 1748,1054 1801,1056 1854,1056 1908,1056 1961,1056 2015,1056 2068,1054 2121,1054 2175,1053 2228,1051 2282,1050 2282,989 2228,990 2175,992 2121,993 2068,993 2015,995 1961,995 1908,995 1854,995 1801,995 1748,993 1694,993 1641,993 1587,993 1534,993 1481,993 1427,993 1374,995 1320,997 1267,998 1214,1001"/>
+                <Baseline points="1214,1042 1267,1039 1320,1038 1374,1036 1427,1034 1481,1034 1534,1034 1587,1034 1641,1034 1694,1034 1748,1034 1801,1036 1854,1036 1908,1036 1961,1036 2015,1036 2068,1034 2121,1034 2175,1033 2228,1031 2282,1030"/>
+                <TextEquiv>
+                    <Unicode>fatto à giri di diverse forme macchiato.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DELLE SPIRE, OVER' BASE CORINTHIE
+Fu base dell'ordine corinthio del Tempio Heroico fatto ad' honore di Sabina
+moglie di Hadriano imperadore, ch'era poco discosto al Foro Traiano verso
+la piazza che hora si dice di Santi Apostoli, Iacovo et philippo. ove fù
+rono trovate alcune in scrittioni et statoe rovinate. et le colonne erano
+del marmo Augustale fatto ad' onde et à colore marino verdeggiante et
+fatto à giri di diverse forme macchiato.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529761222_394" custom="readingOrder {index:1;}">
+            <Coords points="1923,1388 2789,1388 2789,1499 1923,1499"/>
+            <TextLine id="line_1651511666646_3475" custom="readingOrder {index:0;}">
+                <Coords points="1935,1419 2091,1410 2250,1416 2479,1416 2520,1411 2542,1432 2586,1416 2681,1421 2753,1424 2751,1474 2679,1471 2590,1466 2529,1481 2507,1460 2485,1466 2249,1466 2091,1460 1938,1469"/>
+                <Baseline points="1938,1464 2091,1455 2249,1461 2484,1461 2508,1455 2530,1476 2590,1461 2679,1466 2751,1469"/>
+                <TextEquiv>
+                    <Unicode>Palmi tre di diametro. et once 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Palmi tre di diametro. et once 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529777529_400" custom="readingOrder {index:2;}">
+            <Coords points="2876,1445 2976,1445 2976,1653 2876,1653"/>
+            <TextLine id="line_1651511681987_3481" custom="readingOrder {index:0;} unclear {offset:5; length:1;}">
+                <Coords points="2876,1633 2906,1532 2901,1471 2951,1468 2956,1538 2924,1647"/>
+                <Baseline points="2919,1646 2951,1537 2946,1468"/>
+                <TextEquiv>
+                    <Unicode>on 3 ÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>on 3 ÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529773118_397" custom="readingOrder {index:3;}">
+            <Coords points="2836,1627 2884,1627 2884,1732 2836,1732"/>
+            <TextLine id="line_1651511720808_3493" custom="readingOrder {index:0;}">
+                <Coords points="2816,1695 2830,1669 2834,1634 2884,1641 2878,1685 2860,1718"/>
+                <Baseline points="2856,1716 2873,1683 2879,1640"/>
+                <TextEquiv>
+                    <Unicode>2•1•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2•1•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529780904_403" custom="readingOrder {index:4;}">
+            <Coords points="2964,1789 3046,1789 3046,1870 2964,1870"/>
+            <TextLine id="line_1651511764844_3508" custom="readingOrder {index:0;}">
+                <Coords points="2979,1855 2977,1803 3027,1801 3029,1853"/>
+                <Baseline points="3024,1853 3022,1801"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529783009_406" custom="readingOrder {index:5;}">
+            <Coords points="2966,1908 3056,1908 3056,2105 2966,2105"/>
+            <TextLine id="line_1651511773937_3514" custom="readingOrder {index:0;} unclear {offset:5; length:1;}">
+                <Coords points="2962,2072 2976,1960 2999,1940 2993,1937 3042,1927 3047,1954 3022,1981 3012,2078"/>
+                <Baseline points="3007,2077 3017,1979 3042,1953 3037,1928"/>
+                <TextEquiv>
+                    <Unicode>On 5 ÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>On 5 ÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650529742292_379" custom="readingOrder {index:6;}">
+            <Coords points="1057,2235 3361,2235 3362,2929 1067,2929"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+                <Coords points="1094,2419 1205,2414 1316,2409 1427,2406 1538,2403 1649,2401 1760,2401 1871,2399 1982,2401 2093,2401 2204,2403 2315,2405 2426,2407 2537,2410 2648,2414 2759,2417 2870,2421 2981,2427 3092,2431 3203,2437 3314,2441 3314,2377 3203,2373 3092,2367 2981,2363 2870,2357 2759,2353 2648,2350 2537,2346 2426,2343 2315,2341 2204,2339 2093,2337 1982,2337 1871,2335 1760,2337 1649,2337 1538,2339 1427,2342 1316,2345 1205,2350 1094,2355"/>
+                <Baseline points="1094,2398 1205,2393 1316,2388 1427,2385 1538,2382 1649,2380 1760,2380 1871,2378 1982,2380 2093,2380 2204,2382 2315,2384 2426,2386 2537,2389 2648,2393 2759,2396 2870,2400 2981,2406 3092,2410 3203,2416 3314,2420"/>
+                <TextEquiv>
+                    <Unicode>La spira qui disotto fu dell'ornamento di uno dell'edificij dell'ordine corinthio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;}">
+                <Coords points="1254,2521 1352,2516 1451,2512 1549,2508 1648,2506 1747,2503 1845,2503 1944,2501 2042,2501 2141,2501 2240,2501 2338,2503 2437,2505 2535,2507 2634,2510 2733,2513 2831,2517 2930,2521 3028,2525 3127,2530 3226,2535 3226,2471 3127,2466 3028,2461 2930,2457 2831,2453 2733,2449 2634,2446 2535,2443 2437,2441 2338,2439 2240,2437 2141,2437 2042,2437 1944,2437 1845,2439 1747,2439 1648,2442 1549,2444 1451,2448 1352,2452 1254,2457"/>
+                <Baseline points="1254,2500 1352,2495 1451,2491 1549,2487 1648,2485 1747,2482 1845,2482 1944,2480 2042,2480 2141,2480 2240,2480 2338,2482 2437,2484 2535,2486 2634,2489 2733,2492 2831,2496 2930,2500 3028,2504 3127,2509 3226,2514"/>
+                <TextEquiv>
+                    <Unicode>ch'fu gia nella piazza dove è la colonna historiata dell'Antonini. do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+                <Coords points="1238,2621 1339,2618 1440,2614 1541,2611 1642,2608 1743,2605 1844,2603 1945,2601 2046,2601 2147,2601 2248,2601 2349,2601 2450,2603 2551,2605 2652,2607 2753,2611 2854,2615 2955,2620 3056,2626 3157,2632 3258,2641 3258,2577 3157,2568 3056,2562 2955,2556 2854,2551 2753,2547 2652,2543 2551,2541 2450,2539 2349,2537 2248,2537 2147,2537 2046,2537 1945,2537 1844,2539 1743,2541 1642,2544 1541,2547 1440,2550 1339,2554 1238,2557"/>
+                <Baseline points="1238,2600 1339,2597 1440,2593 1541,2590 1642,2587 1743,2584 1844,2582 1945,2580 2046,2580 2147,2580 2248,2580 2349,2580 2450,2582 2551,2584 2652,2586 2753,2590 2854,2594 2955,2599 3056,2605 3157,2611 3258,2620"/>
+                <TextEquiv>
+                    <Unicode>ve furono cavati molti marmi at sassi quadrati, ma quei pochi orna ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="1238,2715 1341,2710 1444,2705 1548,2703 1651,2699 1755,2697 1858,2697 1961,2695 2065,2695 2168,2696 2272,2697 2375,2699 2478,2701 2582,2705 2685,2707 2789,2713 2892,2717 2995,2723 3099,2729 3202,2735 3306,2743 3306,2698 3202,2690 3099,2684 2995,2678 2892,2672 2789,2668 2685,2662 2582,2660 2478,2656 2375,2654 2272,2652 2168,2651 2065,2650 1961,2650 1858,2652 1755,2652 1651,2654 1548,2658 1444,2660 1341,2665 1238,2670"/>
+                <Baseline points="1238,2700 1341,2695 1444,2690 1548,2688 1651,2684 1755,2682 1858,2682 1961,2680 2065,2680 2168,2681 2272,2682 2375,2684 2478,2686 2582,2690 2685,2692 2789,2698 2892,2702 2995,2708 3099,2714 3202,2720 3306,2728"/>
+                <TextEquiv>
+                    <Unicode>menti che vi erano tutti sono stati consumati da scarpellini. La colonna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="1242,2803 1345,2795 1448,2788 1551,2783 1654,2781 1758,2779 1861,2777 1964,2779 2067,2779 2170,2781 2274,2784 2377,2787 2480,2790 2583,2793 2686,2797 2790,2799 2893,2803 2996,2804 3099,2805 3202,2805 3306,2805 3306,2760 3202,2760 3099,2760 2996,2759 2893,2758 2790,2754 2686,2752 2583,2748 2480,2745 2377,2742 2274,2739 2170,2736 2067,2734 1964,2734 1861,2732 1758,2734 1654,2736 1551,2738 1448,2743 1345,2750 1242,2758"/>
+                <Baseline points="1242,2788 1345,2780 1448,2773 1551,2768 1654,2766 1758,2764 1861,2762 1964,2764 2067,2764 2170,2766 2274,2769 2377,2772 2480,2775 2583,2778 2686,2782 2790,2784 2893,2788 2996,2789 3099,2790 3202,2790 3306,2790"/>
+                <TextEquiv>
+                    <Unicode>sua era striata della forma sotto disegnata nel resto era del marmo bianco et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+                <Coords points="1252,2880 1289,2878 1327,2877 1365,2876 1403,2876 1441,2874 1478,2874 1516,2874 1554,2874 1592,2874 1630,2874 1667,2874 1705,2872 1743,2872 1781,2872 1819,2871 1856,2870 1894,2868 1932,2866 1970,2866 2008,2862 2008,2807 1970,2811 1932,2811 1894,2813 1856,2815 1819,2816 1781,2817 1743,2817 1705,2817 1667,2819 1630,2819 1592,2819 1554,2819 1516,2819 1478,2819 1441,2819 1403,2821 1365,2821 1327,2822 1289,2823 1252,2825"/>
+                <Baseline points="1252,2862 1289,2860 1327,2859 1365,2858 1403,2858 1441,2856 1478,2856 1516,2856 1554,2856 1592,2856 1630,2856 1667,2856 1705,2854 1743,2854 1781,2854 1819,2853 1856,2852 1894,2850 1932,2848 1970,2848 2008,2844"/>
+                <TextEquiv>
+                    <Unicode>negro chiamato Mamurro:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La spira qui disotto fu dell'ornamento di uno dell'edificij dell'ordine corinthio,
+ch'fu gia nella piazza dove è la colonna historiata dell'Antonini. do
+ve furono cavati molti marmi at sassi quadrati, ma quei pochi orna ¬
+menti che vi erano tutti sono stati consumati da scarpellini. La colonna
+sua era striata della forma sotto disegnata nel resto era del marmo bianco et
+negro chiamato Mamurro:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529793518_409" custom="readingOrder {index:7;}">
+            <Coords points="1523,3003 1991,3003 1991,3110 1523,3110"/>
+            <TextLine id="line_1651511810986_3521" custom="readingOrder {index:0;}">
+                <Coords points="1523,3021 1656,3015 1712,3021 1752,3013 1896,3021 1973,3016 1976,3066 1896,3071 1755,3063 1714,3071 1655,3065 1525,3071"/>
+                <Baseline points="1525,3066 1655,3060 1714,3066 1755,3058 1896,3066 1976,3061"/>
+                <TextEquiv>
+                    <Unicode>Palmi 2 once •4•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Palmi 2 once •4•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529800402_412" custom="readingOrder {index:8;}">
+            <Coords points="2897,3129 2966,3129 2966,3226 2897,3226"/>
+            <TextLine id="line_1651511835853_3547" custom="readingOrder {index:0;}">
+                <Coords points="2902,3206 2911,3170 2904,3144 2953,3133 2961,3170 2951,3217"/>
+                <Baseline points="2946,3216 2956,3170 2948,3134"/>
+                <TextEquiv>
+                    <Unicode>o 3•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>o 3•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529802290_415" custom="readingOrder {index:9;}">
+            <Coords points="3008,3141 3381,3141 3381,3245 3008,3245"/>
+            <TextLine id="line_1651511875176_3584" custom="readingOrder {index:0;}">
+                <Coords points="3018,3167 3114,3169 3215,3173 3367,3185 3363,3235 3212,3223 3113,3219 3017,3217"/>
+                <Baseline points="3017,3212 3113,3214 3212,3218 3363,3230"/>
+                <TextEquiv>
+                    <Unicode>Toro superiore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Toro superiore.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529804528_418" custom="readingOrder {index:10;}">
+            <Coords points="2862,3226 2932,3226 2932,3319 2862,3319"/>
+            <TextLine id="line_1651511858113_3577" custom="readingOrder {index:0;}">
+                <Coords points="2861,3312 2862,3228 2912,3229 2911,3313"/>
+                <Baseline points="2906,3313 2907,3229"/>
+                <TextEquiv>
+                    <Unicode>on2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>on2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529806984_421" custom="readingOrder {index:11;}">
+            <Coords points="3059,3263 3245,3263 3245,3323 3059,3323"/>
+            <TextLine id="line_1651511886657_3592" custom="readingOrder {index:0;}">
+                <Coords points="3073,3256 3118,3263 3164,3260 3229,3263 3227,3313 3164,3310 3116,3313 3065,3305"/>
+                <Baseline points="3066,3300 3116,3308 3164,3305 3227,3308"/>
+                <TextEquiv>
+                    <Unicode>scotia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>scotia</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529814319_424" custom="readingOrder {index:12;}">
+            <Coords points="2989,3316 3075,3316 3075,3450 2989,3450"/>
+            <TextLine id="line_1651511896684_3598" custom="readingOrder {index:0;} unclear {offset:4; length:1;}">
+                <Coords points="3007,3429 3021,3385 3019,3328 3069,3327 3071,3392 3055,3443"/>
+                <Baseline points="3050,3442 3066,3391 3064,3327"/>
+                <TextEquiv>
+                    <Unicode>o 3 ÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>o 3 ÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529816407_427" custom="readingOrder {index:13;}">
+            <Coords points="3086,3365 3347,3365 3347,3464 3086,3464"/>
+            <TextLine id="line_1651511909786_3604" custom="readingOrder {index:0;}">
+                <Coords points="3097,3386 3143,3387 3206,3387 3227,3404 3323,3402 3323,3452 3210,3451 3190,3435 3143,3437 3096,3436"/>
+                <Baseline points="3096,3431 3143,3432 3192,3430 3212,3446 3323,3447"/>
+                <TextEquiv>
+                    <Unicode>Toro Arieto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Toro Arieto</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529820096_430" custom="readingOrder {index:14;}">
+            <Coords points="2985,3450 3056,3450 3056,3614 2985,3614"/>
+            <TextLine id="line_1651512114413_3635" custom="readingOrder {index:0;} unclear {offset:5; length:1;}">
+                <Coords points="2971,3587 2994,3488 3007,3445 3055,3459 3043,3500 3020,3598"/>
+                <Baseline points="3015,3597 3038,3499 3050,3458"/>
+                <TextEquiv>
+                    <Unicode>on •5÷•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>on •5÷•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529821916_433" custom="readingOrder {index:15;}">
+            <Coords points="3068,3478 3255,3478 3255,3581 3068,3581"/>
+            <TextLine id="line_1651512104964_3630" custom="readingOrder {index:0;}">
+                <Coords points="3071,3506 3220,3500 3222,3550 3073,3556"/>
+                <Baseline points="3073,3551 3222,3545"/>
+                <TextEquiv>
+                    <Unicode>Plinto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Plinto</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529831285_436" custom="readingOrder {index:16;}">
+            <Coords points="1579,4026 1682,4026 1688,4121 1570,4125"/>
+            <TextLine id="line_1651512189637_3671" custom="readingOrder {index:0;}">
+                <Coords points="1614,4031 1671,4031 1671,4081 1614,4081"/>
+                <Baseline points="1614,4076 1671,4076"/>
+                <TextEquiv>
+                    <Unicode>on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651512191609_3676" custom="readingOrder {index:1;}">
+                <Coords points="1597,4069 1642,4073 1638,4123 1593,4119"/>
+                <Baseline points="1593,4114 1638,4118"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>on
+1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529832938_439" custom="readingOrder {index:17;}">
+            <Coords points="1488,4202 1645,4202 1645,4359 1488,4359"/>
+            <TextLine id="line_1651512226904_3697" custom="readingOrder {index:0;}">
+                <Coords points="1509,4206 1641,4196 1644,4246 1512,4256"/>
+                <Baseline points="1512,4251 1644,4241"/>
+                <TextEquiv>
+                    <Unicode>once</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651512231931_3702" custom="readingOrder {index:1;} unclear {offset:2; length:1;}">
+                <Coords points="1529,4267 1575,4266 1607,4257 1620,4305 1583,4315 1531,4317"/>
+                <Baseline points="1531,4312 1582,4310 1619,4300"/>
+                <TextEquiv>
+                    <Unicode>3 ÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>once
+3 ÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529834842_442" custom="readingOrder {index:18;}">
+            <Coords points="1650,4160 1719,4160 1719,4268 1650,4268"/>
+            <TextLine id="line_1651512174947_3660" custom="readingOrder {index:0;}">
+                <Coords points="1651,4148 1695,4145 1698,4195 1654,4198"/>
+                <Baseline points="1654,4193 1698,4190"/>
+                <TextEquiv>
+                    <Unicode>on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651512177386_3665" custom="readingOrder {index:1;}">
+                <Coords points="1656,4201 1700,4201 1700,4251 1656,4251"/>
+                <Baseline points="1656,4246 1700,4246"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>on
+3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529836346_445" custom="readingOrder {index:19;}">
+            <Coords points="1878,4151 2262,4151 2262,4276 1878,4276"/>
+            <TextLine id="line_1651512135273_3647" custom="readingOrder {index:0;}">
+                <Coords points="1899,4160 2042,4162 2098,4196 2171,4189 2174,4239 2086,4245 2029,4210 1899,4210"/>
+                <Baseline points="1899,4205 2030,4205 2087,4240 2170,4233 2223,4209 2174,4234 2172,4231"/>
+                <TextEquiv>
+                    <Unicode>once 34•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>once 34•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529838719_448" custom="readingOrder {index:20;}">
+            <Coords points="2556,4063 2738,4063 2738,4174 2556,4174"/>
+            <TextLine id="line_1651512166374_3654" custom="readingOrder {index:0;} unclear {offset:5; length:1;}">
+                <Coords points="2550,4097 2591,4085 2675,4090 2691,4115 2709,4121 2739,4118 2741,4168 2700,4170 2657,4151 2648,4132 2599,4134 2564,4145"/>
+                <Baseline points="2563,4140 2598,4129 2651,4128 2660,4147 2701,4165 2741,4163"/>
+                <TextEquiv>
+                    <Unicode>3·1 3÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3·1 3÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650529841958_451" custom="readingOrder {index:21;}">
+            <Coords points="1639,4803 2559,4803 2559,4931 1639,4931"/>
+            <TextLine id="line_1651512209623_3683" custom="readingOrder {index:0;}">
+                <Coords points="1657,4809 1797,4812 1890,4831 2033,4826 2220,4832 2514,4837 2513,4887 2219,4882 2033,4876 1886,4881 1791,4862 1656,4859"/>
+                <Baseline points="1656,4854 1792,4857 1886,4876 2033,4871 2219,4877 2513,4882"/>
+                <TextEquiv>
+                    <Unicode>once 53 tutto il lato del plinto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>once 53 tutto il lato del plinto.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

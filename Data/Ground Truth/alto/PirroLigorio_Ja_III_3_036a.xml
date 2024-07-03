@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_036a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:04.376+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643209444059_43"
+                       HEIGHT="3838"
+                       WIDTH="2712"
+                       VPOS="365"
+                       HPOS="878">
+               <Shape>
+                  <Polygon POINTS="878,365 3568,373 3590,4127 2396,4131 2242,4134 1501,4125 1504,4193 1430,4196 1325,4203 891,4199"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="900,494 1015,494 1130,492 1245,492 1360,490 1475,488 1590,486 1705,484 1820,482 1935,480 2050,478 2165,476 2280,474 2395,472 2510,470 2625,468 2740,465 2855,463 2970,460 3085,458 3200,456"
+                         HEIGHT="87"
+                         WIDTH="2300"
+                         VPOS="423"
+                         HPOS="900">
+                  <String ID="string_r1l1"
+                          HEIGHT="87"
+                          WIDTH="2300"
+                          VPOS="423"
+                          HPOS="900"
+                          CONTENT="RIPA ALTA, è città nella Britannia Isola secondo Ptolemaeo. da cui Ripa alto dunensi, et Ripalteduni."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="884,884 1003,880 1123,874 1243,870 1363,866 1483,862 1602,860 1722,856 1842,854 1962,852 2082,850 2201,848 2321,847 2441,846 2561,846 2681,844 2800,844 2920,844 3040,844 3160,844 3280,846"
+                         HEIGHT="89"
+                         WIDTH="2396"
+                         VPOS="811"
+                         HPOS="884">
+                  <String ID="string_r1l2"
+                          HEIGHT="89"
+                          WIDTH="2396"
+                          VPOS="811"
+                          HPOS="884"
+                          CONTENT="RIPARA, FIDERATA, ò vero Ripara Foederatorum, è citta della Baetica, come vuole Plinio nellibro terzo."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="908,1242 1036,1238 1165,1236 1293,1234 1422,1231 1550,1228 1679,1226 1807,1224 1936,1222 2064,1220 2193,1218 2321,1216 2450,1215 2578,1214 2707,1212 2835,1210 2964,1210 3092,1209 3221,1208 3349,1208 3478,1206"
+                         HEIGHT="85"
+                         WIDTH="2570"
+                         VPOS="1173"
+                         HPOS="908">
+                  <String ID="string_r1l3"
+                          HEIGHT="85"
+                          WIDTH="2570"
+                          VPOS="1173"
+                          HPOS="908"
+                          CONTENT="RISADIRA, et Risadir, è nome del Porto nella Mauretania sulla Marina dell'oceano, nominato da Plinio, del quale, è"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="934,1326 975,1328 1016,1329 1057,1330 1098,1330 1139,1330 1180,1330 1221,1328 1262,1328 1303,1326 1345,1325 1386,1323 1427,1322 1468,1320 1509,1320 1550,1318 1591,1316 1632,1316 1673,1316 1714,1316 1756,1316"
+                         HEIGHT="63"
+                         WIDTH="822"
+                         VPOS="1283"
+                         HPOS="934">
+                  <String ID="string_r1l4"
+                          HEIGHT="63"
+                          WIDTH="822"
+                          VPOS="1283"
+                          HPOS="934"
+                          CONTENT="detto più oltre, inla parola Risadir."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="914,1606 1042,1604 1171,1604 1300,1602 1429,1602 1558,1600 1686,1600 1815,1598 1944,1596 2073,1595 2202,1594 2330,1592 2459,1590 2588,1588 2717,1586 2846,1584 2974,1582 3103,1580 3232,1578 3361,1576 3490,1574"
+                         HEIGHT="81"
+                         WIDTH="2576"
+                         VPOS="1541"
+                         HPOS="914">
+                  <String ID="string_r1l5"
+                          HEIGHT="81"
+                          WIDTH="2576"
+                          VPOS="1541"
+                          HPOS="914"
+                          CONTENT="RICCIA, l'Ariccia, Rizza, sono voci volgari, prese . perlo antico nome dell'Aricia città antichissima, nella Via Appia, asedici"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="944,1690 1046,1688 1149,1686 1252,1683 1355,1680 1458,1678 1561,1677 1664,1674 1767,1673 1870,1672 1973,1670 2075,1668 2178,1666 2281,1664 2384,1662 2487,1661 2590,1660 2693,1658 2796,1656 2899,1654 3002,1652"
+                         HEIGHT="87"
+                         WIDTH="2058"
+                         VPOS="1619"
+                         HPOS="944">
+                  <String ID="string_r1l6"
+                          HEIGHT="87"
+                          WIDTH="2058"
+                          VPOS="1619"
+                          HPOS="944"
+                          CONTENT="miglia discosto da Roma, da cui sono celebrati i porri Aricini. et la Diana Aricina, et Hippolyto Virbio."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="924,1800 1051,1798 1179,1795 1307,1794 1435,1792 1563,1790 1691,1788 1819,1786 1947,1786 2075,1784 2203,1782 2330,1780 2458,1778 2586,1776 2714,1772 2842,1768 2970,1764 3098,1760 3226,1754 3354,1748 3482,1740"
+                         HEIGHT="109"
+                         WIDTH="2558"
+                         VPOS="1707"
+                         HPOS="924">
+                  <String ID="string_r1l7"
+                          HEIGHT="109"
+                          WIDTH="2558"
+                          VPOS="1707"
+                          HPOS="924"
+                          CONTENT="RIEDLINGA, è città dell'Alemagna inla Svevia, che gliantichi chiamavano Taroduno, ò Tarodunum, et, ΤΑΡΩΔΟΥΝΟΝ."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="908,2262 1037,2260 1167,2258 1297,2255 1427,2252 1557,2250 1686,2246 1816,2244 1946,2242 2076,2239 2206,2236 2335,2234 2465,2232 2595,2230 2725,2228 2855,2226 2984,2224 3114,2222 3244,2220 3374,2218 3504,2218"
+                         HEIGHT="93"
+                         WIDTH="2596"
+                         VPOS="2185"
+                         HPOS="908">
+                  <String ID="string_r1l8"
+                          HEIGHT="93"
+                          WIDTH="2596"
+                          VPOS="2185"
+                          HPOS="908"
+                          CONTENT="RIETE, Rieti, è citta della Sabinia, ò Savina Regione d'Italia quarantamiglia discosto da Roma, laquale gli antichi chi"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="968,2344 1041,2344 1114,2342 1187,2342 1260,2340 1334,2340 1407,2340 1480,2338 1553,2338 1626,2338 1700,2336 1773,2336 1846,2334 1919,2334 1992,2332 2066,2330 2139,2328 2212,2327 2285,2325 2358,2323 2432,2320"
+                         HEIGHT="73"
+                         WIDTH="1464"
+                         VPOS="2287"
+                         HPOS="968">
+                  <String ID="string_r1l9"
+                          HEIGHT="73"
+                          WIDTH="1464"
+                          VPOS="2287"
+                          HPOS="968"
+                          CONTENT="marono Reate; et Reatini i populi, et nell'uso moderno Rietini."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="898,2444 1030,2442 1162,2442 1294,2440 1426,2438 1558,2436 1690,2434 1822,2432 1954,2430 2086,2428 2219,2426 2351,2424 2483,2422 2615,2420 2747,2418 2879,2416 3011,2414 3143,2412 3275,2410 3407,2408 3540,2406"
+                         HEIGHT="87"
+                         WIDTH="2642"
+                         VPOS="2371"
+                         HPOS="898">
+                  <String ID="string_r1l10"
+                          HEIGHT="87"
+                          WIDTH="2642"
+                          VPOS="2371"
+                          HPOS="898"
+                          CONTENT="RIMINO, RIMINI, è città della Gallia Togata presso all'Adriatico golfo, dicevasi dall'antichi Arimino, ò Ariminum, ΑΡΙΜΙΝΟΝ"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="962,2518 1002,2518 1043,2518 1084,2518 1125,2518 1166,2518 1206,2520 1247,2520 1288,2520 1329,2522 1370,2522 1410,2522 1451,2524 1492,2524 1533,2524 1574,2524 1614,2522 1655,2522 1696,2521 1737,2518 1806,2517"
+                         HEIGHT="57"
+                         WIDTH="816"
+                         VPOS="2483"
+                         HPOS="962">
+                  <String ID="string_r1l11"
+                          HEIGHT="57"
+                          WIDTH="816"
+                          VPOS="2483"
+                          HPOS="962"
+                          CONTENT="come è detto al leggitimo suo luogo."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="944,2620 1074,2618 1204,2618 1334,2616 1464,2616 1595,2615 1725,2614 1855,2614 1985,2614 2115,2614 2246,2614 2376,2612 2506,2612 2636,2610 2766,2608 2896,2606 3027,2604 3157,2600 3287,2596 3417,2592 3548,2586"
+                         HEIGHT="83"
+                         WIDTH="2604"
+                         VPOS="2553"
+                         HPOS="944">
+                  <String ID="string_r1l12"
+                          HEIGHT="83"
+                          WIDTH="2604"
+                          VPOS="2553"
+                          HPOS="944"
+                          CONTENT="RICCHEZZA, ò vero Opulentia come l'antichi chiamavano, si dipigneva naturalmente et poeticamente"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="972,2702 1100,2698 1229,2697 1358,2696 1486,2694 1615,2694 1744,2694 1872,2692 2001,2692 2130,2692 2259,2692 2387,2692 2516,2692 2645,2692 2773,2692 2902,2692 3031,2692 3159,2690 3288,2690 3417,2688 3546,2686"
+                         HEIGHT="65"
+                         WIDTH="2574"
+                         VPOS="2653"
+                         HPOS="972">
+                  <String ID="string_r1l13"
+                          HEIGHT="65"
+                          WIDTH="2574"
+                          VPOS="2653"
+                          HPOS="972"
+                          CONTENT="simile alla Matre Terra, fiera et benigna Matre. perche perle sue cose è benigna che reca per agiuto."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="970,2774 1098,2772 1226,2772 1354,2772 1482,2772 1610,2772 1738,2774 1866,2775 1994,2776 2122,2778 2250,2780 2378,2782 2506,2784 2634,2784 2762,2786 2890,2786 3018,2788 3146,2788 3274,2788 3402,2786 3530,2786"
+                         HEIGHT="65"
+                         WIDTH="2560"
+                         VPOS="2739"
+                         HPOS="970">
+                  <String ID="string_r1l14"
+                          HEIGHT="65"
+                          WIDTH="2560"
+                          VPOS="2739"
+                          HPOS="970"
+                          CONTENT="et ognicosa inse gli ritorna et per morte le muta et asse le volgie. Cosi dunque invita agiuta et da"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="970,2868 1098,2864 1226,2859 1355,2856 1483,2854 1612,2852 1740,2852 1868,2852 1997,2854 2125,2854 2254,2856 2382,2858 2510,2860 2639,2862 2767,2866 2896,2868 3024,2870 3152,2874 3281,2876 3409,2879 3538,2882"
+                         HEIGHT="79"
+                         WIDTH="2568"
+                         VPOS="2819"
+                         HPOS="970">
+                  <String ID="string_r1l15"
+                          HEIGHT="79"
+                          WIDTH="2568"
+                          VPOS="2819"
+                          HPOS="970"
+                          CONTENT="le sostanze in morte. Le cambia, et devora: Per questo dunque ella è una gran' Donna, di vestimenti or"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="974,2954 1102,2948 1231,2942 1360,2938 1489,2934 1618,2932 1746,2930 1875,2928 2004,2928 2133,2928 2262,2929 2390,2930 2519,2933 2648,2936 2777,2940 2906,2944 3034,2948 3163,2953 3292,2959 3421,2964 3550,2972"
+                         HEIGHT="93"
+                         WIDTH="2576"
+                         VPOS="2895"
+                         HPOS="974">
+                  <String ID="string_r1l16"
+                          HEIGHT="93"
+                          WIDTH="2576"
+                          VPOS="2895"
+                          HPOS="974"
+                          CONTENT="nata come, è ornato un'verde et fiorito prato, con la Testa coronata di Torrioni; per simbulo della Ter"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="966,3034 1094,3032 1222,3032 1350,3029 1478,3027 1606,3024 1734,3022 1862,3018 1990,3016 2118,3014 2246,3012 2374,3012 2502,3012 2630,3012 2758,3014 2886,3018 3014,3022 3142,3028 3270,3033 3398,3043 3526,3054"
+                         HEIGHT="91"
+                         WIDTH="2560"
+                         VPOS="2979"
+                         HPOS="966">
+                  <String ID="string_r1l17"
+                          HEIGHT="91"
+                          WIDTH="2560"
+                          VPOS="2979"
+                          HPOS="966"
+                          CONTENT="ra habitata, et incima de suoi Merli sono stelle che mostrano il celeste agiuto: da una mano tiene il corno"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="962,3106 1090,3106 1219,3106 1348,3106 1477,3106 1606,3106 1734,3104 1863,3102 1992,3102 2121,3100 2250,3098 2378,3098 2507,3098 2636,3098 2765,3098 2894,3100 3022,3102 3151,3105 3280,3109 3409,3114 3538,3122"
+                         HEIGHT="73"
+                         WIDTH="2576"
+                         VPOS="3065"
+                         HPOS="962">
+                  <String ID="string_r1l18"
+                          HEIGHT="73"
+                          WIDTH="2576"
+                          VPOS="3065"
+                          HPOS="962"
+                          CONTENT="pieno delle ricchiezze delle frugie, et de metalli et della gemme preciosi, che produce. et Tiene dall'altra"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="968,3196 1095,3194 1223,3191 1351,3189 1478,3187 1606,3186 1734,3184 1861,3182 1989,3181 2117,3180 2245,3180 2372,3179 2500,3178 2628,3178 2755,3180 2883,3180 3011,3180 3138,3182 3266,3184 3394,3186 3522,3188"
+                         HEIGHT="67"
+                         WIDTH="2554"
+                         VPOS="3145"
+                         HPOS="968">
+                  <String ID="string_r1l19"
+                          HEIGHT="67"
+                          WIDTH="2554"
+                          VPOS="3145"
+                          HPOS="968"
+                          CONTENT="mano l'Aratro. Come la sculpirono nella Medaglia del grande Augusto. et appiedi ha lo suo simbulo del"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="946,3274 1075,3271 1205,3268 1335,3266 1464,3266 1594,3264 1724,3264 1853,3264 1983,3264 2113,3264 2243,3266 2372,3266 2502,3266 2632,3268 2761,3268 2891,3268 3021,3268 3150,3268 3280,3268 3410,3266 3540,3264"
+                         HEIGHT="59"
+                         WIDTH="2594"
+                         VPOS="3231"
+                         HPOS="946">
+                  <String ID="string_r1l20"
+                          HEIGHT="59"
+                          WIDTH="2594"
+                          VPOS="3231"
+                          HPOS="946"
+                          CONTENT="animale, cio è della Myrmeca Aethiopica et Indiana, che altramente si dice formica: Per che figura la fa"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="954,3360 1082,3356 1211,3352 1339,3350 1468,3347 1597,3345 1725,3344 1854,3342 1982,3340 2111,3340 2240,3340 2368,3340 2497,3342 2625,3342 2754,3344 2883,3346 3011,3350 3140,3352 3268,3356 3397,3360 3526,3366"
+                         HEIGHT="75"
+                         WIDTH="2572"
+                         VPOS="3307"
+                         HPOS="954">
+                  <String ID="string_r1l21"
+                          HEIGHT="75"
+                          WIDTH="2572"
+                          VPOS="3307"
+                          HPOS="954"
+                          CONTENT="tica humana che coll Arare et cultivare cerca di cogliere il frutto, et i grani d'oro. perciò che come dicono"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="950,3438 1078,3434 1207,3432 1335,3428 1464,3424 1593,3422 1721,3420 1850,3418 1978,3418 2107,3416 2236,3416 2364,3416 2493,3418 2621,3418 2750,3420 2879,3423 3007,3426 3136,3430 3264,3434 3393,3440 3522,3446"
+                         HEIGHT="79"
+                         WIDTH="2572"
+                         VPOS="3383"
+                         HPOS="950">
+                  <String ID="string_r1l22"
+                          HEIGHT="79"
+                          WIDTH="2572"
+                          VPOS="3383"
+                          HPOS="950"
+                          CONTENT="Solino Poly histore, et Luciano, et Plinio. Le formiche Indiane et Aethiopiche verso lo paese orientale Aethiopico"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="980,3520 1108,3518 1236,3516 1364,3512 1492,3510 1620,3506 1748,3504 1876,3500 2004,3498 2132,3496 2260,3494 2388,3492 2516,3490 2644,3490 2772,3490 2900,3492 3028,3494 3156,3498 3284,3503 3412,3508 3540,3516"
+                         HEIGHT="79"
+                         WIDTH="2560"
+                         VPOS="3457"
+                         HPOS="980">
+                  <String ID="string_r1l23"
+                          HEIGHT="79"
+                          WIDTH="2560"
+                          VPOS="3457"
+                          HPOS="980"
+                          CONTENT="voltato all'India vi nascono grandi di forma canina, che cavano fuori della Terra i grani dell'oro et l'aurea"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="952,3606 1082,3602 1213,3600 1344,3596 1475,3592 1606,3590 1737,3586 1868,3584 1999,3580 2130,3578 2261,3576 2391,3574 2522,3572 2653,3572 2784,3572 2915,3572 3046,3572 3177,3574 3308,3578 3439,3581 3570,3586"
+                         HEIGHT="83"
+                         WIDTH="2618"
+                         VPOS="3539"
+                         HPOS="952">
+                  <String ID="string_r1l24"
+                          HEIGHT="83"
+                          WIDTH="2618"
+                          VPOS="3539"
+                          HPOS="952"
+                          CONTENT="arena. A' questa opulentia ò ricchezze Pausania gli da come padrona il fanciullo Zoppo et cieco chiamato plu¬"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="964,3688 1092,3684 1221,3680 1349,3677 1478,3674 1607,3672 1735,3670 1864,3668 1992,3666 2121,3664 2250,3664 2378,3662 2507,3662 2635,3662 2764,3662 2893,3660 3021,3660 3150,3660 3278,3660 3407,3660 3536,3660"
+                         HEIGHT="76"
+                         WIDTH="2572"
+                         VPOS="3628"
+                         HPOS="964">
+                  <String ID="string_r1l25"
+                          HEIGHT="76"
+                          WIDTH="2572"
+                          VPOS="3628"
+                          HPOS="964"
+                          CONTENT="to conla Mascara d'oro, in mano et gli giace inseno ò allato. Onde Aristophane figne questo Iddio della ricchez¬"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="968,3752 1096,3748 1224,3746 1352,3744 1480,3742 1609,3740 1737,3738 1865,3736 1993,3736 2121,3734 2250,3734 2378,3732 2506,3732 2634,3732 2762,3730 2890,3730 3019,3730 3147,3730 3275,3730 3403,3728 3532,3728"
+                         HEIGHT="72"
+                         WIDTH="2564"
+                         VPOS="3696"
+                         HPOS="968">
+                  <String ID="string_r1l26"
+                          HEIGHT="72"
+                          WIDTH="2564"
+                          VPOS="3696"
+                          HPOS="968"
+                          CONTENT="ze cieco et di debele complessione, per che la ricchezza fatta accaso è cieca et non dura, ne è secondo i meriti . Et Lu¬"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="980,3818 1108,3818 1237,3820 1366,3818 1495,3818 1624,3816 1752,3816 1881,3813 2010,3810 2139,3808 2268,3806 2396,3804 2525,3802 2654,3800 2783,3800 2912,3798 3040,3798 3169,3798 3298,3798 3427,3800 3556,3804"
+                         HEIGHT="52"
+                         WIDTH="2576"
+                         VPOS="3778"
+                         HPOS="980">
+                  <String ID="string_r1l27"
+                          HEIGHT="52"
+                          WIDTH="2576"
+                          VPOS="3778"
+                          HPOS="980"
+                          CONTENT="ciano la figne una Donna Zoppa conle ali et la Maschera d'oro, che mostra all'Avaro Zappatore il Thesoro sepulto sot¬"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="980,3867 1033,3869 1086,3871 1139,3873 1192,3873 1246,3873 1299,3873 1352,3871 1405,3870 1458,3869 1512,3867 1565,3865 1618,3863 1671,3861 1724,3859 1778,3857 1831,3856 1884,3855 1937,3855 1990,3853 2044,3855"
+                         HEIGHT="50"
+                         WIDTH="1064"
+                         VPOS="3828"
+                         HPOS="980">
+                  <String ID="string_r1l28"
+                          HEIGHT="50"
+                          WIDTH="1064"
+                          VPOS="3828"
+                          HPOS="980"
+                          CONTENT="terra. Come lo mostro à Tigone Meisanthropo."/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="992,3922 1119,3918 1247,3916 1375,3912 1503,3910 1631,3908 1758,3906 1886,3904 2014,3902 2142,3899 2270,3898 2397,3896 2525,3894 2653,3892 2781,3890 2909,3888 3036,3884 3164,3882 3292,3880 3420,3877 3548,3874"
+                         HEIGHT="82"
+                         WIDTH="2556"
+                         VPOS="3851"
+                         HPOS="992">
+                  <String ID="string_r1l29"
+                          HEIGHT="82"
+                          WIDTH="2556"
+                          VPOS="3851"
+                          HPOS="992"
+                          CONTENT="RICIA, è nome di Fameglia Romana, cosi scritta senza la .I. primieramente doppo la erre, "/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="1032,4004 1155,4004 1278,4004 1401,4004 1524,4002 1647,4000 1770,4000 1893,3996 2016,3994 2139,3991 2262,3988 2385,3984 2508,3982 2631,3978 2754,3974 2877,3970 3000,3966 3123,3963 3246,3960 3369,3957 3492,3954"
+                         HEIGHT="99"
+                         WIDTH="2460"
+                         VPOS="3921"
+                         HPOS="1032">
+                  <String ID="string_r1l30"
+                          HEIGHT="99"
+                          WIDTH="2460"
+                          VPOS="3921"
+                          HPOS="1032"
+                          CONTENT="di cui havemo veduto menzione in duoi epitaphij: l'uno come è posto nel capo della Fameglia"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="1014,4086 1140,4090 1266,4092 1392,4094 1518,4094 1645,4094 1771,4092 1897,4090 2023,4088 2149,4084 2276,4081 2402,4078 2528,4074 2654,4070 2780,4066 2907,4062 3033,4059 3159,4056 3285,4054 3411,4052 3538,4050"
+                         HEIGHT="93"
+                         WIDTH="2524"
+                         VPOS="4017"
+                         HPOS="1014">
+                  <String ID="string_r1l31"
+                          HEIGHT="93"
+                          WIDTH="2524"
+                          VPOS="4017"
+                          HPOS="1014"
+                          CONTENT="Marcia. L'altro è questo dellhuomini della Tribù Crustamina. Trovato nella Via Numentana cinta"/>
+               </TextLine>
+               <TextLine ID="line_1643215276808_544"
+                         BASELINE="1010,4173 1485,4183"
+                         HEIGHT="60"
+                         WIDTH="476"
+                         VPOS="4128"
+                         HPOS="1010">
+                  <String ID="string_line_1643215276808_544"
+                          HEIGHT="60"
+                          WIDTH="476"
+                          VPOS="4128"
+                          HPOS="1010"
+                          CONTENT="al casale di pacci."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643209444059_42"
+                       HEIGHT="581"
+                       WIDTH="832"
+                       VPOS="4125"
+                       HPOS="1415">
+               <Shape>
+                  <Polygon POINTS="1501,4125 2242,4134 2247,4706 1415,4706 1430,4196 1504,4193"/>
+               </Shape>
+               <TextLine ID="line_1643215294162_551"
+                         BASELINE="1553,4193 2008,4202"
+                         HEIGHT="59"
+                         WIDTH="456"
+                         VPOS="4148"
+                         HPOS="1553">
+                  <String ID="string_line_1643215294162_551"
+                          HEIGHT="59"
+                          WIDTH="456"
+                          VPOS="4148"
+                          HPOS="1553"
+                          CONTENT="DIS•MANIBVS"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="1458,4244 1490,4245 1522,4246 1554,4248 1586,4248 1618,4250 1650,4250 1682,4250 1714,4252 1746,4252 1779,4252 1811,4252 1843,4252 1875,4253 1907,4254 1939,4254 1971,4254 2003,4254 2035,4254 2067,4254 2100,4254"
+                         HEIGHT="44"
+                         WIDTH="642"
+                         VPOS="4221"
+                         HPOS="1458">
+                  <String ID="string_r1l33"
+                          HEIGHT="44"
+                          WIDTH="642"
+                          VPOS="4221"
+                          HPOS="1458"
+                          CONTENT="L•RICIVS•L•F•CRVS•AVIENVS"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="1464,4292 1496,4294 1529,4296 1562,4298 1595,4298 1628,4300 1661,4300 1694,4302 1727,4302 1760,4302 1793,4304 1825,4304 1858,4304 1891,4306 1924,4306 1957,4306 1990,4306 2023,4306 2056,4306 2089,4308 2122,4308"
+                         HEIGHT="50"
+                         WIDTH="658"
+                         VPOS="4269"
+                         HPOS="1464">
+                  <String ID="string_r1l34"
+                          HEIGHT="50"
+                          WIDTH="658"
+                          VPOS="4269"
+                          HPOS="1464"
+                          CONTENT="EQV•PVBL•ET•M•RICIVS•L•F"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="1454,4354 1486,4354 1519,4354 1551,4353 1584,4352 1617,4352 1649,4352 1682,4353 1714,4354 1747,4354 1780,4354 1812,4354 1845,4354 1877,4356 1910,4356 1943,4356 1975,4356 2008,4356 2040,4356 2073,4356 2106,4356"
+                         HEIGHT="47"
+                         WIDTH="652"
+                         VPOS="4323"
+                         HPOS="1454">
+                  <String ID="string_r1l35"
+                          HEIGHT="47"
+                          WIDTH="652"
+                          VPOS="4323"
+                          HPOS="1454"
+                          CONTENT="CRVS•SABINVS•FECERVNT"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="1472,4408 1504,4408 1536,4408 1569,4408 1601,4408 1634,4408 1666,4408 1698,4406 1731,4406 1763,4406 1796,4406 1828,4406 1860,4406 1893,4406 1925,4406 1958,4406 1990,4406 2022,4406 2055,4406 2087,4406 2120,4406"
+                         HEIGHT="33"
+                         WIDTH="648"
+                         VPOS="4385"
+                         HPOS="1472">
+                  <String ID="string_r1l36"
+                          HEIGHT="33"
+                          WIDTH="648"
+                          VPOS="4385"
+                          HPOS="1472"
+                          CONTENT="NOMINE•RICIAE AVIENAE"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="1645,4457 1670,4459 1696,4460 1722,4461 1748,4461 1774,4463 1800,4463 1825,4463 1851,4463 1877,4461 1903,4461 1929,4461 1955,4463"
+                         HEIGHT="36"
+                         WIDTH="310"
+                         VPOS="4430"
+                         HPOS="1636">
+                  <String ID="string_r1l37"
+                          HEIGHT="36"
+                          WIDTH="310"
+                          VPOS="4430"
+                          HPOS="1636"
+                          CONTENT="ARBITRATV"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="1476,4495 1508,4495 1540,4497 1572,4497 1604,4499 1636,4499 1668,4501 1700,4502 1732,4503 1764,4505 1797,4506 1829,4507 1861,4507 1893,4507 1925,4509 1957,4509 1989,4509 2021,4507 2053,4507 2085,4506 2124,4505"
+                         HEIGHT="45"
+                         WIDTH="642"
+                         VPOS="4469"
+                         HPOS="1476">
+                  <String ID="string_r1l38"
+                          HEIGHT="45"
+                          WIDTH="642"
+                          VPOS="4469"
+                          HPOS="1476"
+                          CONTENT="ET•SIBI•ET•SVIS•LIBERIS"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="1598,4551 1623,4553 1649,4553 1675,4555 1701,4555 1727,4555 1753,4555 1779,4556 1805,4556 1830,4555 1856,4555 1882,4555 1908,4555 1934,4555 1960,4555 1986,4554 2041,4554"
+                         HEIGHT="36"
+                         WIDTH="414"
+                         VPOS="4523"
+                         HPOS="1598">
+                  <String ID="string_r1l39"
+                          HEIGHT="36"
+                          WIDTH="414"
+                          VPOS="4523"
+                          HPOS="1598"
+                          CONTENT="MONVMENTVM•"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="1696,4598 1851,4603 1878,4604 1906,4604 1933,4603 1960,4602 1988,4604"
+                         HEIGHT="34"
+                         WIDTH="164"
+                         VPOS="4572"
+                         HPOS="1822">
+                  <String ID="string_r1l40"
+                          HEIGHT="34"
+                          WIDTH="164"
+                          VPOS="4572"
+                          HPOS="1822"
+                          CONTENT="H•AGRO"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="1478,4624 1510,4624 1543,4625 1576,4626 1608,4628 1641,4630 1674,4630 1706,4632 1739,4633 1772,4634 1805,4636 1837,4637 1870,4638 1903,4638 1935,4640 1968,4640 2001,4640 2033,4638 2066,4638 2099,4636 2132,4634"
+                         HEIGHT="46"
+                         WIDTH="654"
+                         VPOS="4598"
+                         HPOS="1466">
+                  <String ID="string_r1l41"
+                          HEIGHT="46"
+                          WIDTH="654"
+                          VPOS="4598"
+                          HPOS="1466"
+                          CONTENT="TERMINI•VERVNT•LAT•P•XV"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="1616,4678 1641,4680 1666,4681 1691,4682 1716,4682 1741,4683 1766,4684 1791,4684 1816,4685 1841,4686 1866,4686 1891,4688 1916,4688 1941,4690 1966,4690 1991,4692 2016,4693 2041,4694 2066,4696 2092,4698"
+                         HEIGHT="56"
+                         WIDTH="476"
+                         VPOS="4650"
+                         HPOS="1616">
+                  <String ID="string_r1l42"
+                          HEIGHT="56"
+                          WIDTH="476"
+                          VPOS="4650"
+                          HPOS="1616"
+                          CONTENT="LONG•PED•XXIV•"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

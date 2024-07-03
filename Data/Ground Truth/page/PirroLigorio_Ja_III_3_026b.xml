@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.376+01:00</Created>
+        <LastChange>2024-06-25T19:27:22.866+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902862" pageNr="52" tsid="174123916" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=AJGJUJXKUNYKOEPLYJDCBUSG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TKMFZINBNWYIEHLXVECZOZOC" imageId="17873920"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_026b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337500786" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643803523525_1290"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643803523525_1289"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1642500126043_278"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643803523525_1290" custom="readingOrder {index:0;}">
+            <Coords points="2934,203 3298,198 3298,377 2921,364"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2964,278 2991,280 3019,280 3047,276 3074,272 3102,269 3130,268 3130,190 3102,191 3074,194 3047,198 3019,202 2991,202 2964,200"/>
+                <Baseline points="2964,252 2991,254 3019,254 3047,250 3074,246 3102,243 3130,242"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642408780802_437" custom="readingOrder {index:1;}">
+                <Coords points="3142,297 3256,300 3255,350 3141,347"/>
+                <Baseline points="3141,342 3255,345"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>29
+26</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643803523525_1289" custom="readingOrder {index:1;}">
+            <Coords points="285,242 2934,203 2921,364 3298,377 3309,2240 1460,2230 1163,2233 1163,2312 312,2312"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="318,432 451,438 585,442 719,446 853,448 987,452 1120,454 1254,456 1388,456 1522,458 1656,459 1789,460 1923,460 2057,460 2191,462 2325,462 2458,462 2592,464 2726,464 2860,466 2994,468 2994,390 2860,388 2726,386 2592,386 2458,384 2325,384 2191,384 2057,382 1923,382 1789,382 1656,381 1522,380 1388,378 1254,378 1120,376 987,374 853,370 719,368 585,364 451,360 318,354"/>
+                <Baseline points="318,406 451,412 585,416 719,420 853,422 987,426 1120,428 1254,430 1388,430 1522,432 1656,433 1789,434 1923,434 2057,434 2191,436 2325,436 2458,436 2592,438 2726,438 2860,440 2994,442"/>
+                <TextEquiv>
+                    <Unicode>REMORIA, era luogo incima al colle Aventino, cosi detto dalla cerimonia presa da Remo fratello di Romo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="384,525 515,527 646,529 777,531 908,531 1039,533 1170,535 1301,536 1432,537 1563,539 1694,541 1825,541 1956,543 2087,543 2218,545 2349,547 2480,547 2611,549 2742,551 2873,551 3004,553 3004,484 2873,482 2742,482 2611,480 2480,478 2349,478 2218,476 2087,474 1956,474 1825,472 1694,472 1563,470 1432,468 1301,467 1170,466 1039,464 908,462 777,462 646,460 515,458 384,456"/>
+                <Baseline points="384,502 515,504 646,506 777,508 908,508 1039,510 1170,512 1301,513 1432,514 1563,516 1694,518 1825,518 1956,520 2087,520 2218,522 2349,524 2480,524 2611,526 2742,528 2873,528 3004,530"/>
+                <TextEquiv>
+                    <Unicode>lo, nel prendere l'Auspicio et Augurio nell'edificatione di Roma, presso al quale era il Laureto Maggio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="390,622 425,625 460,628 460,550 425,547 390,544"/>
+                <Baseline points="390,596 425,599 460,602"/>
+                <TextEquiv>
+                    <Unicode>re.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="354,719 484,722 614,725 745,727 875,729 1006,729 1136,731 1266,731 1397,732 1527,733 1658,733 1788,733 1918,733 2049,733 2179,733 2310,733 2440,733 2570,733 2701,733 2831,733 2962,735 2962,666 2831,664 2701,664 2570,664 2440,664 2310,664 2179,664 2049,664 1918,664 1788,664 1658,664 1527,664 1397,663 1266,662 1136,662 1006,660 875,660 745,658 614,656 484,653 354,650"/>
+                <Baseline points="354,696 484,699 614,702 745,704 875,706 1006,706 1136,708 1266,708 1397,709 1527,710 1658,710 1788,710 1918,710 2049,710 2179,710 2310,710 2440,710 2570,710 2701,710 2831,710 2962,712"/>
+                <TextEquiv>
+                    <Unicode>REMULINO, remulinus fu detto l'Agere, et territorio, posseduto da Remo. figliuolo di Italo, ò come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="388,831 485,831 583,829 681,829 778,829 876,829 974,829 1071,829 1169,827 1267,827 1365,827 1462,827 1560,827 1658,827 1755,827 1853,827 1951,827 2048,826 2146,825 2244,825 2342,825 2342,756 2244,756 2146,756 2048,757 1951,758 1853,758 1755,758 1658,758 1560,758 1462,758 1365,758 1267,758 1169,758 1071,760 974,760 876,760 778,760 681,760 583,760 485,762 388,762"/>
+                <Baseline points="388,808 485,808 583,806 681,806 778,806 876,806 974,806 1071,806 1169,804 1267,804 1365,804 1462,804 1560,804 1658,804 1755,804 1853,804 1951,804 2048,803 2146,802 2244,802 2342,802"/>
+                <TextEquiv>
+                    <Unicode>altri dicono da Remo figliuolo di Marte et di Rhea Vergine Vestale Albana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} Greek {offset:81; length:8;}">
+                <Coords points="344,925 478,925 612,925 746,925 880,923 1015,923 1149,923 1283,923 1417,923 1551,923 1686,923 1820,923 1954,923 2088,924 2222,925 2356,925 2491,927 2625,928 2759,929 2893,931 3028,933 3028,864 2893,862 2759,860 2625,859 2491,858 2356,856 2222,856 2088,855 1954,854 1820,854 1686,854 1551,854 1417,854 1283,854 1149,854 1015,854 880,854 746,856 612,856 478,856 344,856"/>
+                <Baseline points="344,902 478,902 612,902 746,902 880,900 1015,900 1149,900 1283,900 1417,900 1551,900 1686,900 1820,900 1954,900 2088,901 2222,902 2356,902 2491,904 2625,905 2759,906 2893,908 3028,910"/>
+                <TextEquiv>
+                    <Unicode>REMURIA, fu detta Roma istessa, cosi chiamata dal primo suo edificatore. et cosi ΡΕΜΟΥΡΙΑ fu appel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="380,1020 508,1022 636,1022 764,1024 893,1024 1021,1024 1149,1024 1278,1024 1406,1024 1534,1024 1663,1024 1791,1024 1919,1024 2047,1026 2176,1026 2304,1026 2432,1028 2561,1028 2689,1030 2817,1032 2946,1034 2946,968 2817,966 2689,964 2561,962 2432,962 2304,960 2176,960 2047,960 1919,958 1791,958 1663,958 1534,958 1406,958 1278,958 1149,958 1021,958 893,958 764,958 636,956 508,956 380,954"/>
+                <Baseline points="380,998 508,1000 636,1000 764,1002 893,1002 1021,1002 1149,1002 1278,1002 1406,1002 1534,1002 1663,1002 1791,1002 1919,1002 2047,1004 2176,1004 2304,1004 2432,1006 2561,1006 2689,1008 2817,1010 2946,1012"/>
+                <TextEquiv>
+                    <Unicode>lata come dice Dionysio. .Onde Stephano gabbato per equivoco. da Romulia à Remulia, che'l una si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="376,1119 505,1119 634,1119 763,1119 892,1119 1021,1119 1150,1119 1279,1121 1408,1121 1537,1121 1666,1121 1795,1121 1924,1121 2053,1121 2182,1121 2311,1121 2440,1119 2569,1119 2698,1119 2827,1117 2956,1115 2956,1051 2827,1053 2698,1055 2569,1055 2440,1055 2311,1057 2182,1057 2053,1057 1924,1057 1795,1057 1666,1057 1537,1057 1408,1057 1279,1057 1150,1055 1021,1055 892,1055 763,1055 634,1055 505,1055 376,1055"/>
+                <Baseline points="376,1098 505,1098 634,1098 763,1098 892,1098 1021,1098 1150,1098 1279,1100 1408,1100 1537,1100 1666,1100 1795,1100 1924,1100 2053,1100 2182,1100 2311,1100 2440,1098 2569,1098 2698,1098 2827,1096 2956,1094"/>
+                <TextEquiv>
+                    <Unicode>scrive per .O. et l'altra perla .E. che sono differenti, ne fa una sola, et dice ch'è città di sabini, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="364,1227 494,1227 624,1227 755,1227 885,1227 1016,1227 1146,1227 1276,1227 1407,1229 1537,1229 1668,1229 1798,1229 1928,1230 2059,1231 2189,1231 2320,1231 2450,1233 2580,1233 2711,1235 2841,1235 2972,1237 2972,1161 2841,1159 2711,1159 2580,1157 2450,1157 2320,1155 2189,1155 2059,1155 1928,1154 1798,1153 1668,1153 1537,1153 1407,1153 1276,1151 1146,1151 1016,1151 885,1151 755,1151 624,1151 494,1151 364,1151"/>
+                <Baseline points="364,1202 494,1202 624,1202 755,1202 885,1202 1016,1202 1146,1202 1276,1202 1407,1204 1537,1204 1668,1204 1798,1204 1928,1205 2059,1206 2189,1206 2320,1206 2450,1208 2580,1208 2711,1210 2841,1210 2972,1212"/>
+                <TextEquiv>
+                    <Unicode>dovea dire esser Roma, et non citta vicina à Roma. Per cio che nel vero Renueria da Remo figliuo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="374,1327 503,1329 632,1330 762,1331 891,1331 1021,1333 1150,1333 1279,1333 1409,1333 1538,1333 1668,1333 1797,1333 1926,1331 2056,1332 2185,1333 2315,1333 2444,1333 2573,1333 2703,1335 2832,1337 2962,1339 2962,1269 2832,1267 2703,1265 2573,1263 2444,1263 2315,1263 2185,1263 2056,1262 1926,1261 1797,1263 1668,1263 1538,1263 1409,1263 1279,1263 1150,1263 1021,1263 891,1261 762,1261 632,1260 503,1259 374,1257"/>
+                <Baseline points="374,1304 503,1306 632,1307 762,1308 891,1308 1021,1310 1150,1310 1279,1310 1409,1310 1538,1310 1668,1310 1797,1310 1926,1308 2056,1309 2185,1310 2315,1310 2444,1310 2573,1310 2703,1312 2832,1314 2962,1316"/>
+                <TextEquiv>
+                    <Unicode>lo di Italo, che prima edifico essa citta dove fu fatta dipoi Roma. et Romuria perla .O. eglie benvero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="388,1430 515,1430 643,1428 771,1428 899,1428 1027,1428 1155,1428 1283,1428 1411,1428 1539,1430 1667,1430 1794,1431 1922,1432 2050,1434 2178,1434 2306,1436 2434,1438 2562,1440 2690,1443 2818,1446 2946,1448 2946,1382 2818,1380 2690,1377 2562,1374 2434,1372 2306,1370 2178,1368 2050,1368 1922,1366 1794,1365 1667,1364 1539,1364 1411,1362 1283,1362 1155,1362 1027,1362 899,1362 771,1362 643,1362 515,1364 388,1364"/>
+                <Baseline points="388,1408 515,1408 643,1406 771,1406 899,1406 1027,1406 1155,1406 1283,1406 1411,1406 1539,1408 1667,1408 1794,1409 1922,1410 2050,1412 2178,1412 2306,1414 2434,1416 2562,1418 2690,1421 2818,1424 2946,1426"/>
+                <TextEquiv>
+                    <Unicode>che fu citta de sabini dedutta colonia da Romolo, figliuolo di Marte et di Rhea Ilia figluiola di Nu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="396,1520 524,1522 653,1524 782,1526 910,1528 1039,1530 1168,1530 1296,1532 1425,1534 1554,1535 1683,1536 1811,1538 1940,1541 2069,1544 2197,1546 2326,1550 2455,1554 2583,1559 2712,1564 2841,1572 2970,1580 2970,1514 2841,1506 2712,1498 2583,1493 2455,1488 2326,1484 2197,1480 2069,1478 1940,1475 1811,1472 1683,1470 1554,1469 1425,1468 1296,1466 1168,1464 1039,1464 910,1462 782,1460 653,1458 524,1456 396,1454"/>
+                <Baseline points="396,1498 524,1500 653,1502 782,1504 910,1506 1039,1508 1168,1508 1296,1510 1425,1512 1554,1513 1683,1514 1811,1516 1940,1519 2069,1522 2197,1524 2326,1528 2455,1532 2583,1537 2712,1542 2841,1550 2970,1558"/>
+                <TextEquiv>
+                    <Unicode>mitore è Vergine Vestale gia violata da Marte. Pertanto Remuria è diversa da questa et è la istessa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="390,1615 517,1619 645,1623 772,1627 900,1631 1028,1633 1155,1635 1283,1639 1410,1641 1538,1643 1666,1645 1793,1647 1921,1649 2048,1651 2176,1653 2304,1655 2431,1657 2559,1659 2686,1663 2814,1665 2942,1669 2942,1600 2814,1596 2686,1594 2559,1590 2431,1588 2304,1586 2176,1584 2048,1582 1921,1580 1793,1578 1666,1576 1538,1574 1410,1572 1283,1570 1155,1566 1028,1564 900,1562 772,1558 645,1554 517,1550 390,1546"/>
+                <Baseline points="390,1592 517,1596 645,1600 772,1604 900,1608 1028,1610 1155,1612 1283,1616 1410,1618 1538,1620 1666,1622 1793,1624 1921,1626 2048,1628 2176,1630 2304,1632 2431,1634 2559,1636 2686,1640 2814,1642 2942,1646"/>
+                <TextEquiv>
+                    <Unicode>Roma. Et Romuria chiamo la detta colonia havendo sogiogati i sabini. et il cittadino d'essa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="394,1708 523,1713 652,1716 781,1720 910,1724 1040,1728 1169,1732 1298,1734 1427,1736 1556,1740 1686,1742 1815,1744 1944,1747 2073,1750 2202,1753 2331,1756 2461,1760 2590,1764 2719,1768 2848,1772 2978,1778 2978,1711 2848,1705 2719,1701 2590,1697 2461,1693 2331,1689 2202,1686 2073,1683 1944,1680 1815,1677 1686,1675 1556,1673 1427,1669 1298,1667 1169,1665 1040,1661 910,1657 781,1653 652,1649 523,1646 394,1641"/>
+                <Baseline points="394,1686 523,1691 652,1694 781,1698 910,1702 1040,1706 1169,1710 1298,1712 1427,1714 1556,1718 1686,1720 1815,1722 1944,1725 2073,1728 2202,1731 2331,1734 2461,1738 2590,1742 2719,1746 2848,1750 2978,1756"/>
+                <TextEquiv>
+                    <Unicode>Romulia, si dice Romuliate, et Remuria, Remuliate, et Remuriano, come nel greco, cavato dal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;} Greek {offset:29; length:11;} Greek {offset:45; length:11;}">
+                <Coords points="382,1806 496,1810 611,1812 725,1816 840,1818 955,1820 1069,1822 1184,1824 1298,1826 1413,1828 1528,1830 1642,1832 1757,1834 1871,1836 1986,1840 2101,1842 2215,1844 2330,1848 2444,1851 2559,1854 2674,1858 2674,1791 2559,1787 2444,1784 2330,1781 2215,1777 2101,1775 1986,1773 1871,1769 1757,1767 1642,1765 1528,1763 1413,1761 1298,1759 1184,1757 1069,1755 955,1753 840,1751 725,1749 611,1745 496,1743 382,1739"/>
+                <Baseline points="382,1784 496,1788 611,1790 725,1794 840,1796 955,1798 1069,1800 1184,1802 1298,1804 1413,1806 1528,1808 1642,1810 1757,1812 1871,1814 1986,1818 2101,1820 2215,1822 2330,1826 2444,1829 2559,1832 2674,1836"/>
+                <TextEquiv>
+                    <Unicode>la similitudine del latino., ΡΕΜΟΥΡΙΑΤΗΣ, et ΡΕΜΟΥΡΙΑΝΟΣ, come da Roma Romano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="366,1905 496,1907 626,1911 756,1913 886,1917 1016,1920 1146,1923 1276,1925 1406,1929 1536,1931 1667,1935 1797,1937 1927,1940 2057,1943 2187,1945 2317,1949 2447,1952 2577,1955 2707,1959 2837,1961 2968,1965 2968,1895 2837,1891 2707,1889 2577,1885 2447,1882 2317,1879 2187,1875 2057,1873 1927,1870 1797,1867 1667,1865 1536,1861 1406,1859 1276,1855 1146,1853 1016,1850 886,1847 756,1843 626,1841 496,1837 366,1835"/>
+                <Baseline points="366,1882 496,1884 626,1888 756,1890 886,1894 1016,1897 1146,1900 1276,1902 1406,1906 1536,1908 1667,1912 1797,1914 1927,1917 2057,1920 2187,1922 2317,1926 2447,1929 2577,1932 2707,1936 2837,1938 2968,1942"/>
+                <TextEquiv>
+                    <Unicode>REMURIA, anchora fù denominato illuogo dell'Aventino dal sepulcro di Remo, ove ogni anno, per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="398,2012 527,2014 656,2016 785,2016 914,2018 1043,2020 1172,2022 1301,2023 1430,2024 1559,2026 1689,2028 1818,2031 1947,2033 2076,2036 2205,2038 2334,2041 2463,2044 2592,2047 2721,2051 2850,2054 2980,2058 2980,1980 2850,1976 2721,1973 2592,1969 2463,1966 2334,1963 2205,1960 2076,1958 1947,1955 1818,1953 1689,1950 1559,1948 1430,1946 1301,1945 1172,1944 1043,1942 914,1940 785,1938 656,1938 527,1936 398,1934"/>
+                <Baseline points="398,1986 527,1988 656,1990 785,1990 914,1992 1043,1994 1172,1996 1301,1997 1430,1998 1559,2000 1689,2002 1818,2005 1947,2007 2076,2010 2205,2012 2334,2015 2463,2018 2592,2021 2721,2025 2850,2028 2980,2032"/>
+                <TextEquiv>
+                    <Unicode>placare le larve, et l anima d'essoRemo sele sollennezzava. La quale chiamavano Remoria, et Remu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="378,2100 506,2102 635,2104 764,2106 892,2108 1021,2110 1150,2112 1278,2114 1407,2116 1536,2118 1665,2122 1793,2124 1922,2126 2051,2128 2179,2130 2308,2133 2437,2136 2565,2138 2694,2140 2823,2142 2952,2144 2952,2072 2823,2070 2694,2068 2565,2066 2437,2064 2308,2061 2179,2058 2051,2056 1922,2054 1793,2052 1665,2050 1536,2046 1407,2044 1278,2042 1150,2040 1021,2038 892,2036 764,2034 635,2032 506,2030 378,2028"/>
+                <Baseline points="378,2076 506,2078 635,2080 764,2082 892,2084 1021,2086 1150,2088 1278,2090 1407,2092 1536,2094 1665,2098 1793,2100 1922,2102 2051,2104 2179,2106 2308,2109 2437,2112 2565,2114 2694,2116 2823,2118 2952,2120"/>
+                <TextEquiv>
+                    <Unicode>ria, furono dipoi questo ordine chiamato le feste de Morti sepulchrali, ove attorno à sepulchri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642500114584_273" custom="readingOrder {index:18;}">
+                <Coords points="378,2136 507,2136 637,2134 767,2136 897,2136 1027,2138 1157,2139 1287,2141 1417,2144 1547,2146 1677,2150 1806,2152 1936,2156 2066,2158 2196,2162 2326,2164 2456,2166 2586,2168 2716,2170 2846,2172 2976,2172 2976,2214 1943,2225 1936,2225 1806,2221 1677,2219 1547,2215 1417,2213 1287,2210 1157,2208 1027,2207 897,2205 767,2205 637,2203 507,2205 378,2205"/>
+                <Baseline points="378,2182 507,2182 637,2180 767,2182 897,2182 1027,2184 1157,2185 1287,2187 1417,2190 1547,2192 1677,2196 1806,2198 1936,2202 2066,2204 2196,2208 2326,2210 2456,2212 2586,2214 2716,2216 3023,2218"/>
+                <TextEquiv>
+                    <Unicode>si facevano, con sparsioni di Rosa, et di corone li Epuli, cio è conviti, per l'anime de Morti, dele quali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642500070113_253" custom="readingOrder {index:19;}">
+                <Coords points="374,2228 603,2228 717,2230 832,2230 947,2232 1061,2234 1158,2235 1158,2304 1061,2303 947,2301 832,2299 717,2299 603,2297 374,2297"/>
+                <Baseline points="374,2274 488,2274 603,2274 717,2276 832,2276 947,2278 1061,2280 1153,2281"/>
+                <TextEquiv>
+                    <Unicode>Ovidio nel quinto de Fasti. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>REMORIA, era luogo incima al colle Aventino, cosi detto dalla cerimonia presa da Remo fratello di Romo
+lo, nel prendere l'Auspicio et Augurio nell'edificatione di Roma, presso al quale era il Laureto Maggio¬
+re.
+REMULINO, remulinus fu detto l'Agere, et territorio, posseduto da Remo. figliuolo di Italo, ò come
+altri dicono da Remo figliuolo di Marte et di Rhea Vergine Vestale Albana.
+REMURIA, fu detta Roma istessa, cosi chiamata dal primo suo edificatore. et cosi ΡΕΜΟΥΡΙΑ fu appel¬
+lata come dice Dionysio. .Onde Stephano gabbato per equivoco. da Romulia à Remulia, che'l una si
+scrive per .O. et l'altra perla .E. che sono differenti, ne fa una sola, et dice ch'è città di sabini, et
+dovea dire esser Roma, et non citta vicina à Roma. Per cio che nel vero Renueria da Remo figliuo¬
+lo di Italo, che prima edifico essa citta dove fu fatta dipoi Roma. et Romuria perla .O. eglie benvero
+che fu citta de sabini dedutta colonia da Romolo, figliuolo di Marte et di Rhea Ilia figluiola di Nu¬
+mitore è Vergine Vestale gia violata da Marte. Pertanto Remuria è diversa da questa et è la istessa
+Roma. Et Romuria chiamo la detta colonia havendo sogiogati i sabini. et il cittadino d'essa
+Romulia, si dice Romuliate, et Remuria, Remuliate, et Remuriano, come nel greco, cavato dal¬
+la similitudine del latino., ΡΕΜΟΥΡΙΑΤΗΣ, et ΡΕΜΟΥΡΙΑΝΟΣ, come da Roma Romano
+REMURIA, anchora fù denominato illuogo dell'Aventino dal sepulcro di Remo, ove ogni anno, per
+placare le larve, et l anima d'essoRemo sele sollennezzava. La quale chiamavano Remoria, et Remu¬
+ria, furono dipoi questo ordine chiamato le feste de Morti sepulchrali, ove attorno à sepulchri
+si facevano, con sparsioni di Rosa, et di corone li Epuli, cio è conviti, per l'anime de Morti, dele quali
+Ovidio nel quinto de Fasti. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1642500126043_278" custom="readingOrder {index:2;}">
+            <Coords points="1163,2233 3300,2259 3301,2292 3309,2647 1472,2654 1163,2312"/>
+            <TextLine id="line_1644921890956_1192" custom="readingOrder {index:0;}">
+                <Coords points="1183,2235 2666,2262 2666,2331 2436,2329 2207,2327 2093,2325 1520,2313 1183,2305"/>
+                <Baseline points="1183,2282 1290,2284 1405,2286 1458,2287 1520,2290 1634,2292 1749,2294 1863,2296 1978,2299 2093,2302 2207,2304 2322,2304 2436,2306 2551,2306 2666,2308"/>
+                <TextEquiv>
+                    <Unicode>ROMVLVS OBSEQVITVR, LVCEMQVE REMVRIA DIXIT.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+                <Coords points="1494,2408 1556,2410 1619,2412 1681,2412 1744,2414 1807,2414 1869,2416 1932,2416 1994,2417 2057,2418 2120,2418 2182,2418 2245,2420 2307,2420 2370,2420 2433,2421 2495,2422 2558,2422 2620,2424 2683,2426 2746,2426 2746,2360 2683,2360 2620,2358 2558,2356 2495,2356 2433,2355 2370,2354 2307,2354 2245,2354 2182,2352 2120,2352 2057,2352 1994,2351 1932,2350 1869,2350 1807,2348 1744,2348 1681,2346 1619,2346 1556,2344 1494,2342"/>
+                <Baseline points="1494,2386 1556,2388 1619,2390 1681,2390 1744,2392 1807,2392 1869,2394 1932,2394 1994,2395 2057,2396 2120,2396 2182,2396 2245,2398 2307,2398 2370,2398 2433,2399 2495,2400 2558,2400 2620,2402 2683,2404 2746,2404"/>
+                <TextEquiv>
+                    <Unicode>ILLAM QVA POSTIS IVSTA FERVNTVR AVIS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642408851328_462" custom="readingOrder {index:2;}">
+                <Coords points="1463,2441 1531,2443 1604,2445 2485,2445 2559,2447 2705,2447 2779,2449 2852,2451 2926,2453 2926,2517 2852,2515 2779,2513 2705,2511 2559,2511 2485,2509 1604,2509 1531,2507 1466,2505"/>
+                <Baseline points="1465,2484 1531,2486 1604,2488 1678,2488 1751,2488 1825,2488 1898,2488 1971,2488 2045,2488 2118,2488 2192,2488 2265,2488 2338,2488 2412,2488 2485,2488 2559,2490 2632,2490 2705,2490 2779,2492 2852,2494 2926,2496"/>
+                <TextEquiv>
+                    <Unicode>ASPERA MVTATA EST IN LENEM TEMPORE LONGO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:3;}">
+                <Coords points="1512,2601 1574,2601 1636,2603 1698,2603 1760,2603 1823,2605 1885,2605 1947,2604 2009,2603 2071,2603 2134,2603 2196,2602 2258,2601 2320,2601 2382,2599 2445,2599 2507,2599 2569,2597 2631,2597 2693,2597 2756,2597 2756,2534 2693,2534 2631,2534 2569,2534 2507,2536 2445,2536 2382,2536 2320,2538 2258,2538 2196,2539 2134,2540 2071,2540 2009,2540 1947,2541 1885,2542 1823,2542 1760,2540 1698,2540 1636,2540 1574,2538 1512,2538"/>
+                <Baseline points="1512,2580 1574,2580 1636,2582 1698,2582 1760,2582 1823,2584 1885,2584 1947,2583 2009,2582 2071,2582 2134,2582 2196,2581 2258,2580 2320,2580 2382,2578 2445,2578 2507,2578 2569,2576 2631,2576 2693,2576 2756,2576"/>
+                <TextEquiv>
+                    <Unicode>LITTERA, QVAE TOTO NOMINE PRIMA FVIT.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ROMVLVS OBSEQVITVR, LVCEMQVE REMVRIA DIXIT.
+ILLAM QVA POSTIS IVSTA FERVNTVR AVIS.
+ASPERA MVTATA EST IN LENEM TEMPORE LONGO.
+LITTERA, QVAE TOTO NOMINE PRIMA FVIT.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

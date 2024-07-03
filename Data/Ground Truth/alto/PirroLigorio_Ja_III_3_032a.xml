@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_032a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:02.804+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r2" HEIGHT="4789" WIDTH="3037" VPOS="272" HPOS="599">
+               <Shape>
+                  <Polygon POINTS="681,272 599,5061 3601,5022 3636,310"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="711,380 1150,390 1278,394 1406,398 1534,400 1662,402 1790,402 1918,402 2046,402 2174,402 2303,402 2431,402 2559,402 2687,402 2815,402 2943,404 3071,406 3199,408 3327,412 3455,416 3584,422"
+                         HEIGHT="93"
+                         WIDTH="2562"
+                         VPOS="348"
+                         HPOS="1022">
+                  <String ID="string_r2l1"
+                          HEIGHT="93"
+                          WIDTH="2562"
+                          VPOS="348"
+                          HPOS="1022"
+                          CONTENT="RHICANO, RHICANIS, ò vero Ricani. fu città antichissima de sabini habitata pria dall'Aborigini latini populi. La"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="1042,474 1167,476 1292,479 1417,482 1543,484 1668,488 1793,490 1919,492 2044,494 2169,496 2295,498 2420,500 2545,502 2670,504 2796,504 2921,504 3046,506 3172,506 3297,505 3422,504 3548,504"
+                         HEIGHT="89"
+                         WIDTH="2506"
+                         VPOS="436"
+                         HPOS="1042">
+                  <String ID="string_r2l2"
+                          HEIGHT="89"
+                          WIDTH="2506"
+                          VPOS="436"
+                          HPOS="1042"
+                          CONTENT="quale, secondo mette Dionysio Alicarnasseo era settanta stadij discosto da Lista metropoli dell'Aborigini"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1044,554 1171,558 1298,562 1426,566 1553,570 1681,574 1808,577 1935,580 2063,583 2190,586 2318,588 2445,592 2572,594 2700,596 2827,598 2955,600 3082,600 3209,602 3337,602 3464,604 3592,604"
+                         HEIGHT="107"
+                         WIDTH="2548"
+                         VPOS="516"
+                         HPOS="1044">
+                  <String ID="string_r2l3"
+                          HEIGHT="107"
+                          WIDTH="2548"
+                          VPOS="516"
+                          HPOS="1044"
+                          CONTENT="et prossima à Cotila citta famosa, Fu posta a piedi Monti, da lei non molti lontani, in, in unluogo di spatio di"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="1048,646 1173,648 1298,650 1423,652 1549,654 1674,656 1799,660 1925,662 2050,665 2175,668 2301,671 2426,674 2551,677 2676,680 2802,682 2927,684 3052,686 3178,688 3303,690 3428,690 3554,692"
+                         HEIGHT="103"
+                         WIDTH="2506"
+                         VPOS="608"
+                         HPOS="1048">
+                  <String ID="string_r2l4"
+                          HEIGHT="103"
+                          WIDTH="2506"
+                          VPOS="608"
+                          HPOS="1048"
+                          CONTENT="quattro Iugeri pieno d'acqua che da perse istessa quivi nasce, et sempre corre, et il fondo suo come si di"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="1034,736 1160,738 1287,740 1413,742 1540,745 1666,748 1793,750 1919,752 2046,754 2172,756 2299,759 2425,762 2552,764 2678,766 2805,768 2931,770 3058,770 3184,772 3311,774 3437,774 3564,774"
+                         HEIGHT="95"
+                         WIDTH="2530"
+                         VPOS="698"
+                         HPOS="1034">
+                  <String ID="string_r2l5"
+                          HEIGHT="95"
+                          WIDTH="2530"
+                          VPOS="698"
+                          HPOS="1034"
+                          CONTENT="ce, è grandissimo: et i convicini stimavano, questo luogo un'certo che di divino, onde lo consecrarono alla"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="1038,824 1163,827 1289,830 1414,833 1540,836 1666,839 1791,842 1917,844 2042,846 2168,848 2294,850 2419,852 2545,854 2670,854 2796,856 2922,856 3047,858 3173,858 3298,860 3424,860 3550,860"
+                         HEIGHT="93"
+                         WIDTH="2512"
+                         VPOS="786"
+                         HPOS="1038">
+                  <String ID="string_r2l6"
+                          HEIGHT="93"
+                          WIDTH="2512"
+                          VPOS="786"
+                          HPOS="1038"
+                          CONTENT="Vittoria, et per tale affetto il chiusero al d'intorno di Gabbie, accio che nessuno, l'acqua potesse operare, e"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="1034,916 1159,918 1285,921 1411,923 1536,926 1662,928 1788,930 1913,932 2039,932 2165,934 2291,936 2416,938 2542,938 2668,940 2793,940 2919,942 3045,942 3170,944 3296,944 3422,946 3548,946"
+                         HEIGHT="87"
+                         WIDTH="2514"
+                         VPOS="878"
+                         HPOS="1034">
+                  <String ID="string_r2l7"
+                          HEIGHT="87"
+                          WIDTH="2514"
+                          VPOS="878"
+                          HPOS="1034"
+                          CONTENT="guardavano che stesse in modo, che non visi potesse andare, eccetto che incerti tempi dell'anno, nel qua"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="1020,1002 1146,1006 1273,1008 1400,1010 1527,1012 1654,1014 1781,1016 1908,1018 2035,1020 2162,1021 2289,1022 2415,1024 2542,1026 2669,1028 2796,1030 2923,1032 3050,1034 3177,1036 3304,1038 3431,1042 3558,1044"
+                         HEIGHT="97"
+                         WIDTH="2538"
+                         VPOS="965"
+                         HPOS="1020">
+                  <String ID="string_r2l8"
+                          HEIGHT="97"
+                          WIDTH="2538"
+                          VPOS="965"
+                          HPOS="1020"
+                          CONTENT="le montando, come inuna Isola, entravano quelli ai quali era concesso difare il sacrificio. La cui iso"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="1032,1076 1158,1078 1284,1081 1410,1084 1537,1087 1663,1090 1789,1092 1916,1096 2042,1098 2168,1101 2295,1104 2421,1106 2547,1109 2673,1112 2800,1114 2926,1118 3052,1120 3179,1123 3305,1126 3431,1128 3558,1132"
+                         HEIGHT="111"
+                         WIDTH="2526"
+                         VPOS="1039"
+                         HPOS="1032">
+                  <String ID="string_r2l9"
+                          HEIGHT="111"
+                          WIDTH="2526"
+                          VPOS="1039"
+                          HPOS="1032"
+                          CONTENT="la cosi eletta era di piedi cinquanta di circuito, et surgeva sopra all'acqua non piu che'l altezza di un"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="1040,1160 1166,1165 1292,1169 1418,1172 1544,1176 1670,1178 1796,1182 1922,1184 2048,1187 2174,1190 2301,1192 2427,1196 2553,1198 2679,1200 2805,1202 2931,1206 3057,1208 3183,1210 3309,1214 3435,1216 3562,1220"
+                         HEIGHT="117"
+                         WIDTH="2522"
+                         VPOS="1122"
+                         HPOS="1040">
+                  <String ID="string_r2l10"
+                          HEIGHT="117"
+                          WIDTH="2522"
+                          VPOS="1122"
+                          HPOS="1040"
+                          CONTENT="piede et mezzo. et essa non è stabile, ma viene aggirata dal vento et trasportata in diverse parti ove na"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="1026,1264 1152,1266 1279,1268 1405,1270 1532,1272 1659,1274 1785,1276 1912,1276 2038,1278 2165,1280 2292,1280 2418,1282 2545,1284 2671,1286 2798,1287 2925,1289 3051,1290 3178,1292 3304,1295 3431,1298 3558,1300"
+                         HEIGHT="93"
+                         WIDTH="2532"
+                         VPOS="1226"
+                         HPOS="1026">
+                  <String ID="string_r2l11"
+                          HEIGHT="93"
+                          WIDTH="2532"
+                          VPOS="1226"
+                          HPOS="1026"
+                          CONTENT="sce lherba simigliante all'occhio di Bove, ò vero al pruno bianco simile: et vi nascono certi arboretti non"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="1032,1358 1157,1358 1283,1360 1408,1360 1534,1362 1659,1362 1785,1364 1910,1366 2036,1368 2161,1370 2287,1372 2412,1374 2538,1374 2663,1376 2789,1378 2914,1378 3040,1378 3165,1378 3291,1378 3416,1378 3542,1376"
+                         HEIGHT="77"
+                         WIDTH="2510"
+                         VPOS="1320"
+                         HPOS="1032">
+                  <String ID="string_r2l12"
+                          HEIGHT="77"
+                          WIDTH="2510"
+                          VPOS="1320"
+                          HPOS="1032"
+                          CONTENT="grandi. et questo che sinqui Dionyso dice è nel paese de sabini, et è una delle citta gia fatte dall'Umbri, et"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="1035,1469 1162,1456 1288,1458 1414,1458 1540,1460 1667,1460 1793,1460 1919,1462 2045,1462 2171,1462 2298,1462 2424,1462 2550,1462 2676,1462 2802,1464 2929,1464 3055,1464 3181,1466 3307,1466 3433,1468 3560,1470"
+                         HEIGHT="73"
+                         WIDTH="2524"
+                         VPOS="1416"
+                         HPOS="1036">
+                  <String ID="string_r2l13"
+                          HEIGHT="73"
+                          WIDTH="2524"
+                          VPOS="1416"
+                          HPOS="1036"
+                          CONTENT="da oenotri et da quelli popoli senza origini certa detti Aborigini, et altremente Endigini. Di questo luo"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="1030,1546 1155,1544 1281,1544 1407,1544 1533,1544 1659,1544 1785,1544 1911,1546 2037,1546 2163,1546 2289,1548 2414,1548 2540,1550 2666,1550 2792,1550 2918,1552 3044,1552 3170,1552 3296,1550 3422,1550 3548,1548"
+                         HEIGHT="65"
+                         WIDTH="2518"
+                         VPOS="1506"
+                         HPOS="1030">
+                  <String ID="string_r2l14"
+                          HEIGHT="65"
+                          WIDTH="2518"
+                          VPOS="1506"
+                          HPOS="1030"
+                          CONTENT="go scrive Plinio. et hodiernamente si chiamano cotale acque Rosee Raetine: et portano le sue ac"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="1038,1636 1152,1634 1266,1632 1380,1632 1494,1632 1609,1632 1723,1632 1837,1632 1951,1634 2065,1636 2180,1636 2294,1638 2408,1640 2522,1640 2636,1642 2751,1642 2865,1642 2979,1642 3093,1641 3207,1640 3322,1638"
+                         HEIGHT="67"
+                         WIDTH="2284"
+                         VPOS="1594"
+                         HPOS="1038">
+                  <String ID="string_r2l15"
+                          HEIGHT="67"
+                          WIDTH="2284"
+                          VPOS="1594"
+                          HPOS="1038"
+                          CONTENT="que nel Velino fiume et lago che cade nel fiume chiamato Nar', ò vogliamo dire la Nera."/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="926,1986 1002,1991 1078,1995 1154,2000 1230,2005 1307,2009 1383,2013 1459,2016 1535,2018 1611,2021 1688,2024 1764,2026 1840,2028 1916,2030 1992,2032 2069,2032 2145,2034 2221,2034 2297,2036 2373,2036 2450,2036"
+                         HEIGHT="107"
+                         WIDTH="1524"
+                         VPOS="1948"
+                         HPOS="926">
+                  <String ID="string_r2l16"
+                          HEIGHT="107"
+                          WIDTH="1524"
+                          VPOS="1948"
+                          HPOS="926"
+                          CONTENT="RHICINA, è una delle sei Isole chiamate da Ptolemaeo Ebudis."/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="938,2212 1053,2217 1169,2220 1284,2224 1400,2226 1516,2228 1631,2228 1747,2230 1862,2230 1978,2230 2094,2230 2209,2230 2325,2228 2440,2228 2556,2228 2672,2228 2787,2230 2903,2231 3018,2232 3134,2235 3250,2238"
+                         HEIGHT="83"
+                         WIDTH="2312"
+                         VPOS="2174"
+                         HPOS="938">
+                  <String ID="string_r2l17"
+                          HEIGHT="83"
+                          WIDTH="2312"
+                          VPOS="2174"
+                          HPOS="938"
+                          CONTENT="RHIGUSA, è citta nella Hispania, secondo Ptolemaeo dice. donde Rhigusafabricensi, i suoi populi."/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="936,2470 1040,2474 1145,2476 1250,2480 1355,2484 1460,2487 1565,2490 1670,2494 1775,2497 1880,2500 1985,2502 2089,2506 2194,2508 2299,2512 2404,2514 2509,2516 2614,2518 2719,2520 2824,2522 2929,2524 3034,2526"
+                         HEIGHT="113"
+                         WIDTH="2098"
+                         VPOS="2432"
+                         HPOS="936">
+                  <String ID="string_r2l18"
+                          HEIGHT="113"
+                          WIDTH="2098"
+                          VPOS="2432"
+                          HPOS="936"
+                          CONTENT="RHINDACO, Rhindacus, ΡΙΝΔΑΚΟΣ, è fiume del Ponto Euxino, secondo Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="952,2824 1081,2831 1211,2836 1341,2842 1471,2846 1601,2850 1730,2852 1860,2856 1990,2858 2120,2861 2250,2864 2379,2866 2509,2869 2639,2872 2769,2875 2899,2880 3028,2884 3158,2890 3288,2895 3418,2902 3548,2910"
+                         HEIGHT="143"
+                         WIDTH="2596"
+                         VPOS="2786"
+                         HPOS="952">
+                  <String ID="string_r2l19"
+                          HEIGHT="143"
+                          WIDTH="2596"
+                          VPOS="2786"
+                          HPOS="952"
+                          CONTENT="RHINOCURURA, è città nelli confini della Palaestina, secondo Ptolemaeo: maStephano dice essere dell'Aegypto. Come "/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="1018,2916 1044,2918 1071,2919 1098,2920 1125,2920 1152,2921 1178,2922 1205,2924 1232,2924 1259,2925 1286,2926 1312,2928 1339,2928 1366,2928 1393,2930 1420,2930 1446,2930 1473,2930 1500,2930 1527,2930 1554,2930"
+                         HEIGHT="71"
+                         WIDTH="536"
+                         VPOS="2878"
+                         HPOS="1018">
+                  <String ID="string_r2l20"
+                          HEIGHT="71"
+                          WIDTH="536"
+                          VPOS="2878"
+                          HPOS="1018"
+                          CONTENT="havemo detto più oltre."/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="990,2996 1119,3003 1248,3010 1377,3017 1507,3022 1636,3027 1765,3032 1895,3036 2024,3040 2153,3042 2283,3046 2412,3048 2541,3050 2670,3052 2800,3054 2929,3056 3058,3058 3188,3060 3317,3062 3446,3064 3576,3066"
+                         HEIGHT="127"
+                         WIDTH="2586"
+                         VPOS="2958"
+                         HPOS="990">
+                  <String ID="string_r2l21"
+                          HEIGHT="127"
+                          WIDTH="2586"
+                          VPOS="2958"
+                          HPOS="990"
+                          CONTENT="RHION, è la medesimo parola ch'è,Rion, senza spiratione, et si prende perlo promontorio dell'Aetolia Regione, nomi¬"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="1014,3090 1139,3094 1265,3098 1390,3104 1516,3106 1641,3110 1767,3114 1892,3118 2018,3121 2143,3124 2269,3127 2394,3130 2520,3132 2645,3134 2771,3136 2896,3138 3022,3140 3147,3142 3273,3144 3398,3146 3524,3146"
+                         HEIGHT="113"
+                         WIDTH="2510"
+                         VPOS="3052"
+                         HPOS="1014">
+                  <String ID="string_r2l22"
+                          HEIGHT="113"
+                          WIDTH="2510"
+                          VPOS="3052"
+                          HPOS="1014"
+                          CONTENT="nato da Plinio nellibro quarto al secondo capo. et secondo Stephano, è citta della Messenia. et unaltra è dell'Achaia"/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="1018,3190 1075,3190 1133,3190 1190,3190 1248,3190 1306,3190 1363,3190 1421,3192 1478,3193 1536,3194 1594,3196 1651,3196 1709,3198 1766,3198 1824,3200 1882,3201 1939,3202 1997,3202 2054,3204 2112,3204 2170,3204"
+                         HEIGHT="71"
+                         WIDTH="1152"
+                         VPOS="3152"
+                         HPOS="1018">
+                  <String ID="string_r2l23"
+                          HEIGHT="71"
+                          WIDTH="1152"
+                          VPOS="3152"
+                          HPOS="1018"
+                          CONTENT="et l'altra della Molycria, come è detto piu oltre."/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="990,3264 1116,3270 1242,3274 1368,3278 1494,3282 1620,3285 1746,3288 1872,3292 1998,3296 2124,3298 2250,3302 2376,3304 2502,3308 2628,3311 2754,3314 2880,3318 3006,3322 3132,3326 3258,3330 3384,3334 3510,3338"
+                         HEIGHT="131"
+                         WIDTH="2520"
+                         VPOS="3226"
+                         HPOS="990">
+                  <String ID="string_r2l24"
+                          HEIGHT="131"
+                          WIDTH="2520"
+                          VPOS="3226"
+                          HPOS="990"
+                          CONTENT="RHIPE, è la istessa ch'è Ripi, piu oltre scritta citta dell'Achaia, donde si dice Rhipaeo, et Rhipense, et alcuni la"/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="1058,3354 1121,3358 1185,3360 1248,3364 1312,3366 1376,3368 1439,3371 1503,3374 1566,3375 1630,3377 1694,3378 1757,3380 1821,3382 1884,3382 1948,3384 2012,3385 2075,3386 2139,3386 2202,3388 2266,3388 2330,3388"
+                         HEIGHT="91"
+                         WIDTH="1272"
+                         VPOS="3316"
+                         HPOS="1058">
+                  <String ID="string_r2l25"
+                          HEIGHT="91"
+                          WIDTH="1272"
+                          VPOS="3316"
+                          HPOS="1058"
+                          CONTENT="RIPE, alla imitatione greca, ΡΙΠΗ, et ΡΙΠΑ alla Dorica."/>
+               </TextLine>
+               <TextLine ID="r2l26"
+                         BASELINE="974,3452 1102,3454 1231,3458 1359,3460 1488,3462 1617,3464 1745,3466 1874,3470 2002,3472 2131,3474 2260,3478 2388,3480 2517,3484 2645,3488 2774,3492 2903,3496 3031,3502 3160,3507 3288,3514 3417,3519 3546,3528"
+                         HEIGHT="133"
+                         WIDTH="2572"
+                         VPOS="3414"
+                         HPOS="974">
+                  <String ID="string_r2l26"
+                          HEIGHT="133"
+                          WIDTH="2572"
+                          VPOS="3414"
+                          HPOS="974"
+                          CONTENT="RHIPAEI, ΡΙΠΑΙΟΙ, sono populi cacciatori, che de venatione vivono, habitatori della Aethiopia sotto l'Aegypto come"/>
+               </TextLine>
+               <TextLine ID="r2l27"
+                         BASELINE="1040,3544 1065,3546 1090,3547 1115,3548 1140,3548 1165,3548 1191,3547 1216,3546 1241,3546 1266,3546 1291,3545 1316,3544 1342,3544 1367,3544 1392,3544 1417,3545 1442,3546 1468,3548"
+                         HEIGHT="61"
+                         WIDTH="428"
+                         VPOS="3506"
+                         HPOS="1040">
+                  <String ID="string_r2l27"
+                          HEIGHT="61"
+                          WIDTH="428"
+                          VPOS="3506"
+                          HPOS="1040"
+                          CONTENT="scrive Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r2l28"
+                         BASELINE="986,3646 1113,3653 1241,3658 1368,3664 1496,3666 1624,3670 1751,3672 1879,3674 2006,3676 2134,3676 2262,3678 2389,3678 2517,3680 2644,3680 2772,3682 2900,3685 3027,3688 3155,3692 3282,3698 3410,3703 3538,3712"
+                         HEIGHT="123"
+                         WIDTH="2552"
+                         VPOS="3608"
+                         HPOS="986">
+                  <String ID="string_r2l28"
+                          HEIGHT="123"
+                          WIDTH="2552"
+                          VPOS="3608"
+                          HPOS="986"
+                          CONTENT="RHIPHAEI, ΡΙΦΑΙΟΙ, sono Monti della Scythia donde nasce il fiume Tanai, che dividi li scythi in due parti. de quali"/>
+               </TextLine>
+               <TextLine ID="r2l29"
+                         BASELINE="1034,3736 1160,3742 1286,3746 1412,3749 1538,3752 1665,3754 1791,3757 1917,3758 2043,3760 2169,3762 2296,3764 2422,3766 2548,3767 2674,3769 2800,3771 2927,3774 3053,3776 3179,3780 3305,3784 3431,3788 3558,3794"
+                         HEIGHT="115"
+                         WIDTH="2524"
+                         VPOS="3698"
+                         HPOS="1034">
+                  <String ID="string_r2l29"
+                          HEIGHT="115"
+                          WIDTH="2524"
+                          VPOS="3698"
+                          HPOS="1034"
+                          CONTENT="parla Virgilio quando dice: AD SCYNTHIAM RIPHAEASQVE ARDVVS ARCES, dove li scrive con l'ultima spiratione"/>
+               </TextLine>
+               <TextLine ID="r2l30"
+                         BASELINE="1046,3836 1169,3838 1292,3840 1415,3840 1538,3842 1661,3842 1784,3842 1907,3844 2030,3844 2153,3846 2276,3846 2399,3848 2522,3848 2645,3850 2768,3852 2891,3854 3014,3858 3137,3862 3260,3866 3383,3870 3506,3876"
+                         HEIGHT="95"
+                         WIDTH="2460"
+                         VPOS="3799"
+                         HPOS="1046">
+                  <String ID="string_r2l30"
+                          HEIGHT="95"
+                          WIDTH="2460"
+                          VPOS="3799"
+                          HPOS="1046"
+                          CONTENT="senza laprima, come havemo detto piu oltre. Ma Merula gli scrive Rhipaei, et li chiama dal Rhiphe vento"/>
+               </TextLine>
+               <TextLine ID="r2l31"
+                         BASELINE="1040,3926 1163,3926 1286,3928 1410,3928 1533,3930 1657,3930 1780,3932 1903,3934 2027,3934 2150,3936 2274,3938 2397,3938 2520,3940 2644,3942 2767,3944 2891,3945 3014,3946 3137,3948 3261,3950 3384,3950 3508,3952"
+                         HEIGHT="59"
+                         WIDTH="2468"
+                         VPOS="3904"
+                         HPOS="1040">
+                  <String ID="string_r2l31"
+                          HEIGHT="59"
+                          WIDTH="2468"
+                          VPOS="3904"
+                          HPOS="1040"
+                          CONTENT="che si scrive Riphe senza la .H. onde bene anchora è da scrivere. Riphaei. et i latini dicono Riphaeus, et Riphaea:"/>
+               </TextLine>
+               <TextLine ID="line_1642764855910_211"
+                         BASELINE="1026,4014 1152,4016 1278,4019 1404,4022 1530,4024 1651,4024"
+                         HEIGHT="40"
+                         WIDTH="625"
+                         VPOS="3994"
+                         HPOS="1026">
+                  <String ID="string_line_1642764855910_211"
+                          HEIGHT="40"
+                          WIDTH="625"
+                          VPOS="3994"
+                          HPOS="1026"
+                          CONTENT="come per la .H. Rhiphaeum"/>
+               </TextLine>
+               <TextLine ID="r2l32"
+                         BASELINE="1574,3978 1599,3980 1624,3981 1650,3982 1675,3982 1700,3981 1773,3984"
+                         HEIGHT="37"
+                         WIDTH="152"
+                         VPOS="3948"
+                         HPOS="1574">
+                  <String ID="string_r2l32"
+                          HEIGHT="37"
+                          WIDTH="152"
+                          VPOS="3948"
+                          HPOS="1574"
+                          CONTENT="scythicus"/>
+               </TextLine>
+               <TextLine ID="line_1642764855909_210"
+                         BASELINE="1651,4024 1656,4024 1782,4026 1908,4028 2034,4028 2160,4030 2286,4030 2412,4031 2538,4032 2664,4032 2790,4034 2916,4034 3042,4035 3168,4036 3294,4038 3420,4038 3546,4040"
+                         HEIGHT="46"
+                         WIDTH="1895"
+                         VPOS="4004"
+                         HPOS="1651">
+                  <String ID="string_line_1642764855909_210"
+                          HEIGHT="46"
+                          WIDTH="1895"
+                          VPOS="4004"
+                          HPOS="1651"
+                          CONTENT="et Aquilonaris. Rhiphaeo anchora fù chiamato uno delli centauri figliuolo di Ixioxe"/>
+               </TextLine>
+               <TextLine ID="line_1642764871875_218"
+                         BASELINE="1040,4106 1128,4104 1217,4104 1306,4104 1318,4104"
+                         HEIGHT="33"
+                         WIDTH="278"
+                         VPOS="4083"
+                         HPOS="1040">
+                  <String ID="string_line_1642764871875_218"
+                          HEIGHT="33"
+                          WIDTH="278"
+                          VPOS="4083"
+                          HPOS="1040"
+                          CONTENT="et di Nube"/>
+               </TextLine>
+               <TextLine ID="r2l34"
+                         BASELINE="1271,4070 1296,4070 1322,4070 1348,4069 1373,4068 1399,4070 1425,4070 1450,4070 1476,4070 1502,4069 1527,4068 1553,4068 1579,4066"
+                         HEIGHT="34"
+                         WIDTH="308"
+                         VPOS="4036"
+                         HPOS="1280">
+                  <String ID="string_r2l34"
+                          HEIGHT="34"
+                          WIDTH="308"
+                          VPOS="4036"
+                          HPOS="1280"
+                          CONTENT="come dice Ovidio"/>
+               </TextLine>
+               <TextLine ID="line_1642764871875_217"
+                         BASELINE="1318,4104 1395,4104 1484,4106 1573,4106 1662,4108 1751,4109 1840,4110 1929,4112 2017,4114 2106,4116 2195,4117 2284,4118 2373,4120 2462,4120 2551,4122 2640,4122 2729,4122 2818,4120"
+                         HEIGHT="49"
+                         WIDTH="1500"
+                         VPOS="4083"
+                         HPOS="1318">
+                  <String ID="string_line_1642764871875_217"
+                          HEIGHT="49"
+                          WIDTH="1500"
+                          VPOS="4083"
+                          HPOS="1318"
+                          CONTENT="et è nome di uno Troiano presso di Virgilio nellibro secondo dell'Aeneide."/>
+               </TextLine>
+               <TextLine ID="r2l36"
+                         BASELINE="1012,4170 1098,4173 1185,4176 1272,4179 1359,4182 1446,4183 1533,4184 1620,4186 1707,4186 1794,4187 1881,4188 1967,4188 2054,4188 2141,4188 2228,4188 2315,4188 2402,4190 2489,4190 2576,4190 2663,4191 2750,4192"
+                         HEIGHT="68"
+                         WIDTH="1738"
+                         VPOS="4139"
+                         HPOS="1012">
+                  <String ID="string_r2l36"
+                          HEIGHT="68"
+                          WIDTH="1738"
+                          VPOS="4139"
+                          HPOS="1012"
+                          CONTENT="RHISINA, è citta della Mesopotamia, come dice Ptolemaeo. da qui Rhisinaei."/>
+               </TextLine>
+               <TextLine ID="r2l37"
+                         BASELINE="1002,4240 1092,4242 1182,4244 1272,4245 1362,4246 1453,4248 1543,4250 1633,4251 1723,4252 1813,4254 1904,4254 1994,4256 2084,4256 2174,4256 2264,4256 2355,4256 2445,4256 2535,4256 2625,4254 2715,4254 2806,4252"
+                         HEIGHT="62"
+                         WIDTH="1804"
+                         VPOS="4209"
+                         HPOS="1002">
+                  <String ID="string_r2l37"
+                          HEIGHT="62"
+                          WIDTH="1804"
+                          VPOS="4209"
+                          HPOS="1002"
+                          CONTENT="RHITIO, Rhitium, ΡΙΤΙΟΝ, è citta nella inferiore pannonia, come di Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r2l38"
+                         BASELINE="1012,4304 1137,4306 1262,4309 1387,4312 1512,4314 1637,4316 1762,4318 1887,4318 2012,4320 2137,4320 2263,4322 2388,4322 2513,4322 2638,4322 2763,4322 2888,4320 3013,4320 3138,4318 3263,4317 3388,4315 3514,4312"
+                         HEIGHT="61"
+                         WIDTH="2502"
+                         VPOS="4275"
+                         HPOS="1012">
+                  <String ID="string_r2l38"
+                          HEIGHT="61"
+                          WIDTH="2502"
+                          VPOS="4275"
+                          HPOS="1012"
+                          CONTENT="RHITHYMNA, et ΡΙΘΥΜΝΑ, è citta maritima nell'isola di Crete, come vuole Ptolemaeo. Chel vulgo chiama Ritimo, et"/>
+               </TextLine>
+               <TextLine ID="r2l39"
+                         BASELINE="1078,4374 1193,4374 1309,4376 1425,4376 1541,4376 1657,4378 1772,4378 1888,4378 2004,4378 2120,4378 2236,4380 2351,4380 2467,4380 2583,4380 2699,4380 2815,4380 2930,4380 3046,4380 3162,4382 3278,4382 3394,4382"
+                         HEIGHT="51"
+                         WIDTH="2316"
+                         VPOS="4345"
+                         HPOS="1078">
+                  <String ID="string_r2l39"
+                          HEIGHT="51"
+                          WIDTH="2316"
+                          VPOS="4345"
+                          HPOS="1078"
+                          CONTENT="da esse se dice Rhitymniate, come piace à Stephano, come è detto piu oltre nell'altra parola in aspirata."/>
+               </TextLine>
+               <TextLine ID="r2l40"
+                         BASELINE="1014,4424 1135,4428 1256,4432 1377,4434 1498,4437 1620,4440 1741,4442 1862,4444 1983,4446 2104,4446 2226,4448 2347,4448 2468,4448 2589,4450 2710,4448 2832,4448 2953,4448 3074,4446 3195,4444 3316,4442 3438,4440"
+                         HEIGHT="75"
+                         WIDTH="2424"
+                         VPOS="4391"
+                         HPOS="1014">
+                  <String ID="string_r2l40"
+                          HEIGHT="75"
+                          WIDTH="2424"
+                          VPOS="4391"
+                          HPOS="1014"
+                          CONTENT="RHITRO, Rhitrus, ΡΙΤΡΟΣ, è porto d' Ithaca Isola, delquale parla Homero nel primo et secondo dell'Odyssea."/>
+               </TextLine>
+               <TextLine ID="r2l41"
+                         BASELINE="1004,4494 1050,4497 1097,4498 1144,4500 1191,4502 1238,4504 1284,4506 1331,4508 1378,4508 1425,4510 1472,4510 1518,4512 1565,4512 1612,4512 1659,4514 1706,4514 1752,4514 1799,4516 1846,4516 1893,4516 1940,4518"
+                         HEIGHT="70"
+                         WIDTH="936"
+                         VPOS="4463"
+                         HPOS="1004">
+                  <String ID="string_r2l41"
+                          HEIGHT="70"
+                          WIDTH="936"
+                          VPOS="4463"
+                          HPOS="1004"
+                          CONTENT="RHIZANA, è città nella Delmatia d'Italia"/>
+               </TextLine>
+               <TextLine ID="r2l42"
+                         BASELINE="988,4558 1114,4562 1241,4568 1368,4570 1495,4574 1622,4576 1748,4578 1875,4578 2002,4580 2129,4580 2256,4580 2382,4578 2509,4578 2636,4578 2763,4576 2890,4575 3016,4574 3143,4572 3270,4572 3397,4572 3524,4570"
+                         HEIGHT="68"
+                         WIDTH="2536"
+                         VPOS="4527"
+                         HPOS="988">
+                  <String ID="string_r2l42"
+                          HEIGHT="68"
+                          WIDTH="2536"
+                          VPOS="4527"
+                          HPOS="988"
+                          CONTENT="RHIZENIA, ΡΙΖΗΝΙΑ, è città nell'Isola di Crete, da cui il gentile Rhizeniate, ò Rhizeniates, ò ΡΙΖΗΝΙΑΤΗΣ."/>
+               </TextLine>
+               <TextLine ID="r2l43"
+                         BASELINE="1066,4620 1130,4620 1194,4621 1258,4622 1322,4623 1386,4624 1450,4626 1514,4628 1578,4630 1642,4632 1707,4634 1771,4636 1835,4637 1899,4638 1963,4640 2027,4640 2091,4640 2155,4640 2219,4640 2283,4640 2348,4638"
+                         HEIGHT="69"
+                         WIDTH="1282"
+                         VPOS="4587"
+                         HPOS="1066">
+                  <String ID="string_r2l43"
+                          HEIGHT="69"
+                          WIDTH="1282"
+                          VPOS="4587"
+                          HPOS="1066"
+                          CONTENT="Come è detto piu oltre nella parola senza spiratione."/>
+               </TextLine>
+               <TextLine ID="r2l44"
+                         BASELINE="980,4682 1080,4684 1180,4688 1281,4690 1381,4694 1482,4696 1582,4698 1682,4701 1783,4704 1883,4706 1984,4707 2084,4708 2184,4708 2285,4710 2385,4709 2486,4708 2586,4706 2686,4704 2787,4700 2887,4696 2988,4692"
+                         HEIGHT="77"
+                         WIDTH="2008"
+                         VPOS="4649"
+                         HPOS="980">
+                  <String ID="string_r2l44"
+                          HEIGHT="77"
+                          WIDTH="2008"
+                          VPOS="4649"
+                          HPOS="980"
+                          CONTENT="RHIZINIO, Rhizinium, ΡΙΖΙΝΙΟΝ, è citta della Liburnia, dice plinio, colonia de Romani."/>
+               </TextLine>
+               <TextLine ID="r2l45"
+                         BASELINE="988,4752 1113,4755 1239,4758 1364,4760 1490,4764 1616,4766 1741,4770 1867,4772 1992,4774 2118,4776 2244,4778 2369,4780 2495,4782 2620,4782 2746,4782 2872,4784 2997,4784 3123,4782 3248,4782 3374,4780 3500,4778"
+                         HEIGHT="72"
+                         WIDTH="2512"
+                         VPOS="4725"
+                         HPOS="988">
+                  <String ID="string_r2l45"
+                          HEIGHT="72"
+                          WIDTH="2512"
+                          VPOS="4725"
+                          HPOS="988"
+                          CONTENT="RHIZONICO, Rhizonicus, ΡΙΖΟΝΙΚΟΣ, si dice il seno d'Italia nella Delmatia: secondo Ptolemaeo: et il vulgo"/>
+               </TextLine>
+               <TextLine ID="r2l46"
+                         BASELINE="1046,4820 1074,4819 1103,4818 1132,4818 1161,4818 1190,4820 1219,4820 1248,4820 1277,4821 1306,4822 1335,4823 1363,4824 1392,4824 1421,4824 1450,4826 1479,4826 1508,4826 1537,4825 1566,4824 1595,4822 1624,4822"
+                         HEIGHT="48"
+                         WIDTH="578"
+                         VPOS="4791"
+                         HPOS="1046">
+                  <String ID="string_r2l46"
+                          HEIGHT="48"
+                          WIDTH="578"
+                          VPOS="4791"
+                          HPOS="1046"
+                          CONTENT="il chiama Golfo de Cataro."/>
+               </TextLine>
+               <TextLine ID="r2l47"
+                         BASELINE="992,4880 1073,4884 1155,4886 1237,4888 1319,4888 1401,4888 1482,4888 1564,4888 1646,4888 1728,4886 1810,4886 1891,4884 1973,4882 2055,4882 2137,4880 2219,4880 2300,4880 2382,4879 2464,4880 2546,4880 2628,4882"
+                         HEIGHT="55"
+                         WIDTH="1636"
+                         VPOS="4848"
+                         HPOS="992">
+                  <String ID="string_r2l47"
+                          HEIGHT="55"
+                          WIDTH="1636"
+                          VPOS="4848"
+                          HPOS="992"
+                          CONTENT="RHIZOPHAGI, sono populi dell'Aethiopia d'Aegypto, come di Ptolemaeo"/>
+               </TextLine>
+               <TextLine ID="r2l48"
+                         BASELINE="978,4948 1108,4950 1238,4950 1368,4952 1498,4952 1628,4950 1758,4950 1888,4948 2018,4948 2148,4947 2278,4946 2408,4946 2538,4945 2668,4944 2798,4946 2928,4946 3058,4948 3188,4950 3318,4954 3448,4958 3578,4962"
+                         HEIGHT="63"
+                         WIDTH="2600"
+                         VPOS="4914"
+                         HPOS="978">
+                  <String ID="string_r2l48"
+                          HEIGHT="63"
+                          WIDTH="2600"
+                          VPOS="4914"
+                          HPOS="978"
+                          CONTENT="RHIZO, Rhizus, è citta nel ponto cappadocico, come dice Ptolemaeo. et è nome della città di Thessaglia, da cui il gentile"/>
+               </TextLine>
+               <TextLine ID="r2l49"
+                         BASELINE="1064,5016 1151,5014 1238,5014 1325,5014 1412,5014 1499,5014 1586,5014 1673,5016 1760,5016 1847,5016 1934,5016 2021,5016 2108,5016 2195,5016 2282,5016 2369,5016 2456,5015 2543,5014 2630,5013 2717,5012 2804,5010"
+                         HEIGHT="52"
+                         WIDTH="1740"
+                         VPOS="4979"
+                         HPOS="1064">
+                  <String ID="string_r2l49"
+                          HEIGHT="52"
+                          WIDTH="1740"
+                          VPOS="4979"
+                          HPOS="1064"
+                          CONTENT="Rhizuntio, et scrivesi Rizos, senza spiratione come è scritto piu oltre."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:38.117+01:00</Created>
+        <LastChange>2024-06-25T19:31:48.462+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902915" pageNr="89" tsid="174126583" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=QXYHGLJPNYAKFGUKKWWQQFST&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXJVMYUUUYTXWXRWMRYNAPRJ" imageId="17873957"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_045a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337507540" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643211236632_363"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643211236632_362"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643211236632_363" custom="readingOrder {index:0;}">
+            <Coords points="762,186 3464,186 3470,2823 1750,2786 1741,3129 734,3125"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1618,249 1643,251 1669,255 1695,258 1720,259 1746,261 1772,261 1798,262 1823,263 1849,263 1875,263 1901,263 1926,265 1952,265 1978,267 2004,267 2004,204 1978,204 1952,202 1926,202 1901,200 1875,200 1849,200 1823,200 1798,199 1772,198 1746,198 1720,196 1695,195 1669,192 1643,188 1618,186"/>
+                <Baseline points="1623,236 1648,238 1674,242 1700,245 1725,246 1751,248 1777,248 1803,249 1828,250 1854,250 1880,250 1906,250 1931,252 1957,252 1983,254 2009,254"/>
+                <TextEquiv>
+                    <Unicode>DI ROMA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="796,392 927,394 1058,396 1190,396 1321,396 1453,396 1584,394 1715,394 1847,392 1978,392 2110,390 2241,390 2372,390 2504,388 2635,388 2767,390 2898,390 3029,392 3161,395 3292,398 3424,404 3424,343 3292,337 3161,334 3029,331 2898,329 2767,329 2635,327 2504,327 2372,329 2241,329 2110,329 1978,331 1847,331 1715,333 1584,333 1453,335 1321,335 1190,335 1058,335 927,333 796,331"/>
+                <Baseline points="796,372 927,374 1058,376 1190,376 1321,376 1453,376 1584,374 1715,374 1847,372 1978,372 2110,370 2241,370 2372,370 2504,368 2635,368 2767,370 2898,370 3029,372 3161,375 3292,378 3424,384"/>
+                <TextEquiv>
+                    <Unicode>Dell'uso del Triclinio, in piu luoghi havemo, parlato nelle nostre ricollette dell'antichita. Del cui modo come in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} unclear {offset:101; length:5;}">
+                <Coords points="830,488 959,486 1088,486 1217,484 1346,484 1475,482 1604,480 1733,480 1862,478 1991,476 2120,476 2249,476 2378,474 2507,475 2636,476 2765,476 2894,478 3023,480 3152,484 3281,488 3410,492 3410,431 3281,427 3152,423 3023,419 2894,417 2765,415 2636,415 2507,414 2378,413 2249,415 2120,415 1991,415 1862,417 1733,419 1604,419 1475,421 1346,423 1217,423 1088,425 959,425 830,427"/>
+                <Baseline points="830,468 959,466 1088,466 1217,464 1346,464 1475,462 1604,460 1733,460 1862,458 1991,456 2120,456 2249,456 2378,454 2507,455 2636,456 2765,456 2894,458 3023,460 3152,464 3281,468 3410,472"/>
+                <TextEquiv>
+                    <Unicode>esso cenavano. Si vede in questo ritratto di quella scoltura trovata nella Via Appia inuna Tabola di Marmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="836,570 964,570 1092,570 1221,570 1349,570 1478,571 1606,572 1734,572 1863,572 1991,572 2120,572 2248,572 2376,572 2505,572 2633,574 2762,574 2890,574 3018,576 3147,578 3275,578 3404,580 3404,520 3275,518 3147,518 3018,516 2890,514 2762,514 2633,514 2505,512 2376,512 2248,512 2120,512 1991,512 1863,512 1734,512 1606,512 1478,511 1349,510 1221,510 1092,510 964,510 836,510"/>
+                <Baseline points="836,550 964,550 1092,550 1221,550 1349,550 1478,551 1606,552 1734,552 1863,552 1991,552 2120,552 2248,552 2376,552 2505,552 2633,554 2762,554 2890,554 3018,556 3147,558 3275,558 3404,560"/>
+                <TextEquiv>
+                    <Unicode>di mezzo rilievo, ove si vede Padre et Madre et figliuoli scumbere attavola sulleto come usavano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} unclear {offset:35; length:11;}">
+                <Coords points="834,661 963,661 1092,663 1222,663 1351,663 1481,663 1610,663 1739,663 1869,663 1998,663 2128,663 2257,663 2386,663 2516,663 2645,663 2775,663 2904,665 3033,665 3163,667 3292,667 3422,669 3422,606 3292,604 3163,604 3033,602 2904,602 2775,600 2645,600 2516,600 2386,600 2257,600 2128,600 1998,600 1869,600 1739,600 1610,600 1481,600 1351,600 1222,600 1092,600 963,598 834,598"/>
+                <Baseline points="834,640 963,640 1092,642 1222,642 1351,642 1481,642 1610,642 1739,642 1869,642 1998,642 2128,642 2257,642 2386,642 2516,642 2645,642 2775,642 2904,644 3033,644 3163,646 3292,646 3422,648"/>
+                <TextEquiv>
+                    <Unicode>gli antichi nelle loro cene stare, atre pertre per letto. per cio che essi cenando et cumendo stavano à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} unclear {offset:28; length:2;}">
+                <Coords points="810,767 940,765 1070,765 1201,763 1331,763 1462,761 1592,759 1722,759 1853,757 1983,755 2114,755 2244,755 2374,753 2505,753 2635,755 2766,755 2896,757 3026,759 3157,761 3287,765 3418,769 3418,706 3287,702 3157,698 3026,696 2896,694 2766,692 2635,692 2505,690 2374,690 2244,692 2114,692 1983,692 1853,694 1722,696 1592,696 1462,698 1331,700 1201,700 1070,702 940,702 810,704"/>
+                <Baseline points="810,746 940,744 1070,744 1201,742 1331,742 1462,740 1592,738 1722,738 1853,736 1983,734 2114,734 2244,734 2374,732 2505,732 2635,734 2766,734 2896,736 3026,738 3157,740 3287,744 3418,748"/>
+                <TextEquiv>
+                    <Unicode>poggiati per segno di lieta et riposata cena. Concio sia cosa, che chi sedeva attabola, havea qualche pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} unclear {offset:50; length:5;}">
+                <Coords points="828,852 956,852 1085,852 1214,852 1342,852 1471,850 1600,850 1728,850 1857,848 1986,848 2115,848 2243,848 2372,848 2501,850 2629,850 2758,852 2887,856 3015,858 3144,863 3273,868 3402,874 3402,814 3273,808 3144,803 3015,798 2887,796 2758,792 2629,790 2501,790 2372,788 2243,788 2115,788 1986,788 1857,788 1728,790 1600,790 1471,790 1342,792 1214,792 1085,792 956,792 828,792"/>
+                <Baseline points="828,832 956,832 1085,832 1214,832 1342,832 1471,830 1600,830 1728,830 1857,828 1986,828 2115,828 2243,828 2372,828 2501,830 2629,830 2758,832 2887,836 3015,838 3144,843 3273,848 3402,854"/>
+                <TextEquiv>
+                    <Unicode>na, ò rammarico nell'animo di qualche scontentezza,eper causa dela morte de parenti ò di qualch'altra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="810,934 940,934 1070,934 1200,934 1330,934 1460,934 1590,934 1720,934 1850,934 1980,934 2111,936 2241,936 2371,936 2501,938 2631,938 2761,940 2891,942 3021,944 3151,947 3281,950 3412,954 3412,894 3281,890 3151,887 3021,884 2891,882 2761,880 2631,878 2501,878 2371,876 2241,876 2111,876 1980,874 1850,874 1720,874 1590,874 1460,874 1330,874 1200,874 1070,874 940,874 810,874"/>
+                <Baseline points="810,914 940,914 1070,914 1200,914 1330,914 1460,914 1590,914 1720,914 1850,914 1980,914 2111,916 2241,916 2371,916 2501,918 2631,918 2761,920 2891,922 3021,924 3151,927 3281,930 3412,934"/>
+                <TextEquiv>
+                    <Unicode>affinita perla quale lhuomo viene per dolore e dispiacere perturbato: et cosi sedendo si dimostrava ricorde¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="822,1033 953,1033 1085,1031 1217,1031 1349,1029 1481,1029 1613,1029 1745,1029 1877,1029 2009,1029 2141,1029 2272,1031 2404,1031 2536,1033 2668,1035 2800,1037 2932,1041 3064,1045 3196,1049 3328,1053 3460,1057 3460,994 3328,990 3196,986 3064,982 2932,978 2800,974 2668,972 2536,970 2404,968 2272,968 2141,966 2009,966 1877,966 1745,966 1613,966 1481,966 1349,966 1217,968 1085,968 953,970 822,970"/>
+                <Baseline points="822,1012 953,1012 1085,1010 1217,1010 1349,1008 1481,1008 1613,1008 1745,1008 1877,1008 2009,1008 2141,1008 2272,1010 2404,1010 2536,1012 2668,1014 2800,1016 2932,1020 3064,1024 3196,1028 3328,1032 3460,1036"/>
+                <TextEquiv>
+                    <Unicode>vole di quella pena in cui premeva tutta la sua perturbata consolatione: al contrario mostravano allegrez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="822,1131 950,1131 1079,1129 1208,1127 1336,1127 1465,1125 1594,1125 1722,1123 1851,1123 1980,1123 2109,1123 2237,1121 2366,1123 2495,1123 2623,1123 2752,1123 2881,1125 3009,1127 3138,1127 3267,1130 3396,1131 3396,1068 3267,1067 3138,1064 3009,1064 2881,1062 2752,1060 2623,1060 2495,1060 2366,1060 2237,1058 2109,1060 1980,1060 1851,1060 1722,1060 1594,1062 1465,1062 1336,1064 1208,1064 1079,1066 950,1068 822,1068"/>
+                <Baseline points="822,1110 950,1110 1079,1108 1208,1106 1336,1106 1465,1104 1594,1104 1722,1102 1851,1102 1980,1102 2109,1102 2237,1100 2366,1102 2495,1102 2623,1102 2752,1102 2881,1104 3009,1106 3138,1106 3267,1109 3396,1110"/>
+                <TextEquiv>
+                    <Unicode>za et riposo et contentezza d'animo et sicurezza coloro che scumbevano, mangiando. et per che dicono gli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="800,1237 930,1233 1061,1231 1191,1227 1322,1225 1453,1223 1583,1221 1714,1220 1844,1219 1975,1217 2106,1217 2236,1215 2367,1215 2497,1215 2628,1213 2759,1213 2889,1213 3020,1213 3150,1213 3281,1213 3412,1215 3412,1152 3281,1150 3150,1150 3020,1150 2889,1150 2759,1150 2628,1150 2497,1152 2367,1152 2236,1152 2106,1154 1975,1154 1844,1156 1714,1157 1583,1158 1453,1160 1322,1162 1191,1164 1061,1168 930,1170 800,1174"/>
+                <Baseline points="800,1216 930,1212 1061,1210 1191,1206 1322,1204 1453,1202 1583,1200 1714,1199 1844,1198 1975,1196 2106,1196 2236,1194 2367,1194 2497,1194 2628,1192 2759,1192 2889,1192 3020,1192 3150,1192 3281,1192 3412,1194"/>
+                <TextEquiv>
+                    <Unicode>auttori greci, come ci insegna Plutarcho, et Vitruvio, nelli Trichlinij, stavano à tre pertre attorno le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="808,1339 938,1335 1069,1331 1200,1329 1330,1327 1461,1325 1592,1323 1722,1323 1853,1321 1984,1321 2115,1321 2245,1321 2376,1321 2507,1321 2637,1321 2768,1321 2899,1321 3029,1321 3160,1321 3291,1321 3422,1321 3422,1258 3291,1258 3160,1258 3029,1258 2899,1258 2768,1258 2637,1258 2507,1258 2376,1258 2245,1258 2115,1258 1984,1258 1853,1258 1722,1260 1592,1260 1461,1262 1330,1264 1200,1266 1069,1268 938,1272 808,1276"/>
+                <Baseline points="808,1318 938,1314 1069,1310 1200,1308 1330,1306 1461,1304 1592,1302 1722,1302 1853,1300 1984,1300 2115,1300 2245,1300 2376,1300 2507,1300 2637,1300 2768,1300 2899,1300 3029,1300 3160,1300 3291,1300 3422,1300"/>
+                <TextEquiv>
+                    <Unicode>Tabole e mense, per che prima furono Tre le Muse, et poscia nove, la onde, chi s'apportava alle tre prime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="806,1432 938,1426 1070,1424 1202,1421 1334,1418 1466,1418 1598,1416 1730,1414 1862,1414 1994,1414 2127,1414 2259,1414 2391,1416 2523,1416 2655,1416 2787,1418 2919,1418 3051,1420 3183,1420 3315,1422 3448,1422 3448,1362 3315,1362 3183,1360 3051,1360 2919,1358 2787,1358 2655,1356 2523,1356 2391,1356 2259,1354 2127,1354 1994,1354 1862,1354 1730,1354 1598,1356 1466,1358 1334,1358 1202,1361 1070,1364 938,1366 806,1372"/>
+                <Baseline points="814,1418 946,1412 1078,1410 1210,1407 1342,1404 1474,1404 1606,1402 1738,1400 1870,1400 2002,1400 2135,1400 2267,1400 2399,1402 2531,1402 2663,1402 2795,1404 2927,1404 3059,1406 3191,1406 3323,1408 3456,1408"/>
+                <TextEquiv>
+                    <Unicode>Muse, tre si mettevano perletto scumbitorio attavola. et quegli i quali davano lhonore alle nove Muse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="814,1511 943,1508 1072,1505 1202,1503 1331,1503 1461,1501 1590,1501 1719,1501 1849,1501 1978,1502 2108,1503 2237,1503 2366,1505 2496,1507 2625,1507 2755,1509 2884,1511 3013,1511 3143,1513 3272,1513 3402,1513 3402,1455 3272,1455 3143,1455 3013,1453 2884,1453 2755,1451 2625,1449 2496,1449 2366,1447 2237,1445 2108,1445 1978,1444 1849,1443 1719,1443 1590,1443 1461,1443 1331,1445 1202,1445 1072,1447 943,1450 814,1453"/>
+                <Baseline points="814,1492 943,1489 1072,1486 1202,1484 1331,1484 1461,1482 1590,1482 1719,1482 1849,1482 1978,1483 2108,1484 2237,1484 2366,1486 2496,1488 2625,1488 2755,1490 2884,1492 3013,1492 3143,1494 3272,1494 3402,1494"/>
+                <TextEquiv>
+                    <Unicode>à tre perletto in tre letti circondavano tutta la mensa. et adhonore delle muse si porgeva lhonore co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="816,1607 947,1607 1078,1607 1209,1605 1340,1605 1472,1605 1603,1605 1734,1605 1865,1605 1996,1605 2128,1605 2259,1607 2390,1607 2521,1607 2652,1609 2783,1609 2915,1611 3046,1611 3177,1613 3308,1613 3440,1615 3440,1552 3308,1550 3177,1550 3046,1548 2915,1548 2783,1546 2652,1546 2521,1544 2390,1544 2259,1544 2128,1542 1996,1542 1865,1542 1734,1542 1603,1542 1472,1542 1340,1542 1209,1542 1078,1544 947,1544 816,1544"/>
+                <Baseline points="816,1586 947,1586 1078,1586 1209,1584 1340,1584 1472,1584 1603,1584 1734,1584 1865,1584 1996,1584 2128,1584 2259,1586 2390,1586 2521,1586 2652,1588 2783,1588 2915,1590 3046,1590 3177,1592 3308,1592 3440,1594"/>
+                <TextEquiv>
+                    <Unicode>me che amensa si ricercano virtuosi ragionamenti et virtuose consolatorie ragioni, che fanno l'animo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="800,1704 931,1698 1062,1694 1193,1692 1324,1690 1455,1688 1586,1688 1717,1686 1848,1688 1979,1688 2111,1688 2242,1690 2373,1692 2504,1692 2635,1694 2766,1694 2897,1696 3028,1696 3159,1696 3290,1694 3422,1694 3422,1640 3290,1640 3159,1642 3028,1642 2897,1642 2766,1640 2635,1640 2504,1638 2373,1638 2242,1636 2111,1634 1979,1634 1848,1634 1717,1632 1586,1634 1455,1634 1324,1636 1193,1638 1062,1640 931,1644 800,1650"/>
+                <Baseline points="800,1686 931,1680 1062,1676 1193,1674 1324,1672 1455,1670 1586,1670 1717,1668 1848,1670 1979,1670 2111,1670 2242,1672 2373,1674 2504,1674 2635,1676 2766,1676 2897,1678 3028,1678 3159,1678 3290,1676 3422,1676"/>
+                <TextEquiv>
+                    <Unicode>lieto e tranquillo, amico dell'imperio di tutte le cose charitative: et dispensativi et morali. Facevano la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="790,1776 922,1774 1054,1773 1186,1772 1318,1772 1451,1770 1583,1770 1715,1770 1847,1770 1979,1770 2112,1770 2244,1770 2376,1770 2508,1772 2640,1772 2772,1772 2905,1774 3037,1774 3169,1776 3301,1776 3434,1776 3434,1722 3301,1722 3169,1722 3037,1720 2905,1720 2772,1718 2640,1718 2508,1718 2376,1716 2244,1716 2112,1716 1979,1716 1847,1716 1715,1716 1583,1716 1451,1716 1318,1718 1186,1718 1054,1719 922,1720 790,1722"/>
+                <Baseline points="790,1758 922,1756 1054,1755 1186,1754 1318,1754 1451,1752 1583,1752 1715,1752 1847,1752 1979,1752 2112,1752 2244,1752 2376,1752 2508,1754 2640,1754 2772,1754 2905,1756 3037,1756 3169,1758 3301,1758 3434,1758"/>
+                <TextEquiv>
+                    <Unicode>stanza Tricliniale di forma rotonda, ò ottagona, et Decagona, et Nonagona, per causa della circular</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="786,1862 917,1860 1049,1858 1181,1858 1312,1856 1444,1856 1576,1856 1707,1856 1839,1858 1971,1858 2103,1858 2234,1860 2366,1860 2498,1862 2629,1864 2761,1864 2893,1864 3024,1866 3156,1866 3288,1866 3420,1866 3420,1805 3288,1805 3156,1805 3024,1805 2893,1803 2761,1803 2629,1803 2498,1801 2366,1799 2234,1799 2103,1797 1971,1797 1839,1797 1707,1795 1576,1795 1444,1795 1312,1795 1181,1797 1049,1797 917,1799 786,1801"/>
+                <Baseline points="786,1842 917,1840 1049,1838 1181,1838 1312,1836 1444,1836 1576,1836 1707,1836 1839,1838 1971,1838 2103,1838 2234,1840 2366,1840 2498,1842 2629,1844 2761,1844 2893,1844 3024,1846 3156,1846 3288,1846 3420,1846"/>
+                <TextEquiv>
+                    <Unicode>forma et modo, che si comprende circularmente ogni cosa universale. onde i latini Triclinium l'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} unclear {offset:11; length:2;} Greek {offset:28; length:10;}">
+                <Coords points="796,1949 928,1951 1061,1953 1194,1955 1327,1955 1460,1957 1592,1957 1725,1959 1858,1959 1991,1959 2124,1961 2256,1961 2389,1963 2522,1965 2655,1967 2788,1969 2920,1971 3053,1973 3186,1977 3319,1981 3452,1985 3452,1922 3319,1918 3186,1914 3053,1910 2920,1908 2788,1906 2655,1904 2522,1902 2389,1900 2256,1898 2124,1898 1991,1896 1858,1896 1725,1896 1592,1894 1460,1894 1327,1892 1194,1892 1061,1890 928,1888 796,1886"/>
+                <Baseline points="796,1928 928,1930 1061,1932 1194,1934 1327,1934 1460,1936 1592,1936 1725,1938 1858,1938 1991,1938 2124,1940 2256,1940 2389,1942 2522,1944 2655,1946 2788,1948 2920,1950 3053,1952 3186,1956 3319,1960 3452,1964"/>
+                <TextEquiv>
+                    <Unicode>appellano, et cosi i greci, ΤΡΙΚΛΙΝΙΟΝ, che è proprio quel conclave et stanza ove si scumbeva e mangiava.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="778,2030 908,2034 1039,2036 1170,2038 1301,2040 1432,2041 1562,2042 1693,2044 1824,2046 1955,2048 2086,2050 2216,2052 2347,2054 2478,2056 2609,2059 2740,2062 2870,2065 3001,2068 3132,2072 3263,2076 3394,2080 3394,2019 3263,2015 3132,2011 3001,2007 2870,2004 2740,2001 2609,1998 2478,1995 2347,1993 2216,1991 2086,1989 1955,1987 1824,1985 1693,1983 1562,1981 1432,1980 1301,1979 1170,1977 1039,1975 908,1973 778,1969"/>
+                <Baseline points="778,2010 908,2014 1039,2016 1170,2018 1301,2020 1432,2021 1562,2022 1693,2024 1824,2026 1955,2028 2086,2030 2216,2032 2347,2034 2478,2036 2609,2039 2740,2042 2870,2045 3001,2048 3132,2052 3263,2056 3394,2060"/>
+                <TextEquiv>
+                    <Unicode>ove contre letti, et à tre perletti si stenevano. et percio vi mettevano, ò tre mense, contre letti percia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="778,2116 911,2118 1045,2121 1179,2124 1312,2126 1446,2128 1580,2130 1713,2132 1847,2135 1981,2138 2115,2140 2248,2142 2382,2144 2516,2148 2649,2150 2783,2154 2917,2156 3050,2160 3184,2164 3318,2168 3452,2172 3452,2111 3318,2107 3184,2103 3050,2099 2917,2095 2783,2093 2649,2089 2516,2087 2382,2083 2248,2081 2115,2079 1981,2077 1847,2074 1713,2071 1580,2069 1446,2067 1312,2065 1179,2063 1045,2060 911,2057 778,2055"/>
+                <Baseline points="778,2096 911,2098 1045,2101 1179,2104 1312,2106 1446,2108 1580,2110 1713,2112 1847,2115 1981,2118 2115,2120 2248,2122 2382,2124 2516,2128 2649,2130 2783,2134 2917,2136 3050,2140 3184,2144 3318,2148 3452,2152"/>
+                <TextEquiv>
+                    <Unicode>scuna, ò una Mensa conlo istesso numero di tre persone perletto. et cubantemente cenavano, onde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="798,2209 929,2213 1061,2215 1192,2219 1324,2221 1455,2224 1587,2227 1718,2229 1850,2231 1981,2233 2113,2235 2244,2237 2376,2239 2507,2241 2639,2243 2770,2246 2902,2249 3033,2251 3165,2255 3296,2259 3428,2263 3428,2200 3296,2196 3165,2192 3033,2188 2902,2186 2770,2183 2639,2180 2507,2178 2376,2176 2244,2174 2113,2172 1981,2170 1850,2168 1718,2166 1587,2164 1455,2161 1324,2158 1192,2156 1061,2152 929,2150 798,2146"/>
+                <Baseline points="798,2188 929,2192 1061,2194 1192,2198 1324,2200 1455,2203 1587,2206 1718,2208 1850,2210 1981,2212 2113,2214 2244,2216 2376,2218 2507,2220 2639,2222 2770,2225 2902,2228 3033,2230 3165,2234 3296,2238 3428,2242"/>
+                <TextEquiv>
+                    <Unicode>viene la voce Cumbere, che suona cenare, ò Mangiare stando appoggiato dal sinistro lato. et per che tal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="784,2305 917,2312 1050,2316 1183,2321 1317,2324 1450,2327 1583,2329 1717,2331 1850,2334 1983,2335 2117,2337 2250,2339 2383,2341 2516,2343 2650,2347 2783,2349 2916,2353 3050,2357 3183,2361 3316,2367 3450,2373 3450,2310 3316,2304 3183,2298 3050,2294 2916,2290 2783,2286 2650,2284 2516,2280 2383,2278 2250,2276 2117,2274 1983,2272 1850,2271 1717,2268 1583,2266 1450,2264 1317,2261 1183,2258 1050,2253 917,2249 784,2242"/>
+                <Baseline points="784,2284 917,2291 1050,2295 1183,2300 1317,2303 1450,2306 1583,2308 1717,2310 1850,2313 1983,2314 2117,2316 2250,2318 2383,2320 2516,2322 2650,2326 2783,2328 2916,2332 3050,2336 3183,2340 3316,2346 3450,2352"/>
+                <TextEquiv>
+                    <Unicode>volta come apporta la necessita, s'aggiungeva una ombra ò vogliamo dire persona di piu, stavano à quattro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="778,2405 912,2411 1046,2417 1180,2421 1315,2425 1449,2429 1583,2431 1718,2433 1852,2435 1986,2437 2121,2439 2255,2441 2389,2443 2523,2445 2658,2447 2792,2449 2926,2451 3061,2455 3195,2459 3329,2463 3464,2467 3464,2404 3329,2400 3195,2396 3061,2392 2926,2388 2792,2386 2658,2384 2523,2382 2389,2380 2255,2378 2121,2376 1986,2374 1852,2372 1718,2370 1583,2368 1449,2366 1315,2362 1180,2358 1046,2354 912,2348 778,2342"/>
+                <Baseline points="778,2384 912,2390 1046,2396 1180,2400 1315,2404 1449,2408 1583,2410 1718,2412 1852,2414 1986,2416 2121,2418 2255,2420 2389,2422 2523,2424 2658,2426 2792,2428 2926,2430 3061,2434 3195,2438 3329,2442 3464,2446"/>
+                <TextEquiv>
+                    <Unicode>perletto. et per cio Horatio nel primo de Sermoni nella quarta satyra parlando dell'abusi dise •SAEPE TRI¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="782,2509 912,2515 1043,2519 1174,2523 1305,2527 1436,2531 1567,2533 1698,2535 1829,2537 1960,2537 2091,2539 2221,2539 2352,2541 2483,2541 2614,2541 2745,2543 2876,2543 3007,2545 3138,2546 3269,2547 3400,2549 3400,2486 3269,2484 3138,2483 3007,2482 2876,2480 2745,2480 2614,2478 2483,2478 2352,2478 2221,2476 2091,2476 1960,2474 1829,2474 1698,2472 1567,2470 1436,2468 1305,2464 1174,2460 1043,2456 912,2452 782,2446"/>
+                <Baseline points="782,2488 912,2494 1043,2498 1174,2502 1305,2506 1436,2510 1567,2512 1698,2514 1829,2516 1960,2516 2091,2518 2221,2518 2352,2520 2483,2520 2614,2520 2745,2522 2876,2522 3007,2524 3138,2525 3269,2526 3400,2528"/>
+                <TextEquiv>
+                    <Unicode>BVS LECTIS VIDEAS COENARE QVATERNOS•E QVIBVS VNVS AVET QVAVIS ASPERGERE CVNCTOS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="766,2602 900,2605 1034,2608 1168,2612 1303,2614 1437,2618 1571,2620 1706,2622 1840,2624 1974,2626 2109,2628 2243,2630 2377,2632 2511,2634 2646,2636 2780,2638 2914,2640 3049,2642 3183,2644 3317,2647 3452,2650 3452,2590 3317,2587 3183,2584 3049,2582 2914,2580 2780,2578 2646,2576 2511,2574 2377,2572 2243,2570 2109,2568 1974,2566 1840,2564 1706,2562 1571,2560 1437,2558 1303,2554 1168,2552 1034,2548 900,2545 766,2542"/>
+                <Baseline points="766,2582 900,2585 1034,2588 1168,2592 1303,2594 1437,2598 1571,2600 1706,2602 1840,2604 1974,2606 2109,2608 2243,2610 2377,2612 2511,2614 2646,2616 2780,2618 2914,2620 3049,2622 3183,2624 3317,2627 3452,2630"/>
+                <TextEquiv>
+                    <Unicode>et questo basta del Triclinio, del quale molti ne fanno memoria, come Quintiliano. Iuvenale, Cicerone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="766,2697 900,2697 1034,2697 1168,2697 1303,2699 1437,2701 1571,2701 1706,2703 1840,2706 1974,2709 2109,2711 2243,2715 2377,2718 2511,2721 2646,2725 2780,2730 2914,2734 3049,2739 3183,2745 3317,2750 3452,2755 3452,2698 3317,2693 3183,2688 3049,2682 2914,2677 2780,2673 2646,2668 2511,2664 2377,2661 2243,2658 2109,2654 1974,2652 1840,2649 1706,2646 1571,2644 1437,2644 1303,2642 1168,2640 1034,2640 900,2640 766,2640"/>
+                <Baseline points="766,2678 900,2678 1034,2678 1168,2678 1303,2680 1437,2682 1571,2682 1706,2684 1840,2687 1974,2690 2109,2692 2243,2696 2377,2699 2511,2702 2646,2706 2780,2711 2914,2715 3049,2720 3183,2726 3317,2731 3455,2748"/>
+                <TextEquiv>
+                    <Unicode>et alcuni lo dicono Triclinum, et non Triclinium. Come fanno i poeti, et colui ch'era il Ministro si diceva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="772,2777 906,2777 1040,2779 1174,2779 1308,2781 1442,2783 1576,2785 1710,2787 1844,2789 1978,2791 2112,2793 2246,2797 2380,2799 2514,2803 2648,2806 2782,2810 2916,2814 3050,2819 3184,2823 3318,2827 3452,2833 3452,2776 3318,2770 3184,2766 3050,2762 2916,2757 2782,2753 2648,2749 2514,2746 2380,2742 2246,2740 2112,2736 1978,2734 1844,2732 1710,2730 1576,2728 1442,2726 1308,2724 1174,2722 1040,2722 906,2720 772,2720"/>
+                <Baseline points="772,2758 906,2758 1040,2760 1174,2760 1308,2762 1442,2764 1576,2766 1710,2768 1844,2770 1978,2772 2112,2774 2247,2787 2380,2780 2514,2784 2648,2787 2782,2791 2916,2795 3050,2800 3184,2804 3318,2808 3445,2819"/>
+                <TextEquiv>
+                    <Unicode>Tricliaarcha, et Architriclinius. Come Praefechus Triclinij. et dal stare di duoi intal luogho accenare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="794,2865 835,2869 877,2871 919,2873 961,2876 1003,2877 1044,2877 1086,2879 1128,2879 1170,2881 1212,2881 1253,2881 1295,2881 1337,2881 1379,2881 1421,2882 1462,2883 1504,2883 1546,2883 1588,2883 1630,2885 1630,2822 1588,2820 1546,2820 1504,2820 1462,2820 1421,2819 1379,2818 1337,2818 1295,2818 1253,2818 1212,2818 1170,2818 1128,2816 1086,2816 1044,2814 1003,2814 961,2813 919,2810 877,2808 835,2806 794,2802"/>
+                <Baseline points="794,2844 835,2848 877,2850 919,2852 961,2855 1003,2856 1044,2856 1086,2858 1128,2858 1170,2860 1212,2860 1253,2860 1295,2860 1337,2860 1379,2860 1421,2861 1462,2862 1504,2862 1546,2862 1588,2862 1630,2864"/>
+                <TextEquiv>
+                    <Unicode>nelletto, dicevano Bichlinium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="784,2955 831,2958 879,2960 926,2963 974,2965 1021,2965 1069,2967 1116,2967 1164,2969 1211,2969 1259,2969 1306,2970 1354,2971 1401,2971 1449,2971 1496,2971 1544,2973 1591,2973 1639,2975 1686,2975 1734,2977 1734,2926 1686,2924 1639,2924 1591,2922 1544,2922 1496,2920 1449,2920 1401,2920 1354,2920 1306,2919 1259,2918 1211,2918 1164,2918 1116,2916 1069,2916 1021,2914 974,2914 926,2912 879,2909 831,2907 784,2904"/>
+                <Baseline points="784,2938 831,2941 879,2943 926,2946 974,2948 1021,2948 1069,2950 1116,2950 1164,2952 1211,2952 1259,2952 1306,2953 1354,2954 1401,2954 1449,2954 1496,2954 1544,2956 1591,2956 1639,2958 1686,2958 1734,2960"/>
+                <TextEquiv>
+                    <Unicode>come ancho per esser'vi duoi letti et non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="774,3036 819,3036 864,3038 909,3039 954,3040 1000,3040 1045,3042 1090,3042 1135,3043 1180,3044 1226,3044 1271,3046 1316,3046 1361,3046 1406,3046 1452,3046 1497,3044 1542,3044 1587,3044 1632,3042 1678,3040 1678,2991 1632,2993 1587,2995 1542,2995 1497,2995 1452,2997 1406,2997 1361,2997 1316,2997 1271,2997 1226,2995 1180,2995 1135,2994 1090,2993 1045,2993 1000,2991 954,2991 909,2990 864,2989 819,2987 774,2987"/>
+                <Baseline points="774,3020 819,3020 864,3022 909,3023 954,3024 1000,3024 1045,3026 1090,3026 1135,3027 1180,3028 1226,3028 1271,3030 1316,3030 1361,3030 1406,3030 1452,3030 1497,3028 1542,3028 1587,3028 1632,3026 1678,3024"/>
+                <TextEquiv>
+                    <Unicode>tre. Come si trova presso Plauto et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:31;} Greek {offset:31; length:9;}">
+                <Coords points="762,3111 810,3113 858,3113 906,3113 954,3115 1002,3115 1050,3115 1098,3116 1146,3117 1194,3117 1242,3117 1290,3117 1338,3119 1386,3119 1434,3119 1482,3119 1530,3119 1578,3119 1626,3121 1674,3121 1722,3121 1722,3069 1674,3069 1626,3069 1578,3067 1530,3067 1482,3067 1434,3067 1386,3067 1338,3067 1290,3065 1242,3065 1194,3065 1146,3065 1098,3064 1050,3063 1002,3063 954,3063 906,3061 858,3061 810,3061 762,3059"/>
+                <Baseline points="762,3094 810,3096 858,3096 906,3096 954,3098 1002,3098 1050,3098 1098,3099 1146,3100 1194,3100 1242,3100 1290,3100 1338,3102 1386,3102 1434,3102 1482,3102 1530,3102 1578,3102 1626,3104 1674,3104 1740,3103"/>
+                <TextEquiv>
+                    <Unicode>suoi scholiasti. Come i greci, ΔΙΚΛΙΝΙΟΝ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DI ROMA
+Dell'uso del Triclinio, in piu luoghi havemo, parlato nelle nostre ricollette dell'antichita. Del cui modo come in
+esso cenavano. Si vede in questo ritratto di quella scoltura trovata nella Via Appia inuna Tabola di Marmo
+di mezzo rilievo, ove si vede Padre et Madre et figliuoli scumbere attavola sulleto come usavano
+gli antichi nelle loro cene stare, atre pertre per letto. per cio che essi cenando et cumendo stavano à
+poggiati per segno di lieta et riposata cena. Concio sia cosa, che chi sedeva attabola, havea qualche pe
+na, ò rammarico nell'animo di qualche scontentezza,eper causa dela morte de parenti ò di qualch'altra
+affinita perla quale lhuomo viene per dolore e dispiacere perturbato: et cosi sedendo si dimostrava ricorde¬
+vole di quella pena in cui premeva tutta la sua perturbata consolatione: al contrario mostravano allegrez
+za et riposo et contentezza d'animo et sicurezza coloro che scumbevano, mangiando. et per che dicono gli
+auttori greci, come ci insegna Plutarcho, et Vitruvio, nelli Trichlinij, stavano à tre pertre attorno le
+Tabole e mense, per che prima furono Tre le Muse, et poscia nove, la onde, chi s'apportava alle tre prime
+Muse, tre si mettevano perletto scumbitorio attavola. et quegli i quali davano lhonore alle nove Muse
+à tre perletto in tre letti circondavano tutta la mensa. et adhonore delle muse si porgeva lhonore co
+me che amensa si ricercano virtuosi ragionamenti et virtuose consolatorie ragioni, che fanno l'animo
+lieto e tranquillo, amico dell'imperio di tutte le cose charitative: et dispensativi et morali. Facevano la
+stanza Tricliniale di forma rotonda, ò ottagona, et Decagona, et Nonagona, per causa della circular
+forma et modo, che si comprende circularmente ogni cosa universale. onde i latini Triclinium l'
+appellano, et cosi i greci, ΤΡΙΚΛΙΝΙΟΝ, che è proprio quel conclave et stanza ove si scumbeva e mangiava.
+ove contre letti, et à tre perletti si stenevano. et percio vi mettevano, ò tre mense, contre letti percia
+scuna, ò una Mensa conlo istesso numero di tre persone perletto. et cubantemente cenavano, onde
+viene la voce Cumbere, che suona cenare, ò Mangiare stando appoggiato dal sinistro lato. et per che tal
+volta come apporta la necessita, s'aggiungeva una ombra ò vogliamo dire persona di piu, stavano à quattro
+perletto. et per cio Horatio nel primo de Sermoni nella quarta satyra parlando dell'abusi dise •SAEPE TRI¬
+BVS LECTIS VIDEAS COENARE QVATERNOS•E QVIBVS VNVS AVET QVAVIS ASPERGERE CVNCTOS.
+et questo basta del Triclinio, del quale molti ne fanno memoria, come Quintiliano. Iuvenale, Cicerone.
+et alcuni lo dicono Triclinum, et non Triclinium. Come fanno i poeti, et colui ch'era il Ministro si diceva
+Tricliaarcha, et Architriclinius. Come Praefechus Triclinij. et dal stare di duoi intal luogho accenare
+nelletto, dicevano Bichlinium
+come ancho per esser'vi duoi letti et non
+tre. Come si trova presso Plauto et
+suoi scholiasti. Come i greci, ΔΙΚΛΙΝΙΟΝ,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643211236632_362" custom="readingOrder {index:1;}">
+            <Coords points="734,3125 1741,3129 1750,2786 3470,2823 3474,4330 724,4309"/>
+            <TextLine id="r1l43" custom="readingOrder {index:0;}">
+                <Coords points="2076,3720 2114,3719 2153,3716 2191,3716 2230,3716 2269,3716 2307,3716 2346,3716 2384,3718 2423,3718 2462,3720 2500,3722 2539,3723 2577,3724 2616,3725 2655,3726 2693,3728 2732,3728 2770,3728 2809,3728 2848,3728 2848,3679 2809,3679 2770,3679 2732,3679 2693,3679 2655,3677 2616,3676 2577,3675 2539,3674 2500,3673 2462,3671 2423,3669 2384,3669 2346,3667 2307,3667 2269,3667 2230,3667 2191,3667 2153,3667 2114,3670 2076,3671"/>
+                <Baseline points="2076,3712 2114,3711 2153,3708 2191,3708 2230,3708 2269,3708 2307,3708 2346,3708 2384,3710 2423,3710 2462,3712 2500,3714 2539,3715 2577,3716 2616,3717 2655,3718 2693,3720 2732,3720 2770,3720 2809,3720 2848,3720"/>
+                <TextEquiv>
+                    <Unicode>DIS•MANIBVS•SACRVM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:1;}">
+                <Coords points="1780,3772 1836,3778 1893,3781 1950,3784 2007,3786 2064,3788 2120,3790 2177,3792 2234,3792 2291,3793 2348,3794 2404,3794 2461,3794 2518,3794 2575,3796 2632,3796 2688,3798 2745,3798 2802,3800 2859,3802 2916,3804 2916,3761 2859,3759 2802,3757 2745,3755 2688,3755 2632,3753 2575,3753 2518,3751 2461,3751 2404,3751 2348,3751 2291,3750 2234,3749 2177,3749 2120,3747 2064,3745 2007,3743 1950,3741 1893,3738 1836,3735 1780,3729"/>
+                <Baseline points="1850,3774 1898,3772 1955,3775 2012,3777 2069,3779 2125,3781 2182,3783 2239,3783 2296,3784 2353,3785 2409,3785 2466,3785 2523,3785 2580,3787 2637,3787 2693,3789 2750,3789 2807,3791 2864,3793 2921,3795"/>
+                <TextEquiv>
+                    <Unicode>IVNIAE VLPIAE MARCIANAE•AVG•LIB</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:2;}">
+                <Coords points="1934,3854 1981,3854 2028,3856 2076,3856 2123,3856 2171,3858 2218,3858 2265,3858 2313,3858 2360,3858 2408,3858 2455,3858 2502,3858 2550,3858 2597,3858 2645,3858 2692,3858 2739,3858 2787,3860 2834,3860 2882,3862 2882,3820 2834,3818 2787,3818 2739,3816 2692,3816 2645,3816 2597,3816 2550,3816 2502,3816 2455,3816 2408,3816 2360,3816 2313,3816 2265,3816 2218,3816 2171,3816 2123,3814 2076,3814 2028,3814 1981,3812 1934,3812"/>
+                <Baseline points="1934,3840 1981,3840 2028,3842 2076,3842 2123,3842 2171,3844 2218,3844 2265,3844 2313,3844 2360,3844 2408,3844 2455,3844 2502,3844 2550,3844 2597,3844 2645,3844 2692,3844 2739,3844 2787,3846 2834,3846 2882,3848"/>
+                <TextEquiv>
+                    <Unicode>IANTVLLAE•VIX•ANN•XXXI•M•II</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:3;}">
+                <Coords points="1852,3912 1905,3914 1959,3914 2013,3914 2066,3916 2120,3916 2174,3916 2227,3916 2281,3916 2335,3918 2389,3918 2442,3918 2496,3918 2550,3918 2603,3920 2657,3920 2711,3920 2764,3920 2818,3921 2872,3922 2926,3922 2926,3880 2872,3880 2818,3879 2764,3878 2711,3878 2657,3878 2603,3878 2550,3876 2496,3876 2442,3876 2389,3876 2335,3876 2281,3874 2227,3874 2174,3874 2120,3874 2066,3874 2013,3872 1959,3872 1905,3872 1852,3870"/>
+                <Baseline points="1852,3898 1905,3900 1959,3900 2013,3900 2066,3902 2120,3902 2174,3902 2227,3902 2281,3902 2335,3904 2389,3904 2442,3904 2496,3904 2550,3904 2603,3906 2657,3906 2711,3906 2764,3906 2818,3907 2872,3908 2926,3908"/>
+                <TextEquiv>
+                    <Unicode>ET M•VLPIO•M•L•MENESTEO•MARIT•OPT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:4;} unclear {offset:27; length:3;}">
+                <Coords points="1894,3969 1943,3971 1993,3972 2043,3973 2093,3974 2143,3975 2192,3975 2242,3975 2292,3975 2342,3973 2392,3973 2441,3973 2491,3972 2541,3971 2591,3971 2641,3970 2690,3969 2740,3969 2790,3969 2840,3969 2890,3969 2890,3935 2840,3935 2790,3935 2740,3935 2690,3935 2641,3936 2591,3937 2541,3937 2491,3938 2441,3939 2392,3939 2342,3939 2292,3941 2242,3941 2192,3941 2143,3941 2093,3940 2043,3939 1993,3938 1943,3937 1894,3935"/>
+                <Baseline points="1894,3958 1943,3960 1993,3961 2043,3962 2093,3963 2143,3964 2192,3964 2242,3964 2292,3964 2342,3962 2392,3962 2441,3962 2491,3961 2541,3960 2591,3960 2641,3959 2690,3958 2740,3958 2790,3958 2840,3958 2890,3958"/>
+                <TextEquiv>
+                    <Unicode>ET•VLPIO•FIL•SCRIB•PRAETOR ...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:5;} unclear {offset:32; length:3;}">
+                <Coords points="1788,4017 1843,4021 1899,4023 1955,4026 2010,4029 2066,4029 2122,4029 2177,4029 2233,4029 2289,4029 2345,4027 2400,4026 2456,4025 2512,4023 2567,4021 2623,4019 2679,4019 2734,4017 2790,4017 2846,4017 2902,4017 2902,3983 2846,3983 2790,3983 2734,3983 2679,3985 2623,3985 2567,3987 2512,3989 2456,3991 2400,3992 2345,3993 2289,3995 2233,3995 2177,3995 2122,3995 2066,3995 2010,3995 1955,3992 1899,3989 1843,3987 1788,3983"/>
+                <Baseline points="1788,4006 1843,4010 1899,4012 1955,4015 2010,4018 2066,4018 2122,4018 2177,4018 2233,4018 2289,4018 2345,4016 2400,4015 2456,4014 2512,4012 2567,4010 2623,4008 2679,4008 2734,4006 2790,4006 2846,4006 2902,4006"/>
+                <TextEquiv>
+                    <Unicode>M•VLPIVS•CALLYSTVS•LEGAT•CAVSSA ...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DIS•MANIBVS•SACRVM
+IVNIAE VLPIAE MARCIANAE•AVG•LIB
+IANTVLLAE•VIX•ANN•XXXI•M•II
+ET M•VLPIO•M•L•MENESTEO•MARIT•OPT
+ET•VLPIO•FIL•SCRIB•PRAETOR ...
+M•VLPIVS•CALLYSTVS•LEGAT•CAVSSA ...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

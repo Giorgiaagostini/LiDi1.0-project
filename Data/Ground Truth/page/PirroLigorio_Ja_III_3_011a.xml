@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:34.747+01:00</Created>
+        <LastChange>2022-02-14T18:19:08.447+01:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902815" pageNr="21" tsid="75326013" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=GHDWLNLXHIVKECAPYKFDLOSV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LSVAKIWBWWNNHIDFJHFXNORN" imageId="17873889"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_011a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337493131" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1639650087525_213"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1639650310898_259"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1639650195585_233"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1639650195585_232"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1639650139165_225"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1639650087525_213" custom="readingOrder {index:0;}">
+            <Coords points="789,426 3613,420 3613,606 3579,612 1565,566 1564,642 789,631"/>
+            <TextLine id="line_1639650087644_216" custom="readingOrder {index:0;}">
+                <Coords points="886,561 993,563 1100,565 1207,567 1314,571 1421,574 1528,578 1564,579 1564,637 1528,636 1421,632 1314,629 1207,625 1100,623 993,621 886,619"/>
+                <Baseline points="886,600 993,602 1100,604 1207,606 1314,610 1421,613 1528,617 1564,618"/>
+                <TextEquiv>
+                    <Unicode>delle Cisterne inquesto senso:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638894643776_224" custom="readingOrder {index:1;}">
+                <Coords points="866,457 995,463 1125,467 1254,473 1384,477 1513,481 1643,483 1772,486 1852,487 1852,551 1772,550 1643,547 1513,545 1384,541 1254,537 1125,531 995,527 866,521"/>
+                <Baseline points="866,500 995,506 1125,510 1254,516 1384,520 1513,524 1643,526 1772,529 1852,530"/>
+                <TextEquiv>
+                    <Unicode>ostie del pado fiume detta Messanico padusa et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638894648433_228" custom="readingOrder {index:2;}">
+                <Coords points="1835,449 1891,449 1891,499 1835,499"/>
+                <Baseline points="1835,494 1891,494"/>
+                <TextEquiv>
+                    <Unicode>al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638894643776_223" custom="readingOrder {index:3;}">
+                <Coords points="1852,487 1902,489 2031,491 2161,493 2290,497 2420,499 2549,501 2679,505 2808,509 2938,513 3067,517 3197,523 3326,529 3456,535 3456,599 3326,593 3197,587 3067,581 2938,577 2808,573 2679,569 2549,565 2420,563 2290,561 2161,557 2031,555 1902,553 1852,551"/>
+                <Baseline points="1852,530 1902,532 2031,534 2161,536 2290,540 2420,542 2549,544 2679,548 2808,552 2938,556 3067,560 3197,566 3326,572 3456,578"/>
+                <TextEquiv>
+                    <Unicode>Spinetico. Viene anchora nominata Ravenna da Martiale nell'acqua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>delle Cisterne inquesto senso:
+ostie del pado fiume detta Messanico padusa et 
+al
+Spinetico. Viene anchora nominata Ravenna da Martiale nell'acqua</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639650310898_259" custom="readingOrder {index:1;}">
+            <Coords points="1565,566 3129,609 3129,931 1561,931 1565,643 1564,642"/>
+            <TextLine id="line_1639650087643_215" custom="readingOrder {index:0;}">
+                <Coords points="1564,579 1635,581 1742,586 1849,589 1956,593 2063,597 2170,600 2277,603 2384,607 2491,609 2598,611 2705,613 2812,615 3026,615 3026,673 2812,673 2705,671 2598,669 2491,667 2384,665 2277,661 2170,658 2063,655 1956,651 1849,647 1742,644 1635,639 1564,637"/>
+                <Baseline points="1564,618 1635,620 1742,625 1849,628 1956,632 2063,636 2170,639 2277,642 2384,646 2491,648 2598,650 2705,652 2812,654 2919,654 3026,654"/>
+                <TextEquiv>
+                    <Unicode>SIT CISTERNA MIHI, QVAM VINEA, MALO RAVENNAE,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1638,721 1704,722 1770,723 1836,725 1903,729 1969,731 2035,733 2102,735 2168,737 2234,741 2301,743 2367,745 2433,747 2499,749 2566,751 2632,753 2698,755 2765,755 2831,757 2897,757 2964,757 2964,699 2897,699 2831,699 2765,697 2698,697 2632,695 2566,693 2499,691 2433,689 2367,687 2301,685 2234,683 2168,679 2102,677 2035,675 1969,673 1903,671 1836,667 1770,665 1704,664 1638,663"/>
+                <Baseline points="1638,702 1704,703 1770,704 1836,706 1903,710 1969,712 2035,714 2102,716 2168,718 2234,722 2301,724 2367,726 2433,728 2499,730 2566,732 2632,734 2698,736 2765,736 2831,738 2897,738 2964,738"/>
+                <TextEquiv>
+                    <Unicode>CVM POSSIM MVLTO VENDERE PLVRIS AQVAM;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1582,818 1657,819 1732,822 1807,824 1882,826 1957,828 2032,830 2107,832 2182,835 2257,837 2332,840 2407,842 2482,844 2557,846 2632,848 2707,850 2782,852 2857,854 2932,856 3007,858 3082,860 3082,800 3007,798 2932,796 2857,794 2782,792 2707,790 2632,788 2557,786 2482,784 2407,782 2332,780 2257,777 2182,775 2107,772 2032,770 1957,768 1882,766 1807,764 1732,762 1657,759 1582,758"/>
+                <Baseline points="1582,798 1657,799 1732,802 1807,804 1882,806 1957,808 2032,810 2107,812 2182,815 2257,817 2332,820 2407,822 2482,824 2557,826 2632,828 2707,830 2782,832 2857,834 2932,836 3007,838 3082,840"/>
+                <TextEquiv>
+                    <Unicode>CALLIDVS IMPOSVIT NVPER MIHI CAVPO RAVENNAE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="1682,910 1747,910 1813,912 1879,913 1945,914 2011,916 2076,918 2142,920 2208,922 2274,924 2340,926 2405,928 2471,930 2537,931 2603,932 2669,934 2734,936 2800,936 2866,938 2932,938 2998,938 2998,878 2932,878 2866,878 2800,876 2734,876 2669,874 2603,872 2537,871 2471,870 2405,868 2340,866 2274,864 2208,862 2142,860 2076,858 2011,856 1945,854 1879,853 1813,852 1747,850 1682,850"/>
+                <Baseline points="1682,890 1747,890 1813,892 1879,893 1945,894 2011,896 2076,898 2142,900 2208,902 2274,904 2340,906 2405,908 2471,910 2537,911 2603,912 2669,914 2734,916 2800,916 2866,918 2932,918 2998,918"/>
+                <TextEquiv>
+                    <Unicode>CVM PATEREM MIXTVM VENDIT ILLE MERVM•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SIT CISTERNA MIHI, QVAM VINEA, MALO RAVENNAE,
+CVM POSSIM MVLTO VENDERE PLVRIS AQVAM;
+CALLIDVS IMPOSVIT NVPER MIHI CAVPO RAVENNAE.
+CVM PATEREM MIXTVM VENDIT ILLE MERVM•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639650195585_233" custom="readingOrder {index:2;}">
+            <Coords points="789,931 1050,858 1249,927 3613,952 3613,2817 2978,2817 2978,2716 1540,2724 1540,2809 1540,2817 789,2817"/>
+            <TextLine id="line_1639650195744_235" custom="readingOrder {index:0;}">
+                <Coords points="930,2749 1133,2749 1234,2747 1540,2747 1540,2809 1540,2811 1234,2811 1133,2813 930,2813"/>
+                <Baseline points="885,2795 1031,2792 1133,2792 1234,2790 1336,2790 1438,2790 1539,2790 1540,2790"/>
+                <TextEquiv>
+                    <Unicode>ò dubia à chi non sa le cose:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638895007122_248" custom="readingOrder {index:1;}">
+                <Coords points="876,927 1003,932 1029,933 1029,997 1003,996 876,991"/>
+                <Baseline points="876,970 1003,975 1029,976"/>
+                <TextEquiv>
+                    <Unicode>Sinqui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638895007121_247" custom="readingOrder {index:2;}">
+                <Coords points="1029,933 1131,937 1259,941 1387,943 1515,945 1643,947 1771,949 1899,951 2027,953 2155,953 2282,955 2410,956 2538,958 2666,961 2794,963 2922,966 3050,969 3178,974 3306,980 3434,985 3434,1049 3306,1044 3178,1038 3050,1033 2922,1030 2794,1027 2666,1025 2538,1022 2410,1020 2282,1019 2155,1017 2027,1017 1899,1015 1771,1013 1643,1011 1515,1009 1387,1007 1259,1005 1131,1001 1029,997"/>
+                <Baseline points="1029,976 1131,980 1259,984 1387,986 1515,988 1643,990 1771,992 1899,994 2027,996 2155,996 2282,998 2410,999 2538,1001 2666,1004 2794,1006 2922,1009 3050,1012 3178,1017 3306,1023 3434,1028"/>
+                <TextEquiv>
+                    <Unicode>tuttigli sopradetti oppenioni d'Historici: potemo agilmente credere non havendo sopra d'essi nulloicontrario.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="894,1084 1020,1088 1147,1090 1274,1094 1401,1095 1528,1098 1654,1098 1781,1100 1908,1102 2035,1104 2162,1104 2288,1106 2415,1108 2542,1110 2669,1112 2796,1114 2922,1117 3049,1120 3176,1124 3303,1129 3430,1134 3430,1074 3303,1069 3176,1064 3049,1060 2922,1057 2796,1054 2669,1052 2542,1050 2415,1048 2288,1046 2162,1044 2035,1044 1908,1042 1781,1040 1654,1038 1528,1038 1401,1035 1274,1034 1147,1030 1020,1028 894,1024"/>
+                <Baseline points="894,1064 1020,1068 1147,1070 1274,1074 1401,1075 1528,1078 1654,1078 1781,1080 1908,1082 2035,1084 2162,1084 2288,1086 2415,1088 2542,1090 2669,1092 2796,1094 2922,1097 3049,1100 3176,1104 3303,1109 3430,1114"/>
+                <TextEquiv>
+                    <Unicode>Ma volendo ricercare per sottile tutta la sua antichità per più antico origine, non è dubio che si trova come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="902,1172 1028,1178 1154,1184 1280,1188 1407,1192 1533,1196 1659,1198 1786,1201 1912,1202 2038,1204 2165,1206 2291,1206 2417,1206 2543,1208 2670,1208 2796,1208 2922,1210 3049,1210 3175,1212 3301,1214 3428,1214 3428,1154 3301,1154 3175,1152 3049,1150 2922,1150 2796,1148 2670,1148 2543,1148 2417,1146 2291,1146 2165,1146 2038,1144 1912,1142 1786,1141 1659,1138 1533,1136 1407,1132 1280,1128 1154,1124 1028,1118 902,1112"/>
+                <Baseline points="902,1152 1028,1158 1154,1164 1280,1168 1407,1172 1533,1176 1659,1178 1786,1181 1912,1182 2038,1184 2165,1186 2291,1186 2417,1186 2543,1188 2670,1188 2796,1188 2922,1190 3049,1190 3175,1192 3301,1194 3428,1194"/>
+                <TextEquiv>
+                    <Unicode>ha dato materia à molti d'altri oppenioni: et sono stati alcuni, ch'essa sia fatta delle reliquie di Spina città</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="902,1283 1029,1285 1157,1285 1284,1287 1412,1289 1539,1289 1667,1291 1794,1291 1922,1293 2049,1293 2177,1295 2304,1295 2432,1297 2559,1297 2687,1299 2814,1301 2942,1301 3069,1303 3197,1307 3324,1309 3452,1311 3452,1247 3324,1245 3197,1243 3069,1239 2942,1237 2814,1237 2687,1235 2559,1233 2432,1233 2304,1231 2177,1231 2049,1229 1922,1229 1794,1227 1667,1227 1539,1225 1412,1225 1284,1223 1157,1221 1029,1221 902,1219"/>
+                <Baseline points="905,1264 3457,1301"/>
+                <TextEquiv>
+                    <Unicode>colonia de pelasgi ch'era sul pado fiume nella parte del Messanico. Spinetico che fù edifico di Diomede secondo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="886,1381 1014,1385 1142,1387 1270,1389 1399,1391 1527,1391 1655,1391 1784,1391 1912,1391 2040,1391 2169,1391 2297,1391 2425,1391 2553,1391 2682,1391 2810,1393 2938,1393 3067,1396 3195,1399 3323,1403 3452,1407 3452,1343 3323,1339 3195,1335 3067,1332 2938,1329 2810,1329 2682,1327 2553,1327 2425,1327 2297,1327 2169,1327 2040,1327 1912,1327 1784,1327 1655,1327 1527,1327 1399,1327 1270,1325 1142,1323 1014,1321 886,1317"/>
+                <Baseline points="886,1360 1014,1364 1142,1366 1270,1368 1399,1370 1527,1370 1655,1370 1784,1370 1912,1370 2040,1370 2169,1370 2297,1370 2425,1370 2553,1370 2682,1370 2810,1372 2938,1372 3067,1375 3195,1378 3323,1382 3452,1386"/>
+                <TextEquiv>
+                    <Unicode>plinio delli Thesori di Delpho, il che Dionysio et Strabone confermano essere così stata Spina edificata: et anchora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="898,1473 1025,1475 1153,1477 1281,1479 1408,1481 1536,1481 1664,1481 1791,1481 1919,1481 2047,1481 2175,1481 2302,1481 2430,1481 2558,1483 2685,1483 2813,1483 2941,1485 3068,1487 3196,1491 3324,1493 3452,1497 3452,1433 3324,1429 3196,1427 3068,1423 2941,1421 2813,1419 2685,1419 2558,1419 2430,1417 2302,1417 2175,1417 2047,1417 1919,1417 1791,1417 1664,1417 1536,1417 1408,1417 1281,1415 1153,1413 1025,1411 898,1409"/>
+                <Baseline points="898,1452 1025,1454 1153,1456 1281,1458 1408,1460 1536,1460 1664,1460 1791,1460 1919,1460 2047,1460 2175,1460 2302,1460 2430,1460 2558,1462 2685,1462 2813,1462 2941,1464 3068,1466 3196,1470 3324,1472 3452,1476"/>
+                <TextEquiv>
+                    <Unicode>al tempo loro mancata: onde eglino non dicendo che di Spina fusse fatta Ravenna, non è da credere alli moderni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="908,1567 1034,1569 1160,1569 1286,1570 1412,1571 1539,1571 1665,1571 1791,1571 1917,1573 2043,1573 2170,1573 2296,1573 2422,1573 2548,1573 2674,1575 2801,1575 2927,1575 3053,1575 3179,1577 3305,1577 3432,1579 3432,1515 3305,1513 3179,1513 3053,1511 2927,1511 2801,1511 2674,1511 2548,1509 2422,1509 2296,1509 2170,1509 2043,1509 1917,1509 1791,1507 1665,1507 1539,1507 1412,1507 1286,1506 1160,1505 1034,1505 908,1503"/>
+                <Baseline points="908,1546 1034,1548 1160,1548 1286,1549 1412,1550 1539,1550 1665,1550 1791,1550 1917,1552 2043,1552 2170,1552 2296,1552 2422,1552 2548,1552 2674,1554 2801,1554 2927,1554 3053,1554 3179,1556 3305,1556 3432,1558"/>
+                <TextEquiv>
+                    <Unicode>che credono, che Spina facesse Ravenna. pure avegna come si vuole Ravenna confinava conlo contato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="912,1659 1039,1661 1167,1665 1294,1667 1422,1669 1550,1671 1677,1671 1805,1673 1932,1673 2060,1675 2188,1675 2315,1675 2443,1677 2570,1677 2698,1677 2826,1679 2953,1680 3081,1681 3208,1683 3336,1686 3464,1689 3464,1625 3336,1622 3208,1619 3081,1617 2953,1616 2826,1615 2698,1613 2570,1613 2443,1613 2315,1611 2188,1611 2060,1611 1932,1609 1805,1609 1677,1607 1550,1607 1422,1605 1294,1603 1167,1601 1039,1597 912,1595"/>
+                <Baseline points="912,1638 1039,1640 1167,1644 1294,1646 1422,1648 1550,1650 1677,1650 1805,1652 1932,1652 2060,1654 2188,1654 2315,1654 2443,1656 2570,1656 2698,1656 2826,1658 2953,1659 3081,1660 3208,1662 3336,1665 3464,1668"/>
+                <TextEquiv>
+                    <Unicode>di Spina perla contiguo paese. Donde s'ingannano, per cio che altro è Ravenna et altro è Spina, ambidue città</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="894,1767 1021,1769 1148,1771 1275,1771 1402,1773 1530,1773 1657,1773 1784,1773 1911,1775 2038,1775 2166,1775 2293,1775 2420,1775 2547,1775 2674,1777 2802,1777 2929,1779 3056,1779 3183,1781 3310,1783 3438,1785 3438,1721 3310,1719 3183,1717 3056,1715 2929,1715 2802,1713 2674,1713 2547,1711 2420,1711 2293,1711 2166,1711 2038,1711 1911,1711 1784,1709 1657,1709 1530,1709 1402,1709 1275,1707 1148,1707 1021,1705 894,1703"/>
+                <Baseline points="894,1746 1021,1748 1148,1750 1275,1750 1402,1752 1530,1752 1657,1752 1784,1752 1911,1754 2038,1754 2166,1754 2293,1754 2420,1754 2547,1754 2674,1756 2802,1756 2929,1758 3056,1758 3183,1760 3310,1762 3438,1764"/>
+                <TextEquiv>
+                    <Unicode>antichissime, et nobilissime, in uno medesimo tratto di mare, l'una sul pado Spinetio Messanico primaro: l'alora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="902,1863 1029,1863 1156,1865 1283,1865 1411,1865 1538,1867 1665,1867 1793,1867 1920,1869 2047,1869 2175,1869 2302,1871 2429,1871 2556,1873 2684,1873 2811,1875 2938,1877 3066,1879 3193,1879 3320,1881 3448,1883 3448,1820 3320,1818 3193,1816 3066,1816 2938,1814 2811,1812 2684,1810 2556,1810 2429,1808 2302,1808 2175,1806 2047,1806 1920,1806 1793,1804 1665,1804 1538,1804 1411,1802 1283,1802 1156,1802 1029,1800 902,1800"/>
+                <Baseline points="902,1842 1029,1842 1156,1844 1283,1844 1411,1844 1538,1846 1665,1846 1793,1846 1920,1848 2047,1848 2175,1848 2302,1850 2429,1850 2556,1852 2684,1852 2811,1854 2938,1856 3066,1858 3193,1858 3320,1860 3448,1862"/>
+                <TextEquiv>
+                    <Unicode>più discosto assai confinanti di territorio et in uno litto, et per questo Martiale perla continuità del paese, ò litto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="894,1957 1023,1955 1152,1955 1281,1953 1411,1953 1540,1953 1669,1953 1799,1955 1928,1955 2057,1955 2187,1957 2316,1957 2445,1959 2574,1959 2704,1961 2833,1961 2962,1963 3092,1963 3221,1965 3350,1965 3480,1967 3480,1904 3350,1902 3221,1902 3092,1900 2962,1900 2833,1898 2704,1898 2574,1896 2445,1896 2316,1894 2187,1894 2057,1892 1928,1892 1799,1892 1669,1890 1540,1890 1411,1890 1281,1890 1152,1892 1023,1892 894,1894"/>
+                <Baseline points="894,1936 1023,1934 1152,1934 1281,1932 1411,1932 1540,1932 1669,1932 1799,1934 1928,1934 2057,1934 2187,1936 2316,1936 2445,1938 2574,1938 2704,1940 2833,1940 2962,1942 3092,1942 3221,1944 3350,1944 3480,1946"/>
+                <TextEquiv>
+                    <Unicode>Lo chiama di Spina Ravenna nell'Asparagi paesani, ove sono generosi: ma non per questa auttorita di Martia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="888,2049 1015,2047 1142,2047 1269,2047 1396,2047 1523,2047 1650,2047 1777,2049 1904,2049 2031,2051 2159,2051 2286,2052 2413,2053 2540,2053 2667,2053 2794,2053 2921,2051 3048,2049 3175,2048 3302,2045 3430,2041 3430,1977 3302,1981 3175,1984 3048,1985 2921,1987 2794,1989 2667,1989 2540,1989 2413,1989 2286,1988 2159,1987 2031,1987 1904,1985 1777,1985 1650,1983 1523,1983 1396,1983 1269,1983 1142,1983 1015,1983 888,1985"/>
+                <Baseline points="888,2028 1015,2026 1142,2026 1269,2026 1396,2026 1523,2026 1650,2026 1777,2028 1904,2028 2031,2030 2159,2030 2286,2031 2413,2032 2540,2032 2667,2032 2794,2032 2921,2030 3048,2028 3175,2027 3302,2024 3430,2020"/>
+                <TextEquiv>
+                    <Unicode>Le fà che Ravenna sia Spina, ansi siano sempre due città. Per cio che Spina fù sul Fiume Pado sudetto nel Ri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="902,2137 1031,2138 1161,2140 1291,2142 1420,2143 1550,2145 1680,2147 1809,2149 1939,2151 2069,2153 2199,2155 2328,2155 2458,2157 2588,2157 2717,2157 2847,2157 2977,2157 3106,2156 3236,2155 3366,2153 3496,2149 3496,2085 3366,2089 3236,2091 3106,2092 2977,2093 2847,2093 2717,2093 2588,2093 2458,2093 2328,2091 2199,2091 2069,2089 1939,2087 1809,2085 1680,2083 1550,2081 1420,2079 1291,2078 1161,2076 1031,2074 902,2073"/>
+                <Baseline points="902,2116 1031,2117 1161,2119 1291,2121 1420,2122 1550,2124 1680,2126 1809,2128 1939,2130 2069,2132 2199,2134 2328,2134 2458,2136 2588,2136 2717,2136 2847,2136 2977,2136 3106,2135 3236,2134 3366,2132 3509,2129"/>
+                <TextEquiv>
+                    <Unicode>vo cognominato Spinetico Messanico secondo Dionysio Halicarnasseo, et Ravenna situata in altri diversi fiu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="902,2225 1031,2231 1161,2237 1291,2241 1421,2243 1551,2245 1681,2247 1811,2247 1941,2247 2071,2247 2201,2247 2330,2247 2460,2247 2590,2247 2720,2245 2850,2245 2980,2247 3110,2247 3240,2249 3370,2251 3500,2255 3500,2191 3370,2187 3240,2185 3110,2183 2980,2183 2850,2181 2720,2181 2590,2183 2460,2183 2330,2183 2201,2183 2071,2183 1941,2183 1811,2183 1681,2183 1551,2181 1421,2179 1291,2177 1161,2173 1031,2167 902,2161"/>
+                <Baseline points="902,2204 1031,2210 1161,2216 1291,2220 1421,2222 1551,2224 1681,2226 1811,2226 1941,2226 2071,2226 2201,2226 2330,2226 2460,2226 2590,2226 2720,2224 2850,2224 2980,2226 3110,2226 3240,2228 3370,2230 3550,2235"/>
+                <TextEquiv>
+                    <Unicode>mi chiamati Anemone, Montone Viti et Sapi. ove circa et nella confluentia di questi intrapresa, sivede situa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="894,2327 1022,2329 1151,2331 1280,2333 1409,2333 1538,2335 1667,2335 1796,2335 1925,2335 2054,2335 2183,2335 2311,2335 2440,2335 2569,2334 2698,2333 2827,2333 2956,2333 3085,2333 3214,2333 3343,2333 3472,2333 3472,2269 3343,2269 3214,2269 3085,2269 2956,2269 2827,2269 2698,2269 2569,2270 2440,2271 2311,2271 2183,2271 2054,2271 1925,2271 1796,2271 1667,2271 1538,2271 1409,2269 1280,2269 1151,2267 1022,2265 894,2263"/>
+                <Baseline points="894,2306 1022,2308 1151,2310 1280,2312 1409,2312 1538,2314 1667,2314 1796,2314 1925,2314 2054,2314 2183,2314 2311,2314 2440,2314 2569,2313 2698,2312 2827,2312 2956,2312 3085,2312 3214,2312 3343,2312 3472,2312"/>
+                <TextEquiv>
+                    <Unicode>ta: et dal portare materia nel mare lo quale si scarca d'essa materia hanno discostata la città dall'onde salse et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="912,2433 1039,2431 1166,2429 1294,2427 1421,2427 1549,2427 1676,2427 1803,2427 1931,2427 2058,2427 2186,2427 2313,2427 2440,2429 2568,2429 2695,2429 2823,2429 2950,2427 3077,2427 3205,2425 3332,2423 3460,2421 3460,2357 3332,2359 3205,2361 3077,2363 2950,2363 2823,2365 2695,2365 2568,2365 2440,2365 2313,2363 2186,2363 2058,2363 1931,2363 1803,2363 1676,2363 1549,2363 1421,2363 1294,2363 1166,2365 1039,2367 912,2369"/>
+                <Baseline points="912,2412 1039,2410 1166,2408 1294,2406 1421,2406 1549,2406 1676,2406 1803,2406 1931,2406 2058,2406 2186,2406 2313,2406 2440,2408 2568,2408 2695,2408 2823,2408 2950,2406 3077,2406 3205,2404 3332,2402 3460,2400"/>
+                <TextEquiv>
+                    <Unicode>è adentro terra, ove pria era sul mare, et perlo incrimento dellitto giace adentroterra. Et non è da dubitare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="896,2531 1023,2529 1151,2527 1278,2525 1406,2525 1533,2525 1661,2525 1788,2525 1916,2525 2043,2525 2171,2525 2298,2525 2426,2525 2553,2525 2681,2525 2808,2523 2936,2523 3063,2521 3191,2521 3318,2519 3446,2515 3446,2451 3318,2455 3191,2457 3063,2457 2936,2459 2808,2459 2681,2461 2553,2461 2426,2461 2298,2461 2171,2461 2043,2461 1916,2461 1788,2461 1661,2461 1533,2461 1406,2461 1278,2461 1151,2463 1023,2465 896,2467"/>
+                <Baseline points="896,2510 1023,2508 1151,2506 1278,2504 1406,2504 1533,2504 1661,2504 1788,2504 1916,2504 2043,2504 2171,2504 2298,2504 2426,2504 2553,2504 2681,2504 2808,2502 2936,2502 3063,2500 3191,2500 3318,2498 3446,2494"/>
+                <TextEquiv>
+                    <Unicode>che'essa non sia nel medesimo sito ove era stata sempre quando il mare la bagnava. Ordunque sendo come è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:19;}">
+                <Coords points="920,2630 1045,2628 1171,2628 1297,2626 1423,2626 1549,2624 1675,2624 1801,2624 1927,2624 2053,2624 2179,2624 2304,2624 2430,2624 2556,2624 2682,2624 2808,2624 2934,2622 3060,2622 3186,2620 3312,2618 3438,2616 3438,2555 3312,2557 3186,2559 3060,2561 2934,2561 2808,2563 2682,2563 2556,2563 2430,2563 2304,2563 2179,2563 2053,2563 1927,2563 1801,2563 1675,2563 1549,2563 1423,2565 1297,2565 1171,2567 1045,2567 920,2569"/>
+                <Baseline points="920,2610 1045,2608 1171,2608 1297,2606 1423,2606 1549,2604 1675,2604 1801,2604 1927,2604 2053,2604 2179,2604 2304,2604 2430,2604 2556,2604 2682,2604 2808,2604 2934,2602 3060,2602 3186,2600 3312,2598 3438,2596"/>
+                <TextEquiv>
+                    <Unicode>detto il spinetico paese congionto col Ravennate Martiale nel distico ventesimo primo del decimo terzo libro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638899594639_304" custom="readingOrder {index:20;}">
+                <Coords points="908,2659 1034,2657 1161,2657 1288,2655 1414,2655 1430,2654 1430,2715 1414,2716 1288,2716 1161,2718 1034,2718 908,2720"/>
+                <Baseline points="908,2700 1034,2698 1161,2698 1288,2696 1414,2696 1430,2695"/>
+                <TextEquiv>
+                    <Unicode>de suoi carmi laudando </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638899600339_308" custom="readingOrder {index:21;}">
+                <Coords points="1426,2612 1498,2610 1499,2660 1427,2662"/>
+                <Baseline points="1427,2657 1499,2655"/>
+                <TextEquiv>
+                    <Unicode>gli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1638899594638_303" custom="readingOrder {index:22;}">
+                <Coords points="1430,2654 1541,2653 1668,2653 1794,2651 1921,2651 2048,2649 2428,2649 2555,2647 3188,2647 3315,2649 3442,2649 3442,2710 3315,2710 3188,2708 2555,2708 2428,2710 2048,2710 1921,2712 1794,2712 1668,2714 1541,2714 1430,2715"/>
+                <Baseline points="1430,2695 1541,2694 1668,2694 1794,2692 1921,2692 2048,2690 2175,2690 2301,2690 2428,2690 2555,2688 2681,2688 2808,2688 2935,2688 3061,2688 3188,2688 3315,2690 3442,2690"/>
+                <TextEquiv>
+                    <Unicode>asparagi di Spina et di Ravenna sforzato dal verso dice questa sententia ambigua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ò dubia à chi non sa le cose:
+Sinqui
+tuttigli sopradetti oppenioni d'Historici: potemo agilmente credere non havendo sopra d'essi nulloicontrario.
+Ma volendo ricercare per sottile tutta la sua antichità per più antico origine, non è dubio che si trova come
+ha dato materia à molti d'altri oppenioni: et sono stati alcuni, ch'essa sia fatta delle reliquie di Spina città
+colonia de pelasgi ch'era sul pado fiume nella parte del Messanico. Spinetico che fù edifico di Diomede secondo
+plinio delli Thesori di Delpho, il che Dionysio et Strabone confermano essere così stata Spina edificata: et anchora
+al tempo loro mancata: onde eglino non dicendo che di Spina fusse fatta Ravenna, non è da credere alli moderni
+che credono, che Spina facesse Ravenna. pure avegna come si vuole Ravenna confinava conlo contato
+di Spina perla contiguo paese. Donde s'ingannano, per cio che altro è Ravenna et altro è Spina, ambidue città
+antichissime, et nobilissime, in uno medesimo tratto di mare, l'una sul pado Spinetio Messanico primaro: l'alora
+più discosto assai confinanti di territorio et in uno litto, et per questo Martiale perla continuità del paese, ò litto
+Lo chiama di Spina Ravenna nell'Asparagi paesani, ove sono generosi: ma non per questa auttorita di Martia¬
+Le fà che Ravenna sia Spina, ansi siano sempre due città. Per cio che Spina fù sul Fiume Pado sudetto nel Ri
+vo cognominato Spinetico Messanico secondo Dionysio Halicarnasseo, et Ravenna situata in altri diversi fiu¬
+mi chiamati Anemone, Montone Viti et Sapi. ove circa et nella confluentia di questi intrapresa, sivede situa¬
+ta: et dal portare materia nel mare lo quale si scarca d'essa materia hanno discostata la città dall'onde salse et
+è adentro terra, ove pria era sul mare, et perlo incrimento dellitto giace adentroterra. Et non è da dubitare
+che'essa non sia nel medesimo sito ove era stata sempre quando il mare la bagnava. Ordunque sendo come è
+detto il spinetico paese congionto col Ravennate Martiale nel distico ventesimo primo del decimo terzo libro
+de suoi carmi laudando 
+gli
+asparagi di Spina et di Ravenna sforzato dal verso dice questa sententia ambigua</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639650195585_232" custom="readingOrder {index:3;}">
+            <Coords points="1540,2724 2978,2716 2978,2817 2978,2924 1540,2927 1540,2817 1540,2809"/>
+            <TextLine id="line_1639650195745_236" custom="readingOrder {index:0;}">
+                <Coords points="1540,2747 2860,2747 2962,2745 2962,2809 2860,2811 1540,2811 1540,2809"/>
+                <Baseline points="1540,2790 1641,2790 1742,2790 1844,2790 1946,2790 2047,2790 2149,2790 2250,2790 2352,2790 2454,2790 2555,2790 2657,2790 2758,2790 2860,2790 2962,2788"/>
+                <TextEquiv>
+                    <Unicode>MOLLIS IN AEQVOREA QVAE CREVIT SPINA, RAVENNA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:1;}">
+                <Coords points="1824,2909 1881,2909 1939,2909 1997,2909 2055,2909 2113,2909 2170,2907 2228,2907 2286,2907 2344,2907 2402,2907 2459,2906 2517,2905 2575,2905 2633,2903 2691,2901 2748,2900 2806,2899 2864,2897 2922,2894 2980,2891 2980,2828 2922,2831 2864,2834 2806,2836 2748,2837 2691,2838 2633,2840 2575,2842 2517,2842 2459,2843 2402,2844 2344,2844 2286,2844 2228,2844 2170,2844 2113,2846 2055,2846 1997,2846 1939,2846 1881,2846 1824,2846"/>
+                <Baseline points="1824,2888 1881,2888 1939,2888 1997,2888 2055,2888 2113,2888 2170,2886 2228,2886 2286,2886 2344,2886 2402,2886 2459,2885 2517,2884 2575,2884 2633,2882 2691,2880 2748,2879 2806,2878 2864,2876 2922,2873 2980,2870"/>
+                <TextEquiv>
+                    <Unicode>NON ERIT INCVLTIS GRATIOR ASPARAGIS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MOLLIS IN AEQVOREA QVAE CREVIT SPINA, RAVENNA
+NON ERIT INCVLTIS GRATIOR ASPARAGIS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639650139165_225" custom="readingOrder {index:4;}">
+            <Coords points="792,2920 1536,2912 3617,2913 3617,4707 789,4623"/>
+            <TextLine id="r1l27" custom="readingOrder {index:0;}">
+                <Coords points="902,2993 1028,2995 1154,2995 1280,2997 1406,2997 1533,2997 1659,2997 1785,2995 1911,2995 2037,2993 2164,2993 2290,2993 2416,2991 2542,2991 2668,2991 2795,2991 2921,2993 3047,2995 3173,2997 3299,2999 3426,3003 3426,2940 3299,2936 3173,2934 3047,2932 2921,2930 2795,2928 2668,2928 2542,2928 2416,2928 2290,2930 2164,2930 2037,2930 1911,2932 1785,2932 1659,2934 1533,2934 1406,2934 1280,2934 1154,2932 1028,2932 902,2930"/>
+                <Baseline points="902,2972 1028,2974 1154,2974 1280,2976 1406,2976 1533,2976 1659,2976 1785,2974 1911,2974 2037,2972 2164,2972 2290,2972 2416,2970 2542,2970 2668,2970 2795,2970 2921,2972 3047,2974 3173,2976 3299,2978 3426,2982"/>
+                <TextEquiv>
+                    <Unicode>per chè tutto aegualmente nel paese di Spina e di Ravenna nascono i sparagi di formosissima qualità. Altri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:1;}">
+                <Coords points="894,3087 1021,3087 1148,3085 1275,3085 1402,3085 1529,3085 1656,3085 1783,3085 1910,3085 2037,3087 2164,3087 2291,3087 2418,3089 2545,3089 2672,3091 2799,3093 2926,3095 3053,3097 3180,3099 3307,3101 3434,3105 3434,3042 3307,3038 3180,3036 3053,3034 2926,3032 2799,3030 2672,3028 2545,3026 2418,3026 2291,3024 2164,3024 2037,3024 1910,3022 1783,3022 1656,3022 1529,3022 1402,3022 1275,3022 1148,3022 1021,3024 894,3024"/>
+                <Baseline points="894,3066 1021,3066 1148,3064 1275,3064 1402,3064 1529,3064 1656,3064 1783,3064 1910,3064 2037,3066 2164,3066 2291,3066 2418,3068 2545,3068 2672,3070 2799,3072 2926,3074 3053,3076 3180,3078 3307,3080 3434,3084"/>
+                <TextEquiv>
+                    <Unicode>con altri oppenioni dicono, Che Ravenna fusse detta Navenna, dalla navigatione delle sue acque sendo in </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:2;}">
+                <Coords points="898,3172 1026,3173 1155,3174 1283,3176 1412,3176 1541,3176 1669,3176 1798,3178 1926,3178 2055,3178 2184,3178 2312,3178 2441,3179 2569,3180 2698,3182 2827,3183 2955,3185 3084,3188 3212,3191 3341,3195 3470,3200 3470,3139 3341,3134 3212,3130 3084,3127 2955,3124 2827,3122 2698,3121 2569,3119 2441,3118 2312,3117 2184,3117 2055,3117 1926,3117 1798,3117 1669,3115 1541,3115 1412,3115 1283,3115 1155,3113 1026,3112 898,3111"/>
+                <Baseline points="898,3165 1026,3166 1155,3167 1283,3169 1412,3169 1541,3169 1669,3169 1798,3171 1926,3171 2055,3171 2184,3171 2312,3171 2441,3172 2569,3173 2698,3175 2827,3176 2955,3178 3084,3181 3212,3184 3341,3188 3514,3194"/>
+                <TextEquiv>
+                    <Unicode>paese molle, per che presso d'essa sono i quinque mari stagni defiumi che per diversi luoghi gli italici vi na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:3;}">
+                <Coords points="894,3254 1020,3257 1146,3260 1272,3263 1398,3266 1524,3268 1650,3270 1776,3271 1902,3272 2028,3274 2155,3274 2281,3274 2407,3276 2533,3276 2659,3276 2785,3274 2911,3274 3037,3274 3163,3272 3289,3272 3416,3270 3416,3209 3289,3211 3163,3211 3037,3213 2911,3213 2785,3213 2659,3215 2533,3215 2407,3215 2281,3213 2155,3213 2028,3213 1902,3211 1776,3210 1650,3209 1524,3207 1398,3205 1272,3202 1146,3199 1020,3196 894,3193"/>
+                <Baseline points="894,3234 1020,3237 1146,3240 1272,3243 1398,3246 1524,3248 1650,3250 1776,3251 1902,3252 2028,3254 2155,3254 2281,3254 2407,3256 2533,3256 2659,3256 2785,3254 2911,3254 3037,3254 3163,3252 3289,3252 3416,3250"/>
+                <TextEquiv>
+                    <Unicode>vigavano. Per chè anchora sendo dove concorrono et rompono i fiumi col constrasto ancho del mare ne viene detta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:4;}">
+                <Coords points="886,3357 1013,3359 1140,3361 1267,3363 1395,3363 1522,3365 1649,3367 1777,3369 1904,3369 2031,3371 2159,3371 2286,3373 2413,3373 2540,3373 2668,3373 2795,3373 2922,3373 3050,3371 3177,3371 3304,3369 3432,3365 3432,3301 3304,3305 3177,3307 3050,3307 2922,3309 2795,3309 2668,3309 2540,3309 2413,3309 2286,3309 2159,3307 2031,3307 1904,3305 1777,3305 1649,3303 1522,3301 1395,3299 1267,3299 1140,3297 1013,3295 886,3293"/>
+                <Baseline points="886,3336 1013,3338 1140,3340 1267,3342 1395,3342 1522,3344 1649,3346 1777,3348 1904,3348 2031,3350 2159,3350 2286,3352 2413,3352 2540,3352 2668,3352 2795,3352 2922,3352 3050,3350 3177,3350 3304,3348 3432,3344"/>
+                <TextEquiv>
+                    <Unicode>Ruenna. Altri per conto della sua antichità, vogliono che fusse stata pria edificata dalli discesi di Noè da suoi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:5;}">
+                <Coords points="886,3451 1015,3455 1145,3457 1274,3459 1404,3461 1533,3461 1663,3463 1792,3463 1922,3463 2051,3463 2181,3463 2310,3463 2440,3463 2569,3464 2699,3465 2828,3465 2958,3467 3087,3467 3217,3469 3346,3472 3476,3475 3476,3411 3346,3408 3217,3405 3087,3403 2958,3403 2828,3401 2699,3401 2569,3400 2440,3399 2310,3399 2181,3399 2051,3399 1922,3399 1792,3399 1663,3399 1533,3397 1404,3397 1274,3395 1145,3393 1015,3391 886,3387"/>
+                <Baseline points="886,3430 1015,3434 1145,3436 1274,3438 1404,3440 1533,3440 1663,3442 1792,3442 1922,3442 2051,3442 2181,3442 2310,3442 2440,3442 2569,3443 2699,3444 2828,3444 2958,3446 3087,3446 3217,3448 3346,3451 3476,3454"/>
+                <TextEquiv>
+                    <Unicode>nepoti, dipoi da Thessali.⁓ Ma pria secondo dice Beroso fù colonia dedutta da Noè, quando molte città fece edi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:6;}">
+                <Coords points="892,3557 1021,3557 1150,3557 1279,3556 1408,3555 1537,3555 1666,3555 1795,3555 1924,3557 2053,3557 2183,3557 2312,3557 2441,3559 2570,3559 2699,3561 2828,3561 2957,3563 3086,3565 3215,3566 3344,3567 3474,3569 3474,3505 3344,3503 3215,3502 3086,3501 2957,3499 2828,3497 2699,3497 2570,3495 2441,3495 2312,3493 2183,3493 2053,3493 1924,3493 1795,3491 1666,3491 1537,3491 1408,3491 1279,3492 1150,3493 1021,3493 892,3493"/>
+                <Baseline points="892,3536 1021,3536 1150,3536 1279,3535 1408,3534 1537,3534 1666,3534 1795,3534 1924,3536 2053,3536 2183,3536 2312,3536 2441,3538 2570,3538 2699,3540 2828,3540 2957,3542 3086,3544 3215,3545 3344,3546 3474,3548"/>
+                <TextEquiv>
+                    <Unicode>ficare,nella successione doppo il Diluvio universale. et nelle edificationi vi mando Gomer, Gallo, Comer, et Ia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:7;}">
+                <Coords points="894,3651 1021,3651 1148,3653 1275,3653 1402,3653 1529,3655 1656,3655 1783,3655 1910,3655 2037,3655 2164,3657 2291,3657 2418,3657 2545,3657 2672,3658 2799,3659 2926,3659 3053,3661 3180,3661 3307,3663 3434,3663 3434,3600 3307,3600 3180,3598 3053,3598 2926,3596 2799,3596 2672,3595 2545,3594 2418,3594 2291,3594 2164,3594 2037,3592 1910,3592 1783,3592 1656,3592 1529,3592 1402,3590 1275,3590 1148,3590 1021,3588 894,3588"/>
+                <Baseline points="894,3630 1021,3630 1148,3632 1275,3632 1402,3632 1529,3634 1656,3634 1783,3634 1910,3634 2037,3634 2164,3636 2291,3636 2418,3636 2545,3636 2672,3637 2799,3638 2926,3638 3053,3640 3180,3640 3307,3642 3434,3642"/>
+                <TextEquiv>
+                    <Unicode>pheto suoi figliuoli, et mando questi nella parte d'Italia che fù detta Hetruria et dipoi Tuscia. Onde i Nepoti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:8;}">
+                <Coords points="870,3749 998,3749 1126,3749 1255,3749 1383,3749 1512,3749 1640,3751 1768,3751 1897,3751 2025,3753 2154,3753 2282,3755 2410,3755 2539,3755 2667,3755 2796,3755 2924,3755 3052,3755 3181,3753 3309,3751 3438,3749 3438,3685 3309,3687 3181,3689 3052,3691 2924,3691 2796,3691 2667,3691 2539,3691 2410,3691 2282,3691 2154,3689 2025,3689 1897,3687 1768,3687 1640,3687 1512,3685 1383,3685 1255,3685 1126,3685 998,3685 870,3685"/>
+                <Baseline points="870,3728 998,3728 1126,3728 1255,3728 1383,3728 1512,3728 1640,3730 1768,3730 1897,3730 2025,3732 2154,3732 2282,3734 2410,3734 2539,3734 2667,3734 2796,3734 2924,3734 3052,3734 3181,3732 3309,3730 3438,3728"/>
+                <TextEquiv>
+                    <Unicode>suoi nati di Iapheto, dipoi mando nell'Armenia, et d'indigli conduste in Italia, cosi è la oppenione di Beroso, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:9;}">
+                <Coords points="894,3839 1024,3841 1154,3843 1284,3845 1415,3845 1545,3847 1675,3847 1806,3849 1936,3849 2066,3849 2197,3851 2327,3851 2457,3851 2587,3851 2718,3851 2848,3851 2978,3851 3109,3851 3239,3851 3369,3851 3500,3851 3500,3787 3369,3787 3239,3787 3109,3787 2978,3787 2848,3787 2718,3787 2587,3787 2457,3787 2327,3787 2197,3787 2066,3785 1936,3785 1806,3785 1675,3783 1545,3783 1415,3781 1284,3781 1154,3779 1024,3777 894,3775"/>
+                <Baseline points="894,3818 1024,3820 1154,3822 1284,3824 1415,3824 1545,3826 1675,3826 1806,3828 1936,3828 2066,3828 2197,3830 2327,3830 2457,3830 2587,3830 2718,3830 2848,3830 2978,3830 3109,3830 3239,3830 3369,3830 3500,3830"/>
+                <TextEquiv>
+                    <Unicode>che facessero alcune città in Hetruria, et da essi nacque Ravenna. Altri dicono che, che furono da Noè manda¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:10;}">
+                <Coords points="886,3937 1016,3940 1146,3943 1277,3945 1407,3946 1538,3947 1668,3947 1798,3947 1929,3947 2059,3945 2190,3945 2320,3943 2450,3943 2581,3941 2711,3941 2842,3939 2972,3939 3102,3939 3233,3939 3363,3939 3494,3939 3494,3875 3363,3875 3233,3875 3102,3875 2972,3875 2842,3875 2711,3877 2581,3877 2450,3879 2320,3879 2190,3881 2059,3881 1929,3883 1798,3883 1668,3883 1538,3883 1407,3882 1277,3881 1146,3879 1016,3876 886,3873"/>
+                <Baseline points="886,3916 1016,3919 1146,3922 1277,3924 1407,3925 1538,3926 1668,3926 1798,3926 1929,3926 2059,3924 2190,3924 2320,3922 2450,3922 2581,3920 2711,3920 2842,3918 2972,3918 3102,3918 3233,3918 3363,3918 3494,3918"/>
+                <TextEquiv>
+                    <Unicode>ti, Crano et Crana, che in Italia sul Tibere fiume Regnarono nella Hetruria, et nell'Umbria, che occuparono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:11;}">
+                <Coords points="886,4027 1013,4029 1141,4031 1269,4033 1397,4035 1525,4035 1652,4035 1780,4035 1908,4035 2036,4035 2164,4035 2291,4035 2419,4035 2547,4035 2675,4035 2803,4035 2930,4036 3058,4037 3186,4039 3314,4041 3442,4043 3442,3979 3314,3977 3186,3975 3058,3973 2930,3972 2803,3971 2675,3971 2547,3971 2419,3971 2291,3971 2164,3971 2036,3971 1908,3971 1780,3971 1652,3971 1525,3971 1397,3971 1269,3969 1141,3967 1013,3965 886,3963"/>
+                <Baseline points="886,4006 1013,4008 1141,4010 1269,4012 1397,4014 1525,4014 1652,4014 1780,4014 1908,4014 2036,4014 2164,4014 2291,4014 2419,4014 2547,4014 2675,4014 2803,4014 2930,4015 3058,4016 3186,4018 3314,4020 3481,4020"/>
+                <TextEquiv>
+                    <Unicode>et vi habitarono su' gli carri perle acque, trovando quasi tutto'l paese undoso ò Umbroso et male culto:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:12;}">
+                <Coords points="890,4131 1019,4135 1149,4137 1279,4139 1409,4139 1539,4139 1669,4139 1799,4137 1929,4136 2059,4135 2189,4133 2318,4131 2448,4131 2578,4129 2708,4127 2838,4127 2968,4127 3098,4129 3228,4129 3358,4132 3488,4135 3488,4072 3358,4069 3228,4066 3098,4066 2968,4064 2838,4064 2708,4064 2578,4066 2448,4068 2318,4068 2189,4070 2059,4072 1929,4073 1799,4074 1669,4076 1539,4076 1409,4076 1279,4076 1149,4074 1019,4072 890,4068"/>
+                <Baseline points="890,4110 1019,4114 1149,4116 1279,4118 1409,4118 1539,4118 1669,4118 1799,4116 1929,4115 2059,4114 2189,4112 2318,4110 2448,4110 2578,4108 2708,4106 2838,4106 2968,4106 3098,4108 3228,4108 3358,4111 3488,4114"/>
+                <TextEquiv>
+                    <Unicode>de pochi habitatori, dove in Hetruria la città Veio, che fù appellata cosi nella voce Armenica che suona Sagu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:13;}">
+                <Coords points="886,4229 1016,4229 1146,4229 1276,4227 1406,4227 1536,4227 1666,4225 1796,4225 1926,4225 2056,4223 2187,4223 2317,4223 2447,4223 2577,4223 2707,4225 2837,4225 2967,4227 3097,4229 3227,4231 3357,4235 3488,4239 3488,4175 3357,4171 3227,4167 3097,4165 2967,4163 2837,4161 2707,4161 2577,4159 2447,4159 2317,4159 2187,4159 2056,4159 1926,4161 1796,4161 1666,4161 1536,4163 1406,4163 1276,4163 1146,4165 1016,4165 886,4165"/>
+                <Baseline points="886,4208 1016,4208 1146,4208 1276,4206 1406,4206 1536,4206 1666,4204 1796,4204 1926,4204 2056,4202 2187,4202 2317,4202 2447,4202 2577,4202 2707,4204 2837,4204 2967,4206 3097,4208 3227,4210 3357,4214 3493,4218"/>
+                <TextEquiv>
+                    <Unicode>ò Mantello per uno certo augurio. et fecero Agylla citta che poscia da Tyrrheni fù detta Caere. Et furono que¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:14;}">
+                <Coords points="872,4323 1002,4325 1132,4325 1262,4325 1392,4325 1522,4325 1652,4323 1782,4323 1912,4321 2042,4319 2173,4319 2303,4317 2433,4317 2563,4317 2693,4317 2823,4319 2953,4321 3083,4323 3213,4327 3343,4331 3474,4337 3474,4273 3343,4267 3213,4263 3083,4259 2953,4257 2823,4255 2693,4253 2563,4253 2433,4253 2303,4253 2173,4255 2042,4255 1912,4257 1782,4259 1652,4259 1522,4261 1392,4261 1262,4261 1132,4261 1002,4261 872,4259"/>
+                <Baseline points="872,4302 1002,4304 1132,4304 1262,4304 1392,4304 1522,4304 1652,4302 1782,4302 1912,4300 2042,4298 2173,4298 2303,4296 2433,4296 2563,4296 2693,4296 2823,4298 2953,4300 3083,4302 3213,4306 3343,4310 3474,4316"/>
+                <TextEquiv>
+                    <Unicode>sti appellati Curuli dalli Curri, ò carri che usavano. et dalli sacri misterij detti Hetrusci.⁓ et questi vogliono, che </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:15;}">
+                <Coords points="872,4421 1003,4423 1134,4425 1266,4425 1397,4425 1529,4425 1660,4425 1791,4425 1923,4425 2054,4423 2186,4423 2317,4423 2448,4423 2580,4423 2711,4425 2843,4425 2974,4429 3105,4431 3237,4435 3368,4439 3500,4445 3500,4381 3368,4375 3237,4371 3105,4367 2974,4365 2843,4361 2711,4361 2580,4359 2448,4359 2317,4359 2186,4359 2054,4359 1923,4361 1791,4361 1660,4361 1529,4361 1397,4361 1266,4361 1134,4361 1003,4359 872,4357"/>
+                <Baseline points="872,4400 1003,4402 1134,4404 1266,4404 1397,4404 1529,4404 1660,4404 1791,4404 1923,4404 2054,4402 2186,4402 2317,4402 2448,4402 2580,4402 2711,4404 2843,4404 2974,4408 3105,4410 3237,4414 3368,4418 3522,4443"/>
+                <TextEquiv>
+                    <Unicode>facessero Ravenna, onde ne fù detta Colonia Hetrusca. Altri a questo dicono che successe la edificatione de sabi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:16;}">
+                <Coords points="882,4519 1011,4521 1141,4521 1271,4523 1401,4521 1531,4521 1661,4521 1791,4519 1921,4519 2051,4517 2181,4517 2310,4515 2440,4515 2570,4515 2700,4515 2830,4515 2960,4517 3090,4518 3220,4521 3350,4524 3480,4527 3480,4463 3350,4460 3220,4457 3090,4454 2960,4453 2830,4451 2700,4451 2570,4451 2440,4451 2310,4451 2181,4453 2051,4453 1921,4455 1791,4455 1661,4457 1531,4457 1401,4457 1271,4459 1141,4457 1011,4457 882,4455"/>
+                <Baseline points="882,4498 1011,4500 1141,4500 1271,4502 1401,4500 1531,4500 1661,4500 1791,4498 1921,4498 2051,4496 2181,4496 2310,4494 2440,4494 2570,4494 2700,4494 2830,4494 2960,4496 3090,4497 3220,4500 3350,4503 3480,4506"/>
+                <TextEquiv>
+                    <Unicode>ni, l'anno doppo il Dilluvio Cento quarantuno. Vogliono che intermine di dugento anni per varij accidenti et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:17;}">
+                <Coords points="880,4611 1011,4611 1142,4611 1273,4611 1404,4611 1535,4611 1666,4613 1797,4613 1928,4613 2059,4613 2190,4613 2321,4613 2452,4613 2583,4613 2714,4615 2845,4615 2976,4613 3107,4613 3238,4613 3369,4613 3500,4613 3500,4549 3369,4549 3238,4549 3107,4549 2976,4549 2845,4551 2714,4551 2583,4549 2452,4549 2321,4549 2190,4549 2059,4549 1928,4549 1797,4549 1666,4549 1535,4547 1404,4547 1273,4547 1142,4547 1011,4547 880,4547"/>
+                <Baseline points="880,4590 1011,4590 1142,4590 1273,4590 1404,4590 1535,4590 1666,4592 1797,4592 1928,4592 2059,4592 2190,4592 2321,4592 2452,4592 2583,4592 2714,4594 2845,4594 2976,4592 3107,4592 3238,4592 3369,4592 3500,4592"/>
+                <TextEquiv>
+                    <Unicode>mesticanze de populi, furono detti Tusci,Sagi Vei, Armeni et Umbri, ò Umbroni come avanzati dalle acque, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>per chè tutto aegualmente nel paese di Spina e di Ravenna nascono i sparagi di formosissima qualità. Altri
+con altri oppenioni dicono, Che Ravenna fusse detta Navenna, dalla navigatione delle sue acque sendo in 
+paese molle, per che presso d'essa sono i quinque mari stagni defiumi che per diversi luoghi gli italici vi na¬
+vigavano. Per chè anchora sendo dove concorrono et rompono i fiumi col constrasto ancho del mare ne viene detta
+Ruenna. Altri per conto della sua antichità, vogliono che fusse stata pria edificata dalli discesi di Noè da suoi
+nepoti, dipoi da Thessali.⁓ Ma pria secondo dice Beroso fù colonia dedutta da Noè, quando molte città fece edi¬
+ficare,nella successione doppo il Diluvio universale. et nelle edificationi vi mando Gomer, Gallo, Comer, et Ia¬
+pheto suoi figliuoli, et mando questi nella parte d'Italia che fù detta Hetruria et dipoi Tuscia. Onde i Nepoti
+suoi nati di Iapheto, dipoi mando nell'Armenia, et d'indigli conduste in Italia, cosi è la oppenione di Beroso, et
+che facessero alcune città in Hetruria, et da essi nacque Ravenna. Altri dicono che, che furono da Noè manda¬
+ti, Crano et Crana, che in Italia sul Tibere fiume Regnarono nella Hetruria, et nell'Umbria, che occuparono,
+et vi habitarono su' gli carri perle acque, trovando quasi tutto'l paese undoso ò Umbroso et male culto:
+de pochi habitatori, dove in Hetruria la città Veio, che fù appellata cosi nella voce Armenica che suona Sagu
+ò Mantello per uno certo augurio. et fecero Agylla citta che poscia da Tyrrheni fù detta Caere. Et furono que¬
+sti appellati Curuli dalli Curri, ò carri che usavano. et dalli sacri misterij detti Hetrusci.⁓ et questi vogliono, che 
+facessero Ravenna, onde ne fù detta Colonia Hetrusca. Altri a questo dicono che successe la edificatione de sabi¬
+ni, l'anno doppo il Dilluvio Cento quarantuno. Vogliono che intermine di dugento anni per varij accidenti et 
+mesticanze de populi, furono detti Tusci,Sagi Vei, Armeni et Umbri, ò Umbroni come avanzati dalle acque, </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

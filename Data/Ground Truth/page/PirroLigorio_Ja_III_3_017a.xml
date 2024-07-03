@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:35.367+01:00</Created>
+        <LastChange>2024-06-25T19:25:19.414+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902832" pageNr="33" tsid="174122488" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=SXJSZRUGOEEIGXWDDPWKAEEK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XBJTSZKYNUDSPELTNVXOBOKW" imageId="17873901"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_017a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337495933" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1639993683351_1381"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1639993671702_1374"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1639993692614_1386"/>
+                <RegionRefIndexed index="3" regionRef="r1"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1639993711814_1392"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1639993711813_1391"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1639993683351_1381" custom="readingOrder {index:0;}">
+            <Coords points="723,217 3617,225 3617,2397 754,2397 748,1977 751,1977 1997,1973 1997,1946 1977,1201 1843,1201 1843,1122 736,1125"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1732,280 1757,280 1782,280 1808,280 1833,280 1858,280 1884,281 1909,282 1935,282 1960,282 1985,283 2011,284 2036,284 2062,286 2062,231 2036,229 2011,229 1985,228 1960,227 1935,227 1909,227 1884,226 1858,225 1833,225 1808,225 1782,225 1757,225 1732,225"/>
+                <Baseline points="1732,262 1757,262 1782,262 1808,262 1833,262 1858,262 1884,263 1909,264 1935,264 1960,264 1985,265 2011,266 2036,266 2095,267"/>
+                <TextEquiv>
+                    <Unicode>DI RAVENNA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="742,406 877,406 1012,406 1147,406 1282,406 1417,404 1552,404 1687,404 1822,404 1957,404 2093,404 2228,404 2363,404 2498,404 2633,406 2768,406 2903,408 3038,409 3173,410 3308,414 3444,416 3444,361 3308,359 3173,355 3038,354 2903,353 2768,351 2633,351 2498,349 2363,349 2228,349 2093,349 1957,349 1822,349 1687,349 1552,349 1417,349 1282,351 1147,351 1012,351 877,351 742,351"/>
+                <Baseline points="742,388 877,388 1012,388 1147,388 1282,388 1417,386 1552,386 1687,386 1822,386 1957,386 2093,386 2228,390 2363,390 2498,386 2633,388 2768,388 2903,390 3038,391 3173,392 3308,396 3466,399"/>
+                <TextEquiv>
+                    <Unicode>Leggesi in Ravenna l'epigramma greca, memoria fatta al gran capitano Isacio, che fù sotto à Symacho, dicui il senso dice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} unclear {offset:20; length:1;}">
+                <Coords points="758,480 893,482 1028,484 1163,484 1298,486 1433,486 1568,488 1703,488 1838,488 1973,488 2108,490 2243,490 2378,490 2513,490 2648,490 2783,490 2918,492 3053,492 3188,492 3323,494 3458,494 3458,439 3323,439 3188,437 3053,437 2918,437 2783,435 2648,435 2513,435 2378,435 2243,435 2108,435 1973,433 1838,433 1703,433 1568,433 1433,431 1298,431 1163,429 1028,429 893,427 758,425"/>
+                <Baseline points="758,462 893,464 1028,466 1163,466 1298,468 1433,468 1568,470 1703,470 1838,470 1973,470 2108,472 2243,472 2378,472 2513,472 2648,472 2783,472 2918,474 3053,474 3188,474 3323,476 3458,476"/>
+                <TextEquiv>
+                    <Unicode>nella nostra lingua j posto esser'per sepulchro, nelluogo ove giaceva l'animoso et buono duce dell'essercito I sacro strenuo capi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} unclear {offset:50; length:2;}">
+                <Coords points="774,568 904,568 1035,568 1165,568 1296,568 1426,570 1557,570 1687,570 1818,572 1948,572 2079,572 2209,574 2340,574 2470,576 2601,576 2731,576 2862,576 2992,578 3123,578 3253,578 3384,578 3384,523 3253,523 3123,523 2992,523 2862,521 2731,521 2601,521 2470,521 2340,519 2209,519 2079,517 1948,517 1818,517 1687,515 1557,515 1426,515 1296,513 1165,513 1035,513 904,513 774,513"/>
+                <Baseline points="774,550 904,550 1035,550 1165,550 1296,550 1426,552 1557,552 1687,552 1818,554 1948,554 2079,554 2209,556 2340,556 2470,558 2601,558 2731,558 2862,558 2992,560 3123,560 3253,560 3384,560"/>
+                <TextEquiv>
+                    <Unicode>tano, nella militia fortissimo, et constantissimo et prudentissimo, Tranquillatore delle turbolentie, di Roma conservatore et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} unclear {offset:113; length:9;}">
+                <Coords points="786,646 917,648 1048,648 1179,650 1310,650 1442,652 1573,652 1704,654 1835,654 1966,656 2098,656 2229,656 2360,656 2491,656 2622,656 2753,656 2885,656 3016,656 3147,656 3278,654 3410,654 3410,599 3278,599 3147,601 3016,601 2885,601 2753,601 2622,601 2491,601 2360,601 2229,601 2098,601 1966,601 1835,599 1704,599 1573,597 1442,597 1310,595 1179,595 1048,593 917,593 786,591"/>
+                <Baseline points="786,628 917,630 1048,630 1179,632 1310,632 1442,634 1573,634 1704,636 1835,636 1966,638 2098,638 2229,638 2360,638 2491,638 2622,638 2753,638 2885,638 3016,638 3147,638 3278,636 3410,636"/>
+                <TextEquiv>
+                    <Unicode>dell'occidente, gran Duce dell'essercito, tre anni combattente, socio delli Re, sotto Symacho. fù universalmente ornamento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="770,734 904,734 1038,732 1173,733 1307,734 1442,734 1576,736 1710,736 1845,738 1979,740 2114,740 2248,742 2382,744 2517,744 2651,744 2786,746 2920,744 3054,744 3189,743 3323,741 3458,738 3458,683 3323,686 3189,688 3054,689 2920,689 2786,691 2651,689 2517,689 2382,689 2248,687 2114,685 1979,685 1845,683 1710,681 1576,681 1442,679 1307,679 1173,678 1038,677 904,679 770,679"/>
+                <Baseline points="770,716 904,716 1038,714 1173,715 1307,716 1442,716 1576,718 1710,718 1845,720 1979,722 2114,722 2248,724 2382,726 2517,726 2651,726 2786,728 2920,726 3054,726 3189,725 3323,723 3458,720"/>
+                <TextEquiv>
+                    <Unicode>di tutta l'Armenia, sendo egli tra gli Armeni, di chiara progenie et nome, fatto perla sua virtù famoso. Partito dall'oriente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="782,826 916,824 1050,822 1184,822 1318,822 1453,822 1587,824 1721,824 1855,826 1989,828 2124,830 2258,832 2392,834 2526,836 2660,838 2794,838 2929,840 3063,840 3197,840 3331,840 3466,838 3466,783 3331,785 3197,785 3063,785 2929,785 2794,783 2660,783 2526,781 2392,779 2258,777 2124,775 1989,773 1855,771 1721,769 1587,769 1453,767 1318,767 1184,767 1050,767 916,769 782,771"/>
+                <Baseline points="782,808 916,806 1050,804 1184,804 1318,804 1453,804 1587,806 1721,806 1855,808 1989,810 2124,812 2258,814 2392,816 2526,818 2660,820 2794,820 2929,822 3063,822 3197,822 3331,822 3466,820"/>
+                <TextEquiv>
+                    <Unicode>con l'essercito passò à quitare le turbolenze, parte dell'occidente: onde inquesta sorte di verso Trimetro Iambico fù lau¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="762,916 894,916 1027,914 1160,914 1293,914 1426,913 1558,912 1691,914 1824,914 1957,914 2090,914 2222,916 2355,916 2488,918 2621,918 2754,920 2886,922 3019,922 3152,924 3285,926 3418,928 3418,873 3285,871 3152,869 3019,867 2886,867 2754,865 2621,863 2488,863 2355,861 2222,861 2090,859 1957,859 1824,859 1691,859 1558,857 1426,858 1293,859 1160,859 1027,859 894,861 762,861"/>
+                <Baseline points="762,898 894,898 1027,896 1160,896 1293,896 1426,895 1558,894 1691,896 1824,896 1957,896 2090,896 2222,898 2355,898 2488,900 2621,900 2754,902 2886,904 3019,904 3152,906 3285,908 3418,910"/>
+                <TextEquiv>
+                    <Unicode>dato dalla sua Sosanna, per che come un sole rasserenò ogni parte, onde elle come casta contubernale, egli privato di sua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="778,1014 911,1014 1044,1014 1177,1012 1310,1010 1443,1010 1576,1008 1709,1006 1842,1004 1975,1004 2108,1002 2241,1002 2374,1002 2507,1002 2640,1002 2773,1002 2906,1004 3039,1006 3172,1010 3305,1014 3438,1018 3438,963 3305,959 3172,955 3039,951 2906,949 2773,947 2640,947 2507,947 2374,947 2241,947 2108,947 1975,949 1842,949 1709,951 1576,953 1443,955 1310,955 1177,957 1044,959 911,959 778,959"/>
+                <Baseline points="778,996 911,996 1044,996 1177,994 1310,992 1443,992 1576,990 1709,988 1842,986 1975,986 2108,984 2241,984 2374,984 2507,984 2640,984 2773,984 2906,986 3039,988 3172,992 3305,996 3438,1000"/>
+                <TextEquiv>
+                    <Unicode>socia, la lauda doppo la morte, sendo fatto glorioso. Costui fù ucciso et perseguitato da Mauritio Imperatore. et in Ravenna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="774,1096 907,1102 1040,1105 1174,1108 1307,1108 1441,1108 1574,1106 1707,1104 1841,1102 1974,1099 2108,1096 2241,1093 2374,1090 2508,1088 2641,1088 2775,1088 2908,1089 3041,1092 3175,1096 3308,1102 3442,1110 3442,1055 3308,1047 3175,1041 3041,1037 2908,1034 2775,1033 2641,1033 2508,1033 2374,1035 2241,1038 2108,1041 1974,1044 1841,1047 1707,1049 1574,1051 1441,1053 1307,1053 1174,1053 1040,1050 907,1047 774,1041"/>
+                <Baseline points="774,1080 907,1086 1040,1089 1182,1102 1307,1092 1441,1092 1574,1090 1707,1088 1841,1086 1974,1083 2108,1080 2241,1077 2374,1074 2508,1072 2641,1072 2775,1072 2908,1073 3041,1076 3175,1080 3308,1086 3442,1094"/>
+                <TextEquiv>
+                    <Unicode>sepulto l'anno. 1039. doppo la natività del signore salvator'nostro. et Fu sepulto in San Vitale come scrive il Blondo da Forli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2062,1184 2130,1184 2198,1184 2266,1184 2334,1182 2402,1182 2470,1182 2538,1181 2606,1180 2674,1180 2743,1180 2811,1178 2879,1178 2947,1178 3015,1178 3083,1178 3151,1178 3219,1179 3287,1180 3355,1182 3424,1184 3424,1129 3355,1127 3287,1125 3219,1124 3151,1123 3083,1123 3015,1123 2947,1123 2879,1123 2811,1123 2743,1125 2674,1125 2606,1125 2538,1126 2470,1127 2402,1127 2334,1127 2266,1129 2198,1129 2130,1129 2062,1129"/>
+                <Baseline points="1861,1174 2130,1166 2198,1166 2266,1166 2334,1164 2402,1164 2470,1164 2538,1163 2606,1162 2674,1162 2743,1162 2811,1160 2879,1160 2947,1160 3015,1160 3083,1160 3151,1160 3219,1161 3287,1162 3355,1164 3424,1166"/>
+                <TextEquiv>
+                    <Unicode>lo quale mette la sua memoria nel presente senso grecamente: che à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:11;} unclear {offset:10; length:6;}">
+                <Coords points="2058,1266 2126,1263 2195,1262 2264,1260 2333,1260 2402,1260 2470,1260 2539,1260 2608,1260 2677,1261 2746,1262 2814,1264 2883,1264 2952,1266 3021,1268 3090,1270 3158,1270 3227,1272 3296,1272 3365,1274 3434,1274 3434,1219 3365,1219 3296,1217 3227,1217 3158,1215 3090,1215 3021,1213 2952,1211 2883,1209 2814,1209 2746,1207 2677,1206 2608,1205 2539,1205 2470,1205 2402,1205 2333,1205 2264,1205 2195,1207 2126,1208 2058,1211"/>
+                <Baseline points="2058,1248 2126,1245 2195,1244 2264,1242 2333,1242 2402,1242 2470,1242 2539,1242 2608,1242 2677,1243 2746,1244 2814,1246 2883,1246 2952,1248 3021,1250 3090,1252 3158,1252 3227,1254 3296,1254 3365,1256 3434,1256"/>
+                <TextEquiv>
+                    <Unicode>di nostri Ancora si trova in marmo, havendola noi ricercata per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:12;}">
+                <Coords points="2042,1334 2110,1336 2179,1338 2248,1340 2317,1340 2386,1340 2454,1340 2523,1340 2592,1339 2661,1338 2730,1338 2798,1338 2867,1338 2936,1340 3005,1342 3074,1344 3142,1348 3211,1353 3280,1358 3349,1366 3418,1374 3418,1319 3349,1311 3280,1303 3211,1298 3142,1293 3074,1289 3005,1287 2936,1285 2867,1283 2798,1283 2730,1283 2661,1283 2592,1284 2523,1285 2454,1285 2386,1285 2317,1285 2248,1285 2179,1283 2110,1281 2042,1279"/>
+                <Baseline points="2042,1316 2110,1318 2179,1320 2248,1322 2317,1322 2386,1322 2454,1322 2523,1322 2592,1321 2661,1320 2730,1320 2798,1320 2867,1320 2936,1322 3005,1324 3074,1326 3142,1330 3211,1335 3280,1340 3349,1348 3418,1356"/>
+                <TextEquiv>
+                    <Unicode>vederla lhavemo trovata allato della porta della chiesa di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:13;} unclear {offset:37; length:8;}">
+                <Coords points="2028,1416 2097,1420 2167,1423 2237,1426 2306,1426 2376,1428 2446,1428 2515,1428 2585,1428 2655,1428 2725,1428 2794,1428 2864,1428 2934,1428 3003,1430 3073,1432 3143,1436 3212,1440 3282,1445 3352,1451 3422,1460 3422,1405 3352,1396 3282,1390 3212,1385 3143,1381 3073,1377 3003,1375 2934,1373 2864,1373 2794,1373 2725,1373 2655,1373 2585,1373 2515,1373 2446,1373 2376,1373 2306,1371 2237,1371 2167,1368 2097,1365 2028,1361"/>
+                <Baseline points="2028,1398 2097,1402 2167,1405 2237,1408 2306,1408 2376,1410 2446,1410 2515,1410 2585,1410 2655,1410 2725,1410 2794,1410 2864,1410 2934,1410 3003,1412 3073,1414 3143,1418 3212,1422 3282,1427 3352,1433 3422,1442"/>
+                <TextEquiv>
+                    <Unicode>San Vitale scritta nel coperchio del sepulcro sculpito con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:14;}">
+                <Coords points="2028,1498 2098,1504 2169,1509 2239,1514 2310,1517 2380,1520 2451,1520 2521,1522 2592,1522 2662,1522 2733,1522 2803,1522 2874,1522 2944,1522 3015,1522 3085,1524 3156,1526 3226,1530 3297,1534 3367,1540 3438,1546 3438,1491 3367,1485 3297,1479 3226,1475 3156,1471 3085,1469 3015,1467 2944,1467 2874,1467 2803,1467 2733,1467 2662,1467 2592,1467 2521,1467 2451,1465 2380,1465 2310,1462 2239,1459 2169,1454 2098,1449 2028,1443"/>
+                <Baseline points="2028,1480 2098,1486 2169,1491 2239,1496 2310,1499 2380,1502 2451,1502 2521,1504 2592,1504 2662,1504 2733,1504 2803,1504 2874,1504 2944,1504 3015,1504 3085,1506 3156,1508 3226,1512 3297,1516 3367,1522 3499,1535"/>
+                <TextEquiv>
+                    <Unicode>tre Maggi che presentano al salvatore signor'nostro,ch'è vise¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:15;}">
+                <Coords points="2014,1594 2085,1600 2157,1605 2229,1609 2301,1612 2373,1614 2444,1614 2516,1614 2588,1614 2660,1612 2732,1612 2803,1611 2875,1610 2947,1610 3019,1610 3091,1612 3162,1614 3234,1618 3306,1622 3378,1628 3450,1636 3450,1581 3378,1573 3306,1567 3234,1563 3162,1559 3091,1557 3019,1555 2947,1555 2875,1555 2803,1556 2732,1557 2660,1557 2588,1559 2516,1559 2444,1559 2373,1559 2301,1557 2229,1554 2157,1550 2085,1545 2014,1539"/>
+                <Baseline points="2014,1576 2085,1582 2157,1587 2229,1591 2301,1594 2373,1596 2444,1596 2516,1596 2588,1596 2660,1594 2732,1594 2803,1593 2875,1592 2947,1592 3019,1592 3091,1594 3162,1596 3234,1600 3306,1604 3378,1610 3450,1618"/>
+                <TextEquiv>
+                    <Unicode>no alla Santissima Vergine Maria sua madre, et essi sono vesti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:16;}">
+                <Coords points="2018,1678 2088,1682 2159,1688 2230,1692 2301,1695 2372,1696 2442,1698 2513,1698 2584,1698 2655,1698 2726,1698 2796,1696 2867,1696 2938,1696 3009,1696 3080,1698 3150,1700 3221,1702 3292,1705 3363,1711 3434,1716 3434,1661 3363,1656 3292,1650 3221,1647 3150,1645 3080,1643 3009,1641 2938,1641 2867,1641 2796,1641 2726,1643 2655,1643 2584,1643 2513,1643 2442,1643 2372,1641 2301,1640 2230,1637 2159,1633 2088,1627 2018,1623"/>
+                <Baseline points="2018,1660 2088,1664 2159,1670 2230,1674 2301,1677 2372,1678 2442,1680 2513,1680 2584,1680 2655,1680 2726,1680 2796,1678 2867,1678 2938,1678 3009,1678 3080,1680 3150,1682 3221,1684 3292,1687 3363,1693 3434,1698"/>
+                <TextEquiv>
+                    <Unicode>ti alluso dell'orientali Regi. con veste corte et succinte con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:17;}">
+                <Coords points="2020,1760 2088,1764 2157,1769 2226,1772 2295,1774 2364,1776 2433,1778 2502,1778 2571,1780 2640,1780 2709,1780 2777,1780 2846,1780 2915,1780 2984,1780 3053,1782 3122,1784 3191,1786 3260,1789 3329,1791 3398,1796 3398,1741 3329,1736 3260,1734 3191,1731 3122,1729 3053,1727 2984,1725 2915,1725 2846,1725 2777,1725 2709,1725 2640,1725 2571,1725 2502,1723 2433,1723 2364,1721 2295,1719 2226,1717 2157,1714 2088,1709 2020,1705"/>
+                <Baseline points="2020,1742 2088,1746 2157,1751 2226,1754 2295,1756 2364,1758 2433,1760 2502,1760 2571,1762 2640,1762 2709,1762 2777,1762 2846,1762 2915,1762 2984,1762 3053,1764 3122,1766 3191,1768 3260,1771 3329,1773 3398,1778"/>
+                <TextEquiv>
+                    <Unicode>un mantelletto et con larghi calzoni et scarpe grosse, et conli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:18;}">
+                <Coords points="2010,1842 2048,1843 2087,1845 2125,1847 2164,1848 2203,1850 2241,1852 2280,1853 2318,1854 2357,1854 2396,1856 2434,1856 2473,1856 2511,1857 2550,1858 2589,1858 2627,1860 2666,1860 2704,1860 2743,1862 2782,1862 2782,1807 2743,1807 2704,1805 2666,1805 2627,1805 2589,1803 2550,1803 2511,1802 2473,1801 2434,1801 2396,1801 2357,1799 2318,1799 2280,1798 2241,1797 2203,1795 2164,1793 2125,1792 2087,1790 2048,1788 2010,1787"/>
+                <Baseline points="2010,1824 2048,1825 2087,1827 2125,1829 2164,1830 2203,1832 2241,1834 2280,1835 2318,1836 2357,1836 2396,1838 2434,1838 2473,1838 2511,1839 2550,1840 2589,1840 2627,1842 2666,1842 2704,1842 2743,1844 2782,1844"/>
+                <TextEquiv>
+                    <Unicode>cappelli intesta incima incurvati.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:19;}">
+                <Coords points="796,2070 930,2070 1065,2068 1200,2068 1335,2066 1470,2064 1604,2064 1739,2062 1874,2060 2009,2058 2144,2056 2278,2055 2413,2053 2548,2050 2683,2048 2818,2046 2952,2044 3087,2042 3222,2038 3357,2036 3492,2032 3492,1977 3357,1981 3222,1983 3087,1987 2952,1989 2818,1991 2683,1993 2548,1995 2413,1998 2278,2000 2144,2001 2009,2003 1874,2005 1739,2007 1604,2009 1470,2009 1335,2011 1200,2013 1065,2013 930,2015 796,2015"/>
+                <Baseline points="796,2052 930,2052 1065,2050 1200,2050 1335,2048 1470,2046 1604,2046 1739,2044 1874,2042 2009,2040 2144,2038 2278,2037 2413,2035 2548,2032 2683,2030 2818,2028 2952,2026 3087,2024 3222,2020 3357,2018 3492,2014"/>
+                <TextEquiv>
+                    <Unicode>Trovasi in Ravenna ques'altra inscrittione, già raccolta nel portico si San Francisco, ove anchora si trova il se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:20;}">
+                <Coords points="808,2152 941,2148 1075,2146 1208,2144 1342,2142 1476,2140 1609,2140 1743,2138 1876,2138 2010,2138 2144,2138 2277,2138 2411,2138 2544,2138 2678,2138 2812,2138 2945,2138 3079,2138 3212,2138 3346,2138 3480,2138 3480,2083 3346,2083 3212,2083 3079,2083 2945,2083 2812,2083 2678,2083 2544,2083 2411,2083 2277,2083 2144,2083 2010,2083 1876,2083 1743,2083 1609,2085 1476,2085 1342,2087 1208,2089 1075,2091 941,2093 808,2097"/>
+                <Baseline points="808,2134 941,2130 1075,2128 1208,2126 1342,2124 1476,2122 1609,2122 1743,2120 1876,2120 2010,2120 2144,2120 2277,2120 2411,2120 2544,2120 2678,2120 2812,2120 2945,2120 3079,2120 3212,2120 3346,2120 3480,2120"/>
+                <TextEquiv>
+                    <Unicode>pulchro di Dante Allegieri poeta. Ma inquesta antica narratione si trovano alcuni antichi riti, delle Maestri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:21;}">
+                <Coords points="802,2234 937,2234 1072,2234 1207,2234 1343,2234 1478,2234 1613,2232 1749,2232 1884,2232 2019,2232 2155,2230 2290,2230 2425,2230 2560,2228 2696,2228 2831,2228 2966,2228 3102,2228 3237,2228 3372,2228 3508,2230 3508,2175 3372,2173 3237,2173 3102,2173 2966,2173 2831,2173 2696,2173 2560,2173 2425,2175 2290,2175 2155,2175 2019,2177 1884,2177 1749,2177 1613,2177 1478,2179 1343,2179 1207,2179 1072,2179 937,2179 802,2179"/>
+                <Baseline points="802,2216 937,2216 1072,2216 1207,2216 1343,2216 1478,2216 1613,2214 1749,2214 1884,2214 2019,2214 2155,2212 2290,2212 2425,2212 2560,2210 2696,2210 2831,2210 2966,2210 3102,2210 3237,2210 3372,2210 3508,2212"/>
+                <TextEquiv>
+                    <Unicode>de Fabri Ravennati, secondo l'usi delli loro collegi et le ceremonie, che facevano ogni anno i Decurioni et essi fa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:22;}">
+                <Coords points="804,2320 938,2320 1072,2320 1207,2320 1341,2320 1476,2320 1610,2320 1744,2320 1879,2320 2013,2320 2148,2320 2282,2320 2416,2318 2551,2318 2685,2318 2820,2318 2954,2316 3088,2316 3223,2316 3357,2314 3492,2314 3492,2259 3357,2259 3223,2261 3088,2261 2954,2261 2820,2263 2685,2263 2551,2263 2416,2263 2282,2265 2148,2265 2013,2265 1879,2265 1744,2265 1610,2265 1476,2265 1341,2265 1207,2265 1072,2265 938,2265 804,2265"/>
+                <Baseline points="804,2302 938,2302 1072,2302 1207,2302 1341,2302 1476,2302 1610,2302 1744,2302 1879,2302 2013,2302 2148,2302 2282,2302 2416,2300 2551,2300 2685,2300 2820,2300 2954,2298 3088,2298 3223,2298 3357,2296 3492,2296"/>
+                <TextEquiv>
+                    <Unicode>bri collegiali nella chiesa di Neptuno: secondo le lassite si dispensavano danari, et si davano le sportule della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:23;}">
+                <Coords points="806,2396 928,2396 1050,2398 1172,2398 1294,2399 1416,2400 1538,2400 1660,2400 1782,2402 1904,2402 2026,2402 2148,2402 2270,2404 2392,2404 2514,2404 2636,2404 2758,2404 2880,2404 3002,2404 3124,2404 3246,2404 3246,2349 3124,2349 3002,2349 2880,2349 2758,2349 2636,2349 2514,2349 2392,2349 2270,2349 2148,2347 2026,2347 1904,2347 1782,2347 1660,2345 1538,2345 1416,2345 1294,2344 1172,2343 1050,2343 928,2341 806,2341"/>
+                <Baseline points="806,2378 928,2378 1050,2380 1172,2380 1294,2381 1416,2382 1538,2382 1660,2382 1782,2384 1904,2384 2026,2384 2148,2384 2270,2386 2392,2386 2514,2386 2636,2386 2758,2386 2880,2386 3002,2386 3124,2386 3246,2386"/>
+                <TextEquiv>
+                    <Unicode>colatione, et si spargeva et ornava di Rose il monumento et luogo deputato: si sacrificava et si dava l'Epulo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DI RAVENNA.
+Leggesi in Ravenna l'epigramma greca, memoria fatta al gran capitano Isacio, che fù sotto à Symacho, dicui il senso dice
+nella nostra lingua j posto esser'per sepulchro, nelluogo ove giaceva l'animoso et buono duce dell'essercito I sacro strenuo capi¬
+tano, nella militia fortissimo, et constantissimo et prudentissimo, Tranquillatore delle turbolentie, di Roma conservatore et
+dell'occidente, gran Duce dell'essercito, tre anni combattente, socio delli Re, sotto Symacho. fù universalmente ornamento
+di tutta l'Armenia, sendo egli tra gli Armeni, di chiara progenie et nome, fatto perla sua virtù famoso. Partito dall'oriente
+con l'essercito passò à quitare le turbolenze, parte dell'occidente: onde inquesta sorte di verso Trimetro Iambico fù lau¬
+dato dalla sua Sosanna, per che come un sole rasserenò ogni parte, onde elle come casta contubernale, egli privato di sua
+socia, la lauda doppo la morte, sendo fatto glorioso. Costui fù ucciso et perseguitato da Mauritio Imperatore. et in Ravenna
+sepulto l'anno. 1039. doppo la natività del signore salvator'nostro. et Fu sepulto in San Vitale come scrive il Blondo da Forli
+lo quale mette la sua memoria nel presente senso grecamente: che à
+di nostri Ancora si trova in marmo, havendola noi ricercata per
+vederla lhavemo trovata allato della porta della chiesa di
+San Vitale scritta nel coperchio del sepulcro sculpito con
+tre Maggi che presentano al salvatore signor'nostro,ch'è vise¬
+no alla Santissima Vergine Maria sua madre, et essi sono vesti
+ti alluso dell'orientali Regi. con veste corte et succinte con
+un mantelletto et con larghi calzoni et scarpe grosse, et conli
+cappelli intesta incima incurvati.
+Trovasi in Ravenna ques'altra inscrittione, già raccolta nel portico si San Francisco, ove anchora si trova il se¬
+pulchro di Dante Allegieri poeta. Ma inquesta antica narratione si trovano alcuni antichi riti, delle Maestri
+de Fabri Ravennati, secondo l'usi delli loro collegi et le ceremonie, che facevano ogni anno i Decurioni et essi fa¬
+bri collegiali nella chiesa di Neptuno: secondo le lassite si dispensavano danari, et si davano le sportule della
+colatione, et si spargeva et ornava di Rose il monumento et luogo deputato: si sacrificava et si dava l'Epulo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639993671702_1374" custom="readingOrder {index:1;}">
+            <Coords points="736,1125 1843,1122 1843,1201 1977,1201 1997,1946 1997,1973 751,1977 748,1977"/>
+            <TextLine id="line_1639993671804_1377" custom="readingOrder {index:0;} Greek {offset:0; length:35; continued:true;}">
+                <Coords points="792,1150 1014,1150 1070,1152 1570,1152 1626,1150 1681,1149 1737,1146 1792,1144 1843,1142 1843,1196 1792,1198 1737,1200 1681,1203 1626,1204 1570,1206 1070,1206 1014,1204 792,1204"/>
+                <Baseline points="792,1186 847,1186 903,1186 958,1186 1014,1186 1070,1188 1125,1188 1181,1188 1236,1188 1292,1188 1348,1188 1403,1188 1459,1188 1514,1188 1570,1188 1626,1186 1681,1185 1737,1182 1792,1180 1843,1178"/>
+                <TextEquiv>
+                    <Unicode>ΕΝ ΤΑΥΤΑ ΚΕΙΤΑΙ Ο ΣΤΡΑΤΗΓΗΣΑΣ ΚΑΛΩΣ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:1;} Greek {offset:0; length:35; continued:true;}">
+                <Coords points="818,1276 871,1278 925,1278 978,1278 1032,1279 1086,1280 1139,1280 1193,1280 1246,1280 1300,1280 1354,1280 1407,1280 1461,1280 1514,1280 1568,1280 1622,1280 1675,1280 1729,1280 1782,1280 1836,1281 1890,1282 1890,1228 1836,1227 1782,1226 1729,1226 1675,1226 1622,1226 1568,1226 1514,1226 1461,1226 1407,1226 1354,1226 1300,1226 1246,1226 1193,1226 1139,1226 1086,1226 1032,1225 978,1224 925,1224 871,1224 818,1222"/>
+                <Baseline points="818,1258 871,1260 925,1260 978,1260 1032,1261 1086,1262 1139,1262 1193,1262 1246,1262 1300,1262 1354,1262 1407,1262 1461,1262 1514,1262 1568,1262 1622,1262 1675,1262 1729,1262 1782,1262 1836,1263 1890,1264"/>
+                <TextEquiv>
+                    <Unicode>ΡΩΜΗΝ ΑΒΠΑΒΗ Φ?ΛΑΞΑΣ, ΚΑΙ ΤΗΝ ΔΥΣΗΝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:2;} Greek {offset:0; length:39; continued:true;}">
+                <Coords points="844,1344 898,1344 952,1344 1007,1344 1061,1344 1116,1344 1170,1344 1224,1344 1279,1344 1333,1344 1388,1344 1442,1344 1496,1344 1551,1344 1605,1344 1660,1344 1714,1344 1768,1344 1823,1344 1877,1344 1932,1346 1932,1297 1877,1295 1823,1295 1768,1295 1714,1295 1660,1295 1605,1295 1551,1295 1496,1295 1442,1295 1388,1295 1333,1295 1279,1295 1224,1295 1170,1295 1116,1295 1061,1295 1007,1295 952,1295 898,1295 844,1295"/>
+                <Baseline points="844,1328 898,1328 952,1328 1007,1328 1061,1328 1116,1328 1170,1328 1224,1328 1279,1328 1333,1328 1388,1328 1442,1328 1496,1328 1551,1328 1605,1328 1660,1328 1714,1328 1768,1328 1823,1328 1877,1328 1932,1330"/>
+                <TextEquiv>
+                    <Unicode>ΤΟΙΣ ΤΑΛΗΝΟΙΣ ΔΕΣΠΟΤΑΙΣ ΤΡΙΣΕ ΕΝΙΑ?ΤΟΙΣ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:3;} Greek {offset:0; length:32; continued:true;}">
+                <Coords points="838,1410 881,1412 925,1414 969,1416 1012,1416 1056,1416 1100,1416 1143,1416 1187,1416 1231,1416 1275,1414 1318,1414 1362,1413 1406,1412 1449,1412 1493,1410 1537,1410 1580,1410 1624,1410 1668,1412 1712,1412 1712,1364 1668,1364 1624,1362 1580,1362 1537,1362 1493,1362 1449,1364 1406,1364 1362,1365 1318,1366 1275,1366 1231,1368 1187,1368 1143,1368 1100,1368 1056,1368 1012,1368 969,1368 925,1366 881,1364 838,1362"/>
+                <Baseline points="838,1394 881,1396 925,1398 969,1400 1012,1400 1056,1400 1100,1400 1143,1400 1187,1400 1231,1400 1275,1398 1318,1398 1362,1397 1406,1396 1449,1396 1493,1394 1537,1394 1580,1394 1624,1394 1668,1396 1712,1396"/>
+                <TextEquiv>
+                    <Unicode>ΙΣΑΚΙΟΣ, ΤΟΝ ΒΑΣΙΛΕΟΝ Ο ΣΥΜΑΧΟΣ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:4;} Greek {offset:1; length:27; continued:true;}">
+                <Coords points="826,1478 879,1480 932,1482 985,1482 1038,1484 1091,1484 1144,1484 1197,1484 1250,1484 1303,1484 1356,1483 1409,1482 1462,1482 1515,1481 1568,1480 1621,1480 1674,1480 1727,1478 1780,1478 1833,1478 1886,1480 1886,1431 1833,1429 1780,1429 1727,1429 1674,1431 1621,1431 1568,1431 1515,1432 1462,1433 1409,1433 1356,1434 1303,1435 1250,1435 1197,1435 1144,1435 1091,1435 1038,1435 985,1433 932,1433 879,1431 826,1429"/>
+                <Baseline points="826,1462 879,1464 932,1466 985,1466 1038,1468 1091,1468 1144,1468 1197,1468 1250,1468 1303,1468 1356,1467 1409,1466 1462,1466 1515,1465 1568,1464 1621,1464 1674,1464 1727,1462 1780,1462 1833,1462 1886,1464"/>
+                <TextEquiv>
+                    <Unicode>Ο ΤΗΣ ΑΡΜΕΝΙΑΣ ΚΟΣΜΟΣ ΜΕΓΑΣ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:5;} Greek {offset:0; length:38; continued:true;}">
+                <Coords points="834,1555 886,1557 939,1557 992,1557 1045,1557 1098,1555 1150,1555 1203,1555 1256,1553 1309,1553 1362,1553 1414,1553 1467,1551 1520,1551 1573,1553 1626,1553 1678,1554 1731,1555 1784,1557 1837,1560 1890,1563 1890,1518 1837,1515 1784,1512 1731,1510 1678,1509 1626,1508 1573,1508 1520,1506 1467,1506 1414,1508 1362,1508 1309,1508 1256,1508 1203,1510 1150,1510 1098,1510 1045,1512 992,1512 939,1512 886,1512 834,1510"/>
+                <Baseline points="834,1540 886,1542 939,1542 992,1542 1045,1542 1098,1540 1150,1540 1203,1540 1256,1538 1309,1538 1362,1538 1414,1538 1467,1536 1520,1536 1573,1538 1626,1538 1678,1539 1731,1540 1784,1542 1837,1545 1890,1548"/>
+                <TextEquiv>
+                    <Unicode>ΑΡΜΕΝΙΟΣ ΓΕΝΝ ΟΥΤΟΣ ΕΚ ΛΑΜΠΡΟΥ ΓΕΝΟΥΣ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:6;} Greek {offset:0; length:34; continued:true;}">
+                <Coords points="850,1621 898,1623 946,1623 995,1623 1043,1623 1092,1623 1140,1623 1188,1621 1237,1621 1285,1620 1334,1619 1382,1618 1430,1617 1479,1615 1527,1615 1576,1615 1624,1615 1672,1615 1721,1615 1769,1615 1818,1617 1818,1572 1769,1570 1721,1570 1672,1570 1624,1570 1576,1570 1527,1570 1479,1570 1430,1572 1382,1573 1334,1574 1285,1575 1237,1576 1188,1576 1140,1578 1092,1578 1043,1578 995,1578 946,1578 898,1578 850,1576"/>
+                <Baseline points="850,1606 898,1608 946,1608 995,1608 1043,1608 1092,1608 1140,1608 1188,1606 1237,1606 1285,1605 1334,1604 1382,1603 1430,1602 1479,1600 1527,1600 1576,1600 1624,1600 1672,1600 1721,1600 1769,1600 1841,1607"/>
+                <TextEquiv>
+                    <Unicode>ΤΟΥΤΟΥ ΘΑΝΟΝΤΟΣ ΕΥΚΛΕΩΣ, ΗΣΥΜΒΙΟΣ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:7;} Greek {offset:0; length:36; continued:true;}">
+                <Coords points="836,1682 891,1684 946,1684 1001,1684 1056,1684 1112,1684 1167,1682 1222,1682 1277,1682 1332,1680 1388,1680 1443,1678 1498,1678 1553,1677 1608,1676 1664,1676 1719,1676 1774,1676 1829,1676 1884,1677 1940,1678 1940,1642 1884,1641 1829,1640 1774,1640 1719,1640 1664,1640 1608,1640 1553,1641 1498,1642 1443,1642 1388,1644 1332,1644 1277,1646 1222,1646 1167,1646 1112,1648 1056,1648 1001,1648 946,1648 891,1648 836,1646"/>
+                <Baseline points="836,1670 891,1672 946,1672 1001,1672 1056,1672 1112,1672 1167,1670 1222,1670 1277,1670 1332,1668 1388,1668 1443,1666 1498,1666 1553,1665 1608,1664 1664,1664 1719,1664 1774,1664 1829,1664 1884,1665 1940,1666"/>
+                <TextEquiv>
+                    <Unicode>ΣΩΣΑΝΝΑ ΣΩΦΡΩΝ, ΤΡΥΤΟΝΟΣ ΤΡΟΠΟΣΕΜΝΗΣ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:8;} Greek {offset:0; length:37; continued:true;}">
+                <Coords points="842,1752 897,1752 952,1753 1007,1754 1062,1754 1117,1754 1172,1752 1227,1752 1282,1750 1337,1750 1392,1748 1447,1748 1502,1746 1557,1744 1612,1744 1667,1742 1722,1740 1777,1739 1832,1738 1887,1738 1942,1736 1942,1694 1887,1696 1832,1696 1777,1697 1722,1698 1667,1700 1612,1702 1557,1702 1502,1704 1447,1706 1392,1706 1337,1708 1282,1708 1227,1710 1172,1710 1117,1712 1062,1712 1007,1712 952,1711 897,1710 842,1710"/>
+                <Baseline points="842,1738 897,1738 952,1739 1007,1740 1062,1740 1117,1740 1172,1738 1227,1738 1282,1736 1337,1736 1392,1734 1447,1734 1502,1732 1557,1730 1612,1730 1667,1728 1722,1726 1777,1725 1832,1724 1887,1724 1942,1722"/>
+                <TextEquiv>
+                    <Unicode>ΠΙΚΝΩΣ ΣΤΕΝΑΖΕΙ ΤΟΥ ΑΝΔΡΟΣ ΕΣΤΕΡΗΜΕΝΗ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:9;} Greek {offset:0; length:33; continued:true;}">
+                <Coords points="834,1825 888,1827 943,1828 998,1829 1052,1829 1107,1829 1162,1831 1216,1831 1271,1831 1326,1829 1381,1829 1435,1829 1490,1827 1545,1826 1599,1825 1654,1823 1709,1821 1763,1819 1818,1817 1873,1815 1928,1813 1928,1762 1873,1764 1818,1766 1763,1768 1709,1770 1654,1772 1599,1774 1545,1775 1490,1776 1435,1778 1381,1778 1326,1778 1271,1780 1216,1780 1162,1780 1107,1778 1052,1778 998,1778 943,1777 888,1776 834,1774"/>
+                <Baseline points="834,1808 888,1810 943,1811 998,1812 1052,1812 1107,1812 1162,1814 1216,1814 1271,1814 1326,1812 1381,1812 1435,1812 1490,1810 1545,1809 1599,1808 1654,1806 1709,1804 1763,1802 1818,1800 1873,1798 1928,1796"/>
+                <TextEquiv>
+                    <Unicode>ΑΝΔΡΟΣ ΛΑΞΑΝΤ ΕΚ ΚΑΜΑΤΩΝ ΕΥΔΟΞΙΑΝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:10;} Greek {offset:0; length:36; continued:true;}">
+                <Coords points="842,1899 894,1899 947,1899 1000,1901 1053,1901 1106,1901 1158,1901 1211,1901 1264,1901 1317,1901 1370,1901 1422,1899 1475,1899 1528,1897 1581,1896 1634,1893 1686,1891 1739,1889 1792,1887 1845,1883 1898,1879 1898,1828 1845,1832 1792,1836 1739,1838 1686,1840 1634,1842 1581,1845 1528,1846 1475,1848 1422,1848 1370,1850 1317,1850 1264,1850 1211,1850 1158,1850 1106,1850 1053,1850 1000,1850 947,1848 894,1848 842,1848"/>
+                <Baseline points="842,1882 894,1882 947,1882 1000,1884 1053,1884 1106,1884 1158,1884 1211,1884 1264,1884 1317,1884 1370,1884 1422,1882 1475,1882 1528,1880 1581,1879 1634,1876 1686,1874 1739,1872 1792,1870 1845,1866 1898,1862"/>
+                <TextEquiv>
+                    <Unicode>ΕΝΤΑΙΣ ΑΝΑΤΟΛΑΙΣ ΗΛΙΟΥ, ΚΑΙ ΤΗ ΔΥΣΕΙ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:11;} Greek {offset:0; length:40; continued:true;}">
+                <Coords points="846,1969 901,1971 957,1973 1013,1973 1068,1975 1124,1975 1180,1975 1235,1975 1291,1975 1347,1975 1403,1974 1458,1973 1514,1973 1570,1971 1625,1971 1681,1969 1737,1969 1792,1967 1848,1967 1904,1965 1960,1965 1960,1913 1904,1913 1848,1915 1792,1915 1737,1917 1681,1917 1625,1919 1570,1919 1514,1921 1458,1921 1403,1922 1347,1923 1291,1923 1235,1923 1180,1923 1124,1923 1068,1923 1013,1921 957,1921 901,1919 846,1917"/>
+                <Baseline points="846,1952 901,1954 957,1956 1013,1956 1068,1958 1124,1958 1180,1958 1235,1958 1291,1958 1347,1958 1403,1957 1458,1956 1514,1956 1570,1954 1625,1954 1681,1952 1737,1952 1792,1950 1848,1950 1904,1948 1960,1948"/>
+                <TextEquiv>
+                    <Unicode>ΣΤΡΑΤΟΥ ?? ΗΡΞΑΙ ΤΗΣ ΔΥΣΕΩΣ, ΚΑί ΤΗΣ ΕΩ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ΕΝ ΤΑΥΤΑ ΚΕΙΤΑΙ Ο ΣΤΡΑΤΗΓΗΣΑΣ ΚΑΛΩΣ
+ΡΩΜΗΝ ΑΒΠΑΒΗ Φ?ΛΑΞΑΣ, ΚΑΙ ΤΗΝ ΔΥΣΗΝ
+ΤΟΙΣ ΤΑΛΗΝΟΙΣ ΔΕΣΠΟΤΑΙΣ ΤΡΙΣΕ ΕΝΙΑ?ΤΟΙΣ
+ΙΣΑΚΙΟΣ, ΤΟΝ ΒΑΣΙΛΕΟΝ Ο ΣΥΜΑΧΟΣ.
+Ο ΤΗΣ ΑΡΜΕΝΙΑΣ ΚΟΣΜΟΣ ΜΕΓΑΣ;
+ΑΡΜΕΝΙΟΣ ΓΕΝΝ ΟΥΤΟΣ ΕΚ ΛΑΜΠΡΟΥ ΓΕΝΟΥΣ;
+ΤΟΥΤΟΥ ΘΑΝΟΝΤΟΣ ΕΥΚΛΕΩΣ, ΗΣΥΜΒΙΟΣ.
+ΣΩΣΑΝΝΑ ΣΩΦΡΩΝ, ΤΡΥΤΟΝΟΣ ΤΡΟΠΟΣΕΜΝΗΣ
+ΠΙΚΝΩΣ ΣΤΕΝΑΖΕΙ ΤΟΥ ΑΝΔΡΟΣ ΕΣΤΕΡΗΜΕΝΗ
+ΑΝΔΡΟΣ ΛΑΞΑΝΤ ΕΚ ΚΑΜΑΤΩΝ ΕΥΔΟΞΙΑΝ
+ΕΝΤΑΙΣ ΑΝΑΤΟΛΑΙΣ ΗΛΙΟΥ, ΚΑΙ ΤΗ ΔΥΣΕΙ
+ΣΤΡΑΤΟΥ ?? ΗΡΞΑΙ ΤΗΣ ΔΥΣΕΩΣ, ΚΑί ΤΗΣ ΕΩ.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639993692614_1386" custom="readingOrder {index:2;}">
+            <Coords points="754,2397 3617,2397 3617,3192 765,3192"/>
+            <TextLine id="r2l41" custom="readingOrder {index:0;}">
+                <Coords points="1670,2524 1730,2522 1791,2520 1852,2518 1913,2517 1974,2516 2034,2515 2095,2514 2156,2514 2217,2514 2278,2514 2338,2514 2399,2514 2460,2514 2521,2516 2582,2516 2642,2517 2703,2518 2764,2520 2825,2520 2886,2522 2886,2467 2825,2465 2764,2465 2703,2463 2642,2462 2582,2461 2521,2461 2460,2459 2399,2459 2338,2459 2278,2459 2217,2459 2156,2459 2095,2459 2034,2460 1974,2461 1913,2462 1852,2463 1791,2465 1730,2467 1670,2469"/>
+                <Baseline points="794,2493 1730,2504 1791,2502 1852,2500 1913,2499 1974,2498 2034,2497 2095,2496 2156,2496 2217,2496 2278,2496 2338,2496 2399,2496 2460,2496 2521,2498 2582,2498 2642,2499 2703,2500 2764,2502 2825,2502 2886,2504"/>
+                <TextEquiv>
+                    <Unicode>FLAVIAE•Q•F•SALVTARI•CONIVGI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:1;}">
+                <Coords points="828,2580 930,2584 1033,2586 1135,2590 1238,2592 1340,2594 1443,2596 1545,2596 1648,2598 1750,2598 1853,2600 1955,2600 2058,2600 2160,2600 2263,2600 2365,2600 2468,2600 2570,2600 2673,2600 2775,2600 2878,2600 2878,2545 2775,2545 2673,2545 2570,2545 2468,2545 2365,2545 2263,2545 2160,2545 2058,2545 1955,2545 1853,2545 1750,2543 1648,2543 1545,2541 1443,2541 1340,2539 1238,2537 1135,2535 1033,2531 930,2529 828,2525"/>
+                <Baseline points="828,2562 930,2566 1033,2568 1135,2572 1238,2574 1340,2576 1443,2578 1545,2578 1648,2580 1750,2580 1853,2582 1955,2582 2058,2582 2160,2582 2263,2582 2365,2582 2468,2582 2570,2582 2673,2582 2775,2582 2878,2582"/>
+                <TextEquiv>
+                    <Unicode>RARISSIMAE•L•PVBLICIVS•ITALICVS•DEC•ORN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:2;} unclear {offset:10; length:1;} unclear {offset:32; length:2;}">
+                <Coords points="816,2645 918,2649 1020,2651 1122,2653 1224,2655 1326,2657 1428,2659 1530,2659 1632,2659 1734,2661 1836,2661 1938,2661 2040,2661 2142,2661 2244,2659 2346,2659 2448,2659 2550,2657 2652,2657 2754,2657 2856,2655 2856,2610 2754,2612 2652,2612 2550,2612 2448,2614 2346,2614 2244,2614 2142,2616 2040,2616 1938,2616 1836,2616 1734,2616 1632,2614 1530,2614 1428,2614 1326,2612 1224,2610 1122,2608 1020,2606 918,2604 816,2600"/>
+                <Baseline points="818,2642 920,2646 1022,2648 1124,2650 1226,2652 1328,2654 1430,2656 1532,2656 1634,2656 1736,2658 1838,2658 1940,2658 2042,2658 2144,2658 2246,2656 2348,2656 2450,2656 2552,2654 2654,2654 2756,2654 2889,2649"/>
+                <TextEquiv>
+                    <Unicode>ET•SIBI•V•P•HIC•COLL•FABR•M̄•R̄•𐀠XX̄X̄•N̄•VIVVS•DEDIT•EX QVOR•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:3;}">
+                <Coords points="834,2721 904,2721 974,2721 1044,2721 1115,2721 1185,2721 1255,2721 1326,2721 1396,2721 1466,2721 1537,2721 1607,2721 1677,2721 1747,2721 1818,2721 1888,2721 1958,2721 2029,2721 2099,2721 2169,2721 2240,2723 2240,2678 2169,2676 2099,2676 2029,2676 1958,2676 1888,2676 1818,2676 1747,2676 1677,2676 1607,2676 1537,2676 1466,2676 1396,2676 1326,2676 1255,2676 1185,2676 1115,2676 1044,2676 974,2676 904,2676 834,2676"/>
+                <Baseline points="834,2716 904,2716 974,2716 1044,2716 1115,2716 1185,2716 1255,2716 1326,2716 1396,2716 1466,2716 1537,2716 1607,2716 1677,2716 1747,2716 1818,2716 1890,2717 1958,2716 2029,2716 2099,2716 2169,2716 2913,2721"/>
+                <TextEquiv>
+                    <Unicode>REDITV•QVOD•ANNIS•DECVRIONIB•COLL•FABR•M̄•R̄•IN AEDE•NEPTVN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:4;} unclear {offset:56; length:1;}">
+                <Coords points="822,2787 924,2787 1027,2787 1130,2787 1233,2787 1336,2787 1439,2787 1542,2787 1645,2787 1748,2787 1851,2785 1953,2785 2056,2785 2159,2785 2262,2785 2365,2783 2468,2783 2571,2783 2674,2783 2777,2783 2880,2783 2880,2738 2777,2738 2674,2738 2571,2738 2468,2738 2365,2738 2262,2740 2159,2740 2056,2740 1953,2740 1851,2740 1748,2742 1645,2742 1542,2742 1439,2742 1336,2742 1233,2742 1130,2742 1027,2742 924,2742 822,2742"/>
+                <Baseline points="822,2772 924,2772 1027,2772 1130,2772 1233,2772 1336,2772 1439,2772 1542,2772 1645,2772 1748,2772 1851,2770 1953,2770 2056,2770 2159,2770 2262,2770 2365,2768 2468,2768 2571,2768 2674,2768 2777,2768 2880,2768"/>
+                <TextEquiv>
+                    <Unicode>QVAM•IPSE•EXTRVXIT•DIE•NEPTVNALIORVM•PRAESENTIBVS•SPORT•𐁂BINI•DIVIDERENTVR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l49" custom="readingOrder {index:5;} unclear {offset:19; length:1;}">
+                <Coords points="832,2852 934,2850 1037,2848 1140,2848 1242,2846 1345,2846 1448,2846 1550,2846 1653,2846 1756,2846 1859,2846 1961,2848 2064,2848 2167,2848 2269,2848 2372,2850 2475,2850 2577,2850 2680,2850 2783,2850 2886,2848 2886,2805 2783,2807 2680,2807 2577,2807 2475,2807 2372,2807 2269,2805 2167,2805 2064,2805 1961,2805 1859,2803 1756,2803 1653,2803 1550,2803 1448,2803 1345,2803 1242,2803 1140,2805 1037,2805 934,2807 832,2809"/>
+                <Baseline points="832,2844 934,2842 1037,2840 1140,2840 1242,2838 1345,2838 1448,2838 1550,2838 1653,2838 1756,2838 1859,2838 1961,2840 2064,2840 2167,2840 2269,2840 2372,2842 2475,2842 2577,2842 2680,2842 2783,2842 2886,2840"/>
+                <TextEquiv>
+                    <Unicode>ET•DEC•XXVIII•SVAE•𐀢•CENTENI•QVINQVAGENI•QVOD•ANNIS•DARENTVR•VT•EX•EA•SVMMA•SICVT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:6;}">
+                <Coords points="820,2914 923,2914 1026,2914 1130,2914 1233,2914 1337,2914 1440,2916 1543,2916 1647,2916 1750,2918 1854,2918 1957,2920 2060,2920 2164,2922 2267,2922 2371,2924 2474,2924 2577,2926 2681,2926 2784,2927 2888,2928 2888,2880 2784,2879 2681,2878 2577,2878 2474,2876 2371,2876 2267,2874 2164,2874 2060,2872 1957,2872 1854,2870 1750,2870 1647,2868 1543,2868 1440,2868 1337,2866 1233,2866 1130,2866 1026,2866 923,2866 820,2866"/>
+                <Baseline points="820,2898 923,2898 1026,2898 1130,2898 1233,2898 1337,2898 1440,2900 1543,2900 1647,2900 1750,2902 1854,2902 1957,2904 2060,2904 2164,2906 2267,2906 2371,2908 2474,2908 2577,2910 2681,2910 2784,2911 2888,2912"/>
+                <TextEquiv>
+                    <Unicode>SOLITI•SVNT•ARCAM•PVBLICIORVM•FLAVIANI•ET•ITALICI•FILIORVM•ET ARCAM•INQVA•POSITA•EST•FLAVIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:7;} unclear {offset:38; length:1;} unclear {offset:63; length:3;}">
+                <Coords points="832,2976 935,2977 1038,2978 1142,2978 1245,2980 1349,2982 1452,2983 1555,2984 1659,2986 1762,2988 1866,2988 1969,2990 2072,2992 2176,2992 2279,2994 2383,2994 2486,2996 2589,2996 2693,2996 2796,2996 2900,2996 2900,2941 2796,2941 2693,2941 2589,2941 2486,2941 2383,2939 2279,2939 2176,2937 2072,2937 1969,2935 1866,2933 1762,2933 1659,2931 1555,2929 1452,2928 1349,2927 1245,2925 1142,2923 1038,2923 935,2922 832,2921"/>
+                <Baseline points="832,2958 935,2959 1038,2960 1142,2960 1245,2962 1349,2964 1452,2965 1555,2966 1659,2968 1762,2970 1866,2970 1969,2972 2072,2974 2176,2974 2279,2976 2383,2976 2486,2978 2589,2978 2693,2978 2796,2978 2900,2978"/>
+                <TextEquiv>
+                    <Unicode>SALVTARIS•VXOR•EIVS•ROSIS•EXORNENT•DE•𐀢•XXV•SACRIFICENT•QVAE•E𐀀 XIIS•ET•DE•RELIQ•IBI•EPVLENTVR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1639999834281_1546" custom="readingOrder {index:8;}">
+                <Coords points="798,2977 902,2980 1006,2983 1098,2984 1098,3039 1006,3038 902,3035 798,3032"/>
+                <Baseline points="798,3014 902,3017 1006,3020 1098,3021"/>
+                <TextEquiv>
+                    <Unicode>OB•QVAM•LIBER-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1639999840757_1550" custom="readingOrder {index:9;}">
+                <Coords points="1066,2952 1129,2950 1130,3000 1067,3002"/>
+                <Baseline points="1067,2997 1130,2995"/>
+                <TextEquiv>
+                    <Unicode>ALI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1639999834280_1545" custom="readingOrder {index:10;}">
+                <Coords points="1098,2984 1110,2985 1214,2987 1319,2989 1423,2991 1527,2993 1631,2994 1735,2995 1840,2997 1944,2997 2048,2999 2152,3000 2256,3001 2361,3003 2465,3003 2569,3005 2673,3007 2777,3009 2882,3011 2882,3066 2777,3064 2673,3062 2569,3060 2465,3058 2361,3058 2256,3056 2152,3055 2048,3054 1944,3052 1840,3052 1735,3050 1631,3049 1527,3048 1423,3046 1319,3044 1214,3042 1110,3040 1098,3039"/>
+                <Baseline points="1098,3021 1110,3022 1214,3024 1319,3026 1423,3028 1527,3030 1631,3031 1735,3032 1840,3034 1944,3034 2048,3036 2152,3037 2256,3038 2361,3040 2465,3040 2569,3042 2673,3044 2777,3046 2909,3052"/>
+                <TextEquiv>
+                    <Unicode>TATEM•COLL•M̄•R̄•INTER•BENE•MERITOS•QVOD•ANNIS•ROSAS•PVBLICIIS•SVPRA•S•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:11;} unclear {offset:44; length:1;}">
+                <Coords points="828,3098 933,3100 1038,3102 1143,3104 1248,3106 1353,3108 1458,3108 1563,3110 1668,3112 1773,3112 1878,3114 1983,3116 2088,3118 2193,3120 2298,3122 2403,3124 2508,3126 2613,3128 2718,3132 2823,3134 2928,3138 2928,3090 2823,3086 2718,3084 2613,3080 2508,3078 2403,3076 2298,3074 2193,3072 2088,3070 1983,3068 1878,3066 1773,3064 1668,3064 1563,3062 1458,3060 1353,3060 1248,3058 1143,3056 1038,3054 933,3052 828,3050"/>
+                <Baseline points="828,3087 933,3089 1038,3091 1143,3093 1248,3095 1353,3097 1458,3097 1563,3099 1668,3101 1773,3101 1878,3103 1983,3105 2088,3107 2193,3109 2298,3111 2403,3113 2508,3115 2613,3117 2718,3121 2823,3123 2928,3127"/>
+                <TextEquiv>
+                    <Unicode>ET•FLAVIAE•SALVTARI•VXORI•EIVS•MITTENDAS•EX•𐀢XXV•SACRIFICIVMQVE•FACIVNDVM•DE•X̄IIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l54" custom="readingOrder {index:12;}">
+                <Coords points="2984,3140 3016,3143 3048,3145 3080,3144 3080,3089 3048,3090 3016,3088 2984,3085"/>
+                <Baseline points="2984,3122 3016,3125 3048,3127 3080,3126"/>
+                <TextEquiv>
+                    <Unicode>Debit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l55" custom="readingOrder {index:13;}">
+                <Coords points="1500,3174 1525,3175 1550,3176 1575,3176 1600,3177 1625,3178 1650,3178 1675,3178 1700,3178 1725,3180 1750,3180 1775,3180 1800,3180 1825,3180 1850,3180 1875,3180 1900,3182 1925,3182 1950,3182 1950,3134 1925,3134 1900,3134 1875,3132 1850,3132 1825,3132 1800,3132 1775,3132 1750,3132 1725,3132 1700,3130 1675,3130 1650,3130 1625,3130 1600,3129 1575,3128 1550,3128 1525,3127 1500,3126"/>
+                <Baseline points="1500,3158 1525,3159 1550,3160 1575,3160 1600,3161 1625,3162 1650,3162 1675,3162 1700,3162 1725,3164 1750,3164 1775,3164 1800,3164 1825,3164 1850,3164 1875,3164 1900,3166 1925,3166 2251,3176"/>
+                <TextEquiv>
+                    <Unicode>PER MAGISTROS, DECREVIT•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FLAVIAE•Q•F•SALVTARI•CONIVGI
+RARISSIMAE•L•PVBLICIVS•ITALICVS•DEC•ORN
+ET•SIBI•V•P•HIC•COLL•FABR•M̄•R̄•𐀠XX̄X̄•N̄•VIVVS•DEDIT•EX QVOR•
+REDITV•QVOD•ANNIS•DECVRIONIB•COLL•FABR•M̄•R̄•IN AEDE•NEPTVN
+QVAM•IPSE•EXTRVXIT•DIE•NEPTVNALIORVM•PRAESENTIBVS•SPORT•𐁂BINI•DIVIDERENTVR
+ET•DEC•XXVIII•SVAE•𐀢•CENTENI•QVINQVAGENI•QVOD•ANNIS•DARENTVR•VT•EX•EA•SVMMA•SICVT
+SOLITI•SVNT•ARCAM•PVBLICIORVM•FLAVIANI•ET•ITALICI•FILIORVM•ET ARCAM•INQVA•POSITA•EST•FLAVIA
+SALVTARIS•VXOR•EIVS•ROSIS•EXORNENT•DE•𐀢•XXV•SACRIFICENT•QVAE•E𐀀 XIIS•ET•DE•RELIQ•IBI•EPVLENTVR
+OB•QVAM•LIBER-
+ALI
+TATEM•COLL•M̄•R̄•INTER•BENE•MERITOS•QVOD•ANNIS•ROSAS•PVBLICIIS•SVPRA•S•
+ET•FLAVIAE•SALVTARI•VXORI•EIVS•MITTENDAS•EX•𐀢XXV•SACRIFICIVMQVE•FACIVNDVM•DE•X̄IIS
+Debit
+PER MAGISTROS, DECREVIT•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:3;}">
+            <Coords points="442,2460 440,2869 753,2861 754,2460"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="480,2549 506,2551 533,2552 560,2554 587,2556 614,2558 641,2559 668,2560 695,2561 722,2563 722,2482 695,2480 668,2479 641,2478 614,2477 587,2475 560,2473 533,2471 506,2470 480,2468"/>
+                <Baseline points="486,2528 512,2530 539,2531 566,2533 593,2535 620,2537 647,2538 674,2539 701,2540 728,2542"/>
+                <TextEquiv>
+                    <Unicode>uesta inscritio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="464,2607 490,2610 517,2612 544,2614 571,2617 598,2617 624,2619 651,2619 678,2619 705,2619 732,2619 732,2568 705,2568 678,2568 651,2568 624,2568 598,2566 571,2566 544,2563 517,2561 490,2559 464,2556"/>
+                <Baseline points="464,2590 490,2593 517,2595 544,2597 571,2600 598,2600 624,2602 651,2602 678,2602 705,2602 732,2602"/>
+                <TextEquiv>
+                    <Unicode>he e stata suasta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="492,2682 519,2683 547,2685 575,2687 602,2688 630,2688 658,2687 686,2684 686,2636 658,2639 630,2640 602,2640 575,2639 547,2637 519,2635 492,2634"/>
+                <Baseline points="492,2666 519,2667 547,2669 575,2671 602,2672 630,2672 658,2671 686,2668"/>
+                <TextEquiv>
+                    <Unicode>'anno.1582.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="570,2859 598,2858 626,2860 654,2863 682,2864 710,2867 710,2786 682,2783 654,2782 626,2779 598,2777 570,2778"/>
+                <Baseline points="570,2832 598,2831 626,2833 654,2836 682,2837 710,2840"/>
+                <TextEquiv>
+                    <Unicode>Decuriae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>uesta inscritio
+he e stata suasta
+'anno.1582.
+Decuriae</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639993711814_1392" custom="readingOrder {index:4;}">
+            <Coords points="765,3192 3617,3192 3617,4834 2097,4820 2079,4031 776,3990"/>
+            <TextLine id="r2l57" custom="readingOrder {index:0;}">
+                <Coords points="784,3290 923,3299 1063,3308 1203,3315 1343,3322 1483,3326 1623,3331 1763,3335 1903,3338 2043,3340 2183,3342 2322,3344 2462,3346 2602,3348 2742,3350 2882,3353 3022,3356 3162,3358 3302,3362 3442,3368 3582,3374 3582,3320 3442,3314 3302,3308 3162,3304 3022,3302 2882,3299 2742,3296 2602,3294 2462,3292 2322,3290 2183,3288 2043,3286 1903,3284 1763,3281 1623,3277 1483,3272 1343,3268 1203,3261 1063,3254 923,3245 784,3236"/>
+                <Baseline points="784,3272 923,3281 1063,3290 1203,3297 1343,3304 1483,3308 1623,3313 1763,3317 1903,3320 2043,3322 2183,3324 2322,3326 2462,3328 2602,3330 2742,3332 2882,3335 3022,3338 3162,3340 3302,3344 3442,3350 3582,3356"/>
+                <TextEquiv>
+                    <Unicode>Era di costume ordinario, di usare simili liberalità, di dare piaceri utili alla Maestranza Ravennatia, per che allegramente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l58" custom="readingOrder {index:1;}">
+                <Coords points="822,3394 960,3400 1098,3402 1236,3406 1374,3408 1512,3410 1650,3410 1788,3412 1926,3412 2064,3414 2202,3414 2340,3416 2478,3418 2616,3420 2754,3422 2892,3426 3030,3430 3168,3436 3306,3442 3444,3451 3582,3460 3582,3406 3444,3397 3306,3388 3168,3382 3030,3376 2892,3372 2754,3368 2616,3366 2478,3364 2340,3362 2202,3360 2064,3360 1926,3358 1788,3358 1650,3356 1512,3356 1374,3354 1236,3352 1098,3348 960,3346 822,3340"/>
+                <Baseline points="822,3376 960,3382 1098,3384 1236,3388 1374,3390 1512,3392 1650,3392 1788,3394 1926,3394 2064,3396 2202,3396 2340,3398 2478,3400 2616,3402 2754,3404 2892,3408 3030,3412 3168,3418 3306,3424 3444,3433 3603,3444"/>
+                <TextEquiv>
+                    <Unicode>stessero, nelle festivita:accio che del di di Festo godessero delle lassite et nel di della fatica guadagnassero con l'arte. et perle fe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l59" custom="readingOrder {index:2;}">
+                <Coords points="814,3478 951,3482 1089,3486 1227,3488 1365,3490 1503,3492 1640,3494 1778,3496 1916,3498 2054,3498 2192,3500 2329,3504 2467,3506 2605,3510 2743,3512 2881,3518 3018,3522 3156,3528 3294,3537 3432,3544 3570,3554 3570,3499 3432,3489 3294,3482 3156,3473 3018,3467 2881,3463 2743,3457 2605,3455 2467,3451 2329,3449 2192,3445 2054,3443 1916,3443 1778,3441 1640,3439 1503,3437 1365,3435 1227,3433 1089,3431 951,3427 814,3423"/>
+                <Baseline points="814,3460 951,3464 1089,3468 1227,3470 1365,3472 1503,3474 1640,3476 1778,3478 1916,3480 2054,3480 2192,3482 2329,3486 2467,3488 2605,3492 2743,3494 2881,3500 3018,3504 3156,3510 3294,3519 3432,3526 3610,3544"/>
+                <TextEquiv>
+                    <Unicode>stive attioni lasciavano alcune liberalita, distribuitorie perli colleggi come è in quest'altra di Tiberio claudio Augusto, che in Ra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l60" custom="readingOrder {index:3;} unclear {offset:6; length:4;}">
+                <Coords points="826,3560 961,3568 1096,3575 1232,3579 1367,3584 1503,3588 1638,3590 1773,3592 1909,3594 2044,3596 2180,3596 2315,3598 2450,3600 2586,3600 2721,3602 2857,3605 2992,3608 3127,3612 3263,3616 3398,3622 3534,3628 3534,3573 3398,3567 3263,3561 3127,3557 2992,3553 2857,3550 2721,3547 2586,3545 2450,3545 2315,3543 2180,3541 2044,3541 1909,3539 1773,3537 1638,3535 1503,3533 1367,3529 1232,3524 1096,3520 961,3513 826,3505"/>
+                <Baseline points="826,3542 961,3550 1096,3557 1232,3561 1367,3566 1503,3570 1638,3572 1773,3574 1909,3576 2044,3578 2180,3578 2315,3580 2450,3582 2586,3582 2721,3584 2857,3587 2992,3590 3127,3594 3263,3598 3398,3604 3534,3610"/>
+                <TextEquiv>
+                    <Unicode>venna fate simili liberalitate, lo quale venendo vincitore dell'inglatterra ò Brittannia, accapito in Ravenna, et come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l61" custom="readingOrder {index:4;}">
+                <Coords points="830,3648 964,3653 1098,3658 1232,3662 1367,3667 1501,3672 1635,3674 1770,3678 1904,3682 2038,3685 2173,3688 2307,3690 2441,3694 2575,3696 2710,3698 2844,3701 2978,3704 3113,3706 3247,3709 3381,3712 3516,3714 3516,3659 3381,3657 3247,3654 3113,3651 2978,3649 2844,3646 2710,3643 2575,3641 2441,3639 2307,3635 2173,3633 2038,3630 1904,3627 1770,3623 1635,3619 1501,3617 1367,3612 1232,3607 1098,3603 964,3598 830,3593"/>
+                <Baseline points="830,3630 964,3635 1098,3640 1232,3644 1367,3649 1501,3654 1635,3656 1770,3660 1904,3664 2038,3667 2173,3670 2307,3672 2441,3676 2575,3678 2710,3680 2844,3683 2978,3686 3113,3688 3247,3691 3381,3694 3516,3696"/>
+                <TextEquiv>
+                    <Unicode>dice plinio Navigando adentroterra da Ravenna perla fossa tirata per septe mari ne ando dove hora è chiogia che lui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l62" custom="readingOrder {index:5;}">
+                <Coords points="830,3734 966,3741 1103,3746 1239,3752 1376,3756 1512,3760 1649,3764 1785,3766 1922,3770 2058,3772 2195,3775 2331,3778 2468,3780 2604,3784 2741,3786 2877,3790 3014,3792 3150,3798 3287,3801 3423,3806 3560,3812 3560,3757 3423,3751 3287,3746 3150,3743 3014,3737 2877,3735 2741,3731 2604,3729 2468,3725 2331,3723 2195,3720 2058,3717 1922,3715 1785,3711 1649,3709 1512,3705 1376,3701 1239,3697 1103,3691 966,3686 830,3679"/>
+                <Baseline points="830,3716 966,3723 1103,3728 1239,3734 1376,3738 1512,3742 1649,3746 1785,3748 1922,3752 2058,3754 2195,3757 2331,3760 2468,3762 2604,3766 2741,3768 2877,3772 3014,3774 3150,3780 3287,3783 3423,3788 3560,3794"/>
+                <TextEquiv>
+                    <Unicode>edificio et la chiamò fossa claudia, che alcuni dicono clodia. et da Ravenna traversando in sino ad Atria città et d'inde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l63" custom="readingOrder {index:6;} unclear {offset:63; length:8;}">
+                <Coords points="826,3830 960,3832 1095,3836 1230,3839 1364,3842 1499,3846 1634,3848 1768,3850 1903,3854 2038,3856 2173,3860 2307,3862 2442,3866 2577,3868 2711,3872 2846,3874 2981,3878 3115,3882 3250,3886 3385,3890 3520,3894 3520,3839 3385,3835 3250,3831 3115,3827 2981,3823 2846,3819 2711,3817 2577,3813 2442,3811 2307,3807 2173,3805 2038,3801 1903,3799 1768,3795 1634,3793 1499,3791 1364,3787 1230,3784 1095,3781 960,3777 826,3775"/>
+                <Baseline points="826,3812 960,3814 1095,3818 1230,3821 1364,3824 1499,3828 1634,3830 1768,3832 1903,3836 2038,3838 2173,3842 2307,3844 2442,3848 2577,3850 2711,3854 2846,3856 2981,3860 3115,3864 3250,3868 3385,3872 3520,3876"/>
+                <TextEquiv>
+                    <Unicode>alle philestine et Fossioni, et carbonare confluentie del pado mistiato conli fiumi detti Atasi, Tartaro et Meduaco. tro </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l64" custom="readingOrder {index:7;} unclear {offset:82; length:6;}">
+                <Coords points="822,3906 958,3910 1094,3914 1230,3918 1367,3922 1503,3925 1639,3928 1776,3932 1912,3934 2048,3936 2185,3940 2321,3942 2457,3946 2593,3948 2730,3952 2866,3956 3002,3960 3139,3964 3275,3968 3411,3972 3548,3978 3548,3929 3411,3923 3275,3919 3139,3915 3002,3911 2866,3907 2730,3903 2593,3899 2457,3897 2321,3893 2185,3891 2048,3887 1912,3885 1776,3883 1639,3879 1503,3876 1367,3873 1230,3869 1094,3865 958,3861 822,3857"/>
+                <Baseline points="822,3890 958,3894 1094,3898 1230,3902 1367,3906 1503,3909 1639,3912 1776,3916 1912,3918 2048,3920 2185,3924 2321,3926 2457,3930 2593,3932 2730,3936 2866,3940 3002,3944 3139,3948 3275,3952 3411,3956 3548,3962"/>
+                <TextEquiv>
+                    <Unicode>vo il luogo opportuno ove gli piacque edificare le claudie Fosse Municipali. cosi dunque porremo al nostro poposito la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l65" custom="readingOrder {index:8;}">
+                <Coords points="826,3988 962,3991 1099,3995 1235,4000 1372,4003 1508,4006 1645,4010 1781,4014 1918,4018 2054,4022 2191,4024 2327,4028 2464,4030 2600,4034 2737,4036 2873,4038 3010,4042 3146,4043 3283,4046 3419,4048 3556,4048 3556,3994 3419,3994 3283,3992 3146,3989 3010,3988 2873,3984 2737,3982 2600,3980 2464,3976 2327,3974 2191,3970 2054,3968 1918,3964 1781,3960 1645,3956 1508,3952 1372,3949 1235,3946 1099,3941 962,3937 826,3934"/>
+                <Baseline points="826,3970 962,3973 1099,3977 1235,3982 1372,3985 1508,3988 1645,3992 1781,3996 1918,4000 2054,4004 2191,4006 2327,4010 2464,4012 2600,4016 2737,4018 2873,4020 3010,4024 3146,4025 3283,4028 3419,4030 3556,4030"/>
+                <TextEquiv>
+                    <Unicode>dedicatione trovata in Ravenna, ove ad'esso Druso fecero la porta Aurea per honorarlo della Britannica. vittoria. et esso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l67" custom="readingOrder {index:9;}">
+                <Coords points="2176,4114 2245,4116 2314,4118 2383,4119 2452,4120 2522,4122 2591,4122 2660,4124 2729,4125 2798,4126 2868,4126 2937,4128 3006,4128 3075,4128 3144,4129 3214,4130 3283,4130 3352,4130 3421,4130 3490,4130 3560,4130 3560,4075 3490,4075 3421,4075 3352,4075 3283,4075 3214,4075 3144,4074 3075,4073 3006,4073 2937,4073 2868,4071 2798,4071 2729,4070 2660,4069 2591,4067 2522,4067 2452,4065 2383,4064 2314,4063 2245,4061 2176,4059"/>
+                <Baseline points="2176,4096 2245,4098 2314,4100 2383,4101 2452,4102 2522,4104 2591,4104 2660,4106 2729,4107 2798,4108 2868,4108 2937,4110 3006,4110 3075,4110 3144,4111 3214,4112 3283,4112 3352,4112 3421,4112 3490,4112 3560,4112"/>
+                <TextEquiv>
+                    <Unicode>claudio lascio Mille sestertij alli Fabri Ravennati collegiati acciò</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l70" custom="readingOrder {index:10;}">
+                <Coords points="2170,4196 2239,4198 2309,4200 2379,4202 2448,4204 2518,4206 2588,4208 2657,4208 2727,4210 2797,4212 2867,4214 2936,4214 3006,4216 3076,4216 3145,4217 3215,4218 3285,4218 3354,4218 3424,4216 3494,4216 3564,4214 3564,4159 3494,4161 3424,4161 3354,4163 3285,4163 3215,4163 3145,4162 3076,4161 3006,4161 2936,4159 2867,4159 2797,4157 2727,4155 2657,4153 2588,4153 2518,4151 2448,4149 2379,4147 2309,4145 2239,4143 2170,4141"/>
+                <Baseline points="2170,4178 2239,4180 2309,4182 2379,4184 2448,4186 2518,4188 2588,4190 2657,4190 2727,4192 2797,4194 2867,4196 2936,4196 3006,4198 3076,4198 3145,4199 3215,4200 3285,4200 3354,4200 3424,4198 3494,4198 3564,4196"/>
+                <TextEquiv>
+                    <Unicode>che ogni anno facessero l'Epulo in memoria di Druso suo padre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l72" custom="readingOrder {index:11;}">
+                <Coords points="2202,4270 2268,4272 2335,4274 2402,4276 2469,4280 2536,4282 2603,4283 2670,4286 2737,4287 2804,4289 2871,4290 2937,4292 3004,4294 3071,4294 3138,4296 3205,4298 3272,4298 3339,4300 3406,4300 3473,4302 3540,4302 3540,4247 3473,4247 3406,4245 3339,4245 3272,4243 3205,4243 3138,4241 3071,4239 3004,4239 2937,4237 2871,4235 2804,4234 2737,4232 2670,4231 2603,4228 2536,4227 2469,4225 2402,4221 2335,4219 2268,4217 2202,4215"/>
+                <Baseline points="2182,4255 2268,4254 2335,4256 2402,4258 2469,4262 2536,4264 2603,4265 2670,4268 2737,4269 2804,4271 2871,4272 2937,4274 3004,4276 3071,4276 3138,4278 3205,4280 3272,4280 3339,4282 3406,4282 3473,4284 3540,4284"/>
+                <TextEquiv>
+                    <Unicode>come uno Dorpo ò cena, che si faceva attorno ai monumenti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l75" custom="readingOrder {index:12;}">
+                <Coords points="2190,4346 2257,4349 2324,4354 2391,4357 2458,4361 2525,4364 2592,4367 2659,4370 2726,4372 2793,4374 2861,4376 2928,4378 2995,4380 3062,4382 3129,4384 3196,4386 3263,4388 3330,4390 3397,4392 3464,4394 3532,4396 3532,4341 3464,4339 3397,4337 3330,4335 3263,4333 3196,4331 3129,4329 3062,4327 2995,4325 2928,4323 2861,4321 2793,4319 2726,4317 2659,4315 2592,4312 2525,4309 2458,4306 2391,4302 2324,4299 2257,4294 2190,4291"/>
+                <Baseline points="2190,4328 2257,4331 2324,4336 2391,4339 2458,4343 2525,4346 2592,4349 2659,4352 2726,4354 2793,4356 2861,4358 2928,4360 2995,4362 3062,4364 3129,4366 3196,4368 3263,4370 3330,4372 3397,4374 3464,4376 3532,4378"/>
+                <TextEquiv>
+                    <Unicode>et con condicione che se loro Maestri non osservassero il giorno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l78" custom="readingOrder {index:13;}">
+                <Coords points="2204,4418 2271,4422 2339,4424 2407,4428 2474,4430 2542,4434 2610,4437 2677,4441 2745,4444 2813,4447 2881,4450 2948,4453 3016,4456 3084,4458 3151,4460 3219,4462 3287,4463 3354,4464 3422,4464 3490,4464 3558,4464 3558,4415 3490,4415 3422,4415 3354,4415 3287,4414 3219,4413 3151,4411 3084,4409 3016,4407 2948,4404 2881,4401 2813,4398 2745,4395 2677,4392 2610,4388 2542,4385 2474,4381 2407,4379 2339,4375 2271,4373 2204,4369"/>
+                <Baseline points="2204,4402 2271,4406 2339,4408 2407,4412 2474,4414 2542,4418 2610,4421 2677,4425 2745,4428 2813,4431 2881,4434 2948,4437 3016,4440 3084,4442 3151,4444 3219,4446 3287,4447 3354,4448 3422,4448 3490,4448 3558,4448"/>
+                <TextEquiv>
+                    <Unicode>deputato. Il Colleggio d'essi Fabri potesse fare la istessa cena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l80" custom="readingOrder {index:14;}">
+                <Coords points="2208,4492 2274,4496 2340,4499 2406,4502 2472,4504 2539,4506 2605,4508 2671,4511 2737,4512 2803,4514 2870,4516 2936,4519 3002,4521 3068,4523 3134,4526 3201,4528 3267,4531 3333,4534 3399,4538 3465,4542 3532,4546 3532,4497 3465,4493 3399,4489 3333,4485 3267,4482 3201,4479 3134,4477 3068,4474 3002,4472 2936,4470 2870,4467 2803,4465 2737,4463 2671,4462 2605,4459 2539,4457 2472,4455 2406,4453 2340,4450 2274,4447 2208,4443"/>
+                <Baseline points="2208,4476 2274,4480 2340,4483 2406,4486 2472,4488 2539,4490 2605,4492 2671,4495 2737,4496 2803,4498 2870,4500 2936,4503 3002,4505 3068,4507 3134,4510 3201,4512 3267,4515 3333,4518 3399,4522 3465,4526 3532,4530"/>
+                <TextEquiv>
+                    <Unicode>nel medesimo tempo. conla sparsione delle Rose. lo quale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l83" custom="readingOrder {index:15;}">
+                <Coords points="2204,4588 2271,4592 2338,4595 2405,4599 2473,4602 2540,4606 2607,4610 2675,4612 2742,4615 2809,4618 2877,4620 2944,4623 3011,4626 3078,4627 3146,4629 3213,4630 3280,4632 3348,4634 3415,4636 3482,4638 3550,4638 3550,4583 3482,4583 3415,4581 3348,4579 3280,4577 3213,4575 3146,4574 3078,4572 3011,4571 2944,4568 2877,4565 2809,4563 2742,4560 2675,4557 2607,4555 2540,4551 2473,4547 2405,4544 2338,4540 2271,4537 2204,4533"/>
+                <Baseline points="2204,4570 2271,4574 2338,4577 2405,4581 2473,4584 2540,4588 2607,4592 2675,4594 2742,4597 2809,4600 2877,4602 2944,4605 3011,4608 3078,4609 3146,4611 3213,4612 3280,4614 3348,4616 3415,4618 3482,4620 3550,4620"/>
+                <TextEquiv>
+                    <Unicode>vito lo troviamo usato anchora da Romani et sopra gli Epuli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l86" custom="readingOrder {index:16;}">
+                <Coords points="2206,4698 2273,4700 2341,4704 2408,4707 2476,4711 2544,4714 2611,4717 2679,4721 2746,4724 2814,4728 2882,4730 2949,4733 3017,4736 3084,4738 3152,4740 3219,4742 3287,4742 3355,4743 3422,4744 3490,4742 3558,4742 3558,4687 3490,4687 3422,4689 3355,4688 3287,4687 3219,4687 3152,4685 3084,4683 3017,4681 2949,4678 2882,4675 2814,4673 2746,4669 2679,4666 2611,4662 2544,4659 2476,4656 2408,4652 2341,4649 2273,4645 2206,4643"/>
+                <Baseline points="2206,4680 2273,4682 2341,4686 2408,4689 2476,4693 2544,4696 2611,4699 2679,4703 2746,4706 2814,4710 2882,4712 2949,4715 3017,4718 3084,4720 3152,4722 3219,4724 3287,4724 3355,4725 3422,4726 3490,4724 3558,4724"/>
+                <TextEquiv>
+                    <Unicode>haveano sette huomini per ministri dette septemviri Epu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l88" custom="readingOrder {index:17;}">
+                <Coords points="2182,4786 2251,4788 2320,4792 2389,4794 2458,4796 2527,4799 2596,4802 2665,4804 2734,4806 2803,4809 2872,4811 2941,4814 3010,4816 3079,4818 3148,4820 3217,4822 3286,4825 3355,4827 3424,4830 3493,4831 3562,4834 3562,4779 3493,4776 3424,4775 3355,4772 3286,4770 3217,4767 3148,4765 3079,4763 3010,4761 2941,4759 2872,4756 2803,4754 2734,4751 2665,4749 2596,4747 2527,4744 2458,4741 2389,4739 2320,4737 2251,4733 2182,4731"/>
+                <Baseline points="2182,4768 2251,4770 2320,4774 2389,4776 2458,4778 2527,4781 2596,4784 2665,4786 2734,4788 2803,4791 2872,4793 2941,4796 3010,4798 3079,4800 3148,4802 3217,4804 3286,4807 3355,4809 3424,4812 3493,4813 3562,4816"/>
+                <TextEquiv>
+                    <Unicode>loni. che cercavano di fare osservare Le lassite: et per miticare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Era di costume ordinario, di usare simili liberalità, di dare piaceri utili alla Maestranza Ravennatia, per che allegramente
+stessero, nelle festivita:accio che del di di Festo godessero delle lassite et nel di della fatica guadagnassero con l'arte. et perle fe¬
+stive attioni lasciavano alcune liberalita, distribuitorie perli colleggi come è in quest'altra di Tiberio claudio Augusto, che in Ra¬
+venna fate simili liberalitate, lo quale venendo vincitore dell'inglatterra ò Brittannia, accapito in Ravenna, et come
+dice plinio Navigando adentroterra da Ravenna perla fossa tirata per septe mari ne ando dove hora è chiogia che lui
+edificio et la chiamò fossa claudia, che alcuni dicono clodia. et da Ravenna traversando in sino ad Atria città et d'inde
+alle philestine et Fossioni, et carbonare confluentie del pado mistiato conli fiumi detti Atasi, Tartaro et Meduaco. tro 
+vo il luogo opportuno ove gli piacque edificare le claudie Fosse Municipali. cosi dunque porremo al nostro poposito la
+dedicatione trovata in Ravenna, ove ad'esso Druso fecero la porta Aurea per honorarlo della Britannica. vittoria. et esso
+claudio lascio Mille sestertij alli Fabri Ravennati collegiati acciò
+che ogni anno facessero l'Epulo in memoria di Druso suo padre
+come uno Dorpo ò cena, che si faceva attorno ai monumenti.
+et con condicione che se loro Maestri non osservassero il giorno
+deputato. Il Colleggio d'essi Fabri potesse fare la istessa cena
+nel medesimo tempo. conla sparsione delle Rose. lo quale
+vito lo troviamo usato anchora da Romani et sopra gli Epuli
+haveano sette huomini per ministri dette septemviri Epu¬
+loni. che cercavano di fare osservare Le lassite: et per miticare</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1639993711813_1391" custom="readingOrder {index:5;}">
+            <Coords points="776,3990 2079,4031 2097,4820 789,4809"/>
+            <TextLine id="r2l66" custom="readingOrder {index:0;}">
+                <Coords points="848,4076 905,4081 963,4086 1021,4090 1079,4092 1137,4096 1194,4098 1252,4100 1310,4102 1368,4105 1426,4106 1483,4108 1541,4110 1599,4112 1657,4113 1715,4114 1772,4116 1830,4117 1888,4118 1946,4120 2004,4120 2004,4066 1946,4066 1888,4064 1830,4063 1772,4062 1715,4060 1657,4059 1599,4058 1541,4056 1483,4054 1426,4052 1368,4051 1310,4048 1252,4046 1194,4044 1137,4042 1079,4038 1021,4036 963,4032 905,4027 848,4022"/>
+                <Baseline points="848,4058 905,4063 963,4068 1021,4072 1079,4074 1137,4078 1194,4080 1252,4082 1310,4084 1368,4087 1426,4088 1483,4090 1541,4092 1599,4094 1657,4095 1715,4096 1772,4098 1830,4099 1888,4100 1946,4102 2004,4102"/>
+                <TextEquiv>
+                    <Unicode>TI•CLAVDIVS•DRVSI•F•CAES•AVG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l68" custom="readingOrder {index:1;}">
+                <Coords points="858,4156 907,4159 957,4162 1007,4165 1057,4167 1107,4170 1156,4172 1206,4174 1256,4177 1306,4178 1356,4180 1405,4182 1455,4183 1505,4184 1555,4186 1605,4186 1654,4188 1704,4188 1754,4188 1804,4188 1854,4188 1854,4139 1804,4139 1754,4139 1704,4139 1654,4139 1605,4137 1555,4137 1505,4135 1455,4134 1405,4133 1356,4131 1306,4129 1256,4128 1206,4125 1156,4123 1107,4121 1057,4118 1007,4116 957,4113 907,4110 858,4107"/>
+                <Baseline points="858,4140 907,4143 957,4146 1007,4149 1057,4151 1107,4154 1156,4156 1206,4158 1256,4161 1306,4162 1356,4164 1405,4166 1455,4167 1505,4168 1555,4170 1605,4170 1654,4172 1704,4172 1754,4172 1804,4172 2015,4178"/>
+                <TextEquiv>
+                    <Unicode>GERM•PONT•MAX•TRIB•POT•ĪĪ•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l71" custom="readingOrder {index:2;}">
+                <Coords points="852,4224 909,4228 966,4232 1023,4234 1080,4238 1138,4240 1195,4242 1252,4245 1309,4247 1366,4248 1424,4250 1481,4250 1538,4252 1595,4252 1652,4254 1710,4254 1767,4256 1824,4256 1881,4258 1938,4258 1996,4260 1996,4218 1938,4216 1881,4216 1824,4214 1767,4214 1710,4212 1652,4212 1595,4210 1538,4210 1481,4208 1424,4208 1366,4206 1309,4205 1252,4203 1195,4200 1138,4198 1080,4196 1023,4192 966,4190 909,4186 852,4182"/>
+                <Baseline points="852,4210 909,4214 966,4218 1023,4220 1080,4224 1138,4226 1195,4228 1252,4231 1309,4233 1366,4234 1424,4236 1481,4236 1538,4238 1595,4238 1652,4240 1710,4240 1767,4242 1824,4242 1881,4244 1938,4244 1996,4246"/>
+                <TextEquiv>
+                    <Unicode>COS•ĪĪ•DESIG•ĪĪĪ•IMP•ĪĪĪ•P•P•DEDIT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l73" custom="readingOrder {index:3;}">
+                <Coords points="872,4284 916,4288 961,4290 1005,4293 1050,4294 1095,4298 1139,4298 1184,4300 1228,4303 1273,4305 1318,4306 1362,4308 1407,4309 1451,4310 1496,4311 1541,4312 1585,4312 1630,4314 1674,4314 1719,4314 1764,4314 1764,4272 1719,4272 1674,4272 1630,4272 1585,4270 1541,4270 1496,4269 1451,4268 1407,4267 1362,4266 1318,4264 1273,4263 1228,4261 1184,4258 1139,4256 1095,4256 1050,4252 1005,4251 961,4248 916,4246 872,4242"/>
+                <Baseline points="872,4270 916,4274 961,4276 1005,4279 1050,4280 1095,4284 1139,4284 1184,4286 1228,4289 1273,4291 1318,4292 1362,4294 1407,4295 1451,4296 1496,4297 1541,4298 1585,4298 1630,4300 1674,4300 1719,4300 1994,4309"/>
+                <TextEquiv>
+                    <Unicode>OB•MEMORIAM•PATRIS•SVI•DEC•VĪĪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l76" custom="readingOrder {index:4;}">
+                <Coords points="868,4351 925,4355 983,4359 1040,4361 1098,4363 1155,4367 1213,4369 1270,4371 1328,4373 1385,4375 1443,4377 1500,4379 1558,4381 1615,4381 1673,4383 1730,4383 1788,4385 1845,4385 1903,4387 1960,4387 2018,4387 2018,4348 1960,4348 1903,4348 1845,4346 1788,4346 1730,4344 1673,4344 1615,4342 1558,4342 1500,4340 1443,4338 1385,4336 1328,4334 1270,4332 1213,4330 1155,4328 1098,4324 1040,4322 983,4320 925,4316 868,4312"/>
+                <Baseline points="868,4338 925,4342 983,4346 1040,4348 1098,4350 1155,4354 1213,4356 1270,4358 1328,4360 1385,4362 1443,4364 1500,4366 1558,4368 1615,4368 1673,4370 1730,4370 1788,4372 1845,4372 1903,4374 1960,4374 2018,4374"/>
+                <TextEquiv>
+                    <Unicode>COLLEGII•FABR•M̄•R̄•☿ↀ N̄•LIBERALITATE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l77" custom="readingOrder {index:5;}">
+                <Coords points="918,4413 964,4414 1011,4417 1058,4419 1105,4420 1152,4423 1199,4424 1246,4425 1293,4427 1340,4429 1387,4431 1433,4431 1480,4433 1527,4434 1574,4435 1621,4435 1668,4435 1715,4435 1762,4435 1809,4435 1856,4435 1856,4396 1809,4396 1762,4396 1715,4396 1668,4396 1621,4396 1574,4396 1527,4395 1480,4394 1433,4392 1387,4392 1340,4390 1293,4388 1246,4386 1199,4385 1152,4384 1105,4381 1058,4380 1011,4378 964,4375 918,4374"/>
+                <Baseline points="918,4400 964,4401 1011,4404 1058,4406 1105,4407 1152,4410 1199,4411 1246,4412 1293,4414 1340,4416 1387,4418 1433,4418 1480,4420 1527,4421 1574,4422 1621,4422 1668,4422 1715,4422 1762,4422 1809,4422 1856,4422"/>
+                <TextEquiv>
+                    <Unicode>DONAVIT•SVB•HAC•CONDICIONE•VT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l79" custom="readingOrder {index:6;}">
+                <Coords points="874,4473 929,4475 984,4477 1040,4479 1095,4481 1151,4483 1206,4485 1261,4485 1317,4487 1372,4488 1428,4489 1483,4489 1538,4491 1594,4491 1649,4491 1705,4491 1760,4491 1815,4491 1871,4491 1926,4491 1982,4489 1982,4449 1926,4451 1871,4451 1815,4451 1760,4451 1705,4451 1649,4451 1594,4451 1538,4451 1483,4449 1428,4449 1372,4448 1317,4447 1261,4445 1206,4445 1151,4443 1095,4441 1040,4439 984,4437 929,4435 874,4433"/>
+                <Baseline points="874,4460 929,4462 984,4464 1040,4466 1095,4468 1151,4470 1206,4472 1261,4472 1317,4474 1372,4475 1428,4476 1483,4476 1538,4478 1594,4478 1649,4478 1705,4478 1760,4478 1815,4478 1871,4478 1926,4478 1982,4476"/>
+                <TextEquiv>
+                    <Unicode>QVOT ANNIS•ROSAS•AD•MONVMENTVM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l81" custom="readingOrder {index:7;}">
+                <Coords points="902,4546 958,4546 1014,4545 1070,4544 1126,4544 1182,4544 1238,4546 1294,4546 1350,4546 1406,4547 1462,4548 1518,4548 1574,4550 1630,4550 1686,4552 1742,4552 1798,4552 1854,4554 1910,4554 1966,4554 2022,4554 2022,4512 1966,4512 1910,4512 1854,4512 1798,4510 1742,4510 1686,4510 1630,4508 1574,4508 1518,4506 1462,4506 1406,4505 1350,4504 1294,4504 1238,4504 1182,4502 1126,4502 1070,4502 1014,4503 958,4504 902,4504"/>
+                <Baseline points="902,4532 958,4532 1014,4531 1070,4530 1126,4530 1182,4530 1238,4532 1294,4532 1350,4532 1406,4533 1462,4534 1518,4534 1574,4536 1630,4536 1686,4538 1742,4538 1798,4538 1854,4540 1910,4540 1966,4540 2022,4540"/>
+                <TextEquiv>
+                    <Unicode>EIVS•DIFFERANT•ET•IBI•EPVLENTVR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l82" custom="readingOrder {index:8;}">
+                <Coords points="1046,4606 1084,4608 1122,4608 1160,4608 1199,4608 1237,4608 1275,4608 1314,4608 1352,4608 1390,4608 1429,4608 1467,4606 1505,4606 1543,4606 1582,4606 1620,4606 1658,4606 1697,4606 1735,4608 1773,4608 1812,4608 1812,4572 1773,4572 1735,4572 1697,4570 1658,4570 1620,4570 1582,4570 1543,4570 1505,4570 1467,4570 1429,4572 1390,4572 1352,4572 1314,4572 1275,4572 1237,4572 1199,4572 1160,4572 1122,4572 1084,4572 1046,4570"/>
+                <Baseline points="1046,4594 1084,4596 1122,4596 1160,4596 1199,4596 1237,4596 1275,4596 1314,4596 1352,4596 1390,4596 1429,4596 1467,4594 1505,4594 1543,4594 1582,4594 1620,4594 1658,4594 1697,4594 1735,4596 1773,4596 1812,4596"/>
+                <TextEquiv>
+                    <Unicode>DVM•TAXAT•IN•V̄•ID•IVLIAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l84" custom="readingOrder {index:9;}">
+                <Coords points="880,4642 933,4646 987,4651 1041,4655 1095,4658 1149,4660 1203,4662 1257,4664 1311,4666 1365,4666 1419,4668 1472,4668 1526,4668 1580,4668 1634,4668 1688,4666 1742,4666 1796,4665 1850,4664 1904,4662 1958,4662 1958,4626 1904,4626 1850,4628 1796,4629 1742,4630 1688,4630 1634,4632 1580,4632 1526,4632 1472,4632 1419,4632 1365,4630 1311,4630 1257,4628 1203,4626 1149,4624 1095,4622 1041,4619 987,4615 933,4610 880,4606"/>
+                <Baseline points="880,4630 933,4634 987,4639 1041,4643 1095,4646 1149,4648 1203,4650 1257,4652 1311,4654 1365,4654 1419,4656 1472,4656 1526,4656 1580,4656 1634,4656 1688,4654 1742,4654 1796,4653 1850,4652 1904,4650 1981,4651"/>
+                <TextEquiv>
+                    <Unicode>QVOD•SI•NEGLENXERINT•TVNC•AD•VĪĪĪ•D•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l85" custom="readingOrder {index:10;}">
+                <Coords points="886,4707 940,4707 995,4709 1049,4711 1104,4713 1158,4715 1213,4717 1267,4720 1322,4722 1376,4723 1431,4725 1485,4727 1540,4728 1594,4729 1649,4729 1703,4729 1758,4727 1812,4725 1867,4722 1921,4718 1976,4713 1976,4674 1921,4679 1867,4683 1812,4686 1758,4688 1703,4690 1649,4690 1594,4690 1540,4689 1485,4688 1431,4686 1376,4684 1322,4683 1267,4681 1213,4678 1158,4676 1104,4674 1049,4672 995,4670 940,4668 886,4668"/>
+                <Baseline points="886,4694 940,4694 995,4696 1049,4698 1104,4700 1158,4702 1213,4704 1267,4707 1322,4709 1376,4710 1431,4712 1485,4714 1540,4715 1594,4716 1649,4716 1703,4716 1758,4714 1812,4712 1867,4709 1921,4705 1976,4700"/>
+                <TextEquiv>
+                    <Unicode>EIVSDEM•COLLEGII PERTINERE•DEBEBIT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l87" custom="readingOrder {index:11;} unclear {offset:11; length:10;}">
+                <Coords points="1090,4775 1124,4776 1158,4777 1192,4777 1227,4777 1261,4779 1295,4779 1330,4779 1364,4781 1398,4781 1433,4783 1467,4783 1501,4783 1535,4783 1570,4785 1604,4785 1638,4785 1673,4785 1707,4784 1741,4783 1776,4781 1776,4741 1741,4743 1707,4744 1673,4745 1638,4745 1604,4745 1570,4745 1535,4743 1501,4743 1467,4743 1433,4743 1398,4741 1364,4741 1330,4739 1295,4739 1261,4739 1227,4737 1192,4737 1158,4737 1124,4736 1090,4735"/>
+                <Baseline points="1090,4762 1124,4763 1158,4764 1192,4764 1227,4764 1261,4766 1295,4766 1330,4766 1364,4768 1398,4768 1433,4770 1467,4770 1501,4770 1535,4770 1570,4772 1604,4772 1638,4772 1673,4772 1707,4771 1741,4770 1776,4768"/>
+                <TextEquiv>
+                    <Unicode>CONDICIONE•SVVRADICTA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>TI•CLAVDIVS•DRVSI•F•CAES•AVG
+GERM•PONT•MAX•TRIB•POT•ĪĪ•
+COS•ĪĪ•DESIG•ĪĪĪ•IMP•ĪĪĪ•P•P•DEDIT
+OB•MEMORIAM•PATRIS•SVI•DEC•VĪĪ
+COLLEGII•FABR•M̄•R̄•☿ↀ N̄•LIBERALITATE
+DONAVIT•SVB•HAC•CONDICIONE•VT
+QVOT ANNIS•ROSAS•AD•MONVMENTVM
+EIVS•DIFFERANT•ET•IBI•EPVLENTVR
+DVM•TAXAT•IN•V̄•ID•IVLIAS
+QVOD•SI•NEGLENXERINT•TVNC•AD•VĪĪĪ•D•
+EIVSDEM•COLLEGII PERTINERE•DEBEBIT
+CONDICIONE•SVVRADICTA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

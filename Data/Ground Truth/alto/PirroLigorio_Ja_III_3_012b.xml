@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_012b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:53.723+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643802107375_994"
+                       HEIGHT="161"
+                       WIDTH="418"
+                       VPOS="188"
+                       HPOS="3010">
+               <Shape>
+                  <Polygon POINTS="3010,191 3428,188 3425,345 3010,349"/>
+               </Shape>
+               <TextLine ID="line_1639480640917_378"
+                         BASELINE="3111,236 3212,233"
+                         HEIGHT="53"
+                         WIDTH="102"
+                         VPOS="188"
+                         HPOS="3110">
+                  <String ID="string_line_1639480640917_378"
+                          HEIGHT="53"
+                          WIDTH="102"
+                          VPOS="188"
+                          HPOS="3110"
+                          CONTENT="15"/>
+               </TextLine>
+               <TextLine ID="r1l1"
+                         BASELINE="3210,292 3238,299 3266,299 3294,300"
+                         HEIGHT="75"
+                         WIDTH="84"
+                         VPOS="247"
+                         HPOS="3210">
+                  <String ID="string_r1l1"
+                          HEIGHT="75"
+                          WIDTH="84"
+                          VPOS="247"
+                          HPOS="3210"
+                          CONTENT="12"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643802107375_993"
+                       HEIGHT="4479"
+                       WIDTH="3075"
+                       VPOS="191"
+                       HPOS="350">
+               <Shape>
+                  <Polygon POINTS="350,213 3010,191 3010,349 3425,345 3370,4670 368,4670"/>
+               </Shape>
+               <TextLine ID="r1l2"
+                         BASELINE="424,444 571,442 718,442 865,442 1013,442 1160,442 1307,444 1455,444 1602,444 1749,446 1897,448 2044,448 2191,450 2338,452 2486,452 2633,454 2780,456 2928,458 3075,458 3222,460 3370,460"
+                         HEIGHT="85"
+                         WIDTH="2946"
+                         VPOS="397"
+                         HPOS="424">
+                  <String ID="string_r1l2"
+                          HEIGHT="85"
+                          WIDTH="2946"
+                          VPOS="397"
+                          HPOS="424"
+                          CONTENT="la in questo modo: ΡΑΒΕΝΝΑ, ΠΟΛΙΣ ΙΤΑΔΙΑΣ. ΕΡΜΙΠΠΟΣ Ο ΒΗΡΥΤΙΟΣ ΡΟΥΕΝΝΑΝ ΑΥΤΗΝ ΚΑΛΕΙ. ΔΙΟΝΥΣΙΟΣ Δ ΕΝ. ΕΚΚΑΙ¬"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="416,538 550,540 685,544 820,546 955,548 1090,550 1225,552 1360,552 1495,552 1630,554 1765,554 1899,554 2034,554 2169,554 2304,554 2439,554 2574,554 2709,554 2844,554 2979,555 3114,556"
+                         HEIGHT="85"
+                         WIDTH="2698"
+                         VPOS="493"
+                         HPOS="416">
+                  <String ID="string_r1l3"
+                          HEIGHT="85"
+                          WIDTH="2698"
+                          VPOS="493"
+                          HPOS="416"
+                          CONTENT="ΔΕΚΑΤΩ ΡΩΜΑΙΚΗΣ ΑΡΧΑΙΟΛΟΤΙΑΣ, ΚΑΙ ΠΗΙΘΥΝΤΙΚΩΣ,ΚΑΙ ΔΙΑ ΤΟΥ. Η. ΚΑΙ ΔΙ ΕΝΟΣ. Ν. ΑΜΦΟΤΕΡΟΙ ΑΠΗΤΗΣΑΝ"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="438,640 567,640 696,641 825,642 955,642 1084,644 1213,644 1343,644 1472,646 1601,646 1731,648 1860,648 1989,650 2118,651 2248,652 2377,654 2506,656 2636,658 2765,660 2894,662 3024,666"
+                         HEIGHT="92"
+                         WIDTH="2586"
+                         VPOS="596"
+                         HPOS="438">
+                  <String ID="string_r1l4"
+                          HEIGHT="92"
+                          WIDTH="2586"
+                          VPOS="596"
+                          HPOS="438"
+                          CONTENT="ΦΛΑΜΙΩ ΠΕΡΙ ΤΟΝ ΚΑΛΟΥ ΜΕΝΟΝ. ΡΑΒΗΝΝΟΝ, ΤΟ ΕΘΝΙΚΟΝ, ΡΑΒΕΝΝΑΤΗΣ, ΠΑΡ ΙΤΑΛ?Σ, ΡΑΒΕΝΝΗΣΙΟΣ. Dice egli"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="424,724 554,726 685,728 815,730 946,732 1076,734 1207,734 1337,737 1468,738 1598,740 1729,742 1859,744 1990,747 2120,750 2251,752 2381,754 2512,756 2642,760 2773,762 2903,764 3034,768"
+                         HEIGHT="104"
+                         WIDTH="2610"
+                         VPOS="684"
+                         HPOS="424">
+                  <String ID="string_r1l5"
+                          HEIGHT="104"
+                          WIDTH="2610"
+                          VPOS="684"
+                          HPOS="424"
+                          CONTENT="dunque che Ravenna città d'Italia. Ermippo la chiamo Berytio Ruenna et cosi la scrisse ò denomino. Dionysio"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="424,806 555,812 686,814 817,818 948,822 1080,824 1211,826 1342,828 1473,830 1604,832 1736,834 1867,836 1998,838 2129,840 2260,842 2391,844 2523,846 2654,848 2785,852 2916,854 3048,858"
+                         HEIGHT="112"
+                         WIDTH="2624"
+                         VPOS="766"
+                         HPOS="424">
+                  <String ID="string_r1l6"
+                          HEIGHT="112"
+                          WIDTH="2624"
+                          VPOS="766"
+                          HPOS="424"
+                          CONTENT="nel decimo sesto dalle Romane antichita. La nomino Rabenno perla •H•et gentilmente da Rabennon disse Rabenna¬"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="424,902 554,906 685,910 816,912 947,915 1078,918 1208,920 1339,922 1470,924 1601,926 1732,928 1862,928 1993,930 2124,932 2255,934 2386,936 2516,938 2647,940 2778,942 2909,946 3040,948"
+                         HEIGHT="113"
+                         WIDTH="2616"
+                         VPOS="857"
+                         HPOS="424">
+                  <String ID="string_r1l7"
+                          HEIGHT="113"
+                          WIDTH="2616"
+                          VPOS="857"
+                          HPOS="424"
+                          CONTENT="te. et all'uso Italico Rabenesio. Cosi medesimamente l'appella Strabone come fà Dionysio. onde da essa potemo di¬"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="410,998 539,1000 669,1004 799,1006 929,1010 1059,1012 1189,1015 1319,1018 1449,1020 1579,1024 1709,1026 1838,1028 1968,1030 2098,1033 2228,1036 2358,1038 2488,1040 2618,1042 2748,1046 2878,1048 3008,1050"
+                         HEIGHT="119"
+                         WIDTH="2598"
+                         VPOS="953"
+                         HPOS="410">
+                  <String ID="string_r1l8"
+                          HEIGHT="119"
+                          WIDTH="2598"
+                          VPOS="953"
+                          HPOS="410"
+                          CONTENT="re Ravennata et Ravennesio. Fù Ravenna nel principato di Augusto fatta degna della gente Romana"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="420,1098 550,1100 681,1104 812,1108 943,1110 1074,1114 1204,1117 1335,1120 1466,1123 1597,1126 1728,1130 1858,1132 1989,1136 2120,1138 2251,1142 2382,1144 2512,1147 2643,1150 2774,1153 2905,1156 3036,1158"
+                         HEIGHT="127"
+                         WIDTH="2616"
+                         VPOS="1053"
+                         HPOS="420">
+                  <String ID="string_r1l9"
+                          HEIGHT="127"
+                          WIDTH="2616"
+                          VPOS="1053"
+                          HPOS="420"
+                          CONTENT="colonia, come dice Nysa. et da Tiberio Caesare mantenuta, et dotata di Porto propinquo alla città detto Ra"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="422,1200 552,1206 683,1210 814,1214 945,1217 1076,1220 1206,1224 1337,1226 1468,1228 1599,1230 1730,1234 1860,1236 1991,1238 2122,1240 2253,1242 2384,1245 2514,1248 2645,1250 2776,1254 2907,1258 3038,1262"
+                         HEIGHT="129"
+                         WIDTH="2616"
+                         VPOS="1155"
+                         HPOS="422">
+                  <String ID="string_r1l10"
+                          HEIGHT="129"
+                          WIDTH="2616"
+                          VPOS="1155"
+                          HPOS="422"
+                          CONTENT="vennatio ch'era come unaltra città chiamata dalla invitta armata Romana Classis Ravennatia, ove stan"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="422,1296 551,1301 681,1306 810,1310 940,1314 1069,1318 1199,1320 1328,1323 1458,1326 1587,1328 1717,1330 1846,1334 1976,1336 2105,1338 2235,1342 2364,1345 2494,1348 2623,1352 2753,1357 2882,1362 3012,1366"
+                         HEIGHT="134"
+                         WIDTH="2590"
+                         VPOS="1253"
+                         HPOS="422">
+                  <String ID="string_r1l11"
+                          HEIGHT="134"
+                          WIDTH="2590"
+                          VPOS="1253"
+                          HPOS="422"
+                          CONTENT="ziava la mita dell'Armata, et l'altra mita era nel Mare interiore nel porto Misenatio Iulio Augusto. et"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="416,1390 547,1394 678,1396 809,1400 940,1404 1072,1406 1203,1410 1334,1413 1465,1417 1596,1420 1728,1424 1859,1428 1990,1432 2121,1435 2252,1439 2383,1444 2515,1448 2646,1452 2777,1456 2908,1460 3040,1464"
+                         HEIGHT="138"
+                         WIDTH="2624"
+                         VPOS="1347"
+                         HPOS="416">
+                  <String ID="string_r1l12"
+                          HEIGHT="138"
+                          WIDTH="2624"
+                          VPOS="1347"
+                          HPOS="416"
+                          CONTENT="in quello muoveano l'arme all'Africa et alla Thracia da questo di Ravenna contra l'Asia. Fù rinovata"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="408,1488 536,1492 664,1494 793,1498 921,1501 1050,1505 1178,1508 1306,1512 1435,1516 1563,1520 1692,1524 1820,1526 1948,1530 2077,1534 2205,1536 2334,1540 2462,1542 2590,1544 2719,1546 2847,1548 2976,1550"
+                         HEIGHT="129"
+                         WIDTH="2568"
+                         VPOS="1443"
+                         HPOS="408">
+                  <String ID="string_r1l13"
+                          HEIGHT="129"
+                          WIDTH="2568"
+                          VPOS="1443"
+                          HPOS="408"
+                          CONTENT="colonia da Claudio Druso Caesare, et d'indi rinovata di nuovo da Flavio Valentiniano: et da Theodosio"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="410,1596 539,1600 668,1603 798,1606 927,1609 1057,1612 1186,1616 1315,1618 1445,1620 1574,1623 1704,1626 1833,1628 1962,1632 2092,1634 2221,1636 2351,1638 2480,1642 2609,1644 2739,1646 2868,1650 2998,1652"
+                         HEIGHT="123"
+                         WIDTH="2588"
+                         VPOS="1551"
+                         HPOS="410">
+                  <String ID="string_r1l14"
+                          HEIGHT="123"
+                          WIDTH="2588"
+                          VPOS="1551"
+                          HPOS="410"
+                          CONTENT="molto nobilitata. et pria di Valentiniano da Lucio Vero Imperatore, ove gli fù fatta la statua equestre"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="410,1700 538,1704 667,1707 795,1710 924,1714 1053,1717 1181,1720 1310,1722 1438,1726 1567,1728 1696,1732 1824,1734 1953,1738 2081,1740 2210,1742 2339,1746 2467,1750 2596,1752 2724,1756 2853,1759 2982,1762"
+                         HEIGHT="129"
+                         WIDTH="2572"
+                         VPOS="1655"
+                         HPOS="410">
+                  <String ID="string_r1l15"
+                          HEIGHT="129"
+                          WIDTH="2572"
+                          VPOS="1655"
+                          HPOS="410"
+                          CONTENT="di Bronzo con lui accavallo come ritornato conla pace, significante l'evento in Italia, la quale figura"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="416,1814 544,1816 673,1820 802,1822 931,1826 1060,1828 1188,1832 1317,1834 1446,1838 1575,1840 1704,1844 1832,1846 1961,1850 2090,1852 2219,1856 2348,1858 2476,1860 2605,1862 2734,1865 2863,1867 2992,1868"
+                         HEIGHT="121"
+                         WIDTH="2576"
+                         VPOS="1769"
+                         HPOS="416">
+                  <String ID="string_r1l16"
+                          HEIGHT="121"
+                          WIDTH="2576"
+                          VPOS="1769"
+                          HPOS="416"
+                          CONTENT="hodiernamente si vede in Pavia, ò pure Papia città già detta Ticino dal suo fiume, tolta nella guerra"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="406,1924 535,1926 665,1930 795,1932 925,1935 1055,1938 1185,1940 1315,1942 1445,1944 1575,1946 1705,1949 1834,1952 1964,1954 2094,1956 2224,1958 2354,1961 2484,1964 2614,1966 2744,1970 2874,1973 3004,1976"
+                         HEIGHT="119"
+                         WIDTH="2598"
+                         VPOS="1879"
+                         HPOS="406">
+                  <String ID="string_r1l17"
+                          HEIGHT="119"
+                          WIDTH="2598"
+                          VPOS="1879"
+                          HPOS="406"
+                          CONTENT="à Ravennati nelle discordie Italice, delle quali taceremo per non dire troppo et fuori della nostra intentio¬"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="416,2020 544,2023 673,2027 801,2030 930,2034 1059,2037 1187,2040 1316,2042 1444,2046 1573,2048 1702,2050 1830,2052 1959,2056 2087,2058 2216,2060 2345,2062 2473,2066 2602,2068 2730,2072 2859,2074 2988,2078"
+                         HEIGHT="125"
+                         WIDTH="2572"
+                         VPOS="1975"
+                         HPOS="416">
+                  <String ID="string_r1l18"
+                          HEIGHT="125"
+                          WIDTH="2572"
+                          VPOS="1975"
+                          HPOS="416"
+                          CONTENT="ne. Fù pria Ravenna fortificata di Argini et palafitte, et anchora palificata nelli fundamenti de"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="404,2128 533,2132 663,2136 792,2140 922,2143 1052,2146 1181,2150 1311,2152 1440,2154 1570,2158 1700,2160 1829,2162 1959,2164 2088,2167 2218,2170 2348,2172 2477,2176 2607,2178 2736,2182 2866,2185 2996,2190"
+                         HEIGHT="129"
+                         WIDTH="2592"
+                         VPOS="2083"
+                         HPOS="404">
+                  <String ID="string_r1l19"
+                          HEIGHT="129"
+                          WIDTH="2592"
+                          VPOS="2083"
+                          HPOS="404"
+                          CONTENT="suoi muri, et nelli edificij secondo il Geographo, per essere già sul mare in luoghi paludosi e stagni oltre"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="398,2234 528,2238 658,2244 788,2246 919,2250 1049,2252 1179,2256 1310,2258 1440,2260 1570,2262 1701,2264 1831,2266 1961,2268 2091,2270 2222,2274 2352,2276 2482,2278 2613,2282 2743,2285 2873,2288 3004,2292"
+                         HEIGHT="125"
+                         WIDTH="2606"
+                         VPOS="2189"
+                         HPOS="398">
+                  <String ID="string_r1l20"
+                          HEIGHT="125"
+                          WIDTH="2606"
+                          VPOS="2189"
+                          HPOS="398"
+                          CONTENT="alli quinque Mari, che sono stati stagni abondantissimi, come celo mostra anchora Silio Italico sopradetto."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="394,2332 525,2338 656,2342 787,2348 918,2352 1049,2356 1180,2360 1311,2364 1442,2368 1573,2370 1705,2374 1836,2378 1967,2382 2098,2386 2229,2389 2360,2393 2491,2397 2622,2402 2753,2405 2884,2410 3016,2416"
+                         HEIGHT="120"
+                         WIDTH="2622"
+                         VPOS="2308"
+                         HPOS="394">
+                  <String ID="string_r1l21"
+                          HEIGHT="120"
+                          WIDTH="2622"
+                          VPOS="2308"
+                          HPOS="394"
+                          CONTENT="perciò che dalla parte septentrionale sono allei molti stagni opposti, causati dal Pado Argento chiamato già"/>
+               </TextLine>
+               <TextLine ID="line_1639491909304_458"
+                         BASELINE="398,2450 530,2452 631,2453"
+                         HEIGHT="42"
+                         WIDTH="233"
+                         VPOS="2424"
+                         HPOS="398">
+                  <String ID="string_line_1639491909304_458"
+                          HEIGHT="42"
+                          WIDTH="233"
+                          VPOS="2424"
+                          HPOS="398"
+                          CONTENT="Spinetico"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="604,2404 630,2402 657,2401 683,2400 710,2400 737,2398 763,2398 790,2397 816,2397 843,2398 870,2398"
+                         HEIGHT="43"
+                         WIDTH="266"
+                         VPOS="2373"
+                         HPOS="604">
+                  <String ID="string_r1l22"
+                          HEIGHT="43"
+                          WIDTH="266"
+                          VPOS="2373"
+                          HPOS="604"
+                          CONTENT="dal lato di qua"/>
+               </TextLine>
+               <TextLine ID="line_1639491909301_457"
+                         BASELINE="642,2456 663,2454 796,2456 929,2460 1062,2462 1195,2464 1328,2467 1461,2470 1594,2472 1727,2476 1859,2478 1992,2482 2125,2486 2258,2490 2391,2494 2524,2498 2657,2502 2790,2508 2923,2512 3056,2518"
+                         HEIGHT="104"
+                         WIDTH="2425"
+                         VPOS="2427"
+                         HPOS="631">
+                  <String ID="string_line_1639491909301_457"
+                          HEIGHT="104"
+                          WIDTH="2425"
+                          VPOS="2427"
+                          HPOS="631"
+                          CONTENT="del Messanico, ove fù Spina pelasgia Thessalica et Diomedea colonia, et verso dello Hiberno orien¬"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="406,2554 535,2556 664,2559 793,2562 922,2564 1051,2568 1180,2570 1309,2572 1438,2574 1567,2578 1697,2580 1826,2582 1955,2585 2084,2588 2213,2590 2342,2592 2471,2596 2600,2599 2729,2602 2858,2606 2988,2610"
+                         HEIGHT="123"
+                         WIDTH="2582"
+                         VPOS="2509"
+                         HPOS="406">
+                  <String ID="string_r1l24"
+                          HEIGHT="123"
+                          WIDTH="2582"
+                          VPOS="2509"
+                          HPOS="406"
+                          CONTENT="tale sito, è copiosa di selve di Pigne arbori, che furono preparati perla fabricationi delle future Navi della"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="406,2650 536,2654 667,2658 798,2662 928,2666 1059,2669 1190,2672 1320,2674 1451,2678 1582,2680 1713,2682 1843,2684 1974,2688 2105,2690 2235,2694 2366,2696 2497,2700 2627,2704 2758,2708 2889,2712 3020,2718"
+                         HEIGHT="135"
+                         WIDTH="2614"
+                         VPOS="2605"
+                         HPOS="406">
+                  <String ID="string_r1l25"
+                          HEIGHT="135"
+                          WIDTH="2614"
+                          VPOS="2605"
+                          HPOS="406"
+                          CONTENT="Classe Romana Ravennate, ove erano i Maestri delle Navi ordinati che vi haveano l'allogiamento Nel"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="380,2760 508,2763 637,2766 766,2768 894,2770 1023,2773 1152,2776 1280,2778 1409,2780 1538,2782 1667,2784 1795,2786 1924,2790 2053,2792 2181,2794 2310,2798 2439,2800 2567,2802 2696,2806 2825,2810 2954,2812"
+                         HEIGHT="119"
+                         WIDTH="2574"
+                         VPOS="2715"
+                         HPOS="380">
+                  <String ID="string_r1l26"
+                          HEIGHT="119"
+                          WIDTH="2574"
+                          VPOS="2715"
+                          HPOS="380"
+                          CONTENT="Arsinale et Navale Porto. Lo quale luogo è detto Classi. Ma si come, Ravenna era sul mare com' il "/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="368,2854 499,2857 631,2860 763,2864 895,2866 1027,2870 1158,2872 1290,2874 1422,2876 1554,2878 1686,2880 1817,2882 1949,2885 2081,2888 2213,2890 2345,2892 2476,2895 2608,2898 2740,2901 2872,2904 3004,2908"
+                         HEIGHT="121"
+                         WIDTH="2636"
+                         VPOS="2809"
+                         HPOS="368">
+                  <String ID="string_r1l27"
+                          HEIGHT="121"
+                          WIDTH="2636"
+                          VPOS="2809"
+                          HPOS="368"
+                          CONTENT="suo porto, hoggidi è adentro terra, sendo cresciuto il litto davante composto dalli flutti del Mare della ter¬"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="378,2956 508,2962 638,2966 768,2970 898,2972 1028,2976 1158,2978 1288,2980 1418,2982 1548,2982 1678,2984 1808,2986 1938,2988 2068,2988 2198,2990 2328,2992 2458,2994 2588,2996 2718,2998 2848,3002 2978,3006"
+                         HEIGHT="117"
+                         WIDTH="2600"
+                         VPOS="2911"
+                         HPOS="378">
+                  <String ID="string_r1l28"
+                          HEIGHT="117"
+                          WIDTH="2600"
+                          VPOS="2911"
+                          HPOS="378"
+                          CONTENT="ra portata da Fiumi, et perlo scarzo del limo che'l mare mette interra, viene il suo sito fatto come una"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="390,3060 522,3062 654,3064 786,3066 918,3068 1050,3071 1182,3074 1314,3076 1446,3079 1578,3082 1711,3084 1843,3088 1975,3090 2107,3094 2239,3096 2371,3098 2503,3101 2635,3104 2767,3106 2899,3108 3032,3110"
+                         HEIGHT="117"
+                         WIDTH="2642"
+                         VPOS="3015"
+                         HPOS="390">
+                  <String ID="string_r1l29"
+                          HEIGHT="117"
+                          WIDTH="2642"
+                          VPOS="3015"
+                          HPOS="390"
+                          CONTENT="Amphipoli dal mare et dalli stagni da due bande bagnato. et la sua campagna s'assimiglia ad'uno, cher¬"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="404,3154 533,3158 663,3160 793,3163 923,3166 1053,3168 1182,3172 1312,3174 1442,3176 1572,3178 1702,3180 1831,3182 1961,3184 2091,3186 2221,3189 2351,3192 2480,3194 2610,3196 2740,3198 2870,3201 3000,3204"
+                         HEIGHT="117"
+                         WIDTH="2596"
+                         VPOS="3109"
+                         HPOS="404">
+                  <String ID="string_r1l30"
+                          HEIGHT="117"
+                          WIDTH="2596"
+                          VPOS="3109"
+                          HPOS="404"
+                          CONTENT="ronesso come quel di Thracia, simile alle città dette Senope per esser quasi cintà dall'acque il suo si¬"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="390,3248 518,3253 646,3256 774,3260 902,3264 1030,3268 1158,3270 1286,3274 1414,3276 1542,3278 1670,3282 1798,3284 1926,3286 2054,3288 2182,3291 2310,3294 2438,3296 2566,3300 2694,3303 2822,3307 2950,3312"
+                         HEIGHT="131"
+                         WIDTH="2560"
+                         VPOS="3203"
+                         HPOS="390">
+                  <String ID="string_r1l31"
+                          HEIGHT="131"
+                          WIDTH="2560"
+                          VPOS="3203"
+                          HPOS="390"
+                          CONTENT="to.⁓ Verso occidente et septentrione, ha il Fiume Montone, che discende dall'apenino dal luogo detto"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="386,3350 513,3354 641,3356 768,3359 896,3362 1024,3365 1151,3368 1279,3370 1406,3374 1534,3376 1662,3380 1789,3383 1917,3386 2044,3389 2172,3392 2300,3394 2427,3398 2555,3400 2682,3404 2810,3406 2938,3410"
+                         HEIGHT="127"
+                         WIDTH="2552"
+                         VPOS="3305"
+                         HPOS="386">
+                  <String ID="string_r1l32"
+                          HEIGHT="127"
+                          WIDTH="2552"
+                          VPOS="3305"
+                          HPOS="386"
+                          CONTENT="Viti, passando per lo Forolivio, ò vogliamo dire per Forli ne viene al sito di Ravenna, et dall'altra"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="390,3460 519,3464 649,3468 779,3470 909,3472 1039,3476 1169,3478 1299,3480 1429,3482 1559,3483 1689,3484 1818,3486 1948,3488 2078,3490 2208,3491 2338,3492 2468,3494 2598,3497 2728,3499 2858,3502 2988,3504"
+                         HEIGHT="111"
+                         WIDTH="2598"
+                         VPOS="3415"
+                         HPOS="390">
+                  <String ID="string_r1l33"
+                          HEIGHT="111"
+                          WIDTH="2598"
+                          VPOS="3415"
+                          HPOS="390"
+                          CONTENT="parte è il Roncon fiume che passava perlo Ronco Municipio al Gattinella Villa mette nel mare pu¬"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="378,3554 506,3560 635,3564 763,3569 892,3573 1021,3576 1149,3578 1278,3580 1406,3582 1535,3584 1664,3586 1792,3588 1921,3590 2049,3592 2178,3593 2307,3594 2435,3598 2564,3600 2692,3604 2821,3607 2950,3612"
+                         HEIGHT="125"
+                         WIDTH="2572"
+                         VPOS="3509"
+                         HPOS="378">
+                  <String ID="string_r1l34"
+                          HEIGHT="125"
+                          WIDTH="2572"
+                          VPOS="3509"
+                          HPOS="378"
+                          CONTENT="re cerca alla città. Ha illuogo del paese vitifero, et arbustato. et copioso de luoghi da sementare, et"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="396,3652 542,3660 689,3666 836,3670 983,3675 1130,3678 1277,3680 1424,3682 1571,3684 1718,3686 1865,3686 2011,3688 2158,3690 2305,3692 2452,3694 2599,3698 2746,3702 2893,3708 3040,3715 3187,3724 3334,3734"
+                         HEIGHT="149"
+                         WIDTH="2938"
+                         VPOS="3607"
+                         HPOS="396">
+                  <String ID="string_r1l35"
+                          HEIGHT="149"
+                          WIDTH="2938"
+                          VPOS="3607"
+                          HPOS="396"
+                          CONTENT="tiene il nome del particolar porto, che plinio chiama Besedo. Che già Theodorico Re nella posteriorità quivi residente,"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="390,3754 518,3760 647,3766 775,3771 904,3775 1032,3780 1161,3782 1289,3786 1418,3788 1546,3790 1675,3792 1803,3794 1932,3796 2060,3799 2189,3802 2317,3804 2446,3808 2574,3812 2703,3816 2831,3820 2960,3826"
+                         HEIGHT="139"
+                         WIDTH="2570"
+                         VPOS="3709"
+                         HPOS="390">
+                  <String ID="string_r1l36"
+                          HEIGHT="139"
+                          WIDTH="2570"
+                          VPOS="3709"
+                          HPOS="390"
+                          CONTENT="denomino Portilio: et possede la palude et stagno della Messaniaca;ch'è dal pado si naviga à Ravenna,"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="394,3864 522,3870 651,3875 780,3880 909,3884 1038,3887 1166,3890 1295,3892 1424,3894 1553,3896 1682,3898 1810,3900 1939,3902 2068,3904 2197,3908 2326,3910 2454,3914 2583,3918 2712,3922 2841,3928 2970,3936"
+                         HEIGHT="139"
+                         WIDTH="2576"
+                         VPOS="3819"
+                         HPOS="394">
+                  <String ID="string_r1l37"
+                          HEIGHT="139"
+                          WIDTH="2576"
+                          VPOS="3819"
+                          HPOS="394"
+                          CONTENT="et hanno la padusa Fossa et oshia à due miglia dalla città dicui narrano Plinio et Virgilio, PISCOSOVE AM¬"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="390,3976 517,3982 645,3986 773,3990 901,3994 1029,3997 1157,4000 1285,4002 1413,4004 1541,4006 1669,4006 1796,4008 1924,4010 2052,4012 2180,4014 2308,4016 2436,4020 2564,4023 2692,4027 2820,4032 2948,4038"
+                         HEIGHT="129"
+                         WIDTH="2558"
+                         VPOS="3931"
+                         HPOS="390">
+                  <String ID="string_r1l38"
+                          HEIGHT="129"
+                          WIDTH="2558"
+                          VPOS="3931"
+                          HPOS="390"
+                          CONTENT="NE PADVSA, detta dalla propinquità del pado, come la dice Vibio Sequestre. Dicono che quando quivi"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="370,4086 447,4090 525,4094 602,4098 680,4101 758,4104 835,4106 913,4108 990,4110 1068,4110 1146,4112 1223,4112 1301,4114 1378,4114 1456,4114 1534,4116 1611,4118 1689,4118 1766,4120 1844,4122 3007,4169"
+                         HEIGHT="105"
+                         WIDTH="1552"
+                         VPOS="4041"
+                         HPOS="370">
+                  <String ID="string_r1l39"
+                          HEIGHT="105"
+                          WIDTH="1552"
+                          VPOS="4041"
+                          HPOS="370"
+                          CONTENT="propinqua vi fu fatta Spina et Ravenna Thessala da Pelasgi fù fatta Cyma, che hora si dice Cumacchio"/>
+               </TextLine>
+               <TextLine ID="line_1639498577646_514"
+                         BASELINE="378,4196 508,4198 638,4202 768,4204 898,4206 1028,4207 1158,4208 1288,4210 1418,4212 1548,4212 1679,4214 1809,4216 1939,4218 2002,4221"
+                         HEIGHT="89"
+                         WIDTH="1624"
+                         VPOS="4151"
+                         HPOS="378">
+                  <String ID="string_line_1639498577646_514"
+                          HEIGHT="89"
+                          WIDTH="1624"
+                          VPOS="4151"
+                          HPOS="378"
+                          CONTENT="posseduta dall'Altezza del Serenissimo Alphonso secondo Duce"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="1958,4172 2083,4166 2120,4167 2146,4166"
+                         HEIGHT="34"
+                         WIDTH="76"
+                         VPOS="4142"
+                         HPOS="2058">
+                  <String ID="string_r1l42"
+                          HEIGHT="34"
+                          WIDTH="76"
+                          VPOS="4142"
+                          HPOS="2058"
+                          CONTENT="di Ferara"/>
+               </TextLine>
+               <TextLine ID="line_1639498577645_513"
+                         BASELINE="2018,4225 2069,4219 2199,4221 2329,4224 2459,4226 2589,4230 2719,4232 2849,4237 2980,4242"
+                         HEIGHT="91"
+                         WIDTH="978"
+                         VPOS="4173"
+                         HPOS="2002">
+                  <String ID="string_line_1639498577645_513"
+                          HEIGHT="91"
+                          WIDTH="978"
+                          VPOS="4173"
+                          HPOS="2002"
+                          CONTENT="et fù detta, detta questa città miracolo¬"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="390,4290 520,4292 650,4296 781,4298 911,4300 1042,4302 1172,4305 1302,4306 1433,4308 1563,4310 1694,4312 1824,4314 1954,4316 2085,4318 2215,4320 2346,4322 2476,4324 2606,4326 2737,4328 2867,4330 2998,4334"
+                         HEIGHT="111"
+                         WIDTH="2608"
+                         VPOS="4245"
+                         HPOS="390">
+                  <String ID="string_r1l45"
+                          HEIGHT="111"
+                          WIDTH="2608"
+                          VPOS="4245"
+                          HPOS="390"
+                          CONTENT="sa di cose pescatorie, ΑΠΟ ΤΟΥ ΚΥΜΑΤΟΣ, onde, ΚΥΜΑΤΥΟΥ, l'oppidi dall'unda che cosi significa. et"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="386,4380 516,4386 647,4390 778,4394 909,4396 1040,4399 1170,4401 1301,4403 1432,4404 1563,4406 1694,4406 1824,4408 1955,4410 2086,4411 2217,4412 2348,4414 2478,4416 2609,4420 2740,4423 2871,4426 3002,4432"
+                         HEIGHT="119"
+                         WIDTH="2616"
+                         VPOS="4335"
+                         HPOS="386">
+                  <String ID="string_r1l46"
+                          HEIGHT="119"
+                          WIDTH="2616"
+                          VPOS="4335"
+                          HPOS="386"
+                          CONTENT="Ravenne dissero ΑΠΟ ΤΟΥ ΡΕΕΙΝ, dal fluere et spartire, et circundare, et rompere del fluere del mare"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="390,4482 522,4486 654,4492 786,4496 918,4500 1050,4502 1182,4506 1314,4508 1446,4510 1578,4512 1710,4514 1842,4516 1974,4518 2106,4520 2238,4522 2370,4525 2502,4528 2634,4530 2766,4534 2898,4537 3030,4542"
+                         HEIGHT="127"
+                         WIDTH="2640"
+                         VPOS="4437"
+                         HPOS="390">
+                  <String ID="string_r1l47"
+                          HEIGHT="127"
+                          WIDTH="2640"
+                          VPOS="4437"
+                          HPOS="390"
+                          CONTENT="ΑΠΟ ΤΟΥ ΡΕΥΜΑΤΟΣ ΤΩΝ ΥΔΑΤΩΝ. per essere inluogo aeshirario et combattuto dall'acque, per che"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="370,4594 504,4600 638,4604 772,4609 906,4612 1040,4615 1174,4618 1308,4620 1442,4622 1576,4622 1710,4624 1844,4624 1978,4626 2112,4628 2246,4629 2380,4630 2514,4632 2648,4636 2782,4639 2916,4642 3050,4648"
+                         HEIGHT="121"
+                         WIDTH="2680"
+                         VPOS="4549"
+                         HPOS="370">
+                  <String ID="string_r1l48"
+                          HEIGHT="121"
+                          WIDTH="2680"
+                          VPOS="4549"
+                          HPOS="370"
+                          CONTENT="tutto'l paese ha bagnato dal pado ultima sua ostia del Rivo Argento, et dal Montone, et dall'Anemone,"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

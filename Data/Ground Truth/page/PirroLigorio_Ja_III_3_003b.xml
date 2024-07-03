@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:33.631+01:00</Created>
+        <LastChange>2024-06-25T19:20:22.796+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902795" pageNr="6" tsid="174120153" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=CTVNMFJKWEDGJJYTNPEUDIGO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HQBZXRYVASDAVKBXCZDLBTEB" imageId="17873874"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_003b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337490608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643801078900_837"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643801078900_836"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643801078900_837" custom="readingOrder {index:0;}">
+            <Coords points="2970,127 3319,123 3318,331 2970,331"/>
+            <TextLine id="line_1641288876340_1558" custom="readingOrder {index:0;}">
+                <Coords points="3013,154 3120,154 3120,204 3013,204"/>
+                <Baseline points="3013,199 3120,199"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1641288879566_1563" custom="readingOrder {index:1;}">
+                <Coords points="3169,221 3249,219 3250,269 3170,271"/>
+                <Baseline points="3170,266 3250,264"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6
+3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643801078900_836" custom="readingOrder {index:1;}">
+            <Coords points="210,166 2970,127 2970,331 3318,331 3314,1640 215,1662"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="430,303 522,299 614,295 706,293 798,291 890,291 982,291 1074,291 1166,291 1258,293 1350,293 1442,295 1534,297 1626,297 1718,297 1810,297 1902,297 1994,297 2086,295 2178,293 2270,289 2270,238 2178,242 2086,244 1994,246 1902,246 1810,246 1718,246 1626,246 1534,246 1442,244 1350,242 1258,242 1166,240 1074,240 982,240 890,240 798,240 706,242 614,244 522,248 430,252"/>
+                <Baseline points="430,286 522,282 614,278 706,276 798,274 890,274 982,274 1074,274 1166,274 1258,276 1350,276 1442,278 1534,280 1626,280 1718,280 1810,280 1902,280 1994,280 2086,278 2178,276 2314,277"/>
+                <TextEquiv>
+                    <Unicode>RACALINI, sono populi della Sarmatia in Europa, come narra Ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} Greek {offset:8; length:6;}">
+                <Coords points="436,375 533,371 630,367 727,365 825,363 922,363 1019,361 1117,361 1214,361 1311,363 1409,363 1506,363 1603,365 1700,365 1798,367 1895,367 1992,367 2090,367 2187,367 2284,367 2382,365 2382,314 2284,316 2187,316 2090,316 1992,316 1895,316 1798,316 1700,314 1603,314 1506,312 1409,312 1311,312 1214,310 1117,310 1019,310 922,312 825,312 727,314 630,316 533,320 436,324"/>
+                <Baseline points="436,358 533,354 630,350 727,348 825,346 922,346 1019,344 1117,344 1214,344 1311,346 1409,346 1506,346 1603,348 1700,348 1798,350 1895,350 1992,350 2090,350 2187,350 2284,350 2413,347"/>
+                <TextEquiv>
+                    <Unicode>RACATE, ΡΑΚΑΤΗ, sono campi nella Magna Germania nominati da Ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} Greek {offset:24; length:7;} unclear {offset:86; length:6;}">
+                <Coords points="212,479 345,469 479,459 613,453 746,449 880,446 1014,444 1147,443 1281,443 1415,443 1549,444 1682,445 1816,447 1950,449 2083,451 2217,451 2351,453 2484,453 2618,453 2752,451 2886,449 2886,397 2752,399 2618,401 2484,401 2351,401 2217,399 2083,399 1950,397 1816,395 1682,393 1549,392 1415,391 1281,391 1147,391 1014,392 880,394 746,397 613,401 479,407 345,417 212,427"/>
+                <Baseline points="212,462 345,452 479,442 613,436 746,432 880,429 1014,427 1147,426 1281,426 1415,426 1549,427 1682,428 1816,430 1950,432 2083,434 2217,434 2351,436 2484,436 2618,436 2752,434 2886,432"/>
+                <TextEquiv>
+                    <Unicode>RACELO, RACELUS, ò pure ΡΑΚΗΛΟΣ, è città di Macedonia, la quale fu presa per forza da Levino consolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} Greek {offset:56; length:8;}">
+                <Coords points="498,541 616,539 734,539 852,537 970,537 1089,537 1207,535 1325,535 1443,535 1561,537 1680,537 1798,537 1916,537 2034,537 2152,539 2271,539 2389,539 2507,539 2625,539 2743,541 2862,541 2862,489 2743,489 2625,487 2507,487 2389,487 2271,487 2152,487 2034,485 1916,485 1798,485 1680,485 1561,485 1443,483 1325,483 1207,483 1089,485 970,485 852,485 734,487 616,487 498,489"/>
+                <Baseline points="498,524 616,522 734,522 852,520 970,520 1089,520 1207,518 1325,518 1443,518 1561,520 1680,520 1798,520 1916,520 2034,520 2152,522 2271,522 2389,522 2507,522 2625,522 2743,524 2914,530"/>
+                <TextEquiv>
+                    <Unicode>Romano. da qui si dice Racelius, et Racelio, alla greca ΡΑΚΗΛΙΟΣ. et nella medaglia di Anto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:37; length:10;}">
+                <Coords points="490,625 609,625 729,625 849,623 969,623 1089,621 1208,621 1328,619 1448,619 1568,617 1688,617 1807,617 1927,617 2047,617 2167,617 2287,617 2406,618 2526,619 2646,621 2766,623 2886,627 2886,593 2766,589 2646,587 2526,585 2406,584 2287,583 2167,583 2047,583 1927,583 1807,583 1688,583 1568,583 1448,585 1328,585 1208,587 1089,587 969,589 849,589 729,591 609,591 490,591"/>
+                <Baseline points="490,614 609,614 729,614 849,612 969,612 1089,610 1208,610 1328,608 1448,608 1568,606 1688,606 1807,606 1927,606 2047,606 2167,606 2287,606 2406,607 2526,608 2646,610 2766,612 2886,616"/>
+                <TextEquiv>
+                    <Unicode>nino pio nel numero del più si trova ΡΑΚΗΛΙΑΝΩΝ, fanne menzione di essa città Stephano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="500,675 572,673 644,672 716,671 789,669 861,669 933,669 1006,669 1078,669 1150,669 1223,669 1295,669 1367,669 1439,669 1512,669 1584,669 1656,669 1729,667 1801,665 1873,665 1946,661 1946,627 1873,631 1801,631 1729,633 1656,635 1584,635 1512,635 1439,635 1367,635 1295,635 1223,635 1150,635 1078,635 1006,635 933,635 861,635 789,635 716,637 644,638 572,639 500,641"/>
+                <Baseline points="500,664 572,662 644,661 716,660 789,658 861,658 933,658 1006,658 1078,658 1150,658 1223,658 1295,658 1367,658 1439,658 1512,658 1584,658 1656,658 1729,656 1801,654 1873,654 2004,654"/>
+                <TextEquiv>
+                    <Unicode>alcuni la scrivono Rhacelo per la spiratione come è detto più oltre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="438,732 560,728 683,726 806,724 928,722 1051,722 1174,722 1296,722 1419,722 1542,724 1665,726 1787,728 1910,730 2033,732 2155,736 2278,740 2401,742 2523,746 2646,750 2769,755 2892,760 2892,723 2769,718 2646,713 2523,709 2401,705 2278,703 2155,699 2033,695 1910,693 1787,691 1665,689 1542,687 1419,685 1296,685 1174,685 1051,685 928,685 806,687 683,689 560,691 438,695"/>
+                <Baseline points="438,720 560,716 683,714 806,712 928,710 1051,710 1174,710 1296,710 1419,710 1542,712 1665,714 1787,716 1910,718 2033,720 2155,724 2278,728 2401,730 2523,734 2646,738 2769,743 2892,748"/>
+                <TextEquiv>
+                    <Unicode>RACILIANO, et Racilianvm, fù Villa et agere, di Marco Racilio, nel paese Gabino, ove fu lo suo Monu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="466,809 584,807 703,807 822,805 941,805 1060,805 1179,805 1298,805 1417,807 1536,807 1655,809 1773,811 1892,811 2011,813 2130,817 2249,819 2368,821 2487,825 2606,829 2725,832 2844,835 2844,783 2725,780 2606,777 2487,773 2368,769 2249,767 2130,765 2011,761 1892,759 1773,759 1655,757 1536,755 1417,755 1298,753 1179,753 1060,753 941,753 822,753 703,755 584,755 466,757"/>
+                <Baseline points="466,792 584,790 703,790 822,788 941,788 1060,788 1179,788 1298,788 1417,790 1536,790 1655,792 1773,794 1892,794 2011,796 2130,800 2249,802 2368,804 2487,808 2606,812 2725,815 2844,818"/>
+                <TextEquiv>
+                    <Unicode>mento, rente la Via praenestina Gabina, due miglia discosto à Zagarolo Castello dove fù l'antica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="478,885 597,885 716,885 835,885 954,885 1074,885 1193,885 1312,885 1431,887 1550,887 1670,887 1789,889 1908,891 2027,891 2146,893 2266,895 2385,896 2504,899 2623,899 2742,901 2862,905 2862,853 2742,849 2623,847 2504,847 2385,844 2266,843 2146,841 2027,839 1908,839 1789,837 1670,835 1550,835 1431,835 1312,833 1193,833 1074,833 954,833 835,833 716,833 597,833 478,833"/>
+                <Baseline points="478,868 597,868 716,868 835,868 954,868 1074,868 1193,868 1312,868 1431,870 1550,870 1670,870 1789,872 1908,874 2027,874 2146,876 2266,878 2385,879 2504,882 2623,882 2742,884 2862,888"/>
+                <TextEquiv>
+                    <Unicode>Gabio. Della cui fameglia fu Racilio Tribuno della plebe della Clodiana fattione, del quale fa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="492,957 533,957 574,957 615,957 656,957 698,957 739,957 780,958 821,959 862,958 904,957 945,957 986,957 1027,957 1068,957 1110,957 1151,957 1192,957 1233,957 1274,957 1316,957 1316,905 1274,905 1233,905 1192,905 1151,905 1110,905 1068,905 1027,905 986,905 945,905 904,905 862,906 821,907 780,906 739,905 698,905 656,905 615,905 574,905 533,905 492,905"/>
+                <Baseline points="492,940 533,940 574,940 615,940 656,940 698,940 739,940 780,941 821,942 862,941 904,940 945,940 986,940 1027,940 1068,940 1110,940 1151,940 1192,940 1233,940 1274,940 1316,940"/>
+                <TextEquiv>
+                    <Unicode>menzione nell'Epistole Cicerone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} Greek {offset:25; length:7;}">
+                <Coords points="246,1067 376,1069 507,1069 637,1070 768,1071 899,1071 1029,1071 1160,1069 1290,1069 1421,1069 1552,1067 1682,1067 1813,1065 1943,1063 2074,1061 2205,1059 2335,1057 2466,1053 2596,1050 2727,1047 2858,1043 2858,991 2727,995 2596,998 2466,1001 2335,1005 2205,1007 2074,1009 1943,1011 1813,1013 1682,1015 1552,1015 1421,1017 1290,1017 1160,1017 1029,1019 899,1019 768,1019 637,1018 507,1017 376,1017 246,1015"/>
+                <Baseline points="246,1050 376,1052 507,1052 637,1053 768,1054 899,1054 1029,1054 1160,1052 1290,1052 1421,1052 1552,1050 1682,1050 1813,1048 1943,1046 2074,1044 2205,1042 2335,1040 2466,1036 2596,1033 2727,1030 2858,1026"/>
+                <TextEquiv>
+                    <Unicode>RACOTE, RACOTES, i greci ΡΑΚΩΤΗΣ, è nome di Vico d'Alexandria, posto sul Ramo del Nilo chiamato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} Greek {offset:37; length:9;}">
+                <Coords points="502,1155 621,1157 740,1159 860,1161 979,1161 1099,1161 1218,1161 1337,1159 1457,1157 1576,1155 1696,1153 1815,1149 1934,1147 2054,1144 2173,1141 2293,1139 2412,1135 2531,1133 2651,1131 2770,1129 2890,1129 2890,1077 2770,1077 2651,1079 2531,1081 2412,1083 2293,1087 2173,1089 2054,1092 1934,1095 1815,1097 1696,1101 1576,1103 1457,1105 1337,1107 1218,1109 1099,1109 979,1109 860,1109 740,1107 621,1105 502,1103"/>
+                <Baseline points="502,1138 621,1140 740,1142 860,1144 979,1144 1099,1144 1218,1144 1337,1142 1457,1140 1576,1138 1696,1136 1815,1132 1934,1130 2054,1127 2173,1124 2293,1122 2412,1118 2531,1116 2651,1114 2770,1112 2890,1112"/>
+                <TextEquiv>
+                    <Unicode>del medesimo nome. et d'indi si dice ΡΑΚΩΤΙΤΗΣ. Onde noi dicemo Racotite, alcuni la scrivo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="504,1239 623,1240 743,1241 862,1241 982,1241 1101,1241 1221,1239 1340,1239 1460,1237 1579,1237 1699,1235 1818,1233 1938,1231 2057,1229 2177,1227 2296,1225 2416,1223 2535,1219 2655,1217 2774,1215 2894,1211 2894,1165 2774,1169 2655,1171 2535,1173 2416,1177 2296,1179 2177,1181 2057,1183 1938,1185 1818,1187 1699,1189 1579,1191 1460,1191 1340,1193 1221,1193 1101,1195 982,1195 862,1195 743,1195 623,1194 504,1193"/>
+                <Baseline points="504,1224 623,1225 743,1226 862,1226 982,1226 1101,1226 1221,1224 1340,1224 1460,1222 1579,1222 1699,1220 1818,1218 1938,1216 2057,1214 2177,1212 2296,1210 2416,1208 2535,1204 2655,1202 2774,1200 2894,1196"/>
+                <TextEquiv>
+                    <Unicode>no colla spiratione Rhacotes. Altri vogliono che Alexandria città fusse gia appellata Racotes, ò Rhaco¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="528,1315 553,1317 579,1317 605,1318 630,1319 656,1319 682,1318 707,1317 733,1317 759,1315 785,1313 810,1312 836,1311 862,1309 887,1309 913,1307 939,1305 964,1305 990,1303 1016,1302 1042,1301 1042,1255 1016,1256 990,1257 964,1259 939,1259 913,1261 887,1263 862,1263 836,1265 810,1266 785,1267 759,1269 733,1271 707,1271 682,1272 656,1273 630,1273 605,1272 579,1271 553,1271 528,1269"/>
+                <Baseline points="528,1300 553,1302 579,1302 605,1303 630,1304 656,1304 682,1303 707,1302 733,1302 759,1300 785,1298 810,1297 836,1296 862,1294 887,1294 913,1292 939,1290 964,1290 990,1288 1016,1287 1042,1286"/>
+                <TextEquiv>
+                    <Unicode>tes con la spiratione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="448,1553 570,1551 693,1549 816,1547 939,1545 1062,1541 1185,1539 1308,1536 1431,1533 1554,1530 1677,1527 1799,1523 1922,1521 2045,1517 2168,1515 2291,1511 2414,1509 2537,1507 2660,1505 2783,1503 2906,1503 2906,1451 2783,1451 2660,1453 2537,1455 2414,1457 2291,1459 2168,1463 2045,1465 1922,1469 1799,1471 1677,1475 1554,1478 1431,1481 1308,1484 1185,1487 1062,1489 939,1493 816,1495 693,1497 570,1499 448,1501"/>
+                <Baseline points="448,1536 570,1534 693,1532 816,1530 939,1528 1062,1524 1185,1522 1308,1519 1431,1516 1554,1513 1677,1510 1799,1506 1922,1504 2045,1500 2168,1498 2291,1494 2414,1492 2537,1490 2660,1488 2783,1486 2906,1486"/>
+                <TextEquiv>
+                    <Unicode>RACII, sono populi della Pamphylia, altramente scritti Rhacij, con la spiratione detti da Rhacia figliuola</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} unclear {offset:67; length:9;}">
+                <Coords points="480,1629 574,1629 669,1627 764,1625 858,1623 953,1621 1048,1619 1142,1619 1237,1617 1332,1614 1427,1613 1521,1609 1616,1608 1711,1605 1805,1603 1900,1601 1995,1599 2089,1597 2184,1595 2279,1591 2374,1589 2374,1537 2279,1539 2184,1543 2089,1545 1995,1547 1900,1549 1805,1551 1711,1553 1616,1556 1521,1557 1427,1561 1332,1562 1237,1565 1142,1567 1048,1567 953,1569 858,1571 764,1573 669,1575 574,1577 480,1577"/>
+                <Baseline points="480,1612 574,1612 669,1610 764,1608 858,1606 953,1604 1048,1602 1142,1602 1237,1600 1332,1597 1427,1596 1521,1592 1616,1591 1711,1588 1805,1586 1900,1584 1995,1582 2089,1580 2184,1578 2279,1574 2409,1577"/>
+                <TextEquiv>
+                    <Unicode>di Mantua pamphylica da cui fu detta la pamphylia Racia, et poscia pamplylia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RACALINI, sono populi della Sarmatia in Europa, come narra Ptolemaeo.
+RACATE, ΡΑΚΑΤΗ, sono campi nella Magna Germania nominati da Ptolemaeo.
+RACELO, RACELUS, ò pure ΡΑΚΗΛΟΣ, è città di Macedonia, la quale fu presa per forza da Levino consolo
+Romano. da qui si dice Racelius, et Racelio, alla greca ΡΑΚΗΛΙΟΣ. et nella medaglia di Anto
+nino pio nel numero del più si trova ΡΑΚΗΛΙΑΝΩΝ, fanne menzione di essa città Stephano.
+alcuni la scrivono Rhacelo per la spiratione come è detto più oltre.
+RACILIANO, et Racilianvm, fù Villa et agere, di Marco Racilio, nel paese Gabino, ove fu lo suo Monu¬
+mento, rente la Via praenestina Gabina, due miglia discosto à Zagarolo Castello dove fù l'antica
+Gabio. Della cui fameglia fu Racilio Tribuno della plebe della Clodiana fattione, del quale fa
+menzione nell'Epistole Cicerone.
+RACOTE, RACOTES, i greci ΡΑΚΩΤΗΣ, è nome di Vico d'Alexandria, posto sul Ramo del Nilo chiamato
+del medesimo nome. et d'indi si dice ΡΑΚΩΤΙΤΗΣ. Onde noi dicemo Racotite, alcuni la scrivo
+no colla spiratione Rhacotes. Altri vogliono che Alexandria città fusse gia appellata Racotes, ò Rhaco¬
+tes con la spiratione.
+RACII, sono populi della Pamphylia, altramente scritti Rhacij, con la spiratione detti da Rhacia figliuola
+di Mantua pamphylica da cui fu detta la pamphylia Racia, et poscia pamplylia.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

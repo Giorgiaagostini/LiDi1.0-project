@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:41.013+01:00</Created>
+        <LastChange>2022-05-19T09:41:35.847+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903012" pageNr="153" tsid="82775838" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=VVAXIMCDOTMUGMLUPENUKYCN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWCEXYBGSJRUPPWJQUIMGBWK" imageId="17874021"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_077a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337514141" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="439,610 475,2281 976,2272 954,638"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="464,767 604,768 627,790 752,766 821,799 875,788 896,807 929,802 932,711 760,709 727,675 684,692 649,666 502,720 466,703"/>
+                <Baseline points="479,749 553,750 579,752 605,752 630,752 656,752 682,754 708,754 733,754 759,755 785,756 811,757 836,758 862,760 888,761 914,764"/>
+                <TextEquiv>
+                    <Unicode>I Catullo, chiama Zona</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="492,839 540,855 598,844 649,857 695,842 785,862 813,847 852,863 853,796 829,799 781,774 735,785 663,775 626,790 578,768 493,773"/>
+                <Baseline points="508,826 533,828 558,828 584,828 609,830 634,830 660,830 685,832 710,832 736,832 761,832 786,832 836,830"/>
+                <TextEquiv>
+                    <Unicode>la detta cintura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="477,910 578,898 592,914 752,918 791,935 846,915 885,932 961,916 963,858 939,852 781,874 754,852 694,844 648,873 615,851 573,865 480,841"/>
+                <Baseline points="494,891 525,892 551,895 576,896 602,897 627,899 653,900 678,901 704,902 729,902 755,904 780,904 806,904 831,904 857,904 882,904 908,904 945,907"/>
+                <TextEquiv>
+                    <Unicode>Tam gratum mihi, quam ferut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="476,969 556,955 600,985 646,966 709,988 849,971 948,979 951,930 930,926 821,918 769,936 752,917 670,925 655,909 591,915 577,899 480,909"/>
+                <Baseline points="493,943 529,947 555,948 581,949 607,952 632,954 658,956 684,958 710,958 735,961 761,962 787,964 813,964 838,964 864,964 890,964 933,966"/>
+                <TextEquiv>
+                    <Unicode>puella / Pernici aureolum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="480,1030 709,1039 734,1025 767,1047 812,1033 962,1073 965,977 708,988 654,968 608,988 545,965 481,969"/>
+                <Baseline points="494,1012 540,1010 566,1011 592,1014 619,1014 645,1014 671,1016 697,1016 724,1016 750,1016 776,1016 802,1018 829,1018 855,1019 881,1021 907,1022 949,1025"/>
+                <TextEquiv>
+                    <Unicode>fuisse malum / Quod Zonam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="474,1081 522,1090 583,1079 613,1094 658,1082 698,1107 770,1102 798,1084 837,1096 855,1081 879,1088 880,1039 810,1042 774,1026 728,1044 680,1025 589,1024 553,1042 541,1030 474,1032"/>
+                <Baseline points="490,1070 516,1072 542,1073 568,1074 594,1075 620,1076 646,1076 673,1078 699,1078 725,1078 751,1077 777,1076 803,1076 863,1073"/>
+                <TextEquiv>
+                    <Unicode>solviti diu legatorm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="481,1157 526,1139 556,1160 574,1142 725,1138 783,1165 843,1141 958,1171 958,1068 774,1099 480,1084"/>
+                <Baseline points="495,1134 521,1134 547,1133 573,1132 600,1132 626,1132 652,1133 678,1134 705,1134 731,1134 757,1134 783,1134 810,1134 836,1134 862,1133 888,1131 944,1131"/>
+                <TextEquiv>
+                    <Unicode>et il medesimo autore in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="488,1201 561,1198 615,1213 661,1198 739,1229 782,1198 809,1220 860,1208 860,1144 827,1141 782,1165 748,1150 730,1162 700,1141 488,1156"/>
+                <Baseline points="502,1188 528,1190 554,1190 581,1190 607,1192 634,1192 660,1192 687,1192 713,1191 740,1190 766,1190 793,1190 819,1190 846,1192"/>
+                <TextEquiv>
+                    <Unicode>uno altro luogo cosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="468,1268 737,1254 834,1301 967,1269 968,1215 890,1196 808,1219 778,1200 738,1227 696,1208 572,1215 557,1200 469,1198"/>
+                <Baseline points="485,1242 511,1243 538,1245 564,1246 591,1246 617,1248 644,1248 670,1248 697,1250 723,1250 750,1251 776,1252 803,1252 829,1252 856,1252 882,1250 953,1247"/>
+                <TextEquiv>
+                    <Unicode>Nequaerendum aliunde foret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="487,1297 538,1306 560,1298 708,1304 750,1316 777,1311 779,1271 737,1254 668,1254 655,1266 613,1255 567,1265 547,1246 538,1254 489,1249"/>
+                <Baseline points="502,1284 530,1287 558,1288 586,1289 614,1290 642,1290 670,1292 698,1293 763,1299"/>
+                <TextEquiv>
+                    <Unicode>nervosius illud,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="468,1352 525,1363 550,1345 589,1370 610,1355 677,1360 755,1370 776,1389 873,1355 958,1353 959,1290 781,1307 469,1292"/>
+                <Baseline points="483,1338 508,1338 534,1340 560,1340 586,1342 611,1342 637,1344 663,1344 689,1346 714,1346 740,1348 766,1348 792,1348 817,1348 843,1348 869,1346 942,1346"/>
+                <TextEquiv>
+                    <Unicode>Quod posset zonam solvere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="494,1400 549,1418 561,1412 570,1418 585,1402 615,1411 639,1402 654,1417 681,1401 691,1407 703,1395 718,1395 717,1325 690,1326 660,1353 605,1354 590,1369 551,1345 524,1364 494,1361"/>
+                <Baseline points="508,1396 536,1393 564,1392 593,1392 621,1392 649,1392 702,1392"/>
+                <TextEquiv>
+                    <Unicode>virgineam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="475,1450 527,1468 968,1458 968,1389 904,1368 835,1392 723,1386 690,1407 587,1402 572,1417 475,1396"/>
+                <Baseline points="489,1434 515,1435 541,1437 567,1438 593,1440 619,1440 645,1440 671,1440 697,1440 723,1440 749,1440 775,1439 801,1438 827,1437 853,1436 879,1435 954,1438"/>
+                <TextEquiv>
+                    <Unicode>Egregium narras mira pieta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="487,1511 521,1505 535,1518 554,1500 632,1505 669,1497 690,1515 720,1507 721,1458 682,1461 649,1445 621,1465 597,1459 579,1440 533,1466 488,1456"/>
+                <Baseline points="504,1488 532,1486 561,1487 590,1488 618,1488 647,1487 704,1493"/>
+                <TextEquiv>
+                    <Unicode>te parentem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="478,1577 562,1561 617,1570 680,1545 719,1560 934,1552 958,1542 958,1497 921,1482 815,1495 782,1480 755,1499 731,1481 701,1508 577,1497 477,1520"/>
+                <Baseline points="493,1548 518,1548 543,1548 569,1548 594,1548 619,1548 645,1548 670,1548 696,1548 721,1548 746,1548 772,1548 797,1548 822,1548 848,1548 873,1547 942,1539"/>
+                <TextEquiv>
+                    <Unicode>Qui ipse sui gnati minxerit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="486,1616 513,1608 549,1633 595,1609 625,1625 710,1602 815,1625 949,1618 950,1551 871,1562 765,1548 704,1571 677,1556 487,1556"/>
+                <Baseline points="502,1596 528,1595 554,1594 580,1594 607,1594 633,1594 659,1594 685,1596 712,1596 738,1596 764,1596 790,1598 817,1598 843,1598 869,1598 895,1600 934,1602"/>
+                <TextEquiv>
+                    <Unicode>in gremium. Del significa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="489,1676 531,1663 543,1676 673,1670 767,1685 833,1673 876,1688 942,1670 942,1615 912,1618 891,1597 845,1624 779,1612 752,1627 670,1606 616,1621 576,1609 558,1627 489,1615"/>
+                <Baseline points="504,1658 530,1660 556,1660 583,1660 609,1662 636,1662 662,1662 688,1662 715,1662 741,1662 768,1660 794,1660 820,1660 847,1660 873,1661 927,1661"/>
+                <TextEquiv>
+                    <Unicode>to di tal cintura et per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="491,1737 539,1737 554,1752 572,1740 602,1759 708,1742 820,1758 860,1743 920,1749 920,1692 851,1688 833,1673 760,1685 706,1672 688,1684 661,1669 555,1680 531,1664 491,1679"/>
+                <Baseline points="506,1727 538,1724 564,1724 590,1724 616,1724 642,1724 668,1726 694,1726 721,1727 747,1728 773,1728 799,1728 825,1728 851,1727 877,1726 904,1724"/>
+                <TextEquiv>
+                    <Unicode>che, cosi fu usato dirò</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="482,1815 528,1801 576,1814 616,1793 706,1822 727,1804 757,1820 948,1821 950,1727 852,1758 756,1741 601,1757 484,1733"/>
+                <Baseline points="498,1792 523,1790 549,1790 574,1790 600,1791 625,1792 651,1792 676,1792 702,1793 727,1794 753,1794 778,1794 804,1796 829,1796 855,1796 880,1796 906,1798 932,1798"/>
+                <TextEquiv>
+                    <Unicode>Piudi sotto, Festo pompeo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="489,1877 552,1869 577,1881 631,1863 658,1878 710,1863 743,1882 924,1871 925,1813 761,1821 728,1803 707,1824 689,1809 640,1815 607,1790 577,1814 550,1799 489,1811"/>
+                <Baseline points="505,1860 531,1860 558,1860 584,1860 611,1860 637,1860 664,1860 691,1860 717,1861 744,1862 770,1862 797,1862 823,1862 850,1862 910,1860"/>
+                <TextEquiv>
+                    <Unicode>chiama cotal cintura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="491,1939 546,1930 594,1955 661,1925 697,1946 715,1934 763,1956 821,1956 866,1929 894,1942 930,1933 930,1872 909,1866 743,1880 710,1865 658,1876 640,1861 576,1879 492,1872"/>
+                <Baseline points="506,1920 531,1920 557,1921 582,1922 608,1922 633,1923 659,1924 684,1925 710,1926 735,1926 761,1926 786,1926 812,1925 837,1924 863,1923 888,1922 914,1920"/>
+                <TextEquiv>
+                    <Unicode>cingulo, et propertio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="491,1998 811,2018 866,2000 893,2018 978,2021 977,1936 896,1943 868,1927 814,1955 741,1937 696,1946 657,1925 596,1952 536,1928 491,1946"/>
+                <Baseline points="507,1982 533,1984 559,1985 586,1986 612,1987 638,1988 665,1988 691,1988 718,1988 744,1988 770,1988 797,1988 823,1986 849,1986 876,1986 902,1985 961,1982"/>
+                <TextEquiv>
+                    <Unicode>anco egli chiama tal cinta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="484,2061 509,2055 524,2055 530,2061 566,2055 602,2059 611,2050 629,2062 645,2062 645,2010 615,2007 596,2013 590,2007 578,2010 569,2001 536,2004 518,1995 506,2001 485,1998"/>
+                <Baseline points="498,2054 528,2053 559,2053 630,2054"/>
+                <TextEquiv>
+                    <Unicode>Mitra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} unclear {offset:9; length:8;}">
+                <Coords points="477,2110 534,2122 591,2104 634,2119 679,2103 710,2118 791,2102 915,2135 988,2098 987,2053 924,2032 860,2041 818,2018 679,2055 658,2040 627,2061 476,2062"/>
+                <Baseline points="492,2094 517,2096 542,2096 567,2096 592,2096 617,2098 642,2098 667,2098 692,2098 718,2098 743,2097 768,2096 793,2096 818,2096 843,2096 868,2095 893,2094 918,2094 972,2092"/>
+                <TextEquiv>
+                    <Unicode>Quae cui sidoniae nocturna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="492,2160 535,2172 550,2156 626,2170 644,2155 695,2163 783,2149 813,2155 812,2103 727,2102 697,2114 679,2103 649,2112 609,2101 522,2123 492,2112"/>
+                <Baseline points="506,2146 533,2148 560,2148 587,2150 614,2150 641,2149 668,2148 695,2148 722,2147 749,2146 798,2141"/>
+                <TextEquiv>
+                    <Unicode>ligamina mitra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="478,2213 620,2203 696,2227 823,2206 886,2233 968,2203 968,2142 908,2158 478,2164"/>
+                <Baseline points="494,2198 520,2200 546,2200 572,2200 598,2200 625,2200 651,2200 677,2200 703,2201 730,2202 756,2201 782,2200 808,2200 835,2200 861,2200 887,2200 913,2199 953,2197"/>
+                <TextEquiv>
+                    <Unicode>Solverit, atque oculos mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="487,2275 542,2261 566,2282 611,2265 629,2280 675,2278 738,2303 859,2259 860,2217 754,2209 691,2227 640,2196 621,2211 488,2215"/>
+                <Baseline points="504,2248 529,2250 555,2251 581,2254 607,2254 633,2254 659,2256 684,2256 710,2256 736,2256 762,2256 788,2256 844,2252"/>
+                <TextEquiv>
+                    <Unicode>verit illa graves.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I Catullo, chiama Zona
+la detta cintura.
+Tam gratum mihi, quam ferut
+puella / Pernici aureolum
+fuisse malum / Quod Zonam
+solviti diu legatorm.
+et il medesimo autore in
+uno altro luogo cosi
+Nequaerendum aliunde foret
+nervosius illud,
+Quod posset zonam solvere
+virgineam.
+Egregium narras mira pieta¬
+te parentem,
+Qui ipse sui gnati minxerit
+in gremium. Del significa
+to di tal cintura et per
+che, cosi fu usato dirò
+Piudi sotto, Festo pompeo
+chiama cotal cintura
+cingulo, et propertio
+anco egli chiama tal cinta
+Mitra.
+Quae cui sidoniae nocturna
+ligamina mitra
+Solverit, atque oculos mo¬
+verit illa graves.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="983,575 968,4295 3443,4322 3444,565"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="979,693 3386,707 3386,577 979,575"/>
+                <Baseline points="994,674 1112,674 1231,672 1350,672 1469,672 1588,670 1707,670 1826,670 1945,670 2064,670 2183,670 2301,670 2420,670 2539,670 2658,670 2777,672 2896,672 3015,673 3134,674 3253,676 3372,676"/>
+                <TextEquiv>
+                    <Unicode>Madre cantavano lo Hymeneo, Nel medisimo authore si cava che la sposa si scigneva la cintula, per che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} unclear {offset:52; length:1;}">
+                <Coords points="988,764 3368,749 3283,680 988,691"/>
+                <Baseline points="1004,748 1121,748 1239,748 1356,748 1474,746 1591,746 1709,746 1826,744 1944,744 2061,742 2179,741 2296,740 2414,738 2531,738 2649,736 2766,736 2884,736 3001,734 3119,734 3236,734 3354,734"/>
+                <TextEquiv>
+                    <Unicode>mentre era cinta, al Marito non era licito Toccarla J Le qual cose si accordano con tutte le sù dette. Altri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="978,852 3342,855 3360,749 978,764"/>
+                <Baseline points="994,824 1119,816 1236,816 1353,818 1470,818 1588,818 1705,818 1822,818 1939,818 2056,818 2174,818 2291,816 2408,816 2525,816 2642,816 2760,816 2877,816 2994,816 3111,816 3228,816 3346,818"/>
+                <TextEquiv>
+                    <Unicode>han referito, che mentre il sposo, et la sposa stavan insieme in camera, si sementava la casa de noci,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} unclear {offset:37; length:6;}">
+                <Coords points="975,918 3418,932 3373,829 975,854"/>
+                <Baseline points="989,899 1118,894 1238,894 1358,894 1478,894 1599,896 1719,894 1839,894 1959,894 2079,894 2200,894 2320,894 2440,894 2560,892 2680,892 2801,892 2921,892 3041,892 3161,892 3281,892 3402,892"/>
+                <TextEquiv>
+                    <Unicode>si come ho detto presso al Tempio di Priapo, sovra à quelle si ballava facendo strepito, accio che il contra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="970,1014 3419,964 3264,893 970,926"/>
+                <Baseline points="986,970 1137,970 1256,970 1375,970 1495,970 1614,970 1733,970 1853,970 1972,968 2091,968 2211,966 2330,966 2449,964 2568,964 2688,962 2807,962 2926,962 3046,960 3165,960 3284,960 3404,960"/>
+                <TextEquiv>
+                    <Unicode>sto della sposa non fusse sentito. Altri dicono, che subito che s'era mangiato le Vergini cantavano lo Epita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="973,1068 3247,1095 3392,1074 3392,998 973,1010"/>
+                <Baseline points="988,1054 1119,1044 1237,1046 1355,1046 1473,1046 1591,1048 1708,1048 1826,1048 1944,1048 2062,1046 2180,1046 2297,1046 2415,1046 2533,1044 2651,1044 2769,1044 2886,1042 3004,1042 3122,1042 3240,1042 3376,1043"/>
+                <TextEquiv>
+                    <Unicode>Iamio dinanzi alla porta della sposa; Di due sorte eran gli Epitalamij, quelli della sera si cantavano per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="975,1138 3412,1151 3110,1050 975,1063"/>
+                <Baseline points="989,1123 1127,1119 1247,1120 1366,1122 1486,1122 1605,1124 1725,1124 1844,1124 1964,1124 2083,1124 2203,1124 2322,1124 2442,1124 2561,1124 2681,1124 2800,1124 2920,1124 3039,1124 3159,1124 3278,1124 3398,1124"/>
+                <TextEquiv>
+                    <Unicode>insino à mezza notte, accio che non fusse sentito i fatti delli sposi, et lo Epitalamio della matina si canta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="974,1241 3405,1220 3308,1136 973,1141"/>
+                <Baseline points="990,1200 1109,1204 1228,1206 1347,1208 1466,1210 1586,1210 1705,1210 1824,1210 1943,1210 2062,1208 2182,1208 2301,1206 2420,1204 2539,1202 2658,1202 2778,1200 2897,1199 3016,1198 3135,1198 3254,1198 3388,1197"/>
+                <TextEquiv>
+                    <Unicode>va per svegliar lo sposo, Tutti gli authori si accordano che lo Hymeneo, che i padri et madri lo cantasseno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="975,1326 3026,1326 3409,1292 3409,1216 975,1242"/>
+                <Baseline points="989,1292 1107,1292 1226,1292 1345,1290 1464,1290 1583,1288 1702,1288 1821,1286 1940,1286 2059,1284 2178,1282 2296,1281 2415,1279 2534,1278 2653,1276 2772,1274 2891,1274 3010,1272 3129,1272 3248,1270 3395,1273"/>
+                <TextEquiv>
+                    <Unicode>tosto che s'era cenato. Strane pazzie furon'al mondo, sono stati alcuni, che ha dispreggiato i matremo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="971,1405 3360,1400 3389,1294 970,1329"/>
+                <Baseline points="985,1382 1127,1372 1245,1374 1363,1374 1481,1374 1600,1374 1718,1372 1836,1372 1954,1370 2072,1368 2191,1367 2309,1366 2427,1364 2545,1362 2663,1360 2782,1358 2900,1356 3018,1356 3136,1354 3254,1354 3373,1354"/>
+                <TextEquiv>
+                    <Unicode>nij, Altri l'am lodati, alcuni han fatto publica la moglie, altri l'hom fatta pria sverginar da lor signori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="974,1500 3387,1452 3138,1355 973,1403"/>
+                <Baseline points="989,1474 1116,1458 1235,1458 1353,1458 1472,1458 1591,1458 1709,1456 1828,1456 1946,1454 2065,1452 2184,1451 2302,1450 2421,1448 2539,1446 2658,1444 2777,1442 2895,1440 3014,1438 3132,1437 3251,1436 3370,1434"/>
+                <TextEquiv>
+                    <Unicode>altri l'han pria condotta per tutta la città accio che s'alcun volesse alcuna cosa, glela lasciava goder per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="980,1578 3387,1560 3385,1458 3210,1442 979,1508"/>
+                <Baseline points="994,1542 1112,1542 1231,1542 1350,1542 1469,1541 1588,1540 1706,1538 1825,1537 1944,1536 2063,1534 2182,1532 2300,1529 2419,1526 2538,1525 2657,1522 2776,1522 2894,1520 3013,1518 3132,1518 3251,1516 3370,1516"/>
+                <TextEquiv>
+                    <Unicode>untratto, pur che non segli mancasse d'alcun dono, et doppo questo la conduceva in casa per bella et per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="974,1654 3408,1625 3407,1552 3259,1539 973,1581"/>
+                <Baseline points="990,1630 1110,1630 1230,1628 1350,1626 1470,1624 1591,1623 1711,1621 1831,1620 1951,1618 2071,1616 2192,1614 2312,1612 2432,1610 2552,1608 2672,1608 2793,1606 2913,1604 3033,1604 3153,1604 3273,1602 3394,1602"/>
+                <TextEquiv>
+                    <Unicode>buona. Gli spartani tre pene davan à loro cittadini, el che scrive Aristone, la prima pena che davan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="980,1739 3338,1693 3288,1609 978,1654"/>
+                <Baseline points="994,1718 1110,1716 1226,1712 1343,1710 1459,1708 1576,1706 1692,1704 1808,1702 1925,1700 2041,1699 2158,1698 2274,1696 2390,1694 2507,1692 2623,1690 2740,1688 2856,1688 2972,1686 3089,1684 3205,1682 3322,1678"/>
+                <TextEquiv>
+                    <Unicode>era quella di color che non prendevan moglie, la seconda di quelli, che la piglivan tardi, la terza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="982,1809 3214,1817 3370,1775 3369,1690 981,1740"/>
+                <Baseline points="996,1794 1113,1792 1231,1790 1349,1789 1467,1788 1585,1786 1703,1784 1821,1782 1939,1780 2057,1778 2175,1776 2292,1774 2410,1772 2528,1770 2646,1768 2764,1768 2882,1766 3000,1764 3118,1764 3236,1764 3354,1762"/>
+                <TextEquiv>
+                    <Unicode>era di quelli che la pigliavan'trista cosa facile à intravenire, Non per altro dice Democrito, che Fidlia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="969,1906 3282,1888 3363,1799 968,1821"/>
+                <Baseline points="984,1866 1117,1866 1234,1866 1351,1866 1468,1864 1585,1864 1702,1864 1819,1862 1936,1862 2053,1862 2170,1862 2287,1860 2404,1860 2521,1860 2638,1858 2755,1858 2872,1857 2989,1856 3106,1855 3223,1854 3348,1857"/>
+                <TextEquiv>
+                    <Unicode>fece la statua di Venere, che calcava col piede una Testudine, el che significa, che le Donne devono uscir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="974,1987 2970,1977 3326,1945 3326,1872 973,1902"/>
+                <Baseline points="990,1950 1130,1943 1245,1942 1360,1940 1475,1938 1590,1938 1704,1936 1819,1936 1934,1934 2049,1934 2164,1934 2278,1934 2393,1934 2508,1934 2623,1934 2738,1932 2852,1932 2967,1932 3082,1930 3197,1929 3312,1928"/>
+                <TextEquiv>
+                    <Unicode>poco di Casa et tacere. Hora tornamo ad Hymeneo, dicono che fù capo di matrimonij perlo infra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="971,2044 3302,2044 3383,1940 970,1990"/>
+                <Baseline points="985,2027 1105,2012 1224,2012 1343,2012 1462,2010 1581,2010 1700,2010 1819,2010 1938,2010 2057,2010 2177,2008 2296,2008 2415,2008 2534,2008 2653,2008 2772,2008 2891,2008 3010,2008 3129,2008 3248,2008 3368,2008"/>
+                <TextEquiv>
+                    <Unicode>scritte ragioni. Lattantio comentatore della Thebaide nel terzo libro. Hymeneo fu un garzone Athe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="968,2100 3166,2120 3378,2039 968,2042"/>
+                <Baseline points="982,2086 1100,2086 1218,2086 1336,2086 1454,2086 1572,2086 1690,2086 1808,2088 1926,2088 2044,2088 2162,2088 2280,2088 2398,2088 2516,2088 2634,2088 2752,2088 2870,2088 2988,2088 3106,2088 3224,2088 3364,2089"/>
+                <TextEquiv>
+                    <Unicode>niese, il qual'essendo già fuor della pueritia ma non anchora senteva dolcezza di Venere, si dici che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="970,2198 3356,2202 3284,2096 970,2102"/>
+                <Baseline points="986,2158 1103,2160 1221,2162 1339,2164 1456,2164 1574,2164 1692,2164 1809,2164 1927,2164 2045,2164 2163,2164 2280,2162 2398,2162 2516,2162 2633,2162 2751,2162 2869,2162 2986,2162 3104,2162 3222,2164 3340,2164"/>
+                <TextEquiv>
+                    <Unicode>fu di tal bellezza, che pareva una Donna del qual assendose nomorata una nobil giovene vergine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="960,2267 3382,2290 3382,2187 2940,2163 960,2198"/>
+                <Baseline points="974,2246 1093,2244 1213,2244 1332,2244 1452,2244 1572,2244 1691,2244 1811,2244 1930,2244 2050,2244 2170,2242 2289,2242 2409,2242 2528,2242 2648,2242 2768,2242 2887,2242 3007,2244 3126,2244 3246,2244 3366,2244"/>
+                <TextEquiv>
+                    <Unicode>et cittadina di Athene, et esso essendo nato di mediocre parentato, non facilmente se sperava di poter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="978,2343 3358,2342 3319,2257 979,2264"/>
+                <Baseline points="994,2316 1111,2312 1229,2312 1346,2310 1464,2310 1581,2310 1699,2310 1816,2312 1934,2313 2051,2314 2169,2316 2286,2318 2404,2318 2521,2320 2639,2320 2756,2322 2874,2322 2991,2322 3109,2322 3226,2320 3344,2318"/>
+                <TextEquiv>
+                    <Unicode>si concludere le nozze non di meno quel tanto, che poteva si satiava della sfrema linea dell'amore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="967,2402 3410,2454 3411,2364 967,2348"/>
+                <Baseline points="982,2392 1102,2392 1223,2392 1343,2392 1464,2392 1585,2392 1705,2393 1826,2394 1946,2395 2067,2396 2188,2398 2308,2400 2429,2402 2549,2402 2670,2404 2791,2406 2911,2408 3032,2410 3152,2412 3273,2413 3394,2414"/>
+                <TextEquiv>
+                    <Unicode>et di guardar sol si contentava. Et facendosi i sacrificij dale nobil donne con le vergini, ala Dea Cere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="969,2489 3366,2532 3301,2426 970,2402"/>
+                <Baseline points="984,2466 1102,2468 1220,2469 1338,2470 1457,2471 1575,2472 1693,2473 1812,2474 1930,2476 2048,2476 2167,2478 2285,2479 2403,2480 2521,2482 2640,2484 2758,2486 2876,2488 2995,2491 3113,2494 3231,2497 3350,2500"/>
+                <TextEquiv>
+                    <Unicode>re el Leusina, sopra venneno certi Corsari, et rapirono quello vergini, trale quali fù Hymeneo, il qual per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="958,2571 3101,2622 3356,2534 958,2492"/>
+                <Baseline points="974,2556 1092,2554 1210,2554 1328,2554 1447,2556 1565,2556 1683,2558 1802,2560 1920,2561 2038,2562 2157,2564 2275,2566 2393,2568 2511,2570 2630,2570 2748,2572 2866,2572 2985,2572 3103,2572 3221,2572 3340,2570"/>
+                <TextEquiv>
+                    <Unicode>insino à quel luogo seguito havea la sua namorata, et li detti corsari, havendosi gia per gran spatio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650992441178_294" custom="readingOrder {index:25;}">
+                <Coords points="970,2580 2301,2583 2301,2686 969,2658"/>
+                <Baseline points="984,2632 1101,2632 1219,2632 1337,2632 1454,2632 1572,2634 1690,2634 1807,2636 1925,2636 2043,2638 2161,2640 2278,2640 2301,2640"/>
+                <TextEquiv>
+                    <Unicode>di mare menato via cotal preda, arrivorono finalmente </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650992445699_298" custom="readingOrder {index:26;}">
+                <Coords points="2318,2557 2363,2561 2359,2611 2314,2607"/>
+                <Baseline points="2314,2602 2359,2606"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650992441178_293" custom="readingOrder {index:27;}">
+                <Coords points="2301,2583 3353,2587 3352,2666 2814,2697 2301,2686"/>
+                <Baseline points="2301,2640 2396,2642 2514,2644 2631,2644 2749,2646 2867,2648 2984,2648 3102,2650 3220,2650 3338,2652"/>
+                <TextEquiv>
+                    <Unicode>un un certo locu, et ivi venti dal sonno, da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:28;}">
+                <Coords points="976,2761 3346,2741 3277,2665 2720,2638 976,2655"/>
+                <Baseline points="992,2722 1108,2724 1225,2724 1342,2724 1459,2723 1576,2722 1693,2722 1810,2722 1927,2722 2044,2720 2161,2720 2277,2720 2394,2720 2511,2720 2628,2720 2745,2722 2862,2722 2979,2724 3096,2724 3213,2726 3330,2730"/>
+                <TextEquiv>
+                    <Unicode>quei che gli seguitavom' furon'uccisi, Hymeneo lasciate ivi le vergeni ritornato ad Athene; con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:29;}">
+                <Coords points="966,2853 3294,2855 3388,2719 966,2762"/>
+                <Baseline points="980,2812 1099,2810 1219,2808 1338,2808 1458,2806 1578,2806 1697,2804 1817,2804 1936,2802 2056,2802 2176,2802 2295,2802 2415,2802 2534,2802 2654,2802 2774,2802 2893,2804 3013,2804 3132,2806 3252,2808 3372,2808"/>
+                <TextEquiv>
+                    <Unicode>patto ottenne da i cittadini le nozze della sua amante, se egli restituisse loro le sue figliuole, Poscia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:30;} blackening {offset:97; length:3;}">
+                <Coords points="965,2909 3285,2937 3393,2834 965,2854"/>
+                <Baseline points="980,2894 1099,2894 1219,2892 1339,2891 1459,2890 1579,2890 1699,2888 1819,2888 1939,2886 2059,2886 2179,2886 2298,2884 2418,2884 2538,2884 2658,2884 2778,2884 2898,2884 3018,2886 3138,2886 3258,2888 3378,2888"/>
+                <TextEquiv>
+                    <Unicode>che Hymeneo ritornò quelle figliole ottenne per sposa quella che tanto amava, il qual matrimonio per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:31;}">
+                <Coords points="980,3018 3360,2993 3360,2917 3176,2898 980,2906"/>
+                <Baseline points="994,2974 1111,2972 1229,2970 1346,2970 1464,2970 1581,2970 1699,2972 1816,2972 1934,2973 2051,2974 2169,2976 2286,2976 2404,2978 2521,2980 2639,2980 2756,2980 2874,2982 2991,2982 3109,2982 3226,2980 3344,2980"/>
+                <TextEquiv>
+                    <Unicode>per che fu felice piacque agli Atheniesi, che nelle nozze si cantasse lo Hymeneo; et i Romani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651045511902_329" custom="readingOrder {index:32;}">
+                <Coords points="970,3019 2504,3008 2504,3091 970,3074"/>
+                <Baseline points="984,3060 1064,3058 1145,3058 1226,3056 1306,3056 1387,3054 1468,3054 1548,3052 1629,3052 1710,3052 1791,3050 1871,3050 1952,3050 2033,3048 2113,3048 2194,3046 2275,3046 2355,3046 2436,3044 2504,3043"/>
+                <TextEquiv>
+                    <Unicode>invece de Hymeneo invocavano Thalassio, secondo scrive </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651045517255_333" custom="readingOrder {index:33;}">
+                <Coords points="2434,2961 2563,2961 2563,3011 2434,3011"/>
+                <Baseline points="2434,3006 2563,3006"/>
+                <TextEquiv>
+                    <Unicode>Livio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651045511901_328" custom="readingOrder {index:34;}">
+                <Coords points="2504,3008 3350,3002 3042,3097 2504,3091"/>
+                <Baseline points="2504,3043 2517,3043 2598,3042 2852,3056 2877,3055 2902,3053 2928,3052 2953,3052 2978,3051 3004,3049 3029,3048 3054,3048 3080,3046 3105,3046 3131,3046 3156,3046 3181,3046 3207,3044 3232,3044 3257,3044 3283,3045 3308,3046 3334,3046"/>
+                <TextEquiv>
+                    <Unicode>Festo et Plutarco, ò ver per che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:35;}">
+                <Coords points="966,3151 3376,3151 3375,3048 966,3069"/>
+                <Baseline points="982,3125 1114,3124 1232,3124 1350,3122 1469,3122 1587,3120 1705,3120 1824,3118 1942,3117 2060,3116 2179,3114 2297,3114 2415,3112 2533,3112 2652,3110 2770,3110 2888,3110 3007,3112 3125,3112 3243,3114 3362,3116"/>
+                <TextEquiv>
+                    <Unicode>chiamano da questa parola Talasia, che vol dir lanificio, et Talaran' chiamano il canestro do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:36;}">
+                <Coords points="968,3208 3375,3198 3051,3112 967,3153"/>
+                <Baseline points="984,3200 1102,3198 1221,3198 1340,3198 1458,3196 1577,3196 1696,3196 1814,3196 1933,3196 2052,3196 2171,3194 2289,3194 2408,3194 2527,3194 2645,3194 2764,3192 2883,3192 3001,3192 3120,3190 3239,3190 3358,3188"/>
+                <TextEquiv>
+                    <Unicode>ve se tengono cose ò strumenti da filare, et menando la sposa in casa del marito stendevano in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:37;}">
+                <Coords points="976,3301 2572,3314 3292,3285 3364,3212 975,3214"/>
+                <Baseline points="991,3283 1110,3273 1227,3274 1344,3274 1461,3274 1578,3274 1694,3272 1811,3272 1928,3272 2045,3272 2162,3271 2278,3270 2395,3270 2512,3268 2629,3268 2746,3266 2862,3264 2979,3262 3096,3260 3213,3258 3348,3266"/>
+                <TextEquiv>
+                    <Unicode>terra una pelle: et essa portava seco la conocchia, et il fuso, ma gli huomini solevan, coronare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:38;}">
+                <Coords points="971,3366 3124,3384 3365,3356 3365,3287 970,3299"/>
+                <Baseline points="985,3351 1113,3348 1231,3348 1349,3348 1466,3349 1584,3350 1702,3350 1819,3350 1937,3350 2055,3350 2173,3352 2290,3350 2408,3350 2526,3350 2643,3350 2761,3348 2879,3347 2996,3346 3114,3343 3232,3340 3350,3338"/>
+                <TextEquiv>
+                    <Unicode>et cignere da porta di Lana ò per che et forse è il voro secondo se scrive, che alla sposa ancho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:39;}">
+                <Coords points="962,3462 3251,3462 3384,3429 3384,3353 962,3368"/>
+                <Baseline points="976,3428 1095,3426 1215,3426 1334,3426 1454,3426 1574,3426 1693,3426 1813,3426 1932,3426 2052,3426 2172,3428 2291,3428 2411,3427 2530,3426 2650,3426 2770,3424 2889,3423 3009,3422 3128,3418 3248,3415 3368,3412"/>
+                <TextEquiv>
+                    <Unicode>facevan' ontare la porta del marito di sevo, di lupo; ò ver con la lana sudicia con sogna di'por¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:40;}">
+                <Coords points="956,3541 2985,3552 3360,3535 3359,3441 955,3465"/>
+                <Baseline points="970,3510 1088,3510 1207,3508 1326,3508 1444,3508 1563,3508 1682,3506 1800,3506 1919,3506 2038,3508 2157,3508 2275,3508 2394,3506 2513,3506 2631,3506 2750,3506 2869,3504 2987,3503 3106,3502 3225,3500 3344,3496"/>
+                <TextEquiv>
+                    <Unicode>co, questo era solito farsi secondo accenna Plinio, accio che con la sposa non entrasseno le malie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:41;} unclear {offset:64; length:6;}">
+                <Coords points="968,3609 3057,3622 3347,3533 967,3537"/>
+                <Baseline points="982,3590 1099,3588 1217,3588 1334,3586 1452,3586 1569,3586 1687,3586 1804,3586 1922,3586 2039,3586 2157,3586 2274,3586 2392,3586 2509,3586 2627,3586 2744,3584 2862,3583 2979,3582 3097,3578 3214,3576 3332,3572"/>
+                <TextEquiv>
+                    <Unicode>si come amcho facevano sedere la novella sposa sovra ad un gran priapo di legno di fico,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:42;}">
+                <Coords points="958,3694 3163,3691 3371,3661 3372,3583 958,3610"/>
+                <Baseline points="974,3656 1093,3654 1212,3652 1331,3652 1450,3652 1569,3654 1688,3654 1807,3656 1926,3658 2045,3658 2165,3660 2284,3661 2403,3662 2522,3662 2641,3662 2760,3662 2879,3662 2998,3660 3117,3656 3236,3653 3356,3648"/>
+                <TextEquiv>
+                    <Unicode>accio che resistesse contra à i mali occhi. Ma in vero dicano, che Thalassio, fu un giovene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:43;}">
+                <Coords points="959,3758 2988,3777 3342,3752 3342,3670 959,3694"/>
+                <Baseline points="974,3730 1091,3730 1209,3730 1326,3730 1444,3730 1562,3730 1679,3730 1797,3730 1914,3732 2032,3732 2150,3732 2267,3732 2385,3732 2502,3732 2620,3732 2738,3730 2855,3730 2973,3728 3090,3728 3208,3726 3326,3724"/>
+                <TextEquiv>
+                    <Unicode>valente nelle cose dela guerra, che fu di buoni costumi ornatissimo à Roma. Ma poi havendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:44;}">
+                <Coords points="958,3820 3338,3816 3299,3734 959,3756"/>
+                <Baseline points="974,3802 1106,3802 1223,3802 1339,3802 1456,3802 1573,3802 1689,3802 1806,3802 1922,3804 2039,3804 2156,3806 2272,3806 2389,3806 2505,3806 2622,3806 2739,3806 2855,3806 2972,3804 3088,3803 3205,3800 3322,3798"/>
+                <TextEquiv>
+                    <Unicode>i Romani per ordine dato dal Rè Romolo, rapite le Vergini sabine, et ceninesi, che alle feste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:45;}">
+                <Coords points="966,3897 3370,3922 3371,3813 3199,3797 967,3824"/>
+                <Baseline points="980,3871 1106,3872 1224,3872 1343,3872 1461,3874 1580,3874 1698,3876 1816,3878 1935,3878 2053,3880 2172,3880 2290,3882 2408,3882 2527,3884 2645,3884 2764,3886 2882,3886 3000,3886 3119,3888 3237,3888 3356,3888"/>
+                <TextEquiv>
+                    <Unicode>consuali erano invitate, fu una Vergine de quelle bellissima condotta al predetto Thalassio da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l44" custom="readingOrder {index:46;}">
+                <Coords points="965,3980 3384,3972 3037,3885 966,3895"/>
+                <Baseline points="980,3948 1099,3948 1218,3950 1338,3952 1457,3952 1577,3954 1696,3955 1815,3956 1935,3956 2054,3958 2174,3958 2293,3960 2412,3960 2532,3960 2651,3962 2771,3962 2890,3962 3009,3962 3129,3962 3248,3964 3368,3964"/>
+                <TextEquiv>
+                    <Unicode>certi suoi affetionati clienti, et à cio piu securamente la conducesseno, ne gli fuste d'alcuno sforzata,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:47;}">
+                <Coords points="953,4037 3311,4091 3370,3983 953,3980"/>
+                <Baseline points="968,4020 1087,4022 1206,4025 1325,4028 1445,4030 1564,4032 1683,4033 1803,4035 1922,4036 2041,4038 2161,4040 2280,4041 2399,4042 2518,4044 2638,4044 2757,4046 2876,4048 2996,4048 3115,4050 3234,4050 3354,4052"/>
+                <TextEquiv>
+                    <Unicode>no violata, adalta voce gridavano, questa vergine la conducemo à Talassio. Lo resto dunq¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:48;}">
+                <Coords points="952,4120 3086,4168 3387,4087 953,4054"/>
+                <Baseline points="968,4094 1088,4097 1208,4100 1328,4102 1448,4104 1568,4106 1688,4108 1808,4108 1928,4110 2048,4110 2169,4110 2289,4112 2409,4112 2529,4112 2649,4114 2769,4116 2889,4116 3009,4120 3129,4122 3249,4125 3370,4130"/>
+                <TextEquiv>
+                    <Unicode>ue della moltitudine de i soldati per honore de esso Talassio accompagnoron quella honestissimamen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l47" custom="readingOrder {index:49;}">
+                <Coords points="961,4199 3344,4219 3344,4140 962,4129"/>
+                <Baseline points="976,4180 1093,4180 1211,4180 1329,4180 1446,4182 1564,4182 1682,4184 1799,4185 1917,4186 2035,4188 2153,4190 2270,4192 2388,4194 2506,4196 2623,4196 2741,4198 2859,4199 2976,4200 3094,4200 3212,4200 3330,4200"/>
+                <TextEquiv>
+                    <Unicode>te, et condussenla à Talassio, De quel tempo per che quelle nozze succeseno bene rimase tal'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:50;}">
+                <Coords points="958,4267 3361,4338 3363,4205 959,4198"/>
+                <Baseline points="972,4248 1090,4248 1209,4248 1328,4250 1447,4252 1566,4253 1684,4255 1803,4258 1922,4260 2041,4262 2160,4264 2278,4267 2397,4270 2516,4272 2635,4274 2754,4276 2872,4276 2991,4278 3110,4278 3229,4278 3348,4278"/>
+                <TextEquiv>
+                    <Unicode>sollennità in che come i Greci, nominano Hymeneo cosi i latini per bono Augurio nele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Madre cantavano lo Hymeneo, Nel medisimo authore si cava che la sposa si scigneva la cintula, per che
+mentre era cinta, al Marito non era licito Toccarla J Le qual cose si accordano con tutte le sù dette. Altri
+han referito, che mentre il sposo, et la sposa stavan insieme in camera, si sementava la casa de noci,
+si come ho detto presso al Tempio di Priapo, sovra à quelle si ballava facendo strepito, accio che il contra¬
+sto della sposa non fusse sentito. Altri dicono, che subito che s'era mangiato le Vergini cantavano lo Epita
+Iamio dinanzi alla porta della sposa; Di due sorte eran gli Epitalamij, quelli della sera si cantavano per
+insino à mezza notte, accio che non fusse sentito i fatti delli sposi, et lo Epitalamio della matina si canta¬
+va per svegliar lo sposo, Tutti gli authori si accordano che lo Hymeneo, che i padri et madri lo cantasseno
+tosto che s'era cenato. Strane pazzie furon'al mondo, sono stati alcuni, che ha dispreggiato i matremo¬
+nij, Altri l'am lodati, alcuni han fatto publica la moglie, altri l'hom fatta pria sverginar da lor signori
+altri l'han pria condotta per tutta la città accio che s'alcun volesse alcuna cosa, glela lasciava goder per
+untratto, pur che non segli mancasse d'alcun dono, et doppo questo la conduceva in casa per bella et per
+buona. Gli spartani tre pene davan à loro cittadini, el che scrive Aristone, la prima pena che davan
+era quella di color che non prendevan moglie, la seconda di quelli, che la piglivan tardi, la terza
+era di quelli che la pigliavan'trista cosa facile à intravenire, Non per altro dice Democrito, che Fidlia
+fece la statua di Venere, che calcava col piede una Testudine, el che significa, che le Donne devono uscir
+poco di Casa et tacere. Hora tornamo ad Hymeneo, dicono che fù capo di matrimonij perlo infra
+scritte ragioni. Lattantio comentatore della Thebaide nel terzo libro. Hymeneo fu un garzone Athe
+niese, il qual'essendo già fuor della pueritia ma non anchora senteva dolcezza di Venere, si dici che
+fu di tal bellezza, che pareva una Donna del qual assendose nomorata una nobil giovene vergine,
+et cittadina di Athene, et esso essendo nato di mediocre parentato, non facilmente se sperava di poter¬
+si concludere le nozze non di meno quel tanto, che poteva si satiava della sfrema linea dell'amore
+et di guardar sol si contentava. Et facendosi i sacrificij dale nobil donne con le vergini, ala Dea Cere¬
+re el Leusina, sopra venneno certi Corsari, et rapirono quello vergini, trale quali fù Hymeneo, il qual per
+insino à quel luogo seguito havea la sua namorata, et li detti corsari, havendosi gia per gran spatio
+di mare menato via cotal preda, arrivorono finalmente 
+in
+un un certo locu, et ivi venti dal sonno, da
+quei che gli seguitavom' furon'uccisi, Hymeneo lasciate ivi le vergeni ritornato ad Athene; con
+patto ottenne da i cittadini le nozze della sua amante, se egli restituisse loro le sue figliuole, Poscia
+che Hymeneo ritornò quelle figliole ottenne per sposa quella che tanto amava, il qual matrimonio per
+per che fu felice piacque agli Atheniesi, che nelle nozze si cantasse lo Hymeneo; et i Romani
+invece de Hymeneo invocavano Thalassio, secondo scrive 
+Livio
+Festo et Plutarco, ò ver per che
+chiamano da questa parola Talasia, che vol dir lanificio, et Talaran' chiamano il canestro do¬
+ve se tengono cose ò strumenti da filare, et menando la sposa in casa del marito stendevano in
+terra una pelle: et essa portava seco la conocchia, et il fuso, ma gli huomini solevan, coronare
+et cignere da porta di Lana ò per che et forse è il voro secondo se scrive, che alla sposa ancho
+facevan' ontare la porta del marito di sevo, di lupo; ò ver con la lana sudicia con sogna di'por¬
+co, questo era solito farsi secondo accenna Plinio, accio che con la sposa non entrasseno le malie,
+si come amcho facevano sedere la novella sposa sovra ad un gran priapo di legno di fico,
+accio che resistesse contra à i mali occhi. Ma in vero dicano, che Thalassio, fu un giovene
+valente nelle cose dela guerra, che fu di buoni costumi ornatissimo à Roma. Ma poi havendo
+i Romani per ordine dato dal Rè Romolo, rapite le Vergini sabine, et ceninesi, che alle feste
+consuali erano invitate, fu una Vergine de quelle bellissima condotta al predetto Thalassio da
+certi suoi affetionati clienti, et à cio piu securamente la conducesseno, ne gli fuste d'alcuno sforzata,
+no violata, adalta voce gridavano, questa vergine la conducemo à Talassio. Lo resto dunq¬
+ue della moltitudine de i soldati per honore de esso Talassio accompagnoron quella honestissimamen¬
+te, et condussenla à Talassio, De quel tempo per che quelle nozze succeseno bene rimase tal'
+sollennità in che come i Greci, nominano Hymeneo cosi i latini per bono Augurio nele</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_007b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:52.316+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643801272123_918"
+                       HEIGHT="241"
+                       WIDTH="355"
+                       VPOS="152"
+                       HPOS="3000">
+               <Shape>
+                  <Polygon POINTS="3000,155 3355,152 3354,393 3010,388"/>
+               </Shape>
+               <TextLine ID="line_1641287493140_1434"
+                         BASELINE="3089,215 3176,215"
+                         HEIGHT="50"
+                         WIDTH="87"
+                         VPOS="170"
+                         HPOS="3089">
+                  <String ID="string_line_1641287493140_1434"
+                          HEIGHT="50"
+                          WIDTH="87"
+                          VPOS="170"
+                          HPOS="3089"
+                          CONTENT="10"/>
+               </TextLine>
+               <TextLine ID="line_1641287496650_1439"
+                         BASELINE="3179,339 3253,339"
+                         HEIGHT="50"
+                         WIDTH="74"
+                         VPOS="294"
+                         HPOS="3179">
+                  <String ID="string_line_1641287496650_1439"
+                          HEIGHT="50"
+                          WIDTH="74"
+                          VPOS="294"
+                          HPOS="3179"
+                          CONTENT="7"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643801272123_917"
+                       HEIGHT="1997"
+                       WIDTH="3038"
+                       VPOS="155"
+                       HPOS="316">
+               <Shape>
+                  <Polygon POINTS="365,180 3000,155 3010,388 3354,393 3352,2152 316,2147"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="368,364 487,336 607,336 727,338 847,340 967,342 1086,344 1206,346 1326,348 1446,350 1566,352 1685,354 1805,356 1925,358 2045,360 2165,360 2284,362 2404,362 2524,362 2644,362 2764,360"
+                         HEIGHT="84"
+                         WIDTH="2396"
+                         VPOS="297"
+                         HPOS="368">
+                  <String ID="string_r1l1"
+                          HEIGHT="84"
+                          WIDTH="2396"
+                          VPOS="297"
+                          HPOS="368"
+                          CONTENT="RAPTA. Raptae, ΡΑΠΤΑΙ, è città grande, et Metropoli dell'Aethiopia, sul Rapto fiume, overo"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="443,433 560,416 676,420 792,422 908,424 1024,426 1140,428 1256,430 1372,431 1488,432 1604,434 1720,434 1836,436 1952,438 2068,438 2184,440 2300,442 2416,444 2532,448 2648,450 2764,454"
+                         HEIGHT="98"
+                         WIDTH="2320"
+                         VPOS="375"
+                         HPOS="444">
+                  <String ID="string_r1l2"
+                          HEIGHT="98"
+                          WIDTH="2320"
+                          VPOS="375"
+                          HPOS="444"
+                          CONTENT="ΡΑΠΤΟΣ ΠΟΤΑΜΟΣ. dal quale fu detta secondo Herodoto, ove adoravano Baccho, Memnome"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="430,522 543,504 658,502 775,506 890,506 1006,506 1122,508 1237,508 1353,508 1469,510 1585,510 1700,512 1816,513 1932,514 2047,516 2163,520 2279,523 2394,528 2510,533 2626,538 2742,544"
+                         HEIGHT="99"
+                         WIDTH="2314"
+                         VPOS="464"
+                         HPOS="428">
+                  <String ID="string_r1l3"
+                          HEIGHT="99"
+                          WIDTH="2314"
+                          VPOS="464"
+                          HPOS="428"
+                          CONTENT="et l'Aurora, et è anchora citta metropoli della Barbaria. et da essa Rapta si scrive Raptaeo"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="440,590 482,590 524,588 566,586 609,586 651,585 693,584 736,584 778,583 820,582 863,582 905,582 947,582 989,582 1032,583 1074,584 1116,584 1159,585 1201,586 1243,588 1286,588"
+                         HEIGHT="63"
+                         WIDTH="846"
+                         VPOS="545"
+                         HPOS="440">
+                  <String ID="string_r1l4"
+                          HEIGHT="63"
+                          WIDTH="846"
+                          VPOS="545"
+                          HPOS="440"
+                          CONTENT="et Rapteuse, et Rapteate il gentile."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="376,2018 502,2018 629,2016 756,2014 883,2012 1010,2010 1136,2008 1263,2006 1390,2004 1517,2002 1644,2000 1770,2000 1897,1998 2024,1997 2151,1996 2278,1996 2404,1996 2531,1996 2658,1998 2785,2000 2912,2002"
+                         HEIGHT="79"
+                         WIDTH="2536"
+                         VPOS="1958"
+                         HPOS="376">
+                  <String ID="string_r1l5"
+                          HEIGHT="79"
+                          WIDTH="2536"
+                          VPOS="1958"
+                          HPOS="376"
+                          CONTENT="RARENTO, Raventus, ΡΑΡΕΝΤΟΣ, è citta d'Italia presso di Stephano, donde deriva Rarentino, overo"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="422,2092 526,2094 631,2094 736,2094 841,2094 946,2092 1051,2090 1156,2090 1261,2088 1366,2085 1471,2083 1575,2080 1680,2078 1785,2076 1890,2076 1995,2074 2100,2074 2205,2072 2310,2074 2415,2074 2520,2076"
+                         HEIGHT="79"
+                         WIDTH="2098"
+                         VPOS="2034"
+                         HPOS="422">
+                  <String ID="string_r1l6"
+                          HEIGHT="79"
+                          WIDTH="2098"
+                          VPOS="2034"
+                          HPOS="422"
+                          CONTENT="ΡΑΡΕΝΤΙΝΟΣ, come vuole Dionysio Alicarnasseo: ma inquale parte Italica non lo dicono."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

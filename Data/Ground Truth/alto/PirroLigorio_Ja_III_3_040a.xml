@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_040a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:05.59+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="3929" WIDTH="2604" VPOS="357" HPOS="974">
+               <Shape>
+                  <Polygon POINTS="974,357 974,4286 3578,4286 3578,357"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="976,408 1101,411 1226,414 1352,416 1477,416 1603,418 1728,418 1853,418 1979,418 2104,416 2230,416 2355,416 2480,414 2606,414 2731,413 2857,412 2982,412 3107,412 3233,412 3358,414 3484,414"
+                         HEIGHT="86"
+                         WIDTH="2508"
+                         VPOS="357"
+                         HPOS="976">
+                  <String ID="string_r1l1"
+                          HEIGHT="86"
+                          WIDTH="2508"
+                          VPOS="357"
+                          HPOS="976"
+                          CONTENT="mente nel colle palatino da pastori, et sendo grandi aiutarono à recuperare il Regno al suo"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="992,516 1118,520 1244,524 1370,526 1496,528 1622,528 1748,528 1874,526 2000,525 2126,524 2252,522 2378,520 2504,518 2630,516 2756,516 2882,516 3008,516 3134,518 3260,520 3386,525 3512,530"
+                         HEIGHT="90"
+                         WIDTH="2520"
+                         VPOS="465"
+                         HPOS="992">
+                  <String ID="string_r1l2"
+                          HEIGHT="90"
+                          WIDTH="2520"
+                          VPOS="465"
+                          HPOS="992"
+                          CONTENT="Avolo, et edificarono Roma: et questo tutto i piu chiari auttori affermano. Ma accioche nulla man"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="982,632 1107,636 1233,636 1359,638 1484,638 1610,638 1736,636 1861,634 1987,632 2113,631 2239,630 2364,628 2490,626 2616,626 2741,624 2867,626 2993,626 3118,628 3244,632 3370,637 3496,642"
+                         HEIGHT="90"
+                         WIDTH="2514"
+                         VPOS="576"
+                         HPOS="982">
+                  <String ID="string_r1l3"
+                          HEIGHT="90"
+                          WIDTH="2514"
+                          VPOS="576"
+                          HPOS="982"
+                          CONTENT="chi alle cose referite, andaremo dicendo quello che referirono ancho Calhia Caltino, et Agatho¬"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="992,734 1116,736 1240,736 1364,736 1488,736 1613,736 1737,734 1861,732 1985,730 2109,729 2234,728 2358,726 2482,724 2606,723 2730,722 2855,722 2979,722 3103,724 3227,726 3351,728 3476,732"
+                         HEIGHT="86"
+                         WIDTH="2484"
+                         VPOS="674"
+                         HPOS="992">
+                  <String ID="string_r1l4"
+                          HEIGHT="86"
+                          WIDTH="2484"
+                          VPOS="674"
+                          HPOS="992"
+                          CONTENT="cle, che ancho rappresentarono questa oppenione, che Aenea mori al fiume Numico trali Abo¬"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="974,838 1098,838 1223,840 1347,838 1472,838 1596,838 1721,836 1845,836 1970,834 2094,832 2219,832 2343,830 2468,828 2592,828 2717,826 2841,826 2966,826 3090,826 3215,826 3339,828 3464,830"
+                         HEIGHT="87"
+                         WIDTH="2490"
+                         VPOS="777"
+                         HPOS="974">
+                  <String ID="string_r1l5"
+                          HEIGHT="87"
+                          WIDTH="2490"
+                          VPOS="777"
+                          HPOS="974"
+                          CONTENT="rigini in Italia combattendo contra Turno Re di Rutuli, infavore del Re Latino, et morendo fu"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="990,950 1114,950 1238,950 1362,948 1486,948 1610,946 1734,944 1858,942 1982,940 2106,938 2230,934 2354,933 2478,930 2602,928 2726,928 2850,926 2974,926 3098,924 3222,924 3346,926 3470,928"
+                         HEIGHT="99"
+                         WIDTH="2480"
+                         VPOS="875"
+                         HPOS="990">
+                  <String ID="string_r1l6"
+                          HEIGHT="99"
+                          WIDTH="2480"
+                          VPOS="875"
+                          HPOS="990"
+                          CONTENT="appellato Iove indigite, et Latino anchora doppola vittoria non sendo neancho egli ritrovato,"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="994,1062 1119,1062 1245,1062 1371,1060 1497,1058 1623,1056 1748,1054 1874,1051 2000,1048 2126,1045 2252,1042 2377,1040 2503,1036 2629,1034 2755,1032 2881,1032 3006,1030 3132,1030 3258,1032 3384,1034 3510,1036"
+                         HEIGHT="108"
+                         WIDTH="2516"
+                         VPOS="979"
+                         HPOS="994">
+                  <String ID="string_r1l7"
+                          HEIGHT="108"
+                          WIDTH="2516"
+                          VPOS="979"
+                          HPOS="994"
+                          CONTENT="fu adorato per Iove Latiale. Oltre dicono chenell'essere Aenea venuto inItalia sendo stato cac"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="1022,1162 1145,1163 1268,1164 1392,1162 1515,1162 1639,1161 1762,1160 1885,1158 2009,1156 2132,1153 2256,1150 2379,1148 2502,1145 2626,1142 2749,1140 2873,1136 2996,1134 3119,1132 3243,1130 3366,1128 3490,1126"
+                         HEIGHT="114"
+                         WIDTH="2468"
+                         VPOS="1075"
+                         HPOS="1022">
+                  <String ID="string_r1l8"
+                          HEIGHT="114"
+                          WIDTH="2468"
+                          VPOS="1075"
+                          HPOS="1022"
+                          CONTENT="ciato da Troia, occupò colli suoi Troiani il nome latino, dove prese per moglie Romona, et"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="1008,1272 1134,1271 1260,1270 1386,1270 1512,1268 1638,1268 1764,1266 1890,1266 2016,1264 2142,1263 2269,1262 2395,1260 2521,1260 2647,1258 2773,1256 2899,1254 3025,1252 3151,1250 3277,1248 3403,1246 3530,1244"
+                         HEIGHT="104"
+                         WIDTH="2522"
+                         VPOS="1193"
+                         HPOS="1008">
+                  <String ID="string_r1l9"
+                          HEIGHT="104"
+                          WIDTH="2522"
+                          VPOS="1193"
+                          HPOS="1008"
+                          CONTENT="edificata una città dalei chiamò Roma, detta ancho Lembus. La onde Heraclide affermò, che"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="984,1386 1109,1384 1234,1382 1360,1382 1485,1380 1611,1379 1736,1378 1861,1376 1987,1376 2112,1374 2238,1372 2363,1372 2488,1370 2614,1368 2739,1367 2865,1366 2990,1364 3115,1362 3241,1360 3366,1358 3492,1356"
+                         HEIGHT="106"
+                         WIDTH="2508"
+                         VPOS="1305"
+                         HPOS="984">
+                  <String ID="string_r1l10"
+                          HEIGHT="106"
+                          WIDTH="2508"
+                          VPOS="1305"
+                          HPOS="984"
+                          CONTENT="Aenea venente da Ilio capta da Greci, ò vogliamo dire Troita nelli Achivi fu dala fortuna"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="1006,1494 1129,1494 1253,1492 1377,1490 1501,1488 1625,1488 1749,1486 1873,1484 1997,1484 2121,1482 2245,1480 2368,1480 2492,1478 2616,1478 2740,1478 2864,1476 2988,1476 3112,1476 3236,1476 3360,1476 3484,1476"
+                         HEIGHT="94"
+                         WIDTH="2478"
+                         VPOS="1425"
+                         HPOS="1006">
+                  <String ID="string_r1l11"
+                          HEIGHT="94"
+                          WIDTH="2478"
+                          VPOS="1425"
+                          HPOS="1006"
+                          CONTENT="trasportato in Italia, et seguitando dentro il Tibere fiume colle sue navi per suo porto,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="994,1604 1119,1602 1244,1600 1369,1598 1495,1596 1620,1594 1745,1592 1871,1592 1996,1590 2121,1590 2247,1588 2372,1588 2497,1586 2622,1586 2748,1584 2873,1584 2998,1582 3124,1582 3249,1580 3374,1579 3500,1578"
+                         HEIGHT="102"
+                         WIDTH="2506"
+                         VPOS="1527"
+                         HPOS="994">
+                  <String ID="string_r1l12"
+                          HEIGHT="102"
+                          WIDTH="2506"
+                          VPOS="1527"
+                          HPOS="994"
+                          CONTENT="vi dimorò tant'oltre, che arrivò dove fu Roma, et havendo seco molte Troiane sbattute"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="1008,1702 1131,1702 1254,1702 1377,1702 1500,1702 1623,1700 1746,1700 1869,1700 1992,1698 2115,1698 2238,1696 2361,1696 2484,1694 2607,1692 2730,1692 2853,1690 2976,1690 3099,1688 3222,1686 3345,1686 3468,1684"
+                         HEIGHT="94"
+                         WIDTH="2460"
+                         VPOS="1633"
+                         HPOS="1008">
+                  <String ID="string_r1l13"
+                          HEIGHT="94"
+                          WIDTH="2460"
+                          VPOS="1633"
+                          HPOS="1008"
+                          CONTENT="dala tempesta, et trale quali era una chiamata Roma, la qual sendo d'altocorogio consigliò"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="1000,1820 1124,1818 1248,1818 1372,1816 1496,1814 1620,1813 1744,1811 1868,1810 1992,1808 2116,1806 2240,1804 2364,1802 2488,1800 2612,1798 2736,1797 2860,1796 2984,1794 3108,1793 3232,1792 3356,1792 3480,1790"
+                         HEIGHT="105"
+                         WIDTH="2480"
+                         VPOS="1740"
+                         HPOS="1000">
+                  <String ID="string_r1l14"
+                          HEIGHT="105"
+                          WIDTH="2480"
+                          VPOS="1740"
+                          HPOS="1000"
+                          CONTENT="alle Donne tutte à fermarsi in Latio, et cosi troncate et abruciate le navi, mentre i mariti"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1008,1922 1132,1920 1256,1918 1380,1918 1504,1916 1628,1914 1752,1914 1876,1912 2000,1910 2124,1910 2248,1908 2372,1908 2496,1908 2620,1906 2744,1906 2868,1906 2992,1906 3116,1904 3240,1904 3364,1906 3488,1906"
+                         HEIGHT="93"
+                         WIDTH="2480"
+                         VPOS="1854"
+                         HPOS="1008">
+                  <String ID="string_r1l15"
+                          HEIGHT="93"
+                          WIDTH="2480"
+                          VPOS="1854"
+                          HPOS="1008"
+                          CONTENT="andavano abuscando il vitto, et questo fecero accio che non piu andassero erranti, fu per"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="1018,2022 1141,2024 1264,2026 1387,2026 1511,2026 1634,2026 1757,2026 1881,2024 2004,2024 2127,2022 2251,2022 2374,2020 2497,2020 2620,2018 2744,2016 2867,2016 2990,2014 3114,2014 3237,2012 3360,2012 3484,2012"
+                         HEIGHT="89"
+                         WIDTH="2466"
+                         VPOS="1962"
+                         HPOS="1018">
+                  <String ID="string_r1l16"
+                          HEIGHT="89"
+                          WIDTH="2466"
+                          VPOS="1962"
+                          HPOS="1018"
+                          CONTENT="tanto arsa l'armata, et sendo astretti dala necessità, edificarono la città, et dal nome dela"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="1028,2132 1149,2134 1271,2134 1392,2136 1514,2136 1645,2136 1766,2136 1879,2135 2000,2134 2122,2133 2244,2132 2365,2130 2487,2128 2608,2127 2730,2126 2852,2124 2973,2124 3095,2122 3216,2122 3338,2122 3460,2122"
+                         HEIGHT="90"
+                         WIDTH="2432"
+                         VPOS="2071"
+                         HPOS="1028">
+                  <String ID="string_r1l17"
+                          HEIGHT="90"
+                          WIDTH="2432"
+                          VPOS="2071"
+                          HPOS="1028"
+                          CONTENT="consigliera denominarono quella, per memoria del fatto. Confermando dunque Ovidio,"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1028,2244 1151,2246 1275,2248 1399,2248 1522,2248 1646,2248 1770,2248 1893,2248 2017,2248 2141,2248 2265,2246 2388,2244 2512,2244 2636,2242 2759,2240 2883,2238 3007,2236 3130,2234 3254,2232 3378,2229 3502,2226"
+                         HEIGHT="98"
+                         WIDTH="2474"
+                         VPOS="2175"
+                         HPOS="1028">
+                  <String ID="string_r1l18"
+                          HEIGHT="98"
+                          WIDTH="2474"
+                          VPOS="2175"
+                          HPOS="1028"
+                          CONTENT="colla sua narratione volge questo fatto in favola bellissima, corroborando la oppenione"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="1018,2354 1142,2356 1267,2358 1392,2360 1517,2362 1642,2362 1766,2362 1891,2362 2016,2360 2141,2358 2266,2356 2390,2355 2515,2352 2640,2351 2765,2348 2890,2346 3014,2344 3139,2342 3264,2342 3389,2340 3514,2340"
+                         HEIGHT="98"
+                         WIDTH="2496"
+                         VPOS="2289"
+                         HPOS="1018">
+                  <String ID="string_r1l19"
+                          HEIGHT="98"
+                          WIDTH="2496"
+                          VPOS="2289"
+                          HPOS="1018"
+                          CONTENT="di greci figne che le Navi di Aenea Ardenti si mutarono in tante Nymphe del Mare"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="1042,2474 1165,2476 1288,2478 1411,2478 1534,2478 1657,2478 1780,2476 1903,2474 2026,2473 2149,2470 2272,2468 2395,2466 2518,2462 2641,2460 2764,2456 2887,2454 3010,2452 3133,2450 3256,2448 3379,2446 3502,2446"
+                         HEIGHT="108"
+                         WIDTH="2460"
+                         VPOS="2395"
+                         HPOS="1042">
+                  <String ID="string_r1l20"
+                          HEIGHT="108"
+                          WIDTH="2460"
+                          VPOS="2395"
+                          HPOS="1042"
+                          CONTENT="che accompagnate coll'onde Tiberine accompagnarono il gran nume di esso fiume: che me"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="1044,2578 1168,2580 1292,2580 1416,2580 1541,2580 1665,2580 1789,2580 1914,2578 2038,2578 2162,2576 2287,2576 2411,2574 2535,2574 2659,2572 2784,2570 2908,2570 3032,2568 3157,2568 3281,2566 3405,2564 3530,2564"
+                         HEIGHT="92"
+                         WIDTH="2486"
+                         VPOS="2513"
+                         HPOS="1044">
+                  <String ID="string_r1l21"
+                          HEIGHT="92"
+                          WIDTH="2486"
+                          VPOS="2513"
+                          HPOS="1044"
+                          CONTENT="te l'acque nel Tyrrheno. Non abastanza havendo dette si fatte cose, Galata anchora scrit"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="1032,2708 1156,2704 1281,2702 1406,2700 1530,2698 1655,2698 1780,2696 1904,2696 2029,2696 2154,2694 2279,2694 2403,2694 2528,2692 2653,2692 2777,2690 2902,2690 3027,2688 3151,2686 3276,2684 3401,2680 3526,2676"
+                         HEIGHT="108"
+                         WIDTH="2494"
+                         VPOS="2625"
+                         HPOS="1032">
+                  <String ID="string_r1l22"
+                          HEIGHT="108"
+                          WIDTH="2494"
+                          VPOS="2625"
+                          HPOS="1032"
+                          CONTENT="tor chiarissimo, scrisse, che doppo la morte di Aenea, l'imperio pervenne, à Latino figliuolo"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="1040,2824 1162,2821 1285,2818 1408,2814 1531,2812 1654,2810 1777,2808 1900,2806 2023,2804 2146,2802 2269,2802 2391,2800 2514,2800 2637,2800 2760,2798 2883,2798 3006,2798 3129,2798 3252,2796 3375,2796 3498,2796"
+                         HEIGHT="104"
+                         WIDTH="2458"
+                         VPOS="2745"
+                         HPOS="1040">
+                  <String ID="string_r1l23"
+                          HEIGHT="104"
+                          WIDTH="2458"
+                          VPOS="2745"
+                          HPOS="1040"
+                          CONTENT="di Telemacho et di Circe: ma questo è alquanto falso dall'altri oppenioni, oltre che invece"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="1054,2922 1179,2924 1304,2924 1429,2924 1554,2924 1679,2924 1804,2924 1929,2924 2054,2922 2179,2922 2305,2920 2430,2920 2555,2918 2680,2918 2805,2916 2930,2916 3055,2916 3180,2916 3305,2916 3430,2916 3556,2916"
+                         HEIGHT="84"
+                         WIDTH="2502"
+                         VPOS="2865"
+                         HPOS="1054">
+                  <String ID="string_r1l24"
+                          HEIGHT="84"
+                          WIDTH="2502"
+                          VPOS="2865"
+                          HPOS="1054"
+                          CONTENT="di Telegono mette Telemacho, che tutti i scrittori affermano esser nato di Circe et di Ulysse,"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1062,3044 1186,3046 1310,3048 1434,3048 1558,3048 1682,3048 1806,3048 1930,3047 2054,3046 2178,3046 2303,3044 2427,3044 2551,3044 2675,3042 2799,3042 2923,3042 3047,3042 3171,3044 3295,3044 3419,3046 3544,3048"
+                         HEIGHT="82"
+                         WIDTH="2482"
+                         VPOS="2983"
+                         HPOS="1062">
+                  <String ID="string_r1l25"
+                          HEIGHT="82"
+                          WIDTH="2482"
+                          VPOS="2983"
+                          HPOS="1062"
+                          CONTENT="et questo tale Telegono edifico Praeneste Polistephano, et Tusculo sul monte Arunco: il qual"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="1054,3150 1178,3150 1303,3150 1427,3149 1552,3148 1676,3148 1801,3148 1925,3148 2050,3148 2174,3148 2299,3148 2423,3148 2548,3150 2672,3150 2797,3150 2921,3152 3046,3154 3170,3154 3295,3156 3419,3158 3544,3160"
+                         HEIGHT="88"
+                         WIDTH="2490"
+                         VPOS="3097"
+                         HPOS="1054">
+                  <String ID="string_r1l26"
+                          HEIGHT="88"
+                          WIDTH="2490"
+                          VPOS="3097"
+                          HPOS="1054"
+                          CONTENT="fu prima di Roma edificata, il che è da considerare che Aenea pria di Ulysse passo in Ita"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="1058,3256 1182,3254 1306,3254 1430,3254 1554,3254 1678,3254 1802,3254 1926,3254 2050,3254 2174,3256 2299,3256 2423,3256 2547,3256 2671,3258 2795,3258 2919,3260 3043,3260 3167,3262 3291,3262 3415,3264 3540,3266"
+                         HEIGHT="88"
+                         WIDTH="2482"
+                         VPOS="3203"
+                         HPOS="1058">
+                  <String ID="string_r1l27"
+                          HEIGHT="88"
+                          WIDTH="2482"
+                          VPOS="3203"
+                          HPOS="1058"
+                          CONTENT="lia, conciosia cosa che doppo la distruttione di Troia Ulysse parti di phrigia dal Troade, et Aenea"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="1057,3368 1180,3368 1303,3366 1427,3366 1550,3366 1674,3366 1797,3366 1920,3366 2044,3368 2167,3368 2291,3368 2414,3370 2537,3370 2661,3372 2784,3372 2908,3374 3031,3376 3154,3378 3278,3379 3401,3380 3525,3382"
+                         HEIGHT="92"
+                         WIDTH="2468"
+                         VPOS="3309"
+                         HPOS="1054">
+                  <String ID="string_r1l28"
+                          HEIGHT="92"
+                          WIDTH="2468"
+                          VPOS="3309"
+                          HPOS="1054"
+                          CONTENT="nella arsione di essa patria, et li figliuoli che nacquero di Circe et di Ulysse che furono Ar"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1066,3468 1188,3470 1311,3472 1434,3474 1557,3476 1680,3476 1802,3476 1925,3476 2048,3476 2171,3474 2294,3474 2416,3474 2539,3474 2662,3474 2785,3474 2908,3474 3030,3476 3153,3478 3276,3480 3399,3484 3522,3488"
+                         HEIGHT="96"
+                         WIDTH="2456"
+                         VPOS="3417"
+                         HPOS="1066">
+                  <String ID="string_r1l29"
+                          HEIGHT="96"
+                          WIDTH="2456"
+                          VPOS="3417"
+                          HPOS="1066"
+                          CONTENT="dea et Telegono, non potevano esser maggiori di quelli che genero Aenea di Lavinia figliola"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="1070,3576 1194,3580 1318,3582 1442,3584 1567,3584 1691,3584 1815,3584 1940,3584 2064,3584 2188,3584 2313,3584 2437,3584 2561,3584 2685,3584 2810,3584 2934,3585 3058,3586 3183,3588 3307,3590 3431,3594 3556,3598"
+                         HEIGHT="98"
+                         WIDTH="2486"
+                         VPOS="3525"
+                         HPOS="1070">
+                  <String ID="string_r1l30"
+                          HEIGHT="98"
+                          WIDTH="2486"
+                          VPOS="3525"
+                          HPOS="1070"
+                          CONTENT="di Latino. et poscia sendo morto quasi in un tempo Latino, che mori Aenea non poteva succedere"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="1070,3694 1193,3696 1317,3696 1441,3696 1565,3696 1689,3696 1813,3696 1937,3696 2061,3698 2185,3698 2309,3698 2432,3698 2556,3700 2680,3700 2804,3702 2928,3704 3052,3704 3176,3706 3300,3708 3424,3710 3548,3714"
+                         HEIGHT="96"
+                         WIDTH="2478"
+                         VPOS="3643"
+                         HPOS="1070">
+                  <String ID="string_r1l31"
+                          HEIGHT="96"
+                          WIDTH="2478"
+                          VPOS="3643"
+                          HPOS="1070"
+                          CONTENT="nello imperio: ma successe Iulo Ascanio sudetto. perlo che Galata s'inganna. Ma questo sia"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="1066,3802 1190,3802 1314,3802 1438,3802 1562,3802 1686,3804 1810,3804 1934,3806 2058,3807 2182,3808 2307,3810 2431,3812 2555,3814 2679,3818 2803,3820 2927,3824 3051,3828 3175,3830 3299,3836 3423,3840 3548,3844"
+                         HEIGHT="118"
+                         WIDTH="2482"
+                         VPOS="3751"
+                         HPOS="1066">
+                  <String ID="string_r1l32"
+                          HEIGHT="118"
+                          WIDTH="2482"
+                          VPOS="3751"
+                          HPOS="1066"
+                          CONTENT="si come si voglia egli sogionge et dice che Telemacho et Circe generarono, et Romo et Romulo,"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="1086,3920 1207,3918 1328,3916 1450,3914 1571,3912 1693,3912 1814,3910 1935,3910 2057,3912 2178,3912 2300,3914 2421,3916 2542,3918 2664,3920 2785,3924 2907,3928 3028,3932 3149,3936 3271,3942 3392,3947 3514,3954"
+                         HEIGHT="116"
+                         WIDTH="2428"
+                         VPOS="3862"
+                         HPOS="1086">
+                  <String ID="string_r1l33"
+                          HEIGHT="116"
+                          WIDTH="2428"
+                          VPOS="3862"
+                          HPOS="1086"
+                          CONTENT="che fecero Roma; Doppo la morte di Aenea. Altri dissero, chel nome di Roma fu detto da una"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="1094,4018 1215,4018 1337,4018 1459,4018 1580,4020 1702,4020 1824,4020 1945,4020 2067,4022 2189,4022 2311,4024 2432,4024 2554,4026 2676,4028 2797,4030 2919,4032 3041,4034 3162,4036 3284,4040 3406,4042 3528,4046"
+                         HEIGHT="100"
+                         WIDTH="2434"
+                         VPOS="3970"
+                         HPOS="1094">
+                  <String ID="string_r1l34"
+                          HEIGHT="100"
+                          WIDTH="2434"
+                          VPOS="3970"
+                          HPOS="1094"
+                          CONTENT="donnalatina, la quale pacificò le Donne Troiane conli mariti Troiani, nell'odio preso"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="1094,4128 1216,4128 1339,4126 1462,4126 1584,4126 1707,4126 1830,4126 1952,4126 2075,4126 2198,4126 2321,4128 2443,4128 2566,4130 2689,4132 2811,4133 2934,4135 3057,4138 3179,4140 3302,4143 3425,4146 3548,4150"
+                         HEIGHT="96"
+                         WIDTH="2454"
+                         VPOS="4078"
+                         HPOS="1094">
+                  <String ID="string_r1l35"
+                          HEIGHT="96"
+                          WIDTH="2454"
+                          VPOS="4078"
+                          HPOS="1094"
+                          CONTENT="perle abruciate navi. et per che nel pacificarsi si baciarono et abbracciarono, colle donne"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="1078,4226 1203,4224 1328,4224 1453,4222 1578,4222 1703,4222 1828,4222 1953,4224 2078,4224 2203,4226 2328,4228 2453,4230 2578,4232 2703,4234 2828,4238 2953,4241 3078,4244 3203,4248 3328,4252 3453,4258 3578,4262"
+                         HEIGHT="112"
+                         WIDTH="2500"
+                         VPOS="4174"
+                         HPOS="1078">
+                  <String ID="string_r1l36"
+                          HEIGHT="112"
+                          WIDTH="2500"
+                          VPOS="4174"
+                          HPOS="1078"
+                          CONTENT="latini fu sempre tenuta memoria in segno di amicitia, quando le donne conoscenti si incontra"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

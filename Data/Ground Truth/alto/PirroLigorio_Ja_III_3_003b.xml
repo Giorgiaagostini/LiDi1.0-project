@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_003b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:50.755+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643801078900_837"
+                       HEIGHT="208"
+                       WIDTH="349"
+                       VPOS="123"
+                       HPOS="2970">
+               <Shape>
+                  <Polygon POINTS="2970,127 3319,123 3318,331 2970,331"/>
+               </Shape>
+               <TextLine ID="line_1641288876340_1558"
+                         BASELINE="3013,199 3120,199"
+                         HEIGHT="50"
+                         WIDTH="107"
+                         VPOS="154"
+                         HPOS="3013">
+                  <String ID="string_line_1641288876340_1558"
+                          HEIGHT="50"
+                          WIDTH="107"
+                          VPOS="154"
+                          HPOS="3013"
+                          CONTENT="6"/>
+               </TextLine>
+               <TextLine ID="line_1641288879566_1563"
+                         BASELINE="3170,266 3250,264"
+                         HEIGHT="52"
+                         WIDTH="81"
+                         VPOS="219"
+                         HPOS="3169">
+                  <String ID="string_line_1641288879566_1563"
+                          HEIGHT="52"
+                          WIDTH="81"
+                          VPOS="219"
+                          HPOS="3169"
+                          CONTENT="3"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643801078900_836"
+                       HEIGHT="1535"
+                       WIDTH="3108"
+                       VPOS="127"
+                       HPOS="210">
+               <Shape>
+                  <Polygon POINTS="210,166 2970,127 2970,331 3318,331 3314,1640 215,1662"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="430,286 522,282 614,278 706,276 798,274 890,274 982,274 1074,274 1166,274 1258,276 1350,276 1442,278 1534,280 1626,280 1718,280 1810,280 1902,280 1994,280 2086,278 2178,276 2314,277"
+                         HEIGHT="65"
+                         WIDTH="1840"
+                         VPOS="238"
+                         HPOS="430">
+                  <String ID="string_r1l1"
+                          HEIGHT="65"
+                          WIDTH="1840"
+                          VPOS="238"
+                          HPOS="430"
+                          CONTENT="RACALINI, sono populi della Sarmatia in Europa, come narra Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="436,358 533,354 630,350 727,348 825,346 922,346 1019,344 1117,344 1214,344 1311,346 1409,346 1506,346 1603,348 1700,348 1798,350 1895,350 1992,350 2090,350 2187,350 2284,350 2413,347"
+                         HEIGHT="65"
+                         WIDTH="1946"
+                         VPOS="310"
+                         HPOS="436">
+                  <String ID="string_r1l2"
+                          HEIGHT="65"
+                          WIDTH="1946"
+                          VPOS="310"
+                          HPOS="436"
+                          CONTENT="RACATE, ΡΑΚΑΤΗ, sono campi nella Magna Germania nominati da Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="212,462 345,452 479,442 613,436 746,432 880,429 1014,427 1147,426 1281,426 1415,426 1549,427 1682,428 1816,430 1950,432 2083,434 2217,434 2351,436 2484,436 2618,436 2752,434 2886,432"
+                         HEIGHT="88"
+                         WIDTH="2674"
+                         VPOS="391"
+                         HPOS="212">
+                  <String ID="string_r1l3"
+                          HEIGHT="88"
+                          WIDTH="2674"
+                          VPOS="391"
+                          HPOS="212"
+                          CONTENT="RACELO, RACELUS, ò pure ΡΑΚΗΛΟΣ, è città di Macedonia, la quale fu presa per forza da Levino consolo"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="498,524 616,522 734,522 852,520 970,520 1089,520 1207,518 1325,518 1443,518 1561,520 1680,520 1798,520 1916,520 2034,520 2152,522 2271,522 2389,522 2507,522 2625,522 2743,524 2914,530"
+                         HEIGHT="58"
+                         WIDTH="2364"
+                         VPOS="483"
+                         HPOS="498">
+                  <String ID="string_r1l4"
+                          HEIGHT="58"
+                          WIDTH="2364"
+                          VPOS="483"
+                          HPOS="498"
+                          CONTENT="Romano. da qui si dice Racelius, et Racelio, alla greca ΡΑΚΗΛΙΟΣ. et nella medaglia di Anto"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="490,614 609,614 729,614 849,612 969,612 1089,610 1208,610 1328,608 1448,608 1568,606 1688,606 1807,606 1927,606 2047,606 2167,606 2287,606 2406,607 2526,608 2646,610 2766,612 2886,616"
+                         HEIGHT="44"
+                         WIDTH="2396"
+                         VPOS="583"
+                         HPOS="490">
+                  <String ID="string_r1l5"
+                          HEIGHT="44"
+                          WIDTH="2396"
+                          VPOS="583"
+                          HPOS="490"
+                          CONTENT="nino pio nel numero del più si trova ΡΑΚΗΛΙΑΝΩΝ, fanne menzione di essa città Stephano."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="500,664 572,662 644,661 716,660 789,658 861,658 933,658 1006,658 1078,658 1150,658 1223,658 1295,658 1367,658 1439,658 1512,658 1584,658 1656,658 1729,656 1801,654 1873,654 2004,654"
+                         HEIGHT="48"
+                         WIDTH="1446"
+                         VPOS="627"
+                         HPOS="500">
+                  <String ID="string_r1l6"
+                          HEIGHT="48"
+                          WIDTH="1446"
+                          VPOS="627"
+                          HPOS="500"
+                          CONTENT="alcuni la scrivono Rhacelo per la spiratione come è detto più oltre."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="438,720 560,716 683,714 806,712 928,710 1051,710 1174,710 1296,710 1419,710 1542,712 1665,714 1787,716 1910,718 2033,720 2155,724 2278,728 2401,730 2523,734 2646,738 2769,743 2892,748"
+                         HEIGHT="75"
+                         WIDTH="2454"
+                         VPOS="685"
+                         HPOS="438">
+                  <String ID="string_r1l7"
+                          HEIGHT="75"
+                          WIDTH="2454"
+                          VPOS="685"
+                          HPOS="438"
+                          CONTENT="RACILIANO, et Racilianvm, fù Villa et agere, di Marco Racilio, nel paese Gabino, ove fu lo suo Monu¬"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="466,792 584,790 703,790 822,788 941,788 1060,788 1179,788 1298,788 1417,790 1536,790 1655,792 1773,794 1892,794 2011,796 2130,800 2249,802 2368,804 2487,808 2606,812 2725,815 2844,818"
+                         HEIGHT="82"
+                         WIDTH="2378"
+                         VPOS="753"
+                         HPOS="466">
+                  <String ID="string_r1l8"
+                          HEIGHT="82"
+                          WIDTH="2378"
+                          VPOS="753"
+                          HPOS="466"
+                          CONTENT="mento, rente la Via praenestina Gabina, due miglia discosto à Zagarolo Castello dove fù l'antica"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="478,868 597,868 716,868 835,868 954,868 1074,868 1193,868 1312,868 1431,870 1550,870 1670,870 1789,872 1908,874 2027,874 2146,876 2266,878 2385,879 2504,882 2623,882 2742,884 2862,888"
+                         HEIGHT="72"
+                         WIDTH="2384"
+                         VPOS="833"
+                         HPOS="478">
+                  <String ID="string_r1l9"
+                          HEIGHT="72"
+                          WIDTH="2384"
+                          VPOS="833"
+                          HPOS="478"
+                          CONTENT="Gabio. Della cui fameglia fu Racilio Tribuno della plebe della Clodiana fattione, del quale fa"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="492,940 533,940 574,940 615,940 656,940 698,940 739,940 780,941 821,942 862,941 904,940 945,940 986,940 1027,940 1068,940 1110,940 1151,940 1192,940 1233,940 1274,940 1316,940"
+                         HEIGHT="54"
+                         WIDTH="824"
+                         VPOS="905"
+                         HPOS="492">
+                  <String ID="string_r1l10"
+                          HEIGHT="54"
+                          WIDTH="824"
+                          VPOS="905"
+                          HPOS="492"
+                          CONTENT="menzione nell'Epistole Cicerone."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="246,1050 376,1052 507,1052 637,1053 768,1054 899,1054 1029,1054 1160,1052 1290,1052 1421,1052 1552,1050 1682,1050 1813,1048 1943,1046 2074,1044 2205,1042 2335,1040 2466,1036 2596,1033 2727,1030 2858,1026"
+                         HEIGHT="80"
+                         WIDTH="2612"
+                         VPOS="991"
+                         HPOS="246">
+                  <String ID="string_r1l11"
+                          HEIGHT="80"
+                          WIDTH="2612"
+                          VPOS="991"
+                          HPOS="246"
+                          CONTENT="RACOTE, RACOTES, i greci ΡΑΚΩΤΗΣ, è nome di Vico d'Alexandria, posto sul Ramo del Nilo chiamato"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="502,1138 621,1140 740,1142 860,1144 979,1144 1099,1144 1218,1144 1337,1142 1457,1140 1576,1138 1696,1136 1815,1132 1934,1130 2054,1127 2173,1124 2293,1122 2412,1118 2531,1116 2651,1114 2770,1112 2890,1112"
+                         HEIGHT="84"
+                         WIDTH="2388"
+                         VPOS="1077"
+                         HPOS="502">
+                  <String ID="string_r1l12"
+                          HEIGHT="84"
+                          WIDTH="2388"
+                          VPOS="1077"
+                          HPOS="502"
+                          CONTENT="del medesimo nome. et d'indi si dice ΡΑΚΩΤΙΤΗΣ. Onde noi dicemo Racotite, alcuni la scrivo"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="504,1224 623,1225 743,1226 862,1226 982,1226 1101,1226 1221,1224 1340,1224 1460,1222 1579,1222 1699,1220 1818,1218 1938,1216 2057,1214 2177,1212 2296,1210 2416,1208 2535,1204 2655,1202 2774,1200 2894,1196"
+                         HEIGHT="76"
+                         WIDTH="2390"
+                         VPOS="1165"
+                         HPOS="504">
+                  <String ID="string_r1l13"
+                          HEIGHT="76"
+                          WIDTH="2390"
+                          VPOS="1165"
+                          HPOS="504"
+                          CONTENT="no colla spiratione Rhacotes. Altri vogliono che Alexandria città fusse gia appellata Racotes, ò Rhaco¬"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="528,1300 553,1302 579,1302 605,1303 630,1304 656,1304 682,1303 707,1302 733,1302 759,1300 785,1298 810,1297 836,1296 862,1294 887,1294 913,1292 939,1290 964,1290 990,1288 1016,1287 1042,1286"
+                         HEIGHT="64"
+                         WIDTH="514"
+                         VPOS="1255"
+                         HPOS="528">
+                  <String ID="string_r1l14"
+                          HEIGHT="64"
+                          WIDTH="514"
+                          VPOS="1255"
+                          HPOS="528"
+                          CONTENT="tes con la spiratione."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="448,1536 570,1534 693,1532 816,1530 939,1528 1062,1524 1185,1522 1308,1519 1431,1516 1554,1513 1677,1510 1799,1506 1922,1504 2045,1500 2168,1498 2291,1494 2414,1492 2537,1490 2660,1488 2783,1486 2906,1486"
+                         HEIGHT="102"
+                         WIDTH="2458"
+                         VPOS="1451"
+                         HPOS="448">
+                  <String ID="string_r1l15"
+                          HEIGHT="102"
+                          WIDTH="2458"
+                          VPOS="1451"
+                          HPOS="448"
+                          CONTENT="RACII, sono populi della Pamphylia, altramente scritti Rhacij, con la spiratione detti da Rhacia figliuola"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="480,1612 574,1612 669,1610 764,1608 858,1606 953,1604 1048,1602 1142,1602 1237,1600 1332,1597 1427,1596 1521,1592 1616,1591 1711,1588 1805,1586 1900,1584 1995,1582 2089,1580 2184,1578 2279,1574 2409,1577"
+                         HEIGHT="92"
+                         WIDTH="1894"
+                         VPOS="1537"
+                         HPOS="480">
+                  <String ID="string_r1l16"
+                          HEIGHT="92"
+                          WIDTH="1894"
+                          VPOS="1537"
+                          HPOS="480"
+                          CONTENT="di Mantua pamphylica da cui fu detta la pamphylia Racia, et poscia pamplylia."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

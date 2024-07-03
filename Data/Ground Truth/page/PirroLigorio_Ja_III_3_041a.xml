@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:37.679+01:00</Created>
+        <LastChange>2024-06-25T19:31:32.340+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902905" pageNr="81" tsid="174126486" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=ORPRDVASSTXSZIPXIVDOFNNH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZEQUTXMTNFDZRRWDVTQJNSH" imageId="17873949"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_041a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337506216" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643210126142_215"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643210144089_220"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1643210144089_219"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643210126142_215" custom="readingOrder {index:0;}">
+            <Coords points="858,415 3466,415 3466,3381 858,3381"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="858,488 987,494 1116,499 1246,503 1375,506 1505,508 1634,508 1763,508 1893,508 2022,506 2152,504 2281,502 2410,502 2540,500 2669,498 2799,498 2928,498 3057,498 3187,500 3316,502 3446,506 3446,433 3316,429 3187,427 3057,425 2928,425 2799,425 2669,425 2540,427 2410,429 2281,429 2152,431 2022,433 1893,435 1763,435 1634,435 1505,435 1375,433 1246,430 1116,426 987,421 858,415"/>
+                <Baseline points="858,464 987,470 1116,475 1246,479 1375,482 1505,484 1634,484 1763,484 1893,484 2022,482 2152,480 2281,478 2410,478 2540,476 2669,474 2799,474 2928,474 3057,474 3187,476 3316,478 3446,482"/>
+                <TextEquiv>
+                    <Unicode>opera del scelerato Amulio loro Zio precipitati et messi alla morte, dequali dirremo più chiaramente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="858,604 985,609 1112,612 1239,614 1366,614 1494,614 1621,614 1748,612 1875,610 2002,608 2130,606 2257,604 2384,602 2511,600 2638,600 2766,600 2893,600 3020,602 3147,606 3274,611 3402,616 3402,543 3274,538 3147,533 3020,529 2893,527 2766,527 2638,527 2511,527 2384,529 2257,531 2130,533 2002,535 1875,537 1748,539 1621,541 1494,541 1366,541 1239,541 1112,539 985,536 858,531"/>
+                <Baseline points="858,580 985,585 1112,588 1239,590 1366,590 1494,590 1621,590 1748,588 1875,586 2002,584 2130,582 2257,580 2384,578 2511,576 2638,576 2766,576 2893,576 3020,578 3147,582 3274,587 3402,592"/>
+                <TextEquiv>
+                    <Unicode>disotto doppo quest'altri oppenioni, che variamente sono recitati da altri auttori: percio che non mancano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="860,728 987,726 1115,724 1243,722 1370,720 1498,718 1626,716 1753,714 1881,712 2009,711 2137,710 2264,708 2392,708 2520,706 2647,706 2775,706 2903,706 3030,706 3158,706 3286,708 3414,710 3414,638 3286,636 3158,634 3030,634 2903,634 2775,634 2647,634 2520,634 2392,636 2264,636 2137,638 2009,639 1881,640 1753,642 1626,644 1498,646 1370,648 1243,650 1115,652 987,654 860,656"/>
+                <Baseline points="860,704 987,702 1115,700 1243,698 1370,696 1498,694 1626,692 1753,690 1881,688 2009,687 2137,686 2264,684 2392,684 2520,682 2647,682 2775,682 2903,682 3030,682 3158,682 3286,684 3414,686"/>
+                <TextEquiv>
+                    <Unicode>di quelli che scrissero il contrario, come non fussero mai stati: et altri come colli proprio occhi lhavessero ve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="878,828 1004,826 1130,824 1256,822 1382,820 1509,817 1635,816 1761,813 1887,812 2013,810 2140,808 2266,808 2392,806 2518,806 2644,806 2771,806 2897,806 3023,808 3149,810 3275,812 3402,816 3402,744 3275,740 3149,738 3023,736 2897,734 2771,734 2644,734 2518,734 2392,734 2266,736 2140,736 2013,738 1887,740 1761,741 1635,744 1509,745 1382,748 1256,750 1130,752 1004,754 878,756"/>
+                <Baseline points="878,804 1004,802 1130,800 1256,798 1382,796 1509,793 1635,792 1761,789 1887,788 2013,786 2140,784 2266,784 2392,782 2518,782 2644,782 2771,782 2897,782 3023,784 3149,786 3275,788 3402,792"/>
+                <TextEquiv>
+                    <Unicode>duti nascere et gittare alla morte et vedutili salvare: et molti si conconfrontano atali accidenti: ma dico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} unclear {offset:100; length:1;}">
+                <Coords points="884,936 1009,932 1134,930 1260,927 1385,924 1511,922 1636,920 1761,918 1887,916 2012,914 2138,912 2263,912 2388,910 2514,910 2639,910 2765,910 2890,910 3015,910 3141,912 3266,914 3392,916 3392,843 3266,841 3141,839 3015,837 2890,837 2765,837 2639,837 2514,837 2388,837 2263,839 2138,839 2012,841 1887,843 1761,845 1636,847 1511,849 1385,851 1260,854 1134,857 1009,859 884,863"/>
+                <Baseline points="884,912 1009,908 1134,906 1260,903 1385,900 1511,898 1636,896 1761,894 1887,892 2012,890 2138,888 2263,888 2388,886 2514,886 2639,886 2765,886 2890,886 3015,886 3141,888 3266,890 3392,892"/>
+                <TextEquiv>
+                    <Unicode>no esser'stati mandati dalloro Zio da uno che gli uccidessi et per volere d'iddio non furono uccisi • percio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="900,1042 1024,1040 1149,1038 1274,1035 1399,1034 1524,1032 1648,1030 1773,1028 1898,1026 2023,1024 2148,1024 2272,1022 2397,1022 2522,1022 2647,1022 2772,1022 2896,1022 3021,1024 3146,1026 3271,1028 3396,1032 3396,966 3271,962 3146,960 3021,958 2896,956 2772,956 2647,956 2522,956 2397,956 2272,956 2148,958 2023,958 1898,960 1773,962 1648,964 1524,966 1399,968 1274,969 1149,972 1024,974 900,976"/>
+                <Baseline points="900,1020 1024,1018 1149,1016 1274,1013 1399,1012 1524,1010 1648,1008 1773,1006 1898,1004 2023,1002 2148,1002 2272,1000 2397,1000 2522,1000 2647,1000 2772,1000 2896,1000 3021,1002 3146,1004 3271,1006 3396,1010"/>
+                <TextEquiv>
+                    <Unicode>dunque sinchetrovaremo materia da dire di questo fatto, conviene narrare. Quegli i quali confermano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="886,1138 1011,1136 1137,1132 1262,1130 1388,1127 1513,1124 1639,1122 1764,1120 1890,1118 2015,1115 2141,1114 2266,1112 2392,1112 2517,1112 2643,1112 2768,1112 2894,1114 3019,1116 3145,1120 3270,1124 3396,1128 3396,1062 3270,1058 3145,1054 3019,1050 2894,1048 2768,1046 2643,1046 2517,1046 2392,1046 2266,1046 2141,1048 2015,1049 1890,1052 1764,1054 1639,1056 1513,1058 1388,1061 1262,1064 1137,1066 1011,1070 886,1072"/>
+                <Baseline points="886,1116 1011,1114 1137,1110 1262,1108 1388,1105 1513,1102 1639,1100 1764,1098 1890,1096 2015,1093 2141,1092 2266,1090 2392,1090 2517,1090 2643,1090 2768,1090 2894,1092 3019,1094 3145,1098 3270,1102 3396,1106"/>
+                <TextEquiv>
+                    <Unicode>la nativita di Romolo et di Remo nati in un' ventre da Ilia Siliva Rhea Abatessa Vestale, tutti confermano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} Greek {offset:94; length:9;}">
+                <Coords points="894,1237 1020,1235 1146,1233 1272,1231 1399,1229 1525,1227 1651,1225 1778,1223 1904,1221 2030,1219 2157,1219 2283,1217 2409,1215 2535,1215 2662,1215 2788,1215 2914,1215 3041,1217 3167,1219 3293,1221 3420,1225 3420,1156 3293,1152 3167,1150 3041,1148 2914,1146 2788,1146 2662,1146 2535,1146 2409,1146 2283,1148 2157,1150 2030,1150 1904,1152 1778,1154 1651,1156 1525,1158 1399,1160 1272,1162 1146,1164 1020,1166 894,1168"/>
+                <Baseline points="894,1214 1020,1212 1146,1210 1272,1208 1399,1206 1525,1204 1651,1202 1778,1200 1904,1198 2030,1196 2157,1196 2283,1194 2409,1192 2535,1192 2662,1192 2788,1192 2914,1192 3041,1194 3167,1196 3293,1198 3420,1202"/>
+                <TextEquiv>
+                    <Unicode>essere slati dati à notricare a'd' Acca Larentia moglie di Fostulo, la quale Dionysio chiamo, ΛΑΥΡΙΝΤΙΑ, ò</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="898,1329 1023,1329 1149,1327 1274,1327 1400,1325 1525,1325 1651,1323 1776,1321 1902,1321 2027,1319 2153,1317 2278,1317 2404,1317 2529,1317 2655,1317 2780,1317 2906,1319 3031,1319 3157,1323 3282,1325 3408,1329 3408,1260 3282,1256 3157,1254 3031,1250 2906,1250 2780,1248 2655,1248 2529,1248 2404,1248 2278,1248 2153,1248 2027,1250 1902,1252 1776,1252 1651,1254 1525,1256 1400,1256 1274,1258 1149,1258 1023,1260 898,1260"/>
+                <Baseline points="898,1306 1023,1306 1149,1304 1274,1304 1400,1302 1525,1302 1651,1300 1776,1298 1902,1298 2027,1296 2153,1294 2278,1294 2404,1294 2529,1294 2655,1294 2780,1294 2906,1296 3031,1296 3157,1300 3282,1302 3408,1306"/>
+                <TextEquiv>
+                    <Unicode>pure ella gli trovo sula riva del tenere dentro al fango gittati, per ordine di Amulio, et portateseli nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="906,1438 1030,1440 1154,1440 1278,1440 1402,1440 1526,1440 1650,1438 1774,1438 1898,1436 2022,1434 2147,1434 2271,1432 2395,1430 2519,1430 2643,1428 2767,1428 2891,1428 3015,1428 3139,1430 3263,1432 3388,1434 3388,1361 3263,1359 3139,1357 3015,1355 2891,1355 2767,1355 2643,1355 2519,1357 2395,1357 2271,1359 2147,1361 2022,1361 1898,1363 1774,1365 1650,1365 1526,1367 1402,1367 1278,1367 1154,1367 1030,1367 906,1365"/>
+                <Baseline points="906,1414 1030,1416 1154,1416 1278,1416 1402,1416 1526,1416 1650,1414 1774,1414 1898,1412 2022,1410 2147,1410 2271,1408 2395,1406 2519,1406 2643,1404 2767,1404 2891,1404 3015,1404 3139,1406 3263,1408 3388,1410"/>
+                <TextEquiv>
+                    <Unicode>sua casa per suoi figliuoli li allevo, et per che questi erano diventati molto gagliardi furono chiamati Ro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="922,1548 1045,1550 1168,1550 1291,1550 1415,1548 1538,1548 1661,1546 1785,1544 1908,1544 2031,1542 2155,1540 2278,1538 2401,1536 2524,1536 2648,1534 2771,1534 2894,1534 3018,1534 3141,1534 3264,1536 3388,1538 3388,1465 3264,1463 3141,1461 3018,1461 2894,1461 2771,1461 2648,1461 2524,1463 2401,1463 2278,1465 2155,1467 2031,1469 1908,1471 1785,1471 1661,1473 1538,1475 1415,1475 1291,1477 1168,1477 1045,1477 922,1475"/>
+                <Baseline points="922,1524 1045,1526 1168,1526 1291,1526 1415,1524 1538,1524 1661,1522 1785,1520 1908,1520 2031,1518 2155,1516 2278,1514 2401,1512 2524,1512 2648,1510 2771,1510 2894,1510 3018,1510 3141,1510 3264,1512 3388,1514"/>
+                <TextEquiv>
+                    <Unicode>molo et Remo, et vincevano alla lotta ogni pastore, et nel correre ogni luperco nella festa lupercale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="910,1643 1036,1647 1162,1648 1288,1649 1414,1649 1540,1649 1666,1647 1792,1645 1918,1643 2044,1641 2170,1639 2296,1637 2422,1635 2548,1632 2674,1629 2800,1627 2926,1627 3052,1625 3178,1625 3304,1625 3430,1625 3430,1592 3304,1592 3178,1592 3052,1592 2926,1594 2800,1594 2674,1596 2548,1599 2422,1602 2296,1604 2170,1606 2044,1608 1918,1610 1792,1612 1666,1614 1540,1616 1414,1616 1288,1616 1162,1615 1036,1614 910,1610"/>
+                <Baseline points="913,1638 1039,1642 1165,1643 1291,1644 1417,1644 1543,1644 1669,1642 1795,1640 1921,1638 2047,1636 2173,1634 2299,1632 2425,1630 2551,1627 2677,1624 2803,1622 2929,1622 3055,1620 3181,1620 3307,1620 3433,1620"/>
+                <TextEquiv>
+                    <Unicode>che si faceva attorno al collo Palatino. Et questi sendo riconosciuti da Numitore, cacciarono di Alba Amu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1643620029635_122" custom="readingOrder {index:12;}">
+                <Coords points="910,1701 1033,1699 1156,1697 1279,1696 1402,1695 1525,1693 1648,1691 1771,1689 1894,1687 2017,1683 2140,1681 2263,1679 2386,1677 2509,1675 2632,1673 2755,1671 2878,1667 2926,1666 2926,1739 2878,1740 2755,1744 2632,1746 2509,1748 2386,1750 2263,1752 2140,1754 2017,1756 1894,1760 1771,1762 1648,1764 1525,1766 1402,1768 1279,1769 1156,1770 1033,1772 910,1774"/>
+                <Baseline points="910,1750 1033,1748 1156,1746 1279,1745 1402,1744 1525,1742 1648,1740 1771,1738 1894,1736 2017,1732 2140,1730 2263,1728 2386,1726 2509,1724 2632,1722 2755,1720 2878,1716 2926,1715"/>
+                <TextEquiv>
+                    <Unicode>lio et gittandolo dalla Rocca. Et poscia nell'havere edificata Roma et ampliata et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:13;}">
+                <Coords points="2904,1675 2932,1672 2960,1670 2988,1671 2988,1638 2960,1637 2932,1639 2904,1642"/>
+                <Baseline points="2904,1672 2932,1669 2960,1667 3016,1668"/>
+                <TextEquiv>
+                    <Unicode>come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1643620029635_121" custom="readingOrder {index:14;}">
+                <Coords points="2926,1666 3001,1665 3124,1664 3247,1662 3370,1661 3370,1734 3247,1735 3124,1737 3001,1738 2926,1739"/>
+                <Baseline points="2926,1715 3001,1714 3124,1713 3247,1711 3370,1710"/>
+                <TextEquiv>
+                    <Unicode>assunti incielo, i Ro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:15;}">
+                <Coords points="924,1870 1046,1870 1169,1868 1292,1868 1415,1866 1538,1866 1660,1864 1783,1864 1906,1862 2029,1862 2152,1860 2274,1860 2397,1858 2520,1856 2643,1856 2766,1855 2888,1854 3011,1854 3134,1852 3257,1852 3380,1852 3380,1779 3257,1779 3134,1779 3011,1781 2888,1781 2766,1782 2643,1783 2520,1783 2397,1785 2274,1787 2152,1787 2029,1789 1906,1789 1783,1791 1660,1791 1538,1793 1415,1793 1292,1795 1169,1795 1046,1797 924,1797"/>
+                <Baseline points="924,1846 1046,1846 1169,1844 1292,1844 1415,1842 1538,1842 1660,1840 1783,1840 1906,1838 2029,1838 2152,1836 2274,1836 2397,1834 2520,1832 2643,1832 2766,1831 2888,1830 3011,1830 3134,1828 3257,1828 3380,1828"/>
+                <TextEquiv>
+                    <Unicode>mani fecero il Tempio à Romolo et à Remo: et A 'Accalerenzia infigura di una lupa, conli duoi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:16;}">
+                <Coords points="902,1970 1025,1972 1149,1974 1273,1976 1397,1976 1521,1976 1644,1976 1768,1976 1892,1976 2016,1974 2140,1973 2263,1972 2387,1970 2511,1968 2635,1967 2759,1966 2882,1964 3006,1964 3130,1962 3254,1962 3378,1960 3378,1887 3254,1889 3130,1889 3006,1891 2882,1891 2759,1893 2635,1894 2511,1895 2387,1897 2263,1899 2140,1900 2016,1901 1892,1903 1768,1903 1644,1903 1521,1903 1397,1903 1273,1903 1149,1901 1025,1899 902,1897"/>
+                <Baseline points="902,1946 1025,1948 1149,1950 1273,1952 1397,1952 1521,1952 1644,1952 1768,1952 1892,1952 2016,1950 2140,1949 2263,1948 2387,1946 2511,1944 2635,1943 2759,1942 2882,1940 3006,1940 3130,1938 3254,1938 3378,1936"/>
+                <TextEquiv>
+                    <Unicode>bambini alpetto, percio che come piu sudicemmo lei era detta lupa dalla libidene la quale accommo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:17;}">
+                <Coords points="922,2072 1045,2072 1169,2072 1292,2072 1416,2072 1539,2072 1663,2072 1786,2072 1910,2072 2033,2074 2157,2074 2280,2074 2404,2074 2527,2074 2651,2072 2774,2072 2898,2072 3021,2070 3145,2068 3268,2066 3392,2064 3392,1997 3268,1999 3145,2001 3021,2003 2898,2005 2774,2005 2651,2005 2527,2007 2404,2007 2280,2007 2157,2007 2033,2007 1910,2005 1786,2005 1663,2005 1539,2005 1416,2005 1292,2005 1169,2005 1045,2005 922,2005"/>
+                <Baseline points="922,2050 1045,2050 1169,2050 1292,2050 1416,2050 1539,2050 1663,2050 1786,2050 1910,2050 2033,2052 2157,2052 2280,2052 2404,2052 2527,2052 2651,2050 2774,2050 2898,2050 3021,2048 3145,2046 3268,2044 3392,2042"/>
+                <TextEquiv>
+                    <Unicode>dava ai pastori come dice Varrone nel quinto de lingua latina. Alcuni dicono che Numitore sen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:18;}">
+                <Coords points="918,2178 1042,2178 1166,2180 1290,2180 1414,2180 1539,2179 1663,2178 1787,2178 1911,2176 2035,2176 2160,2174 2284,2172 2408,2170 2532,2168 2656,2166 2781,2164 2905,2162 3029,2160 3153,2158 3277,2156 3402,2154 3402,2087 3277,2089 3153,2091 3029,2093 2905,2095 2781,2097 2656,2099 2532,2101 2408,2103 2284,2105 2160,2107 2035,2109 1911,2109 1787,2111 1663,2111 1539,2112 1414,2113 1290,2113 1166,2113 1042,2111 918,2111"/>
+                <Baseline points="918,2156 1042,2156 1166,2158 1290,2158 1414,2158 1539,2157 1663,2156 1787,2156 1911,2154 2035,2154 2160,2152 2284,2150 2408,2148 2532,2146 2656,2144 2781,2142 2905,2140 3029,2138 3153,2136 3277,2134 3402,2132"/>
+                <TextEquiv>
+                    <Unicode>do privato del stato da Amulio, seneando in Tuscolo ove attendeva sotto nome di potesta: nel cui mez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:19;}">
+                <Coords points="902,2272 1027,2272 1152,2272 1278,2272 1403,2272 1529,2272 1654,2272 1779,2270 1905,2270 2030,2270 2156,2268 2281,2268 2406,2266 2532,2266 2657,2264 2783,2264 2908,2262 3033,2261 3159,2260 3284,2259 3410,2258 3410,2191 3284,2192 3159,2193 3033,2194 2908,2195 2783,2197 2657,2197 2532,2199 2406,2199 2281,2201 2156,2201 2030,2203 1905,2203 1779,2203 1654,2205 1529,2205 1403,2205 1278,2205 1152,2205 1027,2205 902,2205"/>
+                <Baseline points="902,2250 1027,2250 1152,2250 1278,2250 1403,2250 1529,2250 1654,2250 1779,2248 1905,2248 2030,2248 2156,2246 2281,2246 2406,2244 2532,2244 2657,2242 2783,2242 2908,2240 3033,2239 3159,2238 3284,2237 3410,2236"/>
+                <TextEquiv>
+                    <Unicode>zo fu preso inla caccia per insidia di Amulio Lauso figliuolo di esso Numitore, et ucciso, del quale par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:20;}">
+                <Coords points="904,2384 1027,2384 1151,2384 1275,2382 1398,2380 1522,2378 1646,2377 1769,2374 1893,2373 2017,2370 2141,2368 2264,2367 2388,2365 2512,2364 2635,2362 2759,2362 2883,2360 3006,2360 3130,2360 3254,2362 3378,2362 3378,2289 3254,2289 3130,2287 3006,2287 2883,2287 2759,2289 2635,2289 2512,2291 2388,2292 2264,2294 2141,2295 2017,2297 1893,2300 1769,2301 1646,2304 1522,2305 1398,2307 1275,2309 1151,2311 1027,2311 904,2311"/>
+                <Baseline points="904,2360 1027,2360 1151,2360 1275,2358 1398,2356 1522,2354 1646,2353 1769,2350 1893,2349 2017,2346 2141,2344 2264,2343 2388,2341 2512,2340 2635,2338 2759,2338 2883,2336 3006,2336 3130,2336 3254,2338 3378,2338"/>
+                <TextEquiv>
+                    <Unicode>la Ovidio nel terzo de Fasti, dove dimostra essere fratello di Ilia dala quale nacque Romolo et Remo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:21;}">
+                <Coords points="920,2490 1043,2494 1167,2496 1291,2496 1415,2496 1539,2496 1663,2496 1787,2494 1911,2492 2035,2490 2159,2488 2282,2486 2406,2484 2530,2482 2654,2480 2778,2478 2902,2477 3026,2476 3150,2476 3274,2476 3398,2478 3398,2406 3274,2404 3150,2404 3026,2404 2902,2405 2778,2406 2654,2408 2530,2410 2406,2412 2282,2414 2159,2416 2035,2418 1911,2420 1787,2422 1663,2424 1539,2424 1415,2424 1291,2424 1167,2424 1043,2422 920,2418"/>
+                <Baseline points="920,2466 1043,2470 1167,2472 1291,2472 1415,2472 1539,2472 1663,2472 1787,2470 1911,2468 2035,2466 2159,2464 2282,2462 2406,2460 2530,2458 2654,2456 2778,2454 2902,2453 3026,2452 3150,2452 3274,2452 3398,2454"/>
+                <TextEquiv>
+                    <Unicode>cosi cominciando: ILIA CVM LAVSO DE NVMITORE SATI. et cosi sendo morto Lauso, lha fù posta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:22;}">
+                <Coords points="924,2606 1048,2606 1172,2606 1296,2606 1420,2604 1545,2602 1669,2600 1793,2596 1917,2594 2041,2590 2166,2588 2290,2584 2414,2582 2538,2578 2662,2576 2787,2576 2911,2574 3035,2574 3159,2574 3283,2576 3408,2578 3408,2506 3283,2504 3159,2502 3035,2502 2911,2502 2787,2504 2662,2504 2538,2506 2414,2510 2290,2512 2166,2516 2041,2518 1917,2522 1793,2524 1669,2528 1545,2530 1420,2532 1296,2534 1172,2534 1048,2534 924,2534"/>
+                <Baseline points="924,2582 1048,2582 1172,2582 1296,2582 1420,2580 1545,2578 1669,2576 1793,2572 1917,2570 2041,2566 2166,2564 2290,2560 2414,2558 2538,2554 2662,2552 2787,2552 2911,2550 3035,2550 3159,2550 3283,2552 3408,2554"/>
+                <TextEquiv>
+                    <Unicode>nel sacerdotio di Vesta: ma sendo costei adormentata in una Fontana, gli sopravenne adosso uno armato,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:23;} unclear {offset:71; length:9;}">
+                <Coords points="928,2720 1050,2714 1173,2709 1296,2706 1419,2702 1542,2700 1665,2697 1788,2696 1911,2694 2034,2692 2157,2691 2279,2690 2402,2688 2525,2688 2648,2686 2771,2684 2894,2680 3017,2678 3140,2674 3263,2670 3386,2666 3386,2594 3263,2598 3140,2602 3017,2606 2894,2608 2771,2612 2648,2614 2525,2616 2402,2616 2279,2618 2157,2619 2034,2620 1911,2622 1788,2624 1665,2625 1542,2628 1419,2630 1296,2634 1173,2637 1050,2642 928,2648"/>
+                <Baseline points="928,2696 1050,2690 1173,2685 1296,2682 1419,2678 1542,2676 1665,2673 1788,2672 1911,2670 2034,2668 2157,2667 2279,2666 2402,2664 2525,2664 2648,2662 2771,2660 2894,2656 3017,2654 3140,2650 3263,2646 3386,2642"/>
+                <TextEquiv>
+                    <Unicode>che fu interpretato per Marte et la ingravidò di duoi Gemelli, dequali tennespia et conto Numitore, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:24;}">
+                <Coords points="914,2818 1039,2812 1164,2807 1289,2804 1415,2800 1540,2797 1665,2794 1791,2793 1916,2792 2041,2790 2167,2790 2292,2790 2417,2790 2542,2790 2668,2791 2793,2792 2918,2792 3044,2792 3169,2794 3294,2794 3420,2794 3420,2722 3294,2722 3169,2722 3044,2720 2918,2720 2793,2720 2668,2719 2542,2718 2417,2718 2292,2718 2167,2718 2041,2718 1916,2720 1791,2721 1665,2722 1540,2725 1415,2728 1289,2732 1164,2735 1039,2740 914,2746"/>
+                <Baseline points="914,2794 1039,2788 1164,2783 1289,2780 1415,2776 1540,2773 1665,2770 1791,2769 1916,2768 2041,2766 2167,2766 2292,2766 2417,2766 2542,2766 2668,2767 2793,2768 2918,2768 3044,2768 3169,2770 3294,2770 3420,2770"/>
+                <TextEquiv>
+                    <Unicode>fu creduto che Numitore istesso trasformato in Marte, havesse fatto l'opra colla figliuola istessa per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:25;}">
+                <Coords points="916,2938 1040,2933 1164,2928 1288,2924 1412,2920 1537,2918 1661,2916 1785,2914 1909,2912 2033,2910 2158,2910 2282,2910 2406,2910 2530,2910 2654,2910 2779,2910 2903,2910 3027,2910 3151,2910 3275,2910 3400,2910 3400,2837 3275,2837 3151,2837 3027,2837 2903,2837 2779,2837 2654,2837 2530,2837 2406,2837 2282,2837 2158,2837 2033,2837 1909,2839 1785,2841 1661,2843 1537,2845 1412,2847 1288,2851 1164,2855 1040,2860 916,2865"/>
+                <Baseline points="916,2914 1040,2909 1164,2904 1288,2900 1412,2896 1537,2894 1661,2892 1785,2890 1909,2888 2033,2886 2158,2886 2282,2886 2406,2886 2530,2886 2654,2886 2779,2886 2903,2886 3027,2886 3151,2886 3275,2886 3400,2886"/>
+                <TextEquiv>
+                    <Unicode>dispreggio di Amulio, et con essi poi si vendico della ingiuria ricevuta, per cio che lhavea ucciso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:26;}">
+                <Coords points="916,3040 1040,3040 1165,3040 1290,3038 1415,3037 1540,3036 1664,3033 1789,3030 1914,3028 2039,3026 2164,3024 2288,3022 2413,3020 2538,3020 2663,3019 2788,3020 2912,3022 3037,3024 3162,3028 3287,3033 3412,3040 3412,2967 3287,2960 3162,2955 3037,2951 2912,2949 2788,2947 2663,2946 2538,2947 2413,2947 2288,2949 2164,2951 2039,2953 1914,2955 1789,2957 1664,2960 1540,2963 1415,2964 1290,2965 1165,2967 1040,2967 916,2967"/>
+                <Baseline points="916,3016 1040,3016 1165,3016 1290,3014 1415,3013 1540,3012 1664,3009 1789,3006 1914,3004 2039,3002 2164,3000 2288,2998 2413,2996 2538,2996 2663,2995 2788,2996 2912,2998 3037,3000 3162,3004 3287,3009 3412,3016"/>
+                <TextEquiv>
+                    <Unicode>Lauso, suo unico figliuolo et posta come incarcere la figliola nel Tempio Vestale. Dicono che sono sta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:27;}">
+                <Coords points="930,3158 1054,3158 1178,3158 1303,3158 1427,3156 1552,3154 1676,3152 1800,3150 1925,3148 2049,3146 2174,3142 2298,3140 2422,3138 2547,3136 2671,3136 2796,3136 2920,3136 3044,3136 3169,3138 3293,3142 3418,3146 3418,3073 3293,3069 3169,3065 3044,3063 2920,3063 2796,3063 2671,3063 2547,3063 2422,3065 2298,3067 2174,3069 2049,3073 1925,3075 1800,3077 1676,3079 1552,3081 1427,3083 1303,3085 1178,3085 1054,3085 930,3085"/>
+                <Baseline points="930,3134 1054,3134 1178,3134 1303,3134 1427,3132 1552,3130 1676,3128 1800,3126 1925,3124 2049,3122 2174,3118 2298,3116 2422,3114 2547,3112 2671,3112 2796,3112 2920,3112 3044,3112 3169,3114 3293,3118 3418,3122"/>
+                <TextEquiv>
+                    <Unicode>ti duoi Lausi l'uno sudetto e l'altro Figliuolo di Mezentio, lo quale uccise Aenea combattendo in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:28;}">
+                <Coords points="934,3272 1059,3273 1184,3274 1309,3272 1434,3272 1559,3270 1684,3268 1809,3266 1934,3264 2059,3262 2184,3260 2309,3258 2434,3256 2559,3254 2684,3252 2809,3252 2934,3252 3059,3252 3184,3252 3309,3254 3434,3258 3434,3185 3309,3181 3184,3179 3059,3179 2934,3179 2809,3179 2684,3179 2559,3181 2434,3183 2309,3185 2184,3187 2059,3189 1934,3191 1809,3193 1684,3195 1559,3197 1434,3199 1309,3199 1184,3201 1059,3200 934,3199"/>
+                <Baseline points="934,3248 1059,3249 1184,3250 1309,3248 1434,3248 1559,3246 1684,3244 1809,3242 1934,3240 2059,3238 2184,3236 2309,3234 2434,3232 2559,3230 2684,3228 2809,3228 2934,3228 3059,3228 3184,3228 3309,3230 3434,3234"/>
+                <TextEquiv>
+                    <Unicode>favore di Turno, et due sepulture di Lausi ha havuto il Latio, l'una nel Monte Albano et l'altra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:29;}">
+                <Coords points="950,3374 1073,3377 1196,3380 1319,3380 1442,3380 1565,3380 1688,3380 1811,3378 1934,3376 2057,3374 2180,3373 2303,3372 2426,3370 2549,3368 2672,3368 2795,3366 2918,3366 3041,3368 3164,3369 3287,3372 3410,3374 3410,3301 3287,3299 3164,3296 3041,3295 2918,3293 2795,3293 2672,3295 2549,3295 2426,3297 2303,3299 2180,3300 2057,3301 1934,3303 1811,3305 1688,3307 1565,3307 1442,3307 1319,3307 1196,3307 1073,3304 950,3301"/>
+                <Baseline points="950,3350 1073,3353 1196,3356 1319,3356 1442,3356 1565,3356 1688,3356 1811,3354 1934,3352 2057,3350 2180,3349 2303,3348 2426,3346 2549,3344 2672,3344 2795,3342 2918,3342 3041,3344 3164,3345 3287,3348 3410,3350"/>
+                <TextEquiv>
+                    <Unicode>nel paese di Laurento dove Aenea lo conculco: et di questo scrive Virgilio nellibro undecimo dicendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>opera del scelerato Amulio loro Zio precipitati et messi alla morte, dequali dirremo più chiaramente
+disotto doppo quest'altri oppenioni, che variamente sono recitati da altri auttori: percio che non mancano
+di quelli che scrissero il contrario, come non fussero mai stati: et altri come colli proprio occhi lhavessero ve
+duti nascere et gittare alla morte et vedutili salvare: et molti si conconfrontano atali accidenti: ma dico
+no esser'stati mandati dalloro Zio da uno che gli uccidessi et per volere d'iddio non furono uccisi • percio
+dunque sinchetrovaremo materia da dire di questo fatto, conviene narrare. Quegli i quali confermano
+la nativita di Romolo et di Remo nati in un' ventre da Ilia Siliva Rhea Abatessa Vestale, tutti confermano
+essere slati dati à notricare a'd' Acca Larentia moglie di Fostulo, la quale Dionysio chiamo, ΛΑΥΡΙΝΤΙΑ, ò
+pure ella gli trovo sula riva del tenere dentro al fango gittati, per ordine di Amulio, et portateseli nella
+sua casa per suoi figliuoli li allevo, et per che questi erano diventati molto gagliardi furono chiamati Ro
+molo et Remo, et vincevano alla lotta ogni pastore, et nel correre ogni luperco nella festa lupercale
+che si faceva attorno al collo Palatino. Et questi sendo riconosciuti da Numitore, cacciarono di Alba Amu¬
+lio et gittandolo dalla Rocca. Et poscia nell'havere edificata Roma et ampliata et 
+come
+assunti incielo, i Ro
+mani fecero il Tempio à Romolo et à Remo: et A 'Accalerenzia infigura di una lupa, conli duoi
+bambini alpetto, percio che come piu sudicemmo lei era detta lupa dalla libidene la quale accommo¬
+dava ai pastori come dice Varrone nel quinto de lingua latina. Alcuni dicono che Numitore sen
+do privato del stato da Amulio, seneando in Tuscolo ove attendeva sotto nome di potesta: nel cui mez
+zo fu preso inla caccia per insidia di Amulio Lauso figliuolo di esso Numitore, et ucciso, del quale par
+la Ovidio nel terzo de Fasti, dove dimostra essere fratello di Ilia dala quale nacque Romolo et Remo,
+cosi cominciando: ILIA CVM LAVSO DE NVMITORE SATI. et cosi sendo morto Lauso, lha fù posta
+nel sacerdotio di Vesta: ma sendo costei adormentata in una Fontana, gli sopravenne adosso uno armato,
+che fu interpretato per Marte et la ingravidò di duoi Gemelli, dequali tennespia et conto Numitore, et
+fu creduto che Numitore istesso trasformato in Marte, havesse fatto l'opra colla figliuola istessa per
+dispreggio di Amulio, et con essi poi si vendico della ingiuria ricevuta, per cio che lhavea ucciso.
+Lauso, suo unico figliuolo et posta come incarcere la figliola nel Tempio Vestale. Dicono che sono sta
+ti duoi Lausi l'uno sudetto e l'altro Figliuolo di Mezentio, lo quale uccise Aenea combattendo in
+favore di Turno, et due sepulture di Lausi ha havuto il Latio, l'una nel Monte Albano et l'altra
+nel paese di Laurento dove Aenea lo conculco: et di questo scrive Virgilio nellibro undecimo dicendo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643210144089_220" custom="readingOrder {index:1;}">
+            <Coords points="858,3381 2355,3381 2362,3508 2362,3610 858,3613"/>
+            <TextLine id="r1l30" custom="readingOrder {index:0;}">
+                <Coords points="946,3486 1010,3488 1075,3488 1139,3488 1204,3488 1269,3490 1333,3490 1398,3490 1462,3492 1527,3492 1592,3492 1656,3492 1721,3492 1785,3492 1850,3492 1914,3492 1979,3492 2044,3492 2108,3492 2173,3490 2238,3490 2238,3417 2173,3417 2108,3419 2044,3419 1979,3419 1914,3419 1850,3419 1785,3419 1721,3419 1656,3419 1592,3419 1527,3419 1462,3419 1398,3417 1333,3417 1269,3417 1204,3415 1139,3415 1075,3415 1010,3415 946,3413"/>
+                <Baseline points="946,3462 1010,3464 1075,3464 1139,3464 1204,3464 1269,3466 1333,3466 1398,3466 1462,3468 1527,3468 1592,3468 1656,3468 1721,3468 1785,3468 1850,3468 1914,3468 1979,3468 2044,3468 2108,3468 2173,3466 2238,3466"/>
+                <TextEquiv>
+                    <Unicode>INGEMVIT CHARI GRAVITER GENITORIS AMORE,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1643210144133_222" custom="readingOrder {index:1;}">
+                <Coords points="964,3521 1086,3525 1208,3527 1331,3527 1453,3529 1820,3529 1943,3527 2065,3527 2188,3525 2310,3525 2362,3524 2362,3597 2310,3598 2188,3598 2065,3600 1943,3600 1820,3602 1453,3602 1331,3600 1208,3600 1086,3598 964,3594"/>
+                <Baseline points="964,3570 1086,3574 1208,3576 1331,3576 1453,3578 1576,3578 1698,3578 1820,3578 1943,3576 2065,3576 2188,3574 2310,3574 2362,3573"/>
+                <TextEquiv>
+                    <Unicode>VT VIDIT, LAVSVS, LACRYMEQVE PER ORA VOLVTAE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>INGEMVIT CHARI GRAVITER GENITORIS AMORE,
+VT VIDIT, LAVSVS, LACRYMEQVE PER ORA VOLVTAE.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643210144089_219" custom="readingOrder {index:2;}">
+            <Coords points="858,3613 2362,3610 2362,3508 2355,3381 3466,3381 3466,4358 858,4358"/>
+            <TextLine id="line_1643210144134_223" custom="readingOrder {index:0;}">
+                <Coords points="2362,3524 2432,3523 2555,3521 2677,3519 2800,3517 2922,3516 3044,3515 3167,3513 3289,3512 3412,3511 3412,3584 3289,3585 3167,3586 3044,3588 2922,3589 2800,3590 2677,3592 2555,3594 2432,3596 2362,3597"/>
+                <Baseline points="2362,3573 2432,3572 2555,3570 2677,3568 2800,3566 2922,3565 3044,3564 3167,3562 3289,3561 3412,3560"/>
+                <TextEquiv>
+                    <Unicode>Sono dunque i nomi di due lausi celebrati per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:1;}">
+                <Coords points="952,3712 1074,3710 1196,3708 1318,3707 1441,3706 1563,3704 1685,3703 1808,3702 1930,3700 2052,3700 2175,3698 2297,3698 2419,3696 2541,3695 2664,3694 2786,3692 2908,3690 3031,3688 3153,3686 3275,3684 3398,3682 3398,3609 3275,3611 3153,3613 3031,3615 2908,3617 2786,3619 2664,3621 2541,3622 2419,3623 2297,3625 2175,3625 2052,3627 1930,3627 1808,3629 1685,3630 1563,3631 1441,3633 1318,3634 1196,3635 1074,3637 952,3639"/>
+                <Baseline points="952,3688 1074,3686 1196,3684 1318,3683 1441,3682 1563,3680 1685,3679 1808,3678 1930,3676 2052,3676 2175,3674 2297,3674 2419,3672 2541,3671 2664,3670 2786,3668 2908,3666 3031,3664 3153,3662 3275,3660 3398,3658"/>
+                <TextEquiv>
+                    <Unicode>valorosi et per poco assortati: et quel di Romolo et Remo, anchor'essi non furono da manco di essi quanto al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:2;}">
+                <Coords points="954,3822 1076,3818 1198,3814 1320,3812 1442,3810 1565,3806 1687,3804 1809,3804 1931,3802 2053,3800 2176,3800 2298,3798 2420,3798 2542,3796 2664,3796 2787,3794 2909,3794 3031,3792 3153,3790 3275,3788 3398,3786 3398,3713 3275,3715 3153,3717 3031,3719 2909,3721 2787,3721 2664,3723 2542,3723 2420,3725 2298,3725 2176,3727 2053,3727 1931,3729 1809,3731 1687,3731 1565,3733 1442,3737 1320,3739 1198,3741 1076,3745 954,3749"/>
+                <Baseline points="954,3798 1076,3794 1198,3790 1320,3788 1442,3786 1565,3782 1687,3780 1809,3780 1931,3778 2053,3776 2176,3776 2298,3774 2420,3774 2542,3772 2664,3772 2787,3770 2909,3770 3031,3768 3153,3766 3275,3764 3398,3762"/>
+                <TextEquiv>
+                    <Unicode>morire: ma hebbero diversi honori, et inalzati allestelle: sebene furono allevati dala lupa fecero Ro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:3;}">
+                <Coords points="964,3922 1086,3920 1208,3918 1330,3917 1452,3916 1574,3914 1696,3913 1818,3912 1940,3910 2062,3909 2185,3908 2307,3906 2429,3906 2551,3904 2673,3903 2795,3902 2917,3900 3039,3900 3161,3898 3283,3898 3406,3896 3406,3823 3283,3825 3161,3825 3039,3827 2917,3827 2795,3829 2673,3830 2551,3831 2429,3833 2307,3833 2185,3835 2062,3836 1940,3837 1818,3839 1696,3840 1574,3841 1452,3843 1330,3844 1208,3845 1086,3847 964,3849"/>
+                <Baseline points="964,3898 1086,3896 1208,3894 1330,3893 1452,3892 1574,3890 1696,3889 1818,3888 1940,3886 2062,3885 2185,3884 2307,3882 2429,3882 2551,3880 2673,3879 2795,3878 2917,3876 3039,3876 3161,3874 3283,3874 3406,3872"/>
+                <TextEquiv>
+                    <Unicode>ma sopra ogni citta immortale, et questi discesero dal sangue Troiano come piace ancho ad sexto Aure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:4;}">
+                <Coords points="958,4038 1079,4034 1200,4032 1321,4030 1442,4028 1564,4026 1685,4024 1806,4024 1927,4022 2048,4022 2170,4020 2291,4020 2412,4020 2533,4018 2654,4016 2776,4014 2897,4014 3018,4010 3139,4008 3260,4004 3382,4000 3382,3927 3260,3931 3139,3935 3018,3937 2897,3941 2776,3941 2654,3943 2533,3945 2412,3947 2291,3947 2170,3947 2048,3949 1927,3949 1806,3951 1685,3951 1564,3953 1442,3955 1321,3957 1200,3959 1079,3961 958,3965"/>
+                <Baseline points="958,4014 1079,4010 1200,4008 1321,4006 1442,4004 1564,4002 1685,4000 1806,4000 1927,3998 2048,3998 2170,3996 2291,3996 2412,3996 2533,3994 2654,3992 2776,3990 2897,3990 3018,3986 3139,3984 3260,3980 3382,3976"/>
+                <TextEquiv>
+                    <Unicode>lio propertio poeta. Lo quale parlando della sorte di Roma dice in un verso. DICAM TROIA CADES, ET</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:5;} unclear {offset:95; length:3;}">
+                <Coords points="984,4132 1106,4132 1228,4132 1350,4132 1472,4130 1594,4130 1716,4128 1838,4128 1960,4126 2082,4124 2205,4124 2327,4122 2449,4121 2571,4120 2693,4118 2815,4118 2937,4118 3059,4116 3181,4116 3303,4116 3426,4118 3426,4045 3303,4043 3181,4043 3059,4043 2937,4045 2815,4045 2693,4045 2571,4047 2449,4048 2327,4049 2205,4051 2082,4051 1960,4053 1838,4055 1716,4055 1594,4057 1472,4057 1350,4059 1228,4059 1106,4059 984,4059"/>
+                <Baseline points="984,4108 1106,4108 1228,4108 1350,4108 1472,4106 1594,4106 1716,4104 1838,4104 1960,4102 2082,4100 2205,4100 2327,4098 2449,4097 2571,4096 2693,4094 2815,4094 2937,4094 3059,4092 3181,4092 3303,4092 3447,4110"/>
+                <TextEquiv>
+                    <Unicode>TROICA ROMA RESVRGES. et laudendo la notrice di duoi fanciulli, et nella istessa sentenza, che mol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:6;}">
+                <Coords points="984,4250 1106,4248 1228,4248 1350,4246 1472,4244 1594,4242 1716,4240 1838,4237 1960,4234 2082,4232 2205,4230 2327,4228 2449,4226 2571,4224 2693,4222 2815,4220 2937,4220 3059,4218 3181,4218 3303,4218 3426,4218 3426,4145 3303,4145 3181,4145 3059,4145 2937,4147 2815,4147 2693,4149 2571,4151 2449,4153 2327,4155 2205,4157 2082,4159 1960,4161 1838,4164 1716,4167 1594,4169 1472,4171 1350,4173 1228,4175 1106,4175 984,4177"/>
+                <Baseline points="984,4226 1106,4224 1228,4224 1350,4222 1472,4220 1594,4218 1716,4216 1838,4213 1960,4210 2082,4208 2205,4206 2327,4204 2449,4202 2571,4200 2693,4198 2815,4196 2937,4196 3059,4194 3181,4194 3303,4194 3426,4194"/>
+                <TextEquiv>
+                    <Unicode>ti dicono che furono figliuoli di Marte ò pure dela prole di Iove quelli che nacquero et furono alleva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:7;}">
+                <Coords points="980,4358 1104,4358 1228,4358 1352,4356 1477,4354 1601,4351 1725,4348 1850,4345 1974,4342 2098,4338 2223,4334 2347,4330 2471,4328 2595,4324 2720,4322 2844,4320 2968,4320 3093,4320 3217,4320 3341,4322 3466,4324 3466,4251 3341,4249 3217,4247 3093,4247 2968,4247 2844,4247 2720,4249 2595,4251 2471,4255 2347,4257 2223,4261 2098,4265 1974,4269 1850,4272 1725,4275 1601,4278 1477,4281 1352,4283 1228,4285 1104,4285 980,4285"/>
+                <Baseline points="980,4334 1104,4334 1228,4334 1352,4332 1477,4330 1601,4327 1725,4324 1850,4321 1974,4318 2098,4314 2223,4310 2347,4306 2471,4304 2595,4300 2720,4298 2844,4296 2968,4296 3093,4296 3217,4296 3341,4298 3466,4300"/>
+                <TextEquiv>
+                    <Unicode>ti nel Palatino discesi dala Troiana progenie: et allevati dala lupa et fra pastori. incomin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sono dunque i nomi di due lausi celebrati per
+valorosi et per poco assortati: et quel di Romolo et Remo, anchor'essi non furono da manco di essi quanto al
+morire: ma hebbero diversi honori, et inalzati allestelle: sebene furono allevati dala lupa fecero Ro
+ma sopra ogni citta immortale, et questi discesero dal sangue Troiano come piace ancho ad sexto Aure
+lio propertio poeta. Lo quale parlando della sorte di Roma dice in un verso. DICAM TROIA CADES, ET
+TROICA ROMA RESVRGES. et laudendo la notrice di duoi fanciulli, et nella istessa sentenza, che mol
+ti dicono che furono figliuoli di Marte ò pure dela prole di Iove quelli che nacquero et furono alleva
+ti nel Palatino discesi dala Troiana progenie: et allevati dala lupa et fra pastori. incomin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

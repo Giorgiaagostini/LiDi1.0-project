@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:35.681+01:00</Created>
+        <LastChange>2022-02-02T13:01:23.090+01:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902843" pageNr="40" tsid="74278712" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=PNXJQAORLIQYJJTEWYRYKQTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OWQSKRKYPGCQCZLZMQLUDQZG" imageId="17873908"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_020b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337498231" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643803210163_1158"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643803210162_1157"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1640191443296_1225"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1640191462077_1231"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1640191462077_1230"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643803210163_1158" custom="readingOrder {index:0;}">
+            <Coords points="2969,177 3360,171 3359,333 2969,313"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3032,234 3058,240 3084,239 3110,236 3136,234 3136,174 3110,176 3084,179 3058,180 3032,174"/>
+                <Baseline points="3032,220 3058,226 3084,225 3110,222 3136,220"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191411379_1214" custom="readingOrder {index:1;}">
+                <Coords points="3184,266 3278,251 3286,300 3192,315"/>
+                <Baseline points="3192,292 3285,295"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>23
+20</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643803210162_1157" custom="readingOrder {index:1;}">
+            <Coords points="265,224 2969,177 2969,313 3359,333 3348,2738 1107,2738 1075,1943 271,1929 267,1928"/>
+            <TextLine id="r3l2" custom="readingOrder {index:0;}">
+                <Coords points="1088,308 1113,306 1139,304 1164,302 1190,302 1215,301 1241,300 1267,300 1292,299 1318,298 1343,298 1369,298 1394,298 1420,298 1446,298 1471,298 1497,298 1522,298 1548,298 1574,298 1574,238 1548,238 1522,238 1497,238 1471,238 1446,238 1420,238 1394,238 1369,238 1343,238 1318,238 1292,239 1267,240 1241,240 1215,241 1190,242 1164,242 1139,244 1113,246 1088,248"/>
+                <Baseline points="1088,288 1113,286 1139,284 1164,282 1190,282 1215,281 1241,280 1267,280 1292,279 1318,278 1343,278 1369,278 1394,278 1420,278 1446,278 1471,278 1497,278 1522,278 1548,278 1574,278"/>
+                <TextEquiv>
+                    <Unicode>DI RAVENNA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:1;}">
+                <Coords points="436,474 569,472 703,468 836,465 970,461 1104,457 1237,452 1371,448 1504,444 1638,440 1772,436 1905,434 2039,430 2172,428 2306,426 2440,424 2573,424 2707,424 2840,426 2974,428 3108,432 3108,372 2974,368 2840,366 2707,364 2573,364 2440,364 2306,366 2172,368 2039,370 1905,374 1772,376 1638,380 1504,384 1371,388 1237,392 1104,397 970,401 836,405 703,408 569,412 436,414"/>
+                <Baseline points="436,454 569,452 703,448 836,445 970,441 1104,437 1237,432 1371,428 1504,424 1638,420 1772,416 1905,414 2039,410 2172,408 2306,406 2440,404 2573,404 2707,404 2840,406 2974,408 3108,412"/>
+                <TextEquiv>
+                    <Unicode>di Lupo et di Apro. Ove si vedono duoi Delphini, et la Gorgona. Che secondo il nostro parere, sono simulacri po¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:2;} unclear {offset:48; length:2;}">
+                <Coords points="426,560 557,560 689,558 821,554 953,552 1085,548 1217,543 1349,539 1481,535 1613,531 1745,527 1876,524 2008,520 2140,516 2272,514 2404,512 2536,512 2668,512 2800,514 2932,516 3064,518 3064,458 2932,456 2800,454 2668,452 2536,452 2404,452 2272,454 2140,456 2008,460 1876,464 1745,467 1613,471 1481,475 1349,479 1217,483 1085,488 953,492 821,494 689,498 557,500 426,500"/>
+                <Baseline points="426,540 557,540 689,538 821,534 953,532 1085,528 1217,523 1349,519 1481,515 1613,511 1745,507 1876,504 2008,500 2140,496 2272,494 2404,492 2536,492 2668,492 2800,494 2932,496 3064,498"/>
+                <TextEquiv>
+                    <Unicode>sti ammuniendo gli huomini; come la vita nostra et assimigliata al mare, che sempre con improviso turbine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:3;}">
+                <Coords points="428,644 560,642 693,642 826,640 959,638 1092,634 1224,632 1357,628 1490,625 1623,622 1756,619 1888,616 2021,614 2154,611 2287,610 2420,608 2552,608 2685,608 2818,608 2951,610 3084,614 3084,554 2951,550 2818,548 2685,548 2552,548 2420,548 2287,550 2154,551 2021,554 1888,556 1756,559 1623,562 1490,565 1357,568 1224,572 1092,574 959,578 826,580 693,582 560,582 428,584"/>
+                <Baseline points="428,624 560,622 693,622 826,620 959,618 1092,614 1224,612 1357,608 1490,605 1623,602 1756,599 1888,596 2021,594 2154,591 2287,590 2420,588 2552,588 2685,588 2818,588 2951,590 3084,594"/>
+                <TextEquiv>
+                    <Unicode>annuntia il periglioso varco, et quello horrido stuolo delli gravissimi perigli, tutto viaggio, et piazza larga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:4;}">
+                <Coords points="422,728 554,728 686,726 818,724 951,721 1083,718 1215,714 1348,711 1480,708 1612,704 1745,702 1877,699 2009,696 2141,696 2274,696 2406,696 2538,696 2671,700 2803,704 2935,708 3068,716 3068,661 2935,653 2803,649 2671,645 2538,641 2406,641 2274,641 2141,641 2009,641 1877,644 1745,647 1612,649 1480,653 1348,656 1215,659 1083,663 951,666 818,669 686,671 554,673 422,673"/>
+                <Baseline points="422,710 554,710 686,708 818,706 951,703 1083,700 1215,696 1348,693 1480,690 1612,686 1745,684 1877,681 2009,678 2141,678 2274,678 2406,678 2538,678 2671,682 2803,686 2935,690 3068,698"/>
+                <TextEquiv>
+                    <Unicode>et profonda della trista sorte. et solo la prudentia, è quella che rintuone et fà cauta la vita di ciascuno, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:5;}">
+                <Coords points="444,816 575,814 707,812 838,809 970,806 1102,804 1233,800 1365,797 1496,794 1628,790 1760,788 1891,786 2023,784 2154,782 2286,782 2418,780 2549,782 2681,782 2812,784 2944,786 3076,790 3076,735 2944,731 2812,729 2681,727 2549,727 2418,725 2286,727 2154,727 2023,729 1891,731 1760,733 1628,735 1496,739 1365,742 1233,745 1102,749 970,751 838,754 707,757 575,759 444,761"/>
+                <Baseline points="444,798 575,796 707,794 838,791 970,788 1102,786 1233,782 1365,779 1496,776 1628,772 1760,770 1891,768 2023,766 2154,764 2286,764 2418,762 2549,764 2681,764 2812,766 2944,768 3076,772"/>
+                <TextEquiv>
+                    <Unicode>à chiunche la prudentia, è nascosa, gli è spavento et Terrore. per cio che sempre in ben provista Nave si con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:6;} unclear {offset:96; length:6;}">
+                <Coords points="414,898 546,898 679,896 812,894 944,892 1077,890 1210,887 1342,884 1475,882 1608,880 1741,878 1873,876 2006,874 2139,873 2271,872 2404,873 2537,874 2669,876 2802,880 2935,884 3068,888 3068,828 2935,824 2802,820 2669,816 2537,814 2404,813 2271,812 2139,813 2006,814 1873,816 1741,818 1608,820 1475,822 1342,824 1210,827 1077,830 944,832 812,834 679,836 546,838 414,838"/>
+                <Baseline points="414,878 546,878 679,876 812,874 944,872 1077,870 1210,867 1342,864 1475,862 1608,860 1741,858 1873,856 2006,854 2139,853 2271,852 2404,853 2537,854 2669,856 2802,860 2935,864 3068,868"/>
+                <TextEquiv>
+                    <Unicode>viene navigare. et pratticare la mondana mercantia: senza lasciarsi togliere la prudentia, come concio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:7;}">
+                <Coords points="426,973 558,975 691,975 824,975 956,975 1089,973 1222,971 1354,969 1487,966 1620,963 1753,961 1885,959 2018,957 2151,955 2283,955 2416,955 2549,957 2681,959 2814,963 2947,968 3080,975 3080,918 2947,911 2814,906 2681,902 2549,900 2416,898 2283,898 2151,898 2018,900 1885,902 1753,904 1620,906 1487,909 1354,912 1222,914 1089,916 956,918 824,918 691,918 558,918 426,916"/>
+                <Baseline points="426,954 558,956 691,956 824,956 956,956 1089,954 1222,952 1354,950 1487,947 1620,944 1753,942 1885,940 2018,938 2151,936 2283,936 2416,936 2549,938 2681,940 2814,944 2947,949 3080,956"/>
+                <TextEquiv>
+                    <Unicode>sia cosa fù tolta à Medusa figliola di Phorci Re del mare, dalla forza et vigilanza di Perseo figliuolo di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:8;}">
+                <Coords points="426,1055 557,1055 689,1055 821,1055 953,1053 1085,1051 1217,1049 1349,1047 1481,1045 1613,1043 1745,1041 1876,1041 2008,1039 2140,1039 2272,1039 2404,1039 2536,1040 2668,1042 2800,1045 2932,1050 3064,1055 3064,998 2932,993 2800,988 2668,985 2536,983 2404,982 2272,982 2140,982 2008,982 1876,984 1745,984 1613,986 1481,988 1349,990 1217,992 1085,994 953,996 821,998 689,998 557,998 426,998"/>
+                <Baseline points="426,1036 557,1036 689,1036 821,1036 953,1034 1085,1032 1217,1030 1349,1028 1481,1026 1613,1024 1745,1022 1876,1022 2008,1020 2140,1020 2272,1020 2404,1020 2536,1021 2668,1023 2800,1026 2932,1031 3064,1036"/>
+                <TextEquiv>
+                    <Unicode>Iove. et del sangue della Gorgona impi di serpenti atroci di mortale veleno tutta la Lybia. Di maniera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:9;}">
+                <Coords points="424,1144 556,1142 689,1138 822,1136 955,1134 1088,1132 1220,1130 1353,1128 1486,1126 1619,1124 1752,1124 1884,1124 2017,1122 2150,1124 2283,1124 2416,1124 2548,1126 2681,1128 2814,1130 2947,1134 3080,1136 3080,1076 2947,1074 2814,1070 2681,1068 2548,1066 2416,1064 2283,1064 2150,1064 2017,1062 1884,1064 1752,1064 1619,1064 1486,1066 1353,1068 1220,1070 1088,1072 955,1074 822,1076 689,1078 556,1082 424,1084"/>
+                <Baseline points="424,1124 556,1122 689,1118 822,1116 955,1114 1088,1112 1220,1110 1353,1108 1486,1106 1619,1104 1752,1104 1884,1104 2017,1102 2150,1104 2283,1104 2416,1104 2548,1106 2681,1108 2814,1110 2947,1114 3080,1116"/>
+                <TextEquiv>
+                    <Unicode>sinqui ne ammonisce è significa, che la prodenzia giova, et la trascuragine somerge et soggofa la vita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:10;}">
+                <Coords points="424,1237 557,1231 690,1225 823,1219 956,1215 1089,1211 1222,1209 1355,1207 1488,1205 1621,1203 1754,1203 1887,1203 2020,1203 2153,1203 2286,1205 2419,1206 2552,1207 2685,1209 2818,1211 2951,1213 3084,1217 3084,1160 2951,1156 2818,1154 2685,1152 2552,1150 2419,1149 2286,1148 2153,1146 2020,1146 1887,1146 1754,1146 1621,1146 1488,1148 1355,1150 1222,1152 1089,1154 956,1158 823,1162 690,1168 557,1174 424,1180"/>
+                <Baseline points="424,1218 557,1212 690,1206 823,1200 956,1196 1089,1192 1222,1190 1355,1188 1488,1186 1621,1184 1754,1184 1887,1184 2020,1184 2153,1184 2286,1186 2419,1187 2552,1188 2685,1190 2818,1192 2951,1194 3084,1198"/>
+                <TextEquiv>
+                    <Unicode>di ciascuno nel mare del periglio, et del pianto: et aduce lutto et publica mestitia, cosi dunque i Delphini sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:11;}">
+                <Coords points="416,1315 548,1313 680,1309 812,1307 944,1304 1077,1301 1209,1299 1341,1297 1473,1295 1605,1293 1738,1291 1870,1291 2002,1291 2134,1291 2266,1291 2398,1291 2531,1293 2663,1295 2795,1298 2927,1301 3060,1305 3060,1248 2927,1244 2795,1241 2663,1238 2531,1236 2398,1234 2266,1234 2134,1234 2002,1234 1870,1234 1738,1234 1605,1236 1473,1238 1341,1240 1209,1242 1077,1244 944,1247 812,1250 680,1252 548,1256 416,1258"/>
+                <Baseline points="416,1296 548,1294 680,1290 812,1288 944,1285 1077,1282 1209,1280 1341,1278 1473,1276 1605,1274 1738,1272 1870,1272 2002,1272 2134,1272 2266,1272 2398,1272 2531,1274 2663,1276 2795,1279 2927,1282 3060,1286"/>
+                <TextEquiv>
+                    <Unicode>della Tempesta et dell'Amore cavalcati nei nostri desiderij, che ci recano piaceri et pericoli dalla matina alla sera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:12;}">
+                <Coords points="428,1406 560,1400 692,1398 824,1394 956,1390 1088,1388 1220,1386 1352,1382 1484,1380 1616,1380 1748,1378 1880,1378 2012,1376 2144,1378 2276,1378 2408,1378 2540,1380 2672,1382 2804,1384 2936,1388 3068,1392 3068,1332 2936,1328 2804,1324 2672,1322 2540,1320 2408,1318 2276,1318 2144,1318 2012,1316 1880,1318 1748,1318 1616,1320 1484,1320 1352,1322 1220,1326 1088,1328 956,1330 824,1334 692,1338 560,1340 428,1346"/>
+                <Baseline points="428,1386 560,1380 692,1378 824,1374 956,1370 1088,1368 1220,1366 1352,1362 1484,1360 1616,1360 1748,1358 1880,1358 2012,1356 2144,1358 2276,1358 2408,1358 2540,1360 2672,1362 2804,1364 2936,1368 3068,1372"/>
+                <TextEquiv>
+                    <Unicode>et de dì et de notte semo assaltati, hor dall'una dilettatione, hora dall'altra per accidenti vengono i piaceri et gli di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:13;} unclear {offset:96; length:2;}">
+                <Coords points="414,1484 548,1484 682,1484 816,1486 950,1486 1084,1484 1218,1484 1352,1482 1486,1482 1620,1480 1755,1478 1889,1476 2023,1475 2157,1474 2291,1472 2425,1470 2559,1470 2693,1469 2827,1468 2961,1468 3096,1468 3096,1408 2961,1408 2827,1408 2693,1409 2559,1410 2425,1410 2291,1412 2157,1414 2023,1415 1889,1416 1755,1418 1620,1420 1486,1422 1352,1422 1218,1424 1084,1424 950,1426 816,1426 682,1424 548,1424 414,1424"/>
+                <Baseline points="414,1464 548,1464 682,1464 816,1466 950,1466 1084,1464 1218,1464 1352,1462 1486,1462 1620,1460 1755,1458 1889,1456 2023,1455 2157,1454 2291,1452 2425,1450 2559,1450 2693,1449 2827,1448 2961,1448 3096,1448"/>
+                <TextEquiv>
+                    <Unicode>spiaceri che ci muovono, et ci tirano con varie lusenge ad amare le humane cose, et cosi alfine de nostra vita non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640270899514_326" custom="readingOrder {index:14;}">
+                <Coords points="402,1523 535,1521 668,1520 801,1519 813,1519 813,1553 801,1553 668,1554 535,1555 402,1557"/>
+                <Baseline points="402,1546 535,1544 668,1543 801,1542 813,1542"/>
+                <TextEquiv>
+                    <Unicode>senza tempesto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640270907728_330" custom="readingOrder {index:15;}">
+                <Coords points="787,1458 858,1462 855,1512 784,1508"/>
+                <Baseline points="784,1503 855,1507"/>
+                <TextEquiv>
+                    <Unicode>so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640270988838_350" custom="readingOrder {index:16;}">
+                <Coords points="813,1519 1466,1519 1530,1519 1530,1553 1466,1553 813,1553"/>
+                <Baseline points="813,1542 934,1542 1067,1542 1200,1542 1333,1542 1466,1542 1575,1542"/>
+                <TextEquiv>
+                    <Unicode>mare et oscura perturbatione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:17;}">
+                <Coords points="1474,1505 1499,1503 1524,1501 1549,1502 1574,1501 1574,1467 1549,1468 1524,1467 1499,1469 1474,1471"/>
+                <Baseline points="1455,1492 1499,1492 1524,1490 1549,1491 1641,1489"/>
+                <TextEquiv>
+                    <Unicode>si muore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640270988837_349" custom="readingOrder {index:18;}">
+                <Coords points="1530,1519 1599,1521 2397,1521 2530,1519 2663,1517 2796,1515 2929,1513 3062,1509 3062,1543 2929,1547 2796,1549 2663,1551 2530,1553 2397,1555 1599,1555 1530,1553"/>
+                <Baseline points="1530,1542 1599,1544 1732,1544 1865,1544 1998,1544 2131,1544 2264,1544 2397,1544 2530,1542 2663,1540 2796,1538 2929,1536 3062,1532"/>
+                <TextEquiv>
+                    <Unicode>il Leone ce significa la Vigilanza et la fortezza nella quale la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:19;}">
+                <Coords points="412,1650 543,1650 675,1650 807,1648 939,1648 1071,1648 1202,1648 1334,1648 1466,1646 1598,1646 1730,1646 1861,1646 1993,1646 2125,1646 2257,1646 2389,1646 2520,1646 2652,1648 2784,1648 2916,1648 3048,1650 3048,1595 2916,1593 2784,1593 2652,1593 2520,1591 2389,1591 2257,1591 2125,1591 1993,1591 1861,1591 1730,1591 1598,1591 1466,1591 1334,1593 1202,1593 1071,1593 939,1593 807,1593 675,1595 543,1595 412,1595"/>
+                <Baseline points="412,1632 543,1632 675,1632 807,1630 939,1630 1071,1630 1202,1630 1334,1630 1466,1628 1598,1628 1730,1628 1861,1628 1993,1628 2125,1628 2257,1628 2389,1628 2520,1628 2652,1630 2784,1630 2916,1630 3048,1632"/>
+                <TextEquiv>
+                    <Unicode>generosità deve fundarsi con una degna et honorevole Fatica insino alla morte, vivere della salda Virtù con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:20;}">
+                <Coords points="410,1740 542,1738 674,1738 806,1736 938,1736 1070,1734 1202,1734 1334,1732 1466,1732 1598,1730 1731,1730 1863,1728 1995,1728 2127,1728 2259,1726 2391,1726 2523,1726 2655,1724 2787,1724 2919,1724 3052,1724 3052,1669 2919,1669 2787,1669 2655,1669 2523,1671 2391,1671 2259,1671 2127,1673 1995,1673 1863,1673 1731,1675 1598,1675 1466,1677 1334,1677 1202,1679 1070,1679 938,1681 806,1681 674,1683 542,1683 410,1685"/>
+                <Baseline points="410,1722 542,1720 674,1720 806,1718 938,1718 1070,1716 1202,1716 1334,1714 1466,1714 1598,1712 1731,1712 1863,1710 1995,1710 2127,1710 2259,1708 2391,1708 2523,1708 2655,1706 2787,1706 2919,1706 3052,1706"/>
+                <TextEquiv>
+                    <Unicode>stante et forte. Percio che in ogni grado la generosità et la Fortezza giova et fà l'huomo probo et buono agli huo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:21;} blackening {offset:49; length:2;} unclear {offset:49; length:2;}">
+                <Coords points="412,1834 540,1836 669,1836 798,1836 927,1834 1056,1833 1185,1832 1314,1830 1443,1826 1572,1824 1701,1822 1829,1820 1958,1818 2087,1816 2216,1816 2345,1814 2474,1814 2603,1816 2732,1818 2861,1821 2990,1824 2990,1764 2861,1761 2732,1758 2603,1756 2474,1754 2345,1754 2216,1756 2087,1756 1958,1758 1829,1760 1701,1762 1572,1764 1443,1766 1314,1770 1185,1772 1056,1773 927,1774 798,1776 669,1776 540,1776 412,1774"/>
+                <Baseline points="412,1814 540,1816 669,1816 798,1816 927,1814 1056,1813 1185,1812 1314,1810 1443,1806 1572,1804 1701,1802 1829,1800 1958,1798 2087,1796 2216,1796 2345,1794 2474,1794 2603,1796 2732,1798 2861,1801 2990,1804"/>
+                <TextEquiv>
+                    <Unicode>mini, et si fa degno di memoria. et questo denotava secondo gli Aegyptij il leone come dichiara Oro Apolline Niliace.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:22;}">
+                <Coords points="310,1924 448,1926 586,1930 725,1932 863,1932 1002,1932 1140,1932 1278,1932 1417,1932 1555,1932 1694,1932 1832,1930 1970,1930 2109,1930 2247,1932 2386,1933 2524,1935 2662,1938 2801,1942 2939,1947 3078,1952 3078,1892 2939,1887 2801,1882 2662,1878 2524,1875 2386,1873 2247,1872 2109,1870 1970,1870 1832,1870 1694,1872 1555,1872 1417,1872 1278,1872 1140,1872 1002,1872 863,1872 725,1872 586,1870 448,1866 310,1864"/>
+                <Baseline points="310,1904 448,1906 586,1910 725,1912 863,1912 1002,1912 1140,1912 1278,1912 1417,1912 1555,1912 1694,1912 1832,1910 1970,1910 2109,1910 2247,1912 2386,1913 2524,1915 2662,1918 2801,1922 2939,1927 3139,1933"/>
+                <TextEquiv>
+                    <Unicode>Trovasi nella chiesa di Santo Severo in Classe, questa sottascritta intitulatione, che come si vede perlo modo del scrive¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;} unclear {offset:36; length:7;}">
+                <Coords points="1150,2020 1245,2020 1340,2018 1435,2018 1530,2016 1625,2016 1720,2016 1815,2016 1910,2016 2005,2016 2100,2016 2195,2018 2290,2018 2385,2020 2480,2022 2575,2023 2670,2026 2765,2027 2860,2030 2955,2033 3050,2036 3050,1976 2955,1973 2860,1970 2765,1967 2670,1966 2575,1963 2480,1962 2385,1960 2290,1958 2195,1958 2100,1956 2005,1956 1910,1956 1815,1956 1720,1956 1625,1956 1530,1956 1435,1958 1340,1958 1245,1960 1150,1960"/>
+                <Baseline points="1150,2000 1245,2000 1340,1998 1435,1998 1530,1996 1625,1996 1720,1996 1815,1996 1910,1996 2005,1996 2100,1996 2195,1998 2290,1998 2385,2000 2480,2002 2575,2003 2670,2006 2765,2007 2860,2010 2955,2013 3050,2016"/>
+                <TextEquiv>
+                    <Unicode>re et delli caratteri è delli tempi antichi, ma molto recenti anoi, et vi è scritto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:24;}">
+                <Coords points="1154,2108 1252,2106 1351,2106 1449,2106 1548,2104 1647,2104 1745,2104 1844,2105 1942,2106 2041,2106 2140,2106 2238,2108 2337,2109 2435,2110 2534,2112 2633,2114 2731,2116 2830,2120 2928,2122 3027,2125 3126,2128 3126,2068 3027,2065 2928,2062 2830,2060 2731,2056 2633,2054 2534,2052 2435,2050 2337,2049 2238,2048 2140,2046 2041,2046 1942,2046 1844,2045 1745,2044 1647,2044 1548,2044 1449,2046 1351,2046 1252,2046 1154,2048"/>
+                <Baseline points="1154,2088 1252,2086 1351,2086 1449,2086 1548,2084 1647,2084 1745,2084 1844,2085 1942,2086 2041,2086 2140,2086 2238,2088 2337,2089 2435,2090 2534,2092 2633,2094 2731,2096 2830,2100 2928,2102 3027,2105 3126,2108"/>
+                <TextEquiv>
+                    <Unicode>Dalmata Natione, perla .A.che gia ne tempi buoni antichi si scriveva perla .E.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:25;}">
+                <Coords points="1150,2192 1248,2192 1347,2190 1445,2190 1544,2190 1643,2188 1741,2188 1840,2188 1938,2188 2037,2190 2136,2190 2234,2192 2333,2192 2431,2194 2530,2196 2629,2198 2727,2202 2826,2205 2924,2208 3023,2212 3122,2218 3122,2158 3023,2152 2924,2148 2826,2145 2727,2142 2629,2138 2530,2136 2431,2134 2333,2132 2234,2132 2136,2130 2037,2130 1938,2128 1840,2128 1741,2128 1643,2128 1544,2130 1445,2130 1347,2130 1248,2132 1150,2132"/>
+                <Baseline points="1150,2172 1248,2172 1347,2170 1445,2170 1544,2170 1643,2168 1741,2168 1840,2168 1938,2168 2037,2170 2136,2170 2234,2172 2333,2172 2431,2174 2530,2176 2629,2178 2727,2182 2826,2185 2924,2188 3023,2192 3122,2198"/>
+                <TextEquiv>
+                    <Unicode>Delmata dalla Delmatia Regione, che finalmente si vede, che è stata detta Dalmatia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:26;} unclear {offset:27; length:7;}">
+                <Coords points="1166,2290 1263,2290 1360,2289 1458,2288 1555,2286 1653,2284 1750,2283 1847,2282 1945,2280 2042,2278 2140,2278 2237,2278 2334,2278 2432,2278 2529,2280 2627,2282 2724,2285 2821,2289 2919,2294 3016,2299 3114,2308 3114,2248 3016,2239 2919,2234 2821,2229 2724,2225 2627,2222 2529,2220 2432,2218 2334,2218 2237,2218 2140,2218 2042,2218 1945,2220 1847,2222 1750,2223 1653,2224 1555,2226 1458,2228 1360,2229 1263,2230 1166,2230"/>
+                <Baseline points="1166,2270 1263,2270 1360,2269 1458,2268 1555,2266 1653,2264 1750,2263 1847,2262 1945,2260 2042,2258 2140,2258 2237,2258 2334,2258 2432,2258 2529,2260 2627,2262 2724,2265 2821,2269 2919,2274 3016,2279 3114,2288"/>
+                <TextEquiv>
+                    <Unicode>come usa hora il vulgo, et Delmata la nazione, gente italica che nellaClasse Roma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:27;}">
+                <Coords points="1156,2372 1182,2374 1209,2374 1236,2374 1263,2376 1289,2376 1316,2376 1343,2376 1370,2376 1396,2376 1423,2374 1450,2374 1477,2374 1504,2372 1504,2312 1477,2314 1450,2314 1423,2314 1396,2316 1370,2316 1343,2316 1316,2316 1289,2316 1263,2316 1236,2314 1209,2314 1182,2314 1156,2312"/>
+                <Baseline points="1156,2352 1182,2354 1209,2354 1236,2354 1263,2356 1289,2356 1316,2356 1343,2356 1370,2356 1396,2356 1423,2354 1450,2354 1477,2354 1504,2352"/>
+                <TextEquiv>
+                    <Unicode>na Militava.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DI RAVENNA
+di Lupo et di Apro. Ove si vedono duoi Delphini, et la Gorgona. Che secondo il nostro parere, sono simulacri po¬
+sti ammuniendo gli huomini; come la vita nostra et assimigliata al mare, che sempre con improviso turbine
+annuntia il periglioso varco, et quello horrido stuolo delli gravissimi perigli, tutto viaggio, et piazza larga
+et profonda della trista sorte. et solo la prudentia, è quella che rintuone et fà cauta la vita di ciascuno, et
+à chiunche la prudentia, è nascosa, gli è spavento et Terrore. per cio che sempre in ben provista Nave si con
+viene navigare. et pratticare la mondana mercantia: senza lasciarsi togliere la prudentia, come concio
+sia cosa fù tolta à Medusa figliola di Phorci Re del mare, dalla forza et vigilanza di Perseo figliuolo di
+Iove. et del sangue della Gorgona impi di serpenti atroci di mortale veleno tutta la Lybia. Di maniera
+sinqui ne ammonisce è significa, che la prodenzia giova, et la trascuragine somerge et soggofa la vita
+di ciascuno nel mare del periglio, et del pianto: et aduce lutto et publica mestitia, cosi dunque i Delphini sono
+della Tempesta et dell'Amore cavalcati nei nostri desiderij, che ci recano piaceri et pericoli dalla matina alla sera
+et de dì et de notte semo assaltati, hor dall'una dilettatione, hora dall'altra per accidenti vengono i piaceri et gli di
+spiaceri che ci muovono, et ci tirano con varie lusenge ad amare le humane cose, et cosi alfine de nostra vita non
+senza tempesto
+so
+mare et oscura perturbatione.
+si muore
+il Leone ce significa la Vigilanza et la fortezza nella quale la
+generosità deve fundarsi con una degna et honorevole Fatica insino alla morte, vivere della salda Virtù con
+stante et forte. Percio che in ogni grado la generosità et la Fortezza giova et fà l'huomo probo et buono agli huo¬
+mini, et si fa degno di memoria. et questo denotava secondo gli Aegyptij il leone come dichiara Oro Apolline Niliace.
+Trovasi nella chiesa di Santo Severo in Classe, questa sottascritta intitulatione, che come si vede perlo modo del scrive¬
+re et delli caratteri è delli tempi antichi, ma molto recenti anoi, et vi è scritto
+Dalmata Natione, perla .A.che gia ne tempi buoni antichi si scriveva perla .E.
+Delmata dalla Delmatia Regione, che finalmente si vede, che è stata detta Dalmatia
+come usa hora il vulgo, et Delmata la nazione, gente italica che nellaClasse Roma¬
+na Militava.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1640191443296_1225" custom="readingOrder {index:2;}">
+            <Coords points="267,1928 271,1929 1075,1943 1107,2738 268,2738"/>
+            <TextLine id="r3l23" custom="readingOrder {index:0;}">
+                <Coords points="432,2016 480,2008 480,1948 432,1956"/>
+                <Baseline points="432,1996 1037,2034"/>
+                <TextEquiv>
+                    <Unicode>D•M</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:1;}">
+                <Coords points="448,2103 476,2106 504,2108 533,2111 561,2112 590,2114 618,2116 646,2117 675,2119 703,2119 732,2121 760,2121 788,2121 817,2121 845,2121 874,2121 902,2119 930,2118 959,2117 987,2115 1016,2113 1016,2061 987,2063 959,2065 930,2066 902,2067 874,2069 845,2069 817,2069 788,2069 760,2069 732,2069 703,2067 675,2067 646,2065 618,2064 590,2062 561,2060 533,2059 504,2056 476,2054 448,2051"/>
+                <Baseline points="448,2086 476,2089 504,2091 533,2094 561,2095 590,2097 618,2099 646,2100 675,2102 703,2102 732,2104 760,2104 788,2104 817,2104 845,2104 874,2104 902,2102 930,2101 959,2100 987,2098 1016,2096"/>
+                <TextEquiv>
+                    <Unicode>LAEGANIVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:2;}">
+                <Coords points="458,2206 485,2206 512,2206 539,2206 566,2208 593,2208 620,2208 647,2208 674,2208 701,2208 729,2208 756,2208 783,2208 810,2208 837,2208 864,2208 891,2208 918,2207 945,2206 972,2206 1000,2204 1000,2144 972,2146 945,2146 918,2147 891,2148 864,2148 837,2148 810,2148 783,2148 756,2148 729,2148 701,2148 674,2148 647,2148 620,2148 593,2148 566,2148 539,2146 512,2146 485,2146 458,2146"/>
+                <Baseline points="458,2186 485,2186 512,2186 539,2186 566,2188 593,2188 620,2188 647,2188 674,2188 701,2188 729,2188 756,2188 783,2188 810,2188 837,2188 864,2188 891,2188 918,2187 945,2186 972,2186 1000,2184"/>
+                <TextEquiv>
+                    <Unicode>LARGIVS•NAT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640878207907_587" custom="readingOrder {index:3;}">
+                <Coords points="450,2237 477,2237 505,2238 533,2239 811,2239 839,2237 879,2237 879,2286 839,2286 811,2288 533,2288 505,2287 477,2286 450,2286"/>
+                <Baseline points="450,2270 477,2270 505,2271 533,2272 561,2272 589,2272 616,2272 644,2272 672,2272 700,2272 728,2272 755,2272 783,2272 811,2272 839,2270 867,2270 879,2270"/>
+                <TextEquiv>
+                    <Unicode>DALMATA•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191593009_1328" custom="readingOrder {index:4;}">
+                <Coords points="493,2185 560,2177 566,2227 499,2235"/>
+                <Baseline points="498,2230 565,2222"/>
+                <TextEquiv>
+                    <Unicode>SIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640878207906_586" custom="readingOrder {index:5;}">
+                <Coords points="879,2237 894,2237 922,2236 950,2235 978,2234 1006,2233 1006,2282 978,2283 950,2284 922,2285 894,2286 879,2286"/>
+                <Baseline points="879,2270 894,2270 922,2269 950,2268 978,2267 1006,2266"/>
+                <TextEquiv>
+                    <Unicode>VIX</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:6;}">
+                <Coords points="454,2356 481,2354 509,2354 537,2354 564,2354 592,2354 620,2354 647,2354 675,2355 703,2356 731,2356 758,2356 786,2358 814,2358 841,2358 869,2358 897,2358 924,2357 952,2356 980,2354 1008,2354 1008,2306 980,2306 952,2308 924,2309 897,2310 869,2310 841,2310 814,2310 786,2310 758,2308 731,2308 703,2308 675,2307 647,2306 620,2306 592,2306 564,2306 537,2306 509,2306 481,2306 454,2308"/>
+                <Baseline points="454,2340 481,2338 509,2338 537,2338 564,2338 592,2338 620,2338 647,2338 675,2339 703,2340 731,2340 758,2340 786,2342 814,2342 841,2342 869,2342 897,2342 924,2341 952,2340 980,2338 1008,2338"/>
+                <TextEquiv>
+                    <Unicode>ANN•XXXXV•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:7;}">
+                <Coords points="442,2430 471,2430 500,2431 529,2432 558,2432 588,2434 617,2434 646,2436 675,2436 704,2436 734,2438 763,2438 792,2438 821,2438 850,2438 880,2438 909,2438 938,2438 967,2438 996,2436 1026,2436 1026,2381 996,2381 967,2383 938,2383 909,2383 880,2383 850,2383 821,2383 792,2383 763,2383 734,2383 704,2381 675,2381 646,2381 617,2379 588,2379 558,2377 529,2377 500,2376 471,2375 442,2375"/>
+                <Baseline points="442,2412 471,2412 500,2413 529,2414 558,2414 588,2416 617,2416 646,2418 675,2418 704,2418 734,2420 763,2420 792,2420 821,2420 850,2420 880,2420 909,2420 938,2420 967,2420 996,2418 1026,2418"/>
+                <TextEquiv>
+                    <Unicode>MLL•ANN•XXII•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:8;}">
+                <Coords points="426,2500 455,2501 485,2503 514,2504 544,2506 573,2506 603,2508 632,2508 662,2510 691,2510 721,2510 750,2510 780,2510 809,2510 839,2510 868,2510 898,2510 927,2508 957,2508 986,2507 1016,2506 1016,2463 986,2464 957,2465 927,2465 898,2467 868,2467 839,2467 809,2467 780,2467 750,2467 721,2467 691,2467 662,2467 632,2465 603,2465 573,2463 544,2463 514,2461 485,2460 455,2458 426,2457"/>
+                <Baseline points="426,2486 455,2487 485,2489 514,2490 544,2492 573,2492 603,2494 632,2494 662,2496 691,2496 721,2496 750,2496 780,2496 809,2496 839,2496 868,2496 898,2496 927,2494 957,2494 986,2493 1016,2492"/>
+                <TextEquiv>
+                    <Unicode>C•ANTONIVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l36" custom="readingOrder {index:9;}">
+                <Coords points="608,2567 636,2571 664,2573 692,2575 720,2575 748,2575 776,2573 804,2573 832,2571 832,2531 804,2533 776,2533 748,2535 720,2535 692,2535 664,2533 636,2531 608,2527"/>
+                <Baseline points="606,2566 639,2566 665,2566 692,2562 720,2562 748,2562 776,2560 804,2560 832,2558"/>
+                <TextEquiv>
+                    <Unicode>SVPER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:10;}">
+                <Coords points="426,2623 455,2626 484,2629 513,2631 542,2633 571,2634 600,2635 629,2635 658,2634 687,2633 716,2632 745,2631 774,2629 803,2627 832,2627 861,2624 890,2622 919,2621 948,2618 977,2616 1006,2615 1006,2576 977,2577 948,2579 919,2582 890,2583 861,2585 832,2588 803,2588 774,2590 745,2592 716,2593 687,2594 658,2595 629,2596 600,2596 571,2595 542,2594 513,2592 484,2590 455,2587 426,2584"/>
+                <Baseline points="433,2630 468,2631 493,2629 522,2627 549,2629 575,2623 604,2624 633,2624 662,2623 691,2622 720,2621 749,2620 778,2618 807,2616 836,2616 865,2613 894,2611 923,2610 952,2607 981,2605 1010,2604"/>
+                <TextEquiv>
+                    <Unicode>C•SERTORIVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:11;}">
+                <Coords points="502,2703 527,2705 553,2707 578,2707 604,2709 630,2709 655,2709 681,2709 706,2709 732,2708 758,2707 783,2706 809,2705 834,2705 860,2703 886,2703 911,2701 937,2701 962,2701 988,2700 1014,2699 1014,2648 988,2649 962,2650 937,2650 911,2650 886,2652 860,2652 834,2654 809,2654 783,2655 758,2656 732,2657 706,2658 681,2658 655,2658 630,2658 604,2658 578,2656 553,2656 527,2654 502,2652"/>
+                <Baseline points="502,2686 527,2688 553,2690 578,2690 604,2692 630,2692 655,2692 681,2692 706,2692 732,2691 758,2690 783,2689 809,2688 834,2688 860,2686 886,2686 911,2684 937,2684 962,2684 988,2683 1014,2682"/>
+                <TextEquiv>
+                    <Unicode>VALĒS•H•P•C•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D•M
+LAEGANIVS
+LARGIVS•NAT
+DALMATA•
+SIC
+VIX
+ANN•XXXXV•
+MLL•ANN•XXII•
+C•ANTONIVS
+SVPER
+C•SERTORIVS
+VALĒS•H•P•C•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1640191462077_1231" custom="readingOrder {index:3;}">
+            <Coords points="268,2738 3348,2738 3340,4796 1600,4721 1663,2905 268,2889"/>
+            <TextLine id="r3l39" custom="readingOrder {index:0;}">
+                <Coords points="390,2852 521,2852 653,2854 785,2856 916,2860 1048,2862 1180,2866 1311,2870 1443,2874 1575,2878 1707,2884 1838,2888 1970,2892 2102,2896 2233,2900 2365,2904 2497,2908 2628,2910 2760,2912 2892,2914 3024,2916 3024,2856 2892,2854 2760,2852 2628,2850 2497,2848 2365,2844 2233,2840 2102,2836 1970,2832 1838,2828 1707,2824 1575,2818 1443,2814 1311,2810 1180,2806 1048,2802 916,2800 785,2796 653,2794 521,2792 390,2792"/>
+                <Baseline points="396,2840 527,2840 659,2842 791,2844 922,2848 1054,2850 1186,2854 1317,2858 1449,2862 1581,2866 1713,2872 1844,2876 1976,2880 2108,2884 2239,2888 2371,2892 2503,2896 2634,2898 2766,2900 2898,2902 3030,2904"/>
+                <TextEquiv>
+                    <Unicode>Fù gia trovato nella Villa di Sanpietro in Vincola fuori di Ravenna, et traportato nella città incasa dalli Rugini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l40" custom="readingOrder {index:1;}">
+                <Coords points="1698,2976 1765,2978 1832,2982 1899,2984 1966,2986 2034,2988 2101,2990 2168,2992 2235,2994 2302,2996 2370,2998 2437,3001 2504,3002 2571,3006 2638,3008 2706,3012 2773,3017 2840,3020 2907,3026 2974,3031 3042,3036 3042,2976 2974,2971 2907,2966 2840,2960 2773,2957 2706,2952 2638,2948 2571,2946 2504,2942 2437,2941 2370,2938 2302,2936 2235,2934 2168,2932 2101,2930 2034,2928 1966,2926 1899,2924 1832,2922 1765,2918 1698,2916"/>
+                <Baseline points="1698,2956 1765,2958 1832,2962 1899,2964 1966,2966 2034,2968 2101,2970 2168,2972 2235,2974 2302,2976 2370,2978 2437,2981 2504,2982 2571,2986 2638,2988 2706,2992 2773,2997 2840,3000 2907,3006 2974,3011 3042,3016"/>
+                <TextEquiv>
+                    <Unicode>Lo quale sitrova molto mutilato. Ove sono interi quelli effi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l43" custom="readingOrder {index:2;}">
+                <Coords points="1686,3074 1752,3078 1818,3080 1885,3083 1951,3086 2018,3088 2084,3091 2150,3093 2217,3096 2283,3098 2350,3100 2416,3104 2482,3106 2549,3110 2615,3114 2682,3116 2748,3122 2814,3126 2881,3129 2947,3134 3014,3140 3014,3080 2947,3074 2881,3069 2814,3066 2748,3062 2682,3056 2615,3054 2549,3050 2482,3046 2416,3044 2350,3040 2283,3038 2217,3036 2150,3033 2084,3031 2018,3028 1951,3026 1885,3023 1818,3020 1752,3018 1686,3014"/>
+                <Baseline points="1686,3056 1752,3060 1818,3062 1885,3065 1951,3068 2018,3070 2084,3073 2150,3075 2217,3078 2283,3080 2350,3082 2416,3086 2482,3088 2549,3092 2615,3096 2682,3098 2748,3104 2814,3108 2881,3111 2947,3116 3014,3122"/>
+                <TextEquiv>
+                    <Unicode>gie, et conli nomi imperfetti. Vi è la Gorgona, come è detto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l45" custom="readingOrder {index:3;} unclear {offset:51; length:15;}">
+                <Coords points="1680,3174 1751,3178 1822,3180 1893,3184 1965,3185 2036,3188 2107,3192 2179,3194 2250,3198 2321,3202 2393,3205 2464,3209 2535,3212 2606,3217 2678,3220 2749,3224 2820,3228 2892,3232 2963,3236 3034,3241 3106,3246 3106,3186 3034,3181 2963,3176 2892,3172 2820,3168 2749,3164 2678,3160 2606,3157 2535,3152 2464,3149 2393,3145 2321,3142 2250,3138 2179,3134 2107,3132 2036,3128 1965,3125 1893,3124 1822,3120 1751,3118 1680,3114"/>
+                <Baseline points="1680,3154 1751,3158 1822,3160 1893,3164 1965,3165 2036,3168 2107,3172 2179,3174 2250,3178 2321,3182 2393,3185 2464,3189 2535,3192 2606,3197 2678,3200 2749,3204 2820,3208 2892,3212 2963,3216 3034,3221 3106,3226"/>
+                <TextEquiv>
+                    <Unicode>imago della prudentia che reca Terrore et spavento data alla Virtù</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l46" custom="readingOrder {index:4;}">
+                <Coords points="1692,3270 1760,3274 1829,3278 1898,3280 1967,3285 2036,3288 2104,3291 2173,3294 2242,3297 2311,3301 2380,3305 2448,3308 2517,3311 2586,3315 2655,3318 2724,3322 2792,3326 2861,3330 2930,3334 2999,3339 3068,3342 3068,3282 2999,3279 2930,3274 2861,3270 2792,3266 2724,3262 2655,3258 2586,3255 2517,3251 2448,3248 2380,3245 2311,3241 2242,3237 2173,3234 2104,3231 2036,3228 1967,3225 1898,3220 1829,3218 1760,3214 1692,3210"/>
+                <Baseline points="1692,3250 1760,3254 1829,3258 1898,3260 1967,3265 2036,3268 2104,3271 2173,3274 2242,3277 2311,3281 2380,3285 2448,3288 2517,3291 2586,3295 2655,3298 2724,3302 2792,3306 2861,3310 2930,3314 2999,3319 3068,3322"/>
+                <TextEquiv>
+                    <Unicode>dell'huomo Militare. I Leoni medesimamente denotano la for¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l47" custom="readingOrder {index:5;}">
+                <Coords points="1690,3371 1757,3375 1824,3378 1891,3382 1959,3386 2026,3389 2093,3393 2161,3396 2228,3400 2295,3403 2363,3407 2430,3411 2497,3415 2564,3419 2632,3424 2699,3428 2766,3432 2834,3437 2901,3443 2968,3448 3036,3453 3036,3396 2968,3391 2901,3386 2834,3380 2766,3375 2699,3371 2632,3367 2564,3362 2497,3358 2430,3354 2363,3350 2295,3346 2228,3343 2161,3339 2093,3336 2026,3332 1959,3329 1891,3325 1824,3321 1757,3318 1690,3314"/>
+                <Baseline points="1690,3352 1757,3356 1824,3359 1891,3363 1959,3367 2026,3370 2093,3374 2161,3377 2228,3381 2295,3384 2363,3388 2430,3392 2497,3396 2564,3400 2632,3405 2699,3409 2766,3413 2834,3418 2901,3424 2968,3429 3036,3434"/>
+                <TextEquiv>
+                    <Unicode>tezza et la Legalità, et il Vigore del forte capitano. Come vera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l48" custom="readingOrder {index:6;}">
+                <Coords points="1676,3473 1744,3478 1812,3483 1880,3487 1949,3492 2017,3495 2085,3497 2154,3500 2222,3501 2290,3503 2359,3505 2427,3506 2495,3508 2563,3509 2632,3511 2700,3513 2768,3515 2837,3519 2905,3521 2973,3525 3042,3529 3042,3472 2973,3468 2905,3464 2837,3462 2768,3458 2700,3456 2632,3454 2563,3452 2495,3451 2427,3449 2359,3448 2290,3446 2222,3444 2154,3443 2085,3440 2017,3438 1949,3435 1880,3430 1812,3426 1744,3421 1676,3416"/>
+                <Baseline points="1676,3454 1744,3459 1812,3464 1880,3468 1949,3473 2017,3476 2085,3478 2154,3481 2222,3482 2290,3484 2359,3486 2427,3487 2495,3489 2563,3490 2632,3492 2700,3494 2768,3496 2837,3500 2905,3502 2973,3506 3042,3510"/>
+                <TextEquiv>
+                    <Unicode>mente si conobbe presso de Romani chiara la Virtù constante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l50" custom="readingOrder {index:7;}">
+                <Coords points="1678,3584 1746,3590 1814,3595 1882,3599 1950,3603 2018,3606 2086,3608 2154,3610 2222,3612 2290,3614 2358,3614 2426,3616 2494,3618 2562,3620 2630,3622 2698,3624 2766,3629 2834,3633 2902,3638 2970,3644 3038,3652 3038,3592 2970,3584 2902,3578 2834,3573 2766,3569 2698,3564 2630,3562 2562,3560 2494,3558 2426,3556 2358,3554 2290,3554 2222,3552 2154,3550 2086,3548 2018,3546 1950,3543 1882,3539 1814,3535 1746,3530 1678,3524"/>
+                <Baseline points="1678,3564 1746,3570 1814,3575 1882,3579 1950,3583 2018,3586 2086,3588 2154,3590 2222,3592 2290,3594 2358,3594 2426,3596 2494,3598 2562,3600 2630,3602 2698,3604 2766,3609 2834,3613 2902,3618 2970,3624 3038,3632"/>
+                <TextEquiv>
+                    <Unicode>et forte ne primo Caio Mario, che fù settevolte consolo, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l56" custom="readingOrder {index:8;} unclear {offset:12; length:7;}">
+                <Coords points="1668,3690 1736,3698 1804,3705 1872,3711 1941,3714 2009,3720 2077,3722 2146,3724 2214,3726 2282,3728 2351,3730 2419,3730 2487,3732 2555,3732 2624,3734 2692,3736 2760,3737 2829,3740 2897,3744 2965,3747 3034,3752 3034,3692 2965,3687 2897,3684 2829,3680 2760,3677 2692,3676 2624,3674 2555,3672 2487,3672 2419,3670 2351,3670 2282,3668 2214,3666 2146,3664 2077,3662 2009,3660 1941,3654 1872,3651 1804,3645 1736,3638 1668,3630"/>
+                <Baseline points="1668,3670 1736,3678 1804,3685 1872,3691 1941,3694 2009,3700 2077,3702 2146,3704 2214,3706 2282,3708 2351,3710 2419,3710 2487,3712 2555,3712 2624,3714 2692,3716 2760,3717 2829,3720 2897,3724 2965,3727 3034,3732"/>
+                <TextEquiv>
+                    <Unicode>triomphò di Cijmbri di Tentoni, et del Bello Iugurthino della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l57" custom="readingOrder {index:9;}">
+                <Coords points="1660,3800 1730,3807 1801,3813 1872,3819 1943,3823 2014,3826 2085,3829 2156,3832 2227,3834 2298,3836 2369,3838 2439,3840 2510,3843 2581,3845 2652,3848 2723,3852 2794,3856 2865,3861 2936,3867 3007,3873 3078,3882 3078,3822 3007,3813 2936,3807 2865,3801 2794,3796 2723,3792 2652,3788 2581,3785 2510,3783 2439,3780 2369,3778 2298,3776 2227,3774 2156,3772 2085,3769 2014,3766 1943,3763 1872,3759 1801,3753 1730,3747 1660,3740"/>
+                <Baseline points="1660,3780 1730,3787 1801,3793 1872,3799 1943,3803 2014,3806 2085,3809 2156,3812 2227,3814 2298,3816 2369,3818 2439,3820 2510,3823 2581,3825 2652,3828 2723,3832 2794,3836 2865,3841 2936,3847 3007,3853 3078,3862"/>
+                <TextEquiv>
+                    <Unicode>Numidia. Lo quale fù di origine Latino Arpinate, et d'indi venne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l58" custom="readingOrder {index:10;}">
+                <Coords points="1660,3904 1729,3910 1799,3914 1868,3917 1938,3921 2008,3926 2077,3928 2147,3932 2216,3936 2286,3939 2356,3943 2425,3946 2495,3950 2564,3953 2634,3958 2704,3963 2773,3967 2843,3972 2912,3977 2982,3984 3052,3990 3052,3930 2982,3924 2912,3917 2843,3912 2773,3907 2704,3903 2634,3898 2564,3893 2495,3890 2425,3886 2356,3883 2286,3879 2216,3876 2147,3872 2077,3868 2008,3866 1938,3861 1868,3857 1799,3854 1729,3850 1660,3844"/>
+                <Baseline points="1660,3884 1729,3890 1799,3894 1868,3897 1938,3901 2008,3906 2077,3908 2147,3912 2216,3916 2286,3919 2356,3923 2425,3926 2495,3930 2564,3933 2634,3938 2704,3943 2773,3947 2843,3952 2912,3957 2982,3964 3052,3970"/>
+                <TextEquiv>
+                    <Unicode>à Roma lo suo ceppo; et poscia per Italia et particolarmente nei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l60" custom="readingOrder {index:11;}">
+                <Coords points="1654,4038 1722,4038 1790,4041 1858,4043 1926,4045 1994,4048 2062,4048 2130,4051 2198,4054 2266,4056 2334,4058 2402,4062 2470,4064 2538,4066 2606,4070 2674,4073 2742,4076 2810,4078 2878,4082 2946,4084 3014,4088 3014,4028 2946,4024 2878,4022 2810,4018 2742,4016 2674,4013 2606,4010 2538,4006 2470,4004 2402,4002 2334,3998 2266,3996 2198,3994 2130,3991 2062,3988 1994,3988 1926,3985 1858,3983 1790,3981 1722,3978 1654,3978"/>
+                <Baseline points="1654,4018 1722,4018 1790,4021 1858,4023 1926,4025 1994,4028 2062,4028 2130,4031 2198,4034 2266,4036 2334,4038 2402,4042 2470,4044 2538,4046 2606,4050 2674,4053 2742,4056 2810,4058 2878,4062 2946,4064 3014,4068"/>
+                <TextEquiv>
+                    <Unicode>coloni Ravennati dedutta la gente d'essa Maria Fameglia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l62" custom="readingOrder {index:12;}">
+                <Coords points="1658,4140 1728,4142 1798,4146 1868,4149 1938,4152 2008,4154 2078,4158 2148,4160 2218,4162 2288,4166 2358,4168 2428,4171 2498,4174 2568,4176 2638,4180 2708,4182 2778,4184 2848,4187 2918,4190 2988,4194 3058,4196 3058,4136 2988,4134 2918,4130 2848,4127 2778,4124 2708,4122 2638,4120 2568,4116 2498,4114 2428,4111 2358,4108 2288,4106 2218,4102 2148,4100 2078,4098 2008,4094 1938,4092 1868,4089 1798,4086 1728,4082 1658,4080"/>
+                <Baseline points="1658,4120 1728,4122 1798,4126 1868,4129 1938,4132 2008,4134 2078,4138 2148,4140 2218,4142 2288,4146 2358,4148 2428,4151 2498,4154 2568,4156 2638,4160 2708,4162 2778,4164 2848,4167 2918,4170 2988,4174 3058,4176"/>
+                <TextEquiv>
+                    <Unicode>Ove in questa memoria sivedono della stirpe libertina, che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l63" custom="readingOrder {index:13;}">
+                <Coords points="1660,4248 1728,4253 1796,4256 1864,4260 1932,4262 2000,4264 2068,4268 2136,4270 2204,4273 2272,4276 2341,4280 2409,4282 2477,4286 2545,4288 2613,4293 2681,4296 2749,4300 2817,4305 2885,4310 2953,4314 3022,4320 3022,4260 2953,4254 2885,4250 2817,4245 2749,4240 2681,4236 2613,4233 2545,4228 2477,4226 2409,4222 2341,4220 2272,4216 2204,4213 2136,4210 2068,4208 2000,4204 1932,4202 1864,4200 1796,4196 1728,4193 1660,4188"/>
+                <Baseline points="1635,4238 1728,4233 1796,4236 1864,4240 1932,4242 2000,4244 2068,4248 2136,4250 2204,4253 2272,4256 2341,4260 2409,4262 2477,4266 2545,4268 2613,4273 2681,4276 2749,4280 2817,4285 2885,4290 2953,4294 3022,4300"/>
+                <TextEquiv>
+                    <Unicode>in Ravenna militava come si trova in altre memorie di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191462159_1234" custom="readingOrder {index:14;}">
+                <Coords points="1613,4285 1682,4289 1754,4293 1826,4295 1899,4298 1971,4301 2043,4305 2116,4307 2188,4309 2260,4311 2333,4315 2405,4317 2477,4320 2549,4323 2622,4327 2694,4330 2766,4333 2839,4337 2911,4341 2983,4346 3056,4351 3056,4411 2983,4406 2911,4401 2839,4397 2766,4393 2694,4390 2622,4387 2549,4383 2477,4380 2405,4377 2333,4375 2260,4371 2188,4369 2116,4367 2043,4365 1971,4361 1899,4358 1826,4355 1754,4353 1682,4349 1611,4345"/>
+                <Baseline points="1618,4337 1689,4341 1761,4345 1833,4347 1906,4350 1978,4353 2050,4357 2123,4359 2195,4361 2267,4363 2340,4367 2412,4369 2484,4372 2556,4375 2629,4379 2701,4382 2773,4385 2846,4389 2918,4393 2990,4398 3063,4403"/>
+                <TextEquiv>
+                    <Unicode>simile Fameglia in molte altre colonie dedutte in diverse parti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1641812124616_759" custom="readingOrder {index:15;}">
+                <Coords points="1604,4377 2028,4400 2026,4450 1602,4427"/>
+                <Baseline points="1602,4422 2026,4445"/>
+                <TextEquiv>
+                    <Unicode>dagli imperatori.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fù gia trovato nella Villa di Sanpietro in Vincola fuori di Ravenna, et traportato nella città incasa dalli Rugini.
+Lo quale sitrova molto mutilato. Ove sono interi quelli effi¬
+gie, et conli nomi imperfetti. Vi è la Gorgona, come è detto,
+imago della prudentia che reca Terrore et spavento data alla Virtù
+dell'huomo Militare. I Leoni medesimamente denotano la for¬
+tezza et la Legalità, et il Vigore del forte capitano. Come vera
+mente si conobbe presso de Romani chiara la Virtù constante
+et forte ne primo Caio Mario, che fù settevolte consolo, et
+triomphò di Cijmbri di Tentoni, et del Bello Iugurthino della
+Numidia. Lo quale fù di origine Latino Arpinate, et d'indi venne
+à Roma lo suo ceppo; et poscia per Italia et particolarmente nei
+coloni Ravennati dedutta la gente d'essa Maria Fameglia.
+Ove in questa memoria sivedono della stirpe libertina, che
+in Ravenna militava come si trova in altre memorie di
+simile Fameglia in molte altre colonie dedutte in diverse parti
+dagli imperatori.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1640191462077_1230" custom="readingOrder {index:4;}">
+            <Coords points="268,2889 1663,2905 1600,4721 272,4664"/>
+            <TextLine id="line_1640191559261_1312" custom="readingOrder {index:0;}">
+                <Coords points="392,3242 1464,3277 1463,3327 391,3292"/>
+                <Baseline points="391,3287 1463,3322"/>
+                <TextEquiv>
+                    <Unicode>VIVVS•FECIT•SIBI•ET•SVIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191551045_1307" custom="readingOrder {index:1;}">
+                <Coords points="543,3590 1349,3634 1347,3684 541,3640"/>
+                <Baseline points="541,3635 1347,3679"/>
+                <TextEquiv>
+                    <Unicode>C•MARIVS•C•L•CLEMENS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191547472_1302" custom="readingOrder {index:2;}">
+                <Coords points="536,3638 1356,3685 1353,3735 533,3688"/>
+                <Baseline points="533,3683 1353,3730"/>
+                <TextEquiv>
+                    <Unicode>MARIAE•TESPIAE•L•SABBATHIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191521444_1280" custom="readingOrder {index:3;}">
+                <Coords points="486,3990 1332,4042 1329,4092 483,4040"/>
+                <Baseline points="483,4035 1329,4087"/>
+                <TextEquiv>
+                    <Unicode>C•MARIO............................</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640272702650_445" custom="readingOrder {index:4;}">
+                <Coords points="485,4032 1329,4087 1326,4137 482,4082"/>
+                <Baseline points="482,4077 1326,4132"/>
+                <TextEquiv>
+                    <Unicode>AGILI•LIB........................</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1640191510960_1272" custom="readingOrder {index:5;}">
+                <Coords points="495,4372 766,4386 764,4436 493,4422"/>
+                <Baseline points="480,4418 764,4431"/>
+                <TextEquiv>
+                    <Unicode>..............</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIVVS•FECIT•SIBI•ET•SVIS
+C•MARIVS•C•L•CLEMENS
+MARIAE•TESPIAE•L•SABBATHIS
+C•MARIO............................
+AGILI•LIB........................
+..............</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

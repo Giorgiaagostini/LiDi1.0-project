@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_006b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:51.646+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643801223805_895"
+                       HEIGHT="203"
+                       WIDTH="362"
+                       VPOS="158"
+                       HPOS="2968">
+               <Shape>
+                  <Polygon POINTS="2977,161 3329,158 3330,351 2968,361"/>
+               </Shape>
+               <TextLine ID="line_1641287201583_1397"
+                         BASELINE="3043,278 3116,278"
+                         HEIGHT="50"
+                         WIDTH="73"
+                         VPOS="233"
+                         HPOS="3043">
+                  <String ID="string_line_1641287201583_1397"
+                          HEIGHT="50"
+                          WIDTH="73"
+                          VPOS="233"
+                          HPOS="3043"
+                          CONTENT="9"/>
+               </TextLine>
+               <TextLine ID="line_1641287205379_1402"
+                         BASELINE="3192,299 3269,293"
+                         HEIGHT="56"
+                         WIDTH="80"
+                         VPOS="248"
+                         HPOS="3189">
+                  <String ID="string_line_1641287205379_1402"
+                          HEIGHT="56"
+                          WIDTH="80"
+                          VPOS="248"
+                          HPOS="3189"
+                          CONTENT="6"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643801223805_894"
+                       HEIGHT="1716"
+                       WIDTH="3045"
+                       VPOS="161"
+                       HPOS="296">
+               <Shape>
+                  <Polygon POINTS="309,190 2977,161 2968,361 3330,351 3341,1827 296,1877"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="472,444 591,446 710,449 829,450 949,450 1068,450 1187,450 1307,449 1426,448 1545,446 1665,444 1784,442 1903,440 2022,440 2142,438 2261,436 2380,436 2500,436 2619,438 2738,440 2858,442"
+                         HEIGHT="66"
+                         WIDTH="2386"
+                         VPOS="401"
+                         HPOS="472">
+                  <String ID="string_r1l1"
+                          HEIGHT="66"
+                          WIDTH="2386"
+                          VPOS="401"
+                          HPOS="472"
+                          CONTENT="RAGA, i greci ΡΑΓΑ, è citta nella Media Regione, donde i Medi popoli chiamano il citta¬"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="508,542 624,540 741,540 857,538 974,538 1091,536 1207,534 1324,532 1440,530 1557,528 1674,526 1790,524 1907,522 2023,520 2140,518 2257,517 2373,516 2490,516 2606,514 2723,514 2840,516"
+                         HEIGHT="80"
+                         WIDTH="2332"
+                         VPOS="479"
+                         HPOS="508">
+                  <String ID="string_r1l2"
+                          HEIGHT="80"
+                          WIDTH="2332"
+                          VPOS="479"
+                          HPOS="508"
+                          CONTENT="dino Ragòs, et Ragios, alcuni scrivono Rhaga per .H. co ene Rhagae la regione, ma i greci"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="520,630 636,630 753,630 870,629 986,628 1103,626 1220,624 1336,622 1453,620 1570,616 1687,614 1803,612 1920,610 2037,608 2153,606 2270,604 2387,602 2503,600 2620,600 2737,598 2854,598"
+                         HEIGHT="84"
+                         WIDTH="2334"
+                         VPOS="563"
+                         HPOS="520">
+                  <String ID="string_r1l3"
+                          HEIGHT="84"
+                          WIDTH="2334"
+                          VPOS="563"
+                          HPOS="520"
+                          CONTENT="ΡΑΓΑΙ, et ΡΑΓΗΝΟΣ talvolta, come da Rearos, ΡΑΡΡΙΝΟΣ: Fu acquisto di Selucho Nicatore,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="520,726 636,723 753,720 870,718 987,716 1104,714 1220,712 1337,710 1454,708 1571,706 1688,704 1804,702 1921,700 2038,698 2155,697 2272,695 2388,692 2505,690 2622,688 2739,686 2856,684"
+                         HEIGHT="94"
+                         WIDTH="2336"
+                         VPOS="649"
+                         HPOS="520">
+                  <String ID="string_r1l4"
+                          HEIGHT="94"
+                          WIDTH="2336"
+                          VPOS="649"
+                          HPOS="520"
+                          CONTENT="et pria chiamata Praga, et mutata la .P. nell'.R. fu fatta Raga. fu occupata da Arsace"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="524,812 640,812 757,810 873,808 990,808 1106,805 1223,802 1339,800 1456,798 1572,796 1689,794 1805,792 1922,789 2038,788 2155,785 2271,783 2388,782 2504,780 2621,779 2737,778 2854,778"
+                         HEIGHT="86"
+                         WIDTH="2330"
+                         VPOS="743"
+                         HPOS="524">
+                  <String ID="string_r1l5"
+                          HEIGHT="86"
+                          WIDTH="2330"
+                          VPOS="743"
+                          HPOS="524"
+                          CONTENT="Re di Media lo quale era Eunuco et hebbe volutta di Regnare, et allhora si diceria Eu¬"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="524,902 638,900 753,898 868,896 983,893 1098,892 1213,888 1328,886 1443,884 1558,882 1673,879 1787,876 1902,874 2017,872 2132,868 2247,866 2362,864 2477,860 2592,857 2707,854 2822,850"
+                         HEIGHT="104"
+                         WIDTH="2298"
+                         VPOS="815"
+                         HPOS="524">
+                  <String ID="string_r1l6"
+                          HEIGHT="104"
+                          WIDTH="2298"
+                          VPOS="815"
+                          HPOS="524"
+                          CONTENT="yopos, et egli la chiamò Arsace, et Arsacia, ò ΑΡΣΑΚΗ da esso Arsaco Re di Persi. Raga"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="524,988 640,986 756,984 872,980 989,978 1105,974 1221,972 1338,970 1454,966 1570,962 1687,960 1803,958 1919,954 2035,952 2152,948 2268,946 2384,944 2501,942 2617,940 2733,939 2850,938"
+                         HEIGHT="102"
+                         WIDTH="2326"
+                         VPOS="903"
+                         HPOS="524">
+                  <String ID="string_r1l7"
+                          HEIGHT="102"
+                          WIDTH="2326"
+                          VPOS="903"
+                          HPOS="524"
+                          CONTENT="anchora è Isola della Licia, detta da Rax, et lhabitatore di qui si dice Ragios, et il cittadino"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="524,1082 597,1079 670,1077 743,1074 816,1072 889,1072 962,1069 1035,1068 1108,1066 1181,1064 1254,1062 1327,1060 1400,1059 1473,1057 1546,1056 1619,1053 1692,1050 1765,1049 1838,1046 1911,1044 1984,1040"
+                         HEIGHT="94"
+                         WIDTH="1460"
+                         VPOS="1005"
+                         HPOS="524">
+                  <String ID="string_r1l8"
+                          HEIGHT="94"
+                          WIDTH="1460"
+                          VPOS="1005"
+                          HPOS="524"
+                          CONTENT="Ragenos, cio è ΡΑΤΗΝΟΣ, et ΡΑΤΙΟΣ. come dice Stephano."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="480,1158 606,1157 733,1156 860,1154 987,1152 1114,1150 1241,1146 1368,1144 1495,1140 1622,1135 1749,1132 1875,1128 2002,1124 2129,1120 2256,1116 2383,1114 2510,1112 2637,1110 2764,1108 2891,1108 3018,1108"
+                         HEIGHT="102"
+                         WIDTH="2538"
+                         VPOS="1073"
+                         HPOS="480">
+                  <String ID="string_r1l9"
+                          HEIGHT="102"
+                          WIDTH="2538"
+                          VPOS="1073"
+                          HPOS="480"
+                          CONTENT="RAGUSI, Ragusta, et Ragugia, è città cosi detta dal vulgo, che gia si diceva Epidauro. Come è detto in Rhagusa."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="460,1242 580,1244 700,1244 821,1244 941,1244 1062,1242 1182,1240 1302,1236 1423,1232 1543,1228 1664,1224 1784,1220 1904,1216 2025,1210 2145,1206 2266,1202 2386,1198 2506,1194 2627,1192 2747,1190 2868,1188"
+                         HEIGHT="104"
+                         WIDTH="2408"
+                         VPOS="1156"
+                         HPOS="460">
+                  <String ID="string_r1l10"
+                          HEIGHT="104"
+                          WIDTH="2408"
+                          VPOS="1156"
+                          HPOS="460"
+                          CONTENT="RAFEI, è voce moderna presa perlo porto dell Achaia verso l'Arcipelago, che anticamente si diceva,"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="528,1312 553,1310 579,1310 605,1310 631,1309 657,1308 683,1308 709,1308 734,1308 760,1308 786,1308 812,1308 838,1308 864,1307 890,1306"
+                         HEIGHT="52"
+                         WIDTH="362"
+                         VPOS="1275"
+                         HPOS="528">
+                  <String ID="string_r1l11"
+                          HEIGHT="52"
+                          WIDTH="362"
+                          VPOS="1275"
+                          HPOS="528"
+                          CONTENT="porto panormo."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="462,1390 552,1394 643,1396 734,1396 824,1396 915,1396 1006,1394 1096,1392 1187,1388 1278,1386 1369,1382 1459,1378 1550,1374 1641,1372 1731,1368 1822,1366 1913,1362 2003,1360 2094,1360 2185,1358 2276,1360"
+                         HEIGHT="78"
+                         WIDTH="1814"
+                         VPOS="1331"
+                         HPOS="462">
+                  <String ID="string_r1l12"
+                          HEIGHT="78"
+                          WIDTH="1814"
+                          VPOS="1331"
+                          HPOS="462"
+                          CONTENT="RAIGNY, è citta et Porto di Provenza, è di Liguria, che gia si diceva Antipoli"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="488,1450 609,1452 731,1452 852,1452 974,1452 1096,1452 1217,1450 1339,1448 1460,1446 1582,1444 1704,1443 1825,1442 1947,1440 2068,1438 2190,1438 2312,1437 2433,1438 2555,1438 2676,1440 2798,1442 2920,1444"
+                         HEIGHT="55"
+                         WIDTH="2432"
+                         VPOS="1410"
+                         HPOS="488">
+                  <String ID="string_r1l13"
+                          HEIGHT="55"
+                          WIDTH="2432"
+                          VPOS="1410"
+                          HPOS="488"
+                          CONTENT="RAMA è citta della Suria, che si diceva dall'antichi Lydda et Diospoli. Et Ramà, è citta della palestina in"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="2714,1504 2739,1504 2764,1506 2789,1506 2814,1504 2839,1504 2864,1502 2890,1500"
+                         HEIGHT="51"
+                         WIDTH="176"
+                         VPOS="1468"
+                         HPOS="2702">
+                  <String ID="string_r1l14"
+                          HEIGHT="51"
+                          WIDTH="176"
+                          VPOS="1468"
+                          HPOS="2702"
+                          CONTENT="Iudaea"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="492,1512 565,1512 639,1513 712,1514 786,1514 859,1514 933,1516 1006,1516 1080,1516 1153,1516 1227,1516 1300,1516 1374,1516 1447,1515 1521,1514 1594,1513 1668,1512 1741,1510 1815,1508 1888,1506 1962,1502"
+                         HEIGHT="60"
+                         WIDTH="1470"
+                         VPOS="1471"
+                         HPOS="492">
+                  <String ID="string_r1l15"
+                          HEIGHT="60"
+                          WIDTH="1470"
+                          VPOS="1471"
+                          HPOS="492"
+                          CONTENT="RAMIDAVA, è citta della Dacia, secondo scrive ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="476,1588 580,1586 685,1586 790,1584 894,1584 999,1582 1104,1582 1208,1582 1313,1580 1418,1580 1523,1578 1627,1578 1732,1576 1837,1574 1941,1574 2046,1571 2151,1568 2255,1565 2360,1562 2465,1556 2570,1552"
+                         HEIGHT="84"
+                         WIDTH="2094"
+                         VPOS="1520"
+                         HPOS="476">
+                  <String ID="string_r1l16"
+                          HEIGHT="84"
+                          WIDTH="2094"
+                          VPOS="1520"
+                          HPOS="476"
+                          CONTENT="RAMNETE, ò Ramnetes, era una quarta parte del popolo Romano nel tempo di Romolo"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="472,1660 594,1656 717,1654 840,1652 962,1650 1085,1649 1208,1648 1330,1646 1453,1646 1576,1644 1699,1644 1821,1644 1944,1642 2067,1642 2189,1642 2312,1642 2435,1642 2557,1644 2680,1644 2803,1644 2926,1644"
+                         HEIGHT="64"
+                         WIDTH="2454"
+                         VPOS="1611"
+                         HPOS="472">
+                  <String ID="string_r1l17"
+                          HEIGHT="64"
+                          WIDTH="2454"
+                          VPOS="1611"
+                          HPOS="472"
+                          CONTENT="RAMNENSI, ò Ramnenses è la medesimo parte de Romani et Tribu. La quale Titolivio chiama cosi"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="498,1720 533,1722 568,1722 604,1722 639,1722 675,1722 710,1721 745,1720 781,1720 816,1718 852,1718 887,1716 922,1714 958,1714 993,1713 1029,1712 1064,1712 1099,1712 1135,1712 1170,1714 1206,1716"
+                         HEIGHT="56"
+                         WIDTH="708"
+                         VPOS="1681"
+                         HPOS="498">
+                  <String ID="string_r1l18"
+                          HEIGHT="56"
+                          WIDTH="708"
+                          VPOS="1681"
+                          HPOS="498"
+                          CONTENT="RAMNETES. nel primo libro"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

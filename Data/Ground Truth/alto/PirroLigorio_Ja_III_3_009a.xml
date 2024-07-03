@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_009a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:52.727+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="4517" WIDTH="2725" VPOS="302" HPOS="891">
+               <Shape>
+                  <Polygon POINTS="930,302 891,4819 3616,4810 3611,324"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="980,420 1108,428 1237,435 1365,443 1494,449 1623,455 1751,460 1880,464 2008,468 2137,472 2266,475 2394,476 2523,478 2651,478 2780,478 2909,478 3037,476 3166,474 3294,472 3423,467 3552,462"
+                         HEIGHT="116"
+                         WIDTH="2572"
+                         VPOS="381"
+                         HPOS="980">
+                  <String ID="string_r1l1"
+                          HEIGHT="116"
+                          WIDTH="2572"
+                          VPOS="381"
+                          HPOS="980"
+                          CONTENT="RAPHANEAE, è nome della citta detta ancho Raphaneas come la denomino il Scepsio, è picciola"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1064,500 1186,507 1309,514 1432,521 1555,528 1678,535 1801,541 1924,548 2047,554 2170,559 2293,565 2415,570 2538,574 2661,578 2784,580 2907,584 3030,585 3153,586 3276,586 3399,586 3522,586"
+                         HEIGHT="144"
+                         WIDTH="2458"
+                         VPOS="461"
+                         HPOS="1064">
+                  <String ID="string_r1l2"
+                          HEIGHT="144"
+                          WIDTH="2458"
+                          VPOS="461"
+                          HPOS="1064"
+                          CONTENT="citta della Syria. donde Stephano forma Raphaneotia, cosi ΡΑΦΑΝΕΩΤΗΣ come da Pelae"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1054,610 1178,610 1302,613 1426,618 1551,621 1675,626 1799,632 1924,639 2048,644 2172,651 2297,656 2421,662 2545,668 2669,673 2794,676 2918,680 3042,682 3167,682 3291,682 3415,679 3540,674"
+                         HEIGHT="130"
+                         WIDTH="2486"
+                         VPOS="571"
+                         HPOS="1054">
+                  <String ID="string_r1l3"
+                          HEIGHT="130"
+                          WIDTH="2486"
+                          VPOS="571"
+                          HPOS="1054"
+                          CONTENT="Peliote, ò ΠΗΛΙΩΤΗΣ, et da Heraclea, ΗΡΑΚΛΕΩΤΗΣ, sicome è detto nelle Miscellanie"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1044,698 1070,701 1096,702 1122,704 1148,704 1174,706 1200,706 1226,706 1253,708 1279,708 1305,708 1331,708 1357,708 1383,707 1409,706 1436,706"
+                         HEIGHT="62"
+                         WIDTH="392"
+                         VPOS="663"
+                         HPOS="1044">
+                  <String ID="string_r1l4"
+                          HEIGHT="62"
+                          WIDTH="392"
+                          VPOS="663"
+                          HPOS="1044"
+                          CONTENT="delle Medaglie."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="998,770 1111,774 1224,778 1338,780 1451,783 1565,786 1678,788 1791,790 1905,792 2018,795 2132,798 2245,801 2358,806 2472,810 2585,813 2699,819 2812,824 2925,830 3039,837 3152,846 3266,854"
+                         HEIGHT="136"
+                         WIDTH="2268"
+                         VPOS="735"
+                         HPOS="998">
+                  <String ID="string_r1l5"
+                          HEIGHT="136"
+                          WIDTH="2268"
+                          VPOS="735"
+                          HPOS="998"
+                          CONTENT="RAPHANEA, è la sunominata citta nella Syria, ò Soria Regione secondo la scrive Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="974,1452 1102,1458 1230,1464 1358,1468 1486,1472 1615,1476 1743,1478 1871,1480 1999,1482 2127,1484 2256,1484 2384,1484 2512,1484 2640,1484 2768,1483 2896,1482 3025,1480 3153,1479 3281,1478 3409,1476 3538,1474"
+                         HEIGHT="90"
+                         WIDTH="2564"
+                         VPOS="1413"
+                         HPOS="974">
+                  <String ID="string_r1l6"
+                          HEIGHT="90"
+                          WIDTH="2564"
+                          VPOS="1413"
+                          HPOS="974"
+                          CONTENT="RAPHEIA, et, ΡΑΦΕΙΑ, è citta della Syria, et il nome gentile, secondo Stephano Raphiote, in"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1050,1562 1162,1566 1274,1568 1386,1572 1498,1574 1611,1578 1723,1580 1835,1582 1947,1584 2059,1586 2172,1588 2284,1588 2396,1590 2508,1590 2620,1590 2733,1590 2845,1589 2957,1588 3069,1586 3181,1583 3294,1580"
+                         HEIGHT="86"
+                         WIDTH="2244"
+                         VPOS="1523"
+                         HPOS="1050">
+                  <String ID="string_r1l7"
+                          HEIGHT="86"
+                          WIDTH="2244"
+                          VPOS="1523"
+                          HPOS="1050"
+                          CONTENT="questo modo nella lingua greca., ΡΑΦΙΩΤΗΣ, come disse Dionysio nella sua historia."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="1006,1666 1132,1670 1258,1674 1384,1676 1511,1679 1637,1680 1763,1682 1890,1684 2016,1686 2142,1686 2269,1688 2395,1688 2521,1688 2647,1688 2774,1688 2900,1688 3026,1688 3153,1688 3279,1686 3405,1686 3532,1686"
+                         HEIGHT="77"
+                         WIDTH="2526"
+                         VPOS="1629"
+                         HPOS="1006">
+                  <String ID="string_r1l8"
+                          HEIGHT="77"
+                          WIDTH="2526"
+                          VPOS="1629"
+                          HPOS="1006"
+                          CONTENT="RAPHIA è città della Iudaea Palaestina, che fudetta Ramà. Come è detto piu disopra in Ramà: dalla"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="1102,1744 1137,1745 1173,1746 1208,1748 1244,1749 1279,1750 1315,1750 1350,1752 1386,1752 1421,1752 1457,1753 1492,1754 1528,1754 1563,1754 1599,1754 1634,1754 1670,1754 1705,1752 1741,1752 1776,1750 1812,1750"
+                         HEIGHT="65"
+                         WIDTH="710"
+                         VPOS="1707"
+                         HPOS="1102">
+                  <String ID="string_r1l9"
+                          HEIGHT="65"
+                          WIDTH="710"
+                          VPOS="1707"
+                          HPOS="1102"
+                          CONTENT="quale Raphiaei et Ramaei."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="938,2968 1065,2970 1192,2974 1320,2977 1447,2980 1575,2984 1702,2988 1829,2992 1957,2996 2084,2998 2212,3002 2339,3006 2466,3010 2594,3014 2721,3018 2849,3022 2976,3024 3103,3028 3231,3032 3358,3034 3486,3038"
+                         HEIGHT="125"
+                         WIDTH="2548"
+                         VPOS="2931"
+                         HPOS="938">
+                  <String ID="string_r1l10"
+                          HEIGHT="125"
+                          WIDTH="2548"
+                          VPOS="2931"
+                          HPOS="938"
+                          CONTENT="RASALMA, è fiume della Mauretania nell'Africa gia dall'antichi chiamato Sala, donde i paesani"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="1016,3042 1042,3044 1069,3046 1096,3048 1123,3051 1150,3052 1176,3053 1203,3056 1230,3056 1257,3057 1284,3058 1310,3059 1337,3060 1364,3060 1391,3060 1418,3062 1444,3062 1471,3064 1498,3064 1525,3066 1552,3066"
+                         HEIGHT="79"
+                         WIDTH="536"
+                         VPOS="3005"
+                         HPOS="1016">
+                  <String ID="string_r1l11"
+                          HEIGHT="79"
+                          WIDTH="536"
+                          VPOS="3005"
+                          HPOS="1016"
+                          CONTENT="Rasalmatei appellati."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="966,3208 1089,3210 1212,3212 1335,3214 1458,3214 1581,3216 1704,3218 1827,3220 1950,3222 2073,3224 2197,3226 2320,3230 2443,3232 2566,3236 2689,3238 2812,3242 2935,3247 3058,3251 3181,3256 3304,3262 3428,3268"
+                         HEIGHT="112"
+                         WIDTH="2462"
+                         VPOS="3173"
+                         HPOS="966">
+                  <String ID="string_r1l12"
+                          HEIGHT="112"
+                          WIDTH="2462"
+                          VPOS="3173"
+                          HPOS="966"
+                          CONTENT="RASOCULMO, è voce vulgare, preso perlo promontorio di Sicilia gia chiamato dell'antichi Phalacro."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="1044,3282 1082,3283 1120,3284 1158,3284 1196,3284 1234,3286 1272,3286 1310,3286 1348,3286 1386,3286 1424,3286 1462,3286 1500,3286 1538,3286 1576,3286 1614,3286 1652,3286 1690,3284 1728,3284 1766,3284 1804,3282"
+                         HEIGHT="56"
+                         WIDTH="760"
+                         VPOS="3247"
+                         HPOS="1044">
+                  <String ID="string_r1l13"
+                          HEIGHT="56"
+                          WIDTH="760"
+                          VPOS="3247"
+                          HPOS="1044"
+                          CONTENT="dall'essere bianco sassoso incima"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="986,3374 1109,3372 1233,3370 1357,3370 1481,3370 1605,3370 1728,3371 1852,3372 1976,3376 2100,3378 2224,3380 2347,3384 2471,3388 2595,3393 2719,3398 2843,3403 2966,3409 3090,3414 3214,3420 3338,3426 3462,3432"
+                         HEIGHT="120"
+                         WIDTH="2476"
+                         VPOS="3331"
+                         HPOS="986">
+                  <String ID="string_r1l14"
+                          HEIGHT="120"
+                          WIDTH="2476"
+                          VPOS="3331"
+                          HPOS="986"
+                          CONTENT="RASTIA, et ΡΑΣΤΕΙΑ, è antica città della Galatia come narra Ptolemaeo. et donde i populi si scrivono"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1048,3450 1073,3452 1099,3453 1125,3454 1151,3454 1177,3456 1203,3456 1229,3456 1255,3457 1281,3458 1307,3458 1332,3458 1358,3458 1384,3458 1410,3458 1436,3456 1462,3456 1488,3456 1514,3455 1540,3454 1594,3455"
+                         HEIGHT="66"
+                         WIDTH="518"
+                         VPOS="3411"
+                         HPOS="1048">
+                  <String ID="string_r1l15"
+                          HEIGHT="66"
+                          WIDTH="518"
+                          VPOS="3411"
+                          HPOS="1048"
+                          CONTENT="Rastiaei, et Rastiaensi."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="970,3634 1096,3634 1222,3635 1348,3636 1474,3638 1601,3640 1727,3642 1853,3645 1979,3648 2105,3652 2232,3654 2358,3659 2484,3664 2610,3668 2736,3672 2863,3677 2989,3682 3115,3688 3241,3694 3367,3699 3494,3706"
+                         HEIGHT="129"
+                         WIDTH="2524"
+                         VPOS="3596"
+                         HPOS="970">
+                  <String ID="string_r1l16"
+                          HEIGHT="129"
+                          WIDTH="2524"
+                          VPOS="3596"
+                          HPOS="970"
+                          CONTENT="RATACENSII, et, ΡΑΤΑΚΕΝΣΙΟΙ, sono Populi della Dacia, come piace a Ptolemaeo. Detti gia da Ratace loro"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="1048,3712 1075,3712 1102,3712 1129,3711 1156,3710 1184,3708"
+                         HEIGHT="62"
+                         WIDTH="136"
+                         VPOS="3669"
+                         HPOS="1048">
+                  <String ID="string_r1l17"
+                          HEIGHT="62"
+                          WIDTH="136"
+                          VPOS="3669"
+                          HPOS="1048"
+                          CONTENT="città."/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="962,3952 1087,3950 1212,3950 1337,3950 1462,3950 1587,3952 1712,3953 1837,3956 1962,3959 2087,3962 2212,3966 2337,3971 2462,3976 2587,3982 2712,3987 2837,3994 2962,4000 3087,4007 3212,4013 3337,4020 3462,4028"
+                         HEIGHT="129"
+                         WIDTH="2500"
+                         VPOS="3916"
+                         HPOS="962">
+                  <String ID="string_r1l18"
+                          HEIGHT="129"
+                          WIDTH="2500"
+                          VPOS="3916"
+                          HPOS="962"
+                          CONTENT="RATENIO, Ratenium, ΡΑΤΗΝΙΟΝ, è castello della Liburnia Regione, di cui singularmente scrive Pli¬"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="1030,4014 1136,4014 1243,4014 1349,4016 1456,4018 1563,4020 1669,4024 1776,4026 1882,4030 1989,4033 2096,4037 2202,4042 2309,4046 2415,4052 2522,4057 2629,4063 2735,4069 2842,4076 2948,4082 3055,4088 3162,4096"
+                         HEIGHT="133"
+                         WIDTH="2132"
+                         VPOS="3980"
+                         HPOS="1030">
+                  <String ID="string_r1l19"
+                          HEIGHT="133"
+                          WIDTH="2132"
+                          VPOS="3980"
+                          HPOS="1030"
+                          CONTENT="nio nel terzo libro al capo ventiduoi. donde s'ha da scrivere Ratenio, Ratenij lhabitatori."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="962,4200 1089,4198 1217,4196 1344,4194 1472,4192 1600,4192 1727,4194 1855,4194 1982,4196 2110,4199 2238,4202 2365,4206 2493,4211 2620,4216 2748,4222 2876,4227 3003,4234 3131,4242 3258,4249 3386,4257 3514,4266"
+                         HEIGHT="132"
+                         WIDTH="2552"
+                         VPOS="4153"
+                         HPOS="962">
+                  <String ID="string_r1l20"
+                          HEIGHT="132"
+                          WIDTH="2552"
+                          VPOS="4153"
+                          HPOS="962"
+                          CONTENT="RATIASTO, Ratiastum; ΡΑΤΙΑΣΤΟΝ, è città nelli Pictoni populi nell'Aquitania, nominata da Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="1034,4278 1157,4278 1281,4278 1404,4280 1528,4282 1651,4286 1775,4290 1898,4296 2022,4300 2145,4306 2269,4312 2392,4316 2516,4322 2639,4329 2763,4334 2886,4341 3010,4346 3133,4352 3257,4356 3380,4360 3504,4364"
+                         HEIGHT="132"
+                         WIDTH="2470"
+                         VPOS="4243"
+                         HPOS="1034">
+                  <String ID="string_r1l21"
+                          HEIGHT="132"
+                          WIDTH="2470"
+                          VPOS="4243"
+                          HPOS="1034"
+                          CONTENT="donde Ratiastonensij i populi. Come Rastiastona Pallade Iddea gia venerata nelluogo. comesi trova nella me¬"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="1038,4338 1103,4340 1168,4342 1233,4346 1298,4348 1363,4352 1428,4355 1493,4360 1558,4362 1623,4367 1689,4370 1754,4376 1819,4378 1884,4383 1949,4386 2014,4390 2079,4394 2144,4398 2209,4400 2274,4404 2340,4406"
+                         HEIGHT="114"
+                         WIDTH="1302"
+                         VPOS="4307"
+                         HPOS="1038">
+                  <String ID="string_r1l22"
+                          HEIGHT="114"
+                          WIDTH="1302"
+                          VPOS="4307"
+                          HPOS="1038"
+                          CONTENT="daglia Municipale, con essa Dea et il Bove con l'altare."/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="984,4408 1111,4417 1239,4428 1367,4436 1494,4444 1622,4451 1750,4459 1877,4465 2005,4472 2133,4479 2261,4485 2388,4491 2516,4497 2644,4504 2771,4510 2899,4516 3027,4522 3154,4530 3282,4536 3410,4544 3538,4552"
+                         HEIGHT="201"
+                         WIDTH="2554"
+                         VPOS="4370"
+                         HPOS="984">
+                  <String ID="string_r1l23"
+                          HEIGHT="201"
+                          WIDTH="2554"
+                          VPOS="4370"
+                          HPOS="984"
+                          CONTENT="RATIO, Rationis, ò vogliamo dire la Ragione. L'antichi dipignevano una bella Donna vestita di stola sottile et candida"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="1028,4502 1152,4510 1277,4519 1402,4528 1527,4535 1652,4542 1777,4550 1902,4557 2027,4562 2152,4570 2277,4575 2401,4581 2526,4586 2651,4592 2776,4598 2901,4604 3026,4608 3151,4614 3276,4618 3401,4623 3526,4628"
+                         HEIGHT="183"
+                         WIDTH="2498"
+                         VPOS="4464"
+                         HPOS="1028">
+                  <String ID="string_r1l24"
+                          HEIGHT="183"
+                          WIDTH="2498"
+                          VPOS="4464"
+                          HPOS="1028"
+                          CONTENT="trasparente conl a castula vesticciola corta sopra alla stola col Mantelletto Azzurro dalla destra tiene una Tazza con"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1036,4604 1158,4610 1281,4616 1404,4622 1527,4628 1650,4634 1772,4640 1895,4645 2018,4650 2141,4656 2264,4660 2386,4666 2509,4670 2632,4675 2755,4680 2878,4686 3000,4690 3123,4694 3246,4701 3369,4705 3492,4710"
+                         HEIGHT="163"
+                         WIDTH="2456"
+                         VPOS="4566"
+                         HPOS="1036">
+                  <String ID="string_r1l25"
+                          HEIGHT="163"
+                          WIDTH="2456"
+                          VPOS="4566"
+                          HPOS="1036"
+                          CONTENT="una lingua humana sopra la quale una limma, per le cose bene rationate et limmate, dalla sinistra tiene una"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="1014,4690 1091,4690 1169,4692 1247,4695 1325,4697 1403,4700 1481,4704 1559,4708 1637,4711 1715,4716 1793,4720 1870,4724 1948,4730 2026,4734 2104,4739 2182,4743 2260,4747 2338,4750 2416,4755 2494,4759 2572,4762"
+                         HEIGHT="129"
+                         WIDTH="1558"
+                         VPOS="4652"
+                         HPOS="1014">
+                  <String ID="string_r1l26"
+                          HEIGHT="129"
+                          WIDTH="1558"
+                          VPOS="4652"
+                          HPOS="1014"
+                          CONTENT="scure ò bipenne accetta da due tagli ch'è della iustitia instrumento."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

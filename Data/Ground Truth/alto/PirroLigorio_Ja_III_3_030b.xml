@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_030b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:02.08+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643803621695_1337"
+                       HEIGHT="252"
+                       WIDTH="400"
+                       VPOS="218"
+                       HPOS="2940">
+               <Shape>
+                  <Polygon POINTS="2940,219 3340,218 3339,464 2940,470"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643803621695_1336"
+                       HEIGHT="4338"
+                       WIDTH="3051"
+                       VPOS="219"
+                       HPOS="288">
+               <Shape>
+                  <Polygon POINTS="288,230 2940,219 2940,470 3339,464 3330,4557 302,4532"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="374,410 495,414 616,418 737,420 859,422 980,424 1101,426 1223,426 1344,428 1465,428 1587,428 1708,430 1829,430 1950,430 2072,430 2193,432 2314,432 2436,432 2557,434 2678,436 2800,436"
+                         HEIGHT="84"
+                         WIDTH="2426"
+                         VPOS="371"
+                         HPOS="374">
+                  <String ID="string_r1l1"
+                          HEIGHT="84"
+                          WIDTH="2426"
+                          VPOS="371"
+                          HPOS="374"
+                          CONTENT="RHEGIO, è città di Italia nella Magna Grecia, da Greci scritta, ΡΗΓΙΟΝ, et da latini Regium."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="416,502 534,505 653,506 772,508 891,509 1010,510 1128,510 1247,510 1366,510 1485,510 1604,510 1722,510 1841,510 1960,510 2079,512 2198,512 2316,513 2435,514 2554,516 2673,518 2792,520"
+                         HEIGHT="76"
+                         WIDTH="2376"
+                         VPOS="463"
+                         HPOS="416">
+                  <String ID="string_r1l2"
+                          HEIGHT="76"
+                          WIDTH="2376"
+                          VPOS="463"
+                          HPOS="416"
+                          CONTENT="Fu pria colonia greca, et poscia de latini dal grande Augusto la quale chiamo RHEGIO IVLIA AV¬"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="410,612 530,616 651,616 772,618 893,618 1014,616 1135,616 1256,614 1377,614 1498,612 1619,610 1739,608 1860,608 1981,606 2102,606 2223,606 2344,606 2465,608 2586,610 2707,612 2828,616"
+                         HEIGHT="76"
+                         WIDTH="2418"
+                         VPOS="563"
+                         HPOS="410">
+                  <String ID="string_r1l3"
+                          HEIGHT="76"
+                          WIDTH="2418"
+                          VPOS="563"
+                          HPOS="410"
+                          CONTENT="GVSTA COLONIA LATINA, ove pose soldati veterani. et Fu pria appellata Rhigion dall'esser posta"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="400,708 522,708 644,708 766,708 888,706 1011,706 1133,704 1255,704 1377,702 1499,702 1622,702 1744,702 1866,702 1988,702 2110,702 2233,704 2355,706 2477,708 2599,711 2721,715 2844,720"
+                         HEIGHT="82"
+                         WIDTH="2444"
+                         VPOS="659"
+                         HPOS="400">
+                  <String ID="string_r1l4"
+                          HEIGHT="82"
+                          WIDTH="2444"
+                          VPOS="659"
+                          HPOS="400"
+                          CONTENT="sul freto tra la Sicilia et l'Italia, cio è dal spartire et Rhere, onde gli habitatori sono detti Rhe¬"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="406,810 526,809 647,808 767,808 888,806 1008,806 1129,804 1249,804 1370,803 1490,802 1611,802 1731,802 1852,802 1972,802 2093,802 2213,802 2334,802 2454,802 2575,804 2695,804 2816,806"
+                         HEIGHT="74"
+                         WIDTH="2410"
+                         VPOS="758"
+                         HPOS="406">
+                  <String ID="string_r1l5"
+                          HEIGHT="74"
+                          WIDTH="2410"
+                          VPOS="758"
+                          HPOS="406"
+                          CONTENT="gini, et il cittadino Rhegino, come nel greco ΡΗΓΙΝΟΣ, et ΡΗΓΙΝΗ, cio è Rhegine ò Rhegi¬"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="410,898 531,898 653,900 774,900 896,900 1017,900 1139,900 1260,900 1382,900 1503,899 1625,898 1746,898 1868,898 1989,898 2111,898 2232,898 2354,898 2475,898 2597,898 2718,896 2840,896"
+                         HEIGHT="70"
+                         WIDTH="2430"
+                         VPOS="852"
+                         HPOS="410">
+                  <String ID="string_r1l6"
+                          HEIGHT="70"
+                          WIDTH="2430"
+                          VPOS="852"
+                          HPOS="410"
+                          CONTENT="na la femina. Si come piace à Sthephano Byzantio. Fanne menzione Antigono nelle Olympia¬"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="406,1006 526,1006 647,1004 768,1004 889,1004 1010,1004 1131,1004 1252,1004 1373,1002 1494,1002 1615,1002 1735,1002 1856,1002 1977,1002 2098,1002 2219,1002 2340,1002 2461,1002 2582,1002 2703,1002 2824,1002"
+                         HEIGHT="70"
+                         WIDTH="2418"
+                         VPOS="958"
+                         HPOS="406">
+                  <String ID="string_r1l7"
+                          HEIGHT="70"
+                          WIDTH="2418"
+                          VPOS="958"
+                          HPOS="406"
+                          CONTENT="di in questo breve senso, che nella prima Olympiade secondo scrive Timaeo le cycale in"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="406,1102 528,1102 650,1102 772,1101 894,1100 1016,1100 1138,1100 1260,1098 1382,1098 1504,1096 1627,1096 1749,1096 1871,1094 1993,1094 2115,1094 2237,1092 2359,1092 2481,1092 2603,1092 2725,1092 2848,1092"
+                         HEIGHT="74"
+                         WIDTH="2442"
+                         VPOS="1049"
+                         HPOS="406">
+                  <String ID="string_r1l8"
+                          HEIGHT="74"
+                          WIDTH="2442"
+                          VPOS="1049"
+                          HPOS="406"
+                          CONTENT="Rhegio furono fatte mute et non cant avano: per cio che egli nella historia de sicoli, o' vo¬"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="406,1190 526,1190 647,1190 768,1190 889,1190 1010,1190 1130,1190 1251,1189 1372,1188 1493,1188 1614,1188 1734,1186 1855,1186 1976,1186 2097,1186 2218,1186 2338,1188 2459,1188 2580,1190 2701,1192 2822,1194"
+                         HEIGHT="72"
+                         WIDTH="2416"
+                         VPOS="1143"
+                         HPOS="406">
+                  <String ID="string_r1l9"
+                          HEIGHT="72"
+                          WIDTH="2416"
+                          VPOS="1143"
+                          HPOS="406"
+                          CONTENT="gliamo dire siciliani, fece memoria, che in Rhegio al fiume Hellece chel paese de Locri,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="414,1284 534,1286 654,1288 775,1289 895,1290 1016,1290 1136,1290 1256,1290 1377,1290 1497,1290 1618,1290 1738,1290 1858,1290 1979,1290 2099,1290 2220,1290 2340,1290 2460,1292 2581,1294 2701,1294 2822,1298"
+                         HEIGHT="80"
+                         WIDTH="2408"
+                         VPOS="1240"
+                         HPOS="414">
+                  <String ID="string_r1l10"
+                          HEIGHT="80"
+                          WIDTH="2408"
+                          VPOS="1240"
+                          HPOS="414"
+                          CONTENT="et di Rhegini destingue, è cosa maravigliosa, che le cycale cantano nella parte di Locri,"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="398,1380 519,1380 641,1382 763,1382 885,1382 1007,1382 1129,1382 1251,1382 1373,1382 1495,1382 1617,1382 1738,1382 1860,1382 1982,1382 2104,1384 2226,1384 2348,1384 2470,1386 2592,1386 2714,1388 2836,1390"
+                         HEIGHT="76"
+                         WIDTH="2438"
+                         VPOS="1336"
+                         HPOS="398">
+                  <String ID="string_r1l11"
+                          HEIGHT="76"
+                          WIDTH="2438"
+                          VPOS="1336"
+                          HPOS="398"
+                          CONTENT="et in quella di Rhegini sono mute. et non vi e se non uno brevissimo spatio. Dele quali si di"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="398,1480 521,1482 645,1484 768,1484 892,1484 1016,1484 1139,1484 1263,1484 1386,1484 1510,1484 1634,1482 1757,1482 1881,1482 2004,1482 2128,1482 2252,1482 2375,1484 2499,1484 2622,1486 2746,1488 2870,1492"
+                         HEIGHT="78"
+                         WIDTH="2472"
+                         VPOS="1436"
+                         HPOS="398">
+                  <String ID="string_r1l12"
+                          HEIGHT="78"
+                          WIDTH="2472"
+                          VPOS="1436"
+                          HPOS="398"
+                          CONTENT="cono cose favolose, l'una che nella olympiade prima come dice Diodoro Hercole le fece mute per¬"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="394,1588 516,1588 639,1588 762,1588 885,1586 1008,1586 1131,1586 1254,1584 1377,1584 1500,1584 1623,1582 1745,1582 1868,1582 1991,1582 2114,1582 2237,1584 2360,1584 2483,1586 2606,1588 2729,1590 2852,1594"
+                         HEIGHT="78"
+                         WIDTH="2458"
+                         VPOS="1538"
+                         HPOS="394">
+                  <String ID="string_r1l13"
+                          HEIGHT="78"
+                          WIDTH="2458"
+                          VPOS="1538"
+                          HPOS="394"
+                          CONTENT="che lo destavano dal somno et riposo che prendea sotto gliarbori conl'Armenti tolti à Gerione."/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="386,1688 509,1690 633,1692 757,1692 880,1692 1004,1692 1128,1690 1251,1690 1375,1688 1499,1688 1623,1686 1746,1685 1870,1684 1994,1684 2117,1684 2241,1684 2365,1684 2488,1686 2612,1688 2736,1692 2860,1696"
+                         HEIGHT="78"
+                         WIDTH="2474"
+                         VPOS="1640"
+                         HPOS="386">
+                  <String ID="string_r1l14"
+                          HEIGHT="78"
+                          WIDTH="2474"
+                          VPOS="1640"
+                          HPOS="386"
+                          CONTENT="et nellaltra regione, aducono nella seconda Olympiade questo. Essendo addunque venuto da"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="390,1790 512,1792 634,1792 757,1794 879,1794 1002,1794 1124,1794 1246,1794 1369,1792 1491,1792 1614,1792 1736,1790 1858,1790 1981,1790 2103,1790 2226,1790 2348,1790 2470,1790 2593,1792 2715,1794 2838,1796"
+                         HEIGHT="72"
+                         WIDTH="2448"
+                         VPOS="1746"
+                         HPOS="390">
+                  <String ID="string_r1l15"
+                          HEIGHT="72"
+                          WIDTH="2448"
+                          VPOS="1746"
+                          HPOS="390"
+                          CONTENT="Delpho à Rhegio duoi coloni, ò habitatori, da Delpho Aristone, et à Locro Eunomo Cytharedi,"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="390,1896 512,1896 634,1896 756,1896 878,1896 1001,1896 1123,1895 1245,1894 1367,1894 1489,1892 1612,1892 1734,1892 1856,1892 1978,1892 2100,1892 2223,1892 2345,1894 2467,1896 2589,1898 2711,1902 2834,1906"
+                         HEIGHT="80"
+                         WIDTH="2444"
+                         VPOS="1848"
+                         HPOS="390">
+                  <String ID="string_r1l16"
+                          HEIGHT="80"
+                          WIDTH="2444"
+                          VPOS="1848"
+                          HPOS="390"
+                          CONTENT="et questi sendo poi venuti à gara nel cantare, et suonare: Eunomo Locrense per segno di Vit"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="398,1986 519,1987 641,1988 763,1990 885,1992 1007,1992 1129,1992 1251,1994 1373,1994 1495,1994 1617,1994 1738,1994 1860,1994 1982,1994 2104,1994 2226,1994 2348,1994 2470,1994 2592,1994 2714,1994 2836,1996"
+                         HEIGHT="76"
+                         WIDTH="2438"
+                         VPOS="1942"
+                         HPOS="398">
+                  <String ID="string_r1l17"
+                          HEIGHT="76"
+                          WIDTH="2438"
+                          VPOS="1942"
+                          HPOS="398"
+                          CONTENT="toria gli volo una cycala sula Lyra, il che sendo veduto con gran'chlamore, et vociferatione"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="368,2084 491,2086 614,2086 737,2086 860,2086 983,2086 1106,2086 1229,2086 1352,2086 1475,2086 1598,2086 1721,2086 1844,2086 1967,2088 2090,2088 2213,2088 2336,2090 2459,2090 2582,2092 2705,2093 2828,2094"
+                         HEIGHT="76"
+                         WIDTH="2460"
+                         VPOS="2040"
+                         HPOS="368">
+                  <String ID="string_r1l18"
+                          HEIGHT="76"
+                          WIDTH="2460"
+                          VPOS="2040"
+                          HPOS="368"
+                          CONTENT="fu gridato vincitore, et cosi rimasto Aristone Rhegino perditore, lo fingono dalla natura delle"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="388,2192 510,2194 632,2196 754,2198 876,2198 999,2198 1121,2198 1243,2196 1365,2196 1487,2194 1610,2194 1732,2192 1854,2192 1976,2190 2098,2190 2221,2188 2343,2188 2465,2188 2587,2190 2709,2190 2832,2192"
+                         HEIGHT="76"
+                         WIDTH="2444"
+                         VPOS="2144"
+                         HPOS="388">
+                  <String ID="string_r1l19"
+                          HEIGHT="76"
+                          WIDTH="2444"
+                          VPOS="2144"
+                          HPOS="388"
+                          CONTENT="cycale mute, ch'esse inlo paese Rhegino non visi sentono: Ma quelli che non piacque di dire,"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="392,2290 513,2292 635,2294 757,2296 879,2296 1001,2296 1122,2298 1244,2298 1366,2298 1488,2296 1610,2296 1731,2296 1853,2296 1975,2296 2097,2296 2219,2296 2340,2296 2462,2296 2584,2296 2706,2298 2828,2300"
+                         HEIGHT="76"
+                         WIDTH="2436"
+                         VPOS="2246"
+                         HPOS="392">
+                  <String ID="string_r1l20"
+                          HEIGHT="76"
+                          WIDTH="2436"
+                          VPOS="2246"
+                          HPOS="392"
+                          CONTENT="che in una parte non vi cantano perla grossezza dell'aere, et nell'altra cantano per megliore"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="378,2384 500,2384 622,2386 744,2386 866,2386 989,2386 1111,2386 1233,2388 1355,2388 1477,2388 1600,2390 1722,2390 1844,2390 1966,2390 2088,2392 2211,2392 2333,2392 2455,2392 2577,2392 2699,2392 2822,2394"
+                         HEIGHT="76"
+                         WIDTH="2444"
+                         VPOS="2340"
+                         HPOS="378">
+                  <String ID="string_r1l21"
+                          HEIGHT="76"
+                          WIDTH="2444"
+                          VPOS="2340"
+                          HPOS="378"
+                          CONTENT="aria, attibuiscono la mutezza loro alli prieghi d'Hercole, che quivi non potendo quietare"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="390,2486 513,2484 637,2482 760,2482 884,2480 1007,2480 1131,2480 1254,2478 1378,2478 1501,2480 1625,2480 1748,2480 1872,2481 1995,2482 2119,2482 2242,2484 2366,2484 2489,2486 2613,2486 2736,2486 2860,2486"
+                         HEIGHT="74"
+                         WIDTH="2470"
+                         VPOS="2434"
+                         HPOS="390">
+                  <String ID="string_r1l22"
+                          HEIGHT="74"
+                          WIDTH="2470"
+                          VPOS="2434"
+                          HPOS="390"
+                          CONTENT="perlo strepito, domandando à Iove ò alla natura gratia, diventarono mute per sempre. Hor dunque,"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="384,2576 506,2574 628,2574 751,2572 873,2572 996,2572 1118,2572 1240,2572 1363,2574 1485,2576 1608,2576 1730,2578 1852,2580 1975,2582 2097,2584 2220,2585 2342,2587 2464,2588 2587,2590 2709,2590 2832,2592"
+                         HEIGHT="86"
+                         WIDTH="2448"
+                         VPOS="2528"
+                         HPOS="384">
+                  <String ID="string_r1l23"
+                          HEIGHT="86"
+                          WIDTH="2448"
+                          VPOS="2528"
+                          HPOS="384"
+                          CONTENT="i locrensi nella Moneta loro da un lato fecero la lyra d'Eunomo conla cycala per rovescio della"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="386,2678 508,2676 630,2676 752,2674 874,2674 996,2674 1118,2674 1240,2676 1362,2676 1484,2676 1606,2678 1728,2678 1850,2680 1972,2681 2094,2682 2216,2682 2338,2684 2460,2684 2582,2684 2704,2684 2826,2686"
+                         HEIGHT="73"
+                         WIDTH="2440"
+                         VPOS="2633"
+                         HPOS="386">
+                  <String ID="string_r1l24"
+                          HEIGHT="73"
+                          WIDTH="2440"
+                          VPOS="2633"
+                          HPOS="386"
+                          CONTENT="Testa di Iove, et quando à quella di Apolline, ò di Hercole con la cycala. et li Rhegini fanno"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="384,2762 506,2764 629,2768 751,2768 874,2770 997,2771 1119,2772 1242,2772 1364,2772 1487,2770 1610,2770 1732,2770 1855,2770 1977,2768 2100,2768 2223,2768 2345,2768 2468,2768 2590,2770 2713,2771 2836,2772"
+                         HEIGHT="71"
+                         WIDTH="2452"
+                         VPOS="2721"
+                         HPOS="384">
+                  <String ID="string_r1l25"
+                          HEIGHT="71"
+                          WIDTH="2452"
+                          VPOS="2721"
+                          HPOS="384"
+                          CONTENT="il medesimo, per che alcuni dicono che perla Isolenza d'Aristone et suoi partiali. Eunomo heb¬"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="376,2858 498,2858 621,2860 743,2860 866,2860 989,2862 1111,2862 1234,2864 1356,2866 1479,2868 1602,2868 1724,2870 1847,2872 1969,2874 2092,2876 2215,2878 2337,2880 2460,2882 2582,2884 2705,2886 2828,2888"
+                         HEIGHT="96"
+                         WIDTH="2452"
+                         VPOS="2814"
+                         HPOS="376">
+                  <String ID="string_r1l26"
+                          HEIGHT="96"
+                          WIDTH="2452"
+                          VPOS="2814"
+                          HPOS="376"
+                          CONTENT="be la corona, per che una cycala delle Mute canto sula sua cythera, Di piu fanno i Rhegini"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="376,2950 498,2950 620,2952 742,2952 864,2952 986,2954 1108,2956 1230,2956 1352,2958 1474,2960 1597,2962 1719,2963 1841,2965 1963,2966 2085,2968 2207,2970 2329,2972 2451,2974 2573,2976 2695,2978 2818,2980"
+                         HEIGHT="96"
+                         WIDTH="2442"
+                         VPOS="2906"
+                         HPOS="376">
+                  <String ID="string_r1l27"
+                          HEIGHT="96"
+                          WIDTH="2442"
+                          VPOS="2906"
+                          HPOS="376"
+                          CONTENT="Arione Cytharedo sul Delphino affiso, nel rovescio della testa di Neptuno, per che costui appo di loro"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="374,3046 496,3048 619,3050 742,3052 865,3052 988,3054 1111,3056 1234,3058 1357,3058 1480,3060 1603,3062 1725,3064 1848,3064 1971,3066 2094,3068 2217,3070 2340,3072 2463,3074 2586,3076 2709,3079 2832,3082"
+                         HEIGHT="100"
+                         WIDTH="2458"
+                         VPOS="3003"
+                         HPOS="374">
+                  <String ID="string_r1l28"
+                          HEIGHT="100"
+                          WIDTH="2458"
+                          VPOS="3003"
+                          HPOS="374"
+                          CONTENT="s'arrichi. et d'indi ritornò à Mitymna sua patria, come è detto nelle Medaglie di Rhegio. Et fa"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="376,3134 500,3138 625,3140 749,3142 874,3145 999,3148 1123,3150 1248,3154 1372,3156 1497,3158 1622,3162 1746,3164 1871,3168 1995,3170 2120,3174 2245,3176 2369,3178 2494,3182 2618,3184 2743,3188 2868,3190"
+                         HEIGHT="120"
+                         WIDTH="2492"
+                         VPOS="3091"
+                         HPOS="376">
+                  <String ID="string_r1l29"
+                          HEIGHT="120"
+                          WIDTH="2492"
+                          VPOS="3091"
+                          HPOS="376"
+                          CONTENT="cevano, la Nave d'Ulysse assaltata da Carybdi et Scilla, nelli rovesci dell'imperadori Roma¬"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="374,3230 498,3235 623,3240 747,3244 872,3248 996,3252 1121,3254 1245,3258 1370,3260 1494,3262 1619,3264 1743,3268 1868,3270 1992,3272 2117,3274 2241,3277 2366,3279 2490,3282 2615,3286 2739,3288 2864,3292"
+                         HEIGHT="128"
+                         WIDTH="2490"
+                         VPOS="3186"
+                         HPOS="374">
+                  <String ID="string_r1l30"
+                          HEIGHT="128"
+                          WIDTH="2490"
+                          VPOS="3186"
+                          HPOS="374"
+                          CONTENT="ni perlo antico significato del valore et prudentia d'Ulysse, quando passo il freto periglioso, che al¬"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="376,3346 499,3348 623,3352 747,3354 871,3356 995,3358 1119,3360 1243,3362 1367,3364 1491,3366 1615,3368 1738,3370 1862,3372 1986,3374 2110,3378 2234,3382 2358,3386 2482,3393 2606,3399 2730,3406 2854,3416"
+                         HEIGHT="136"
+                         WIDTH="2478"
+                         VPOS="3302"
+                         HPOS="376">
+                  <String ID="string_r1l31"
+                          HEIGHT="136"
+                          WIDTH="2478"
+                          VPOS="3302"
+                          HPOS="376"
+                          CONTENT="lhora i naviganti grandemente temevano di passarlo. Hora per tornar' anchora alla natura de¬"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="350,3450 473,3450 596,3450 719,3450 843,3450 966,3452 1089,3452 1213,3454 1336,3456 1459,3458 1583,3460 1706,3464 1829,3466 1952,3470 2076,3474 2199,3478 2322,3482 2446,3486 2569,3490 2692,3494 2816,3498"
+                         HEIGHT="114"
+                         WIDTH="2466"
+                         VPOS="3406"
+                         HPOS="350">
+                  <String ID="string_r1l32"
+                          HEIGHT="114"
+                          WIDTH="2466"
+                          VPOS="3406"
+                          HPOS="350"
+                          CONTENT="le cycale, si trova questo che in niuno luogo dove è l'aere grave si sentono. Nell'attica che è bonissi"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="364,3528 487,3531 611,3534 735,3538 859,3542 983,3545 1106,3549 1230,3553 1354,3557 1478,3562 1602,3566 1725,3570 1849,3574 1973,3580 2097,3584 2221,3588 2344,3594 2468,3598 2592,3604 2716,3610 2840,3614"
+                         HEIGHT="140"
+                         WIDTH="2476"
+                         VPOS="3492"
+                         HPOS="364">
+                  <String ID="string_r1l33"
+                          HEIGHT="140"
+                          WIDTH="2476"
+                          VPOS="3492"
+                          HPOS="364"
+                          CONTENT="ma l'aria, vi sono piu grosse et piu cantarine, che non sono inaltra parte di Grecia, et gli Athenie¬"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="358,3628 481,3630 605,3632 729,3634 853,3638 977,3641 1100,3644 1224,3648 1348,3652 1472,3656 1596,3660 1719,3664 1843,3666 1967,3670 2091,3674 2215,3677 2338,3680 2462,3682 2586,3684 2710,3686 2834,3686"
+                         HEIGHT="112"
+                         WIDTH="2476"
+                         VPOS="3592"
+                         HPOS="358">
+                  <String ID="string_r1l34"
+                          HEIGHT="112"
+                          WIDTH="2476"
+                          VPOS="3592"
+                          HPOS="358"
+                          CONTENT="si portavano le cycale legate ne capelli per mostrarsi endigeni, cio è nati quivi et non d'altronde"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="356,3718 479,3720 602,3723 725,3726 848,3728 971,3732 1094,3735 1217,3739 1340,3742 1463,3746 1587,3750 1710,3754 1833,3756 1956,3760 2079,3764 2202,3767 2325,3770 2448,3773 2571,3776 2694,3778 2818,3780"
+                         HEIGHT="128"
+                         WIDTH="2462"
+                         VPOS="3674"
+                         HPOS="356">
+                  <String ID="string_r1l35"
+                          HEIGHT="128"
+                          WIDTH="2462"
+                          VPOS="3674"
+                          HPOS="356"
+                          CONTENT="venuti, per mostrar l'antica loro nobilta, sicome dicono Plutarcho, et Thucydide. Narra di piu"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="348,3820 471,3820 595,3822 719,3823 843,3826 967,3828 1091,3830 1215,3834 1339,3838 1463,3842 1587,3846 1710,3850 1834,3854 1958,3858 2082,3861 2206,3866 2330,3868 2454,3872 2578,3874 2702,3876 2826,3876"
+                         HEIGHT="122"
+                         WIDTH="2478"
+                         VPOS="3776"
+                         HPOS="348">
+                  <String ID="string_r1l36"
+                          HEIGHT="122"
+                          WIDTH="2478"
+                          VPOS="3776"
+                          HPOS="348"
+                          CONTENT="Antigono, che nella terza olympiade, in Cephallenia isola advenne; essendo quella divisa dal"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="360,3904 482,3908 605,3914 727,3918 850,3922 972,3926 1095,3930 1217,3933 1340,3936 1462,3940 1585,3942 1707,3945 1830,3948 1952,3952 2075,3956 2197,3959 2320,3963 2442,3968 2565,3972 2687,3978 2810,3984"
+                         HEIGHT="141"
+                         WIDTH="2450"
+                         VPOS="3863"
+                         HPOS="360">
+                  <String ID="string_r1l37"
+                          HEIGHT="141"
+                          WIDTH="2450"
+                          VPOS="3863"
+                          HPOS="360"
+                          CONTENT="phiume Cephallenio indue parti, da una le cycale non vi cantano et dall'altra parte si. Hora"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="354,3998 477,4003 600,4008 723,4012 846,4017 969,4020 1092,4024 1215,4027 1338,4030 1461,4033 1584,4036 1707,4038 1830,4041 1953,4044 2076,4046 2199,4050 2322,4052 2445,4056 2568,4060 2691,4064 2814,4068"
+                         HEIGHT="128"
+                         WIDTH="2460"
+                         VPOS="3959"
+                         HPOS="354">
+                  <String ID="string_r1l38"
+                          HEIGHT="128"
+                          WIDTH="2460"
+                          VPOS="3959"
+                          HPOS="354"
+                          CONTENT="di Rhegio fa menzione Ovidio nel quarto delle trasformationi. RHEGION, INGREDITVR, FERVENTESQVE"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="345,4083 373,4086 399,4088 425,4084 452,4086 478,4088 505,4089 531,4092 558,4092 584,4094 611,4094 637,4096 664,4096 690,4097 717,4098 743,4099 793,4102"
+                         HEIGHT="82"
+                         WIDTH="424"
+                         VPOS="4037"
+                         HPOS="346">
+                  <String ID="string_r1l39"
+                          HEIGHT="82"
+                          WIDTH="424"
+                          VPOS="4037"
+                          HPOS="346"
+                          CONTENT="AESTIBVS VNDAS. "/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="298,4182 424,4192 551,4200 677,4206 804,4212 931,4216 1057,4220 1184,4222 1310,4224 1437,4226 1564,4226 1690,4226 1817,4226 1943,4228 2070,4228 2197,4228 2323,4229 2450,4230 2576,4232 2703,4236 2830,4240"
+                         HEIGHT="124"
+                         WIDTH="2532"
+                         VPOS="4138"
+                         HPOS="298">
+                  <String ID="string_r1l40"
+                          HEIGHT="124"
+                          WIDTH="2532"
+                          VPOS="4138"
+                          HPOS="298"
+                          CONTENT="RHEBA, ò vero ΡΗΒΑΣ, è nome di Fiume del ponto et Regione, come scrive Stephano, da cui il nome"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="358,4288 482,4296 606,4302 730,4308 854,4312 978,4314 1102,4316 1226,4318 1350,4318 1474,4318 1598,4318 1722,4318 1846,4318 1970,4318 2094,4318 2218,4320 2342,4322 2466,4324 2590,4326 2714,4331 2838,4336"
+                         HEIGHT="111"
+                         WIDTH="2480"
+                         VPOS="4246"
+                         HPOS="358">
+                  <String ID="string_r1l41"
+                          HEIGHT="111"
+                          WIDTH="2480"
+                          VPOS="4246"
+                          HPOS="358"
+                          CONTENT="gentile degli habitatori dice Rhebaei. Cosi, ΡΗΒΑΙΟΙ. con duoi diphtonghi. Cosi anchora li nomino"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="346,4394 472,4396 599,4398 726,4400 852,4400 979,4402 1106,4402 1232,4404 1359,4404 1486,4406 1613,4406 1739,4408 1866,4408 1993,4410 2119,4412 2246,4414 2373,4416 2499,4418 2626,4422 2753,4426 2880,4430"
+                         HEIGHT="91"
+                         WIDTH="2534"
+                         VPOS="4357"
+                         HPOS="346">
+                  <String ID="string_r1l42"
+                          HEIGHT="91"
+                          WIDTH="2534"
+                          VPOS="4357"
+                          HPOS="346"
+                          CONTENT="Artemidoro: et ΡΗΒΑΝ la Regione istessa secondo contiene il fiume nella pontica cosi gli habitan"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="354,4476 381,4478 409,4478 436,4478 464,4478 491,4478 519,4478 546,4476 574,4476 601,4476 629,4475 656,4474 684,4474 711,4473 739,4472 766,4472 794,4472 821,4474 849,4475 876,4476 904,4478"
+                         HEIGHT="61"
+                         WIDTH="550"
+                         VPOS="4435"
+                         HPOS="354">
+                  <String ID="string_r1l43"
+                          HEIGHT="61"
+                          WIDTH="550"
+                          VPOS="4435"
+                          HPOS="354"
+                          CONTENT="ti sono detti Rhebaei."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

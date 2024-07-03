@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_035a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:03.858+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="4206" WIDTH="3026" VPOS="352" HPOS="531">
+               <Shape>
+                  <Polygon POINTS="531,358 550,4558 3532,4558 3557,352"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="796,508 928,507 1061,504 1194,502 1327,498 1460,495 1592,492 1725,487 1858,484 1991,479 2124,474 2256,470 2389,466 2522,460 2655,458 2788,454 2920,450 3053,446 3186,444 3319,442 3452,440"
+                         HEIGHT="129"
+                         WIDTH="2656"
+                         VPOS="399"
+                         HPOS="796">
+                  <String ID="string_r1l1"
+                          HEIGHT="129"
+                          WIDTH="2656"
+                          VPOS="399"
+                          HPOS="796"
+                          CONTENT="RHOENDAEI, ò vero, ΡΟΙΝΔΑΙΟΙ, sono popoli, ò vogliamo dire gente della Thracia: secondo scrive Stepha¬"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="838,586 967,588 1097,589 1227,588 1357,588 1487,586 1616,584 1746,582 1876,578 2006,574 2136,571 2265,567 2395,563 2525,560 2655,556 2785,552 2914,548 3044,546 3174,544 3304,542 3434,542"
+                         HEIGHT="107"
+                         WIDTH="2596"
+                         VPOS="502"
+                         HPOS="838">
+                  <String ID="string_r1l2"
+                          HEIGHT="107"
+                          WIDTH="2596"
+                          VPOS="502"
+                          HPOS="838"
+                          CONTENT="no: et secondo Artemidoro posti nella parte aderita alla Macedonia sul fiume RHOEDIAS; del quale fiume"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="848,692 975,686 1103,680 1231,676 1359,672 1487,670 1615,667 1743,664 1871,662 1999,660 2127,658 2254,658 2382,656 2510,654 2638,652 2766,650 2894,648 3022,644 3150,640 3278,636 3406,632"
+                         HEIGHT="120"
+                         WIDTH="2558"
+                         VPOS="592"
+                         HPOS="848">
+                  <String ID="string_r1l3"
+                          HEIGHT="120"
+                          WIDTH="2558"
+                          VPOS="592"
+                          HPOS="848"
+                          CONTENT="fa menzione Plinio nellibro quarto al capo decimo nelle cose della Macedonia ma senza la .N. Rhoedias."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="804,860 933,858 1062,858 1192,856 1321,854 1451,852 1580,850 1709,848 1839,846 1968,844 2098,842 2227,840 2356,838 2486,838 2615,838 2745,838 2874,840 3003,842 3133,844 3262,850 3392,854"
+                         HEIGHT="83"
+                         WIDTH="2588"
+                         VPOS="797"
+                         HPOS="804">
+                  <String ID="string_r1l4"
+                          HEIGHT="83"
+                          WIDTH="2588"
+                          VPOS="797"
+                          HPOS="804"
+                          CONTENT="RHOEZOS, ò vero, ΡΟΙΖΟΣ, è luogho, et Villaggio habitacolo sul fiume Saro, habitato nella Cilicia, et li"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="842,932 969,935 1097,938 1225,938 1352,938 1480,938 1608,938 1735,936 1863,934 1991,932 2119,930 2246,928 2374,928 2502,926 2629,926 2757,928 2885,930 3012,932 3140,938 3268,943 3396,950"
+                         HEIGHT="85"
+                         WIDTH="2554"
+                         VPOS="885"
+                         HPOS="842">
+                  <String ID="string_r1l5"
+                          HEIGHT="85"
+                          WIDTH="2554"
+                          VPOS="885"
+                          HPOS="842"
+                          CONTENT="suoi habitatori sono chiamati Rhoeziti, ò come nel singulare gli dice il Grammatico Byzantio. ΤΟ ΕΘΝΙ¬"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="862,1008 957,1014 1053,1018 1149,1022 1245,1024 1341,1024 1436,1024 1532,1024 1628,1022 1724,1020 1820,1018 1915,1016 2011,1014 2107,1012 2203,1010 2299,1008 2394,1008 2490,1008 2586,1010 2682,1012 2778,1016"
+                         HEIGHT="77"
+                         WIDTH="1916"
+                         VPOS="967"
+                         HPOS="862">
+                  <String ID="string_r1l6"
+                          HEIGHT="77"
+                          WIDTH="1916"
+                          VPOS="967"
+                          HPOS="862"
+                          CONTENT="ΚΟΝ, ΡΟΙΖΙΟΣ, Η ΡΟΙΖΙΤΗΣ. Onde potemo dire ancho Rhoezio, come Rhoezete."/>
+               </TextLine>
+               <TextLine ID="line_1643191252187_109"
+                         BASELINE="550,1168 576,1168 603,1168 630,1168 657,1168 684,1168 710,1168 737,1170 764,1172 791,1176 818,1182 872,1192 997,1192 1123,1192 1248,1190 1374,1190 1500,1188 1625,1188 1751,1186 1876,1186 2002,1184 2128,1184 2253,1182 2379,1182 2504,1180 2630,1180 2756,1178 2881,1178 3007,1178 3132,1176 3258,1176 3384,1176"
+                         HEIGHT="85"
+                         WIDTH="2834"
+                         VPOS="1127"
+                         HPOS="550">
+                  <String ID="string_line_1643191252187_109"
+                          HEIGHT="85"
+                          WIDTH="2834"
+                          VPOS="1127"
+                          HPOS="550"
+                          CONTENT="RHOEPEI, et RHOEPEIS, ò pure, ΡΟΠΕΙΣ, sono gente, ò popoli della pamphilia, et nella Memnite secondo scrive Pha"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="854,1268 980,1270 1107,1272 1234,1274 1360,1274 1487,1276 1614,1276 1740,1278 1867,1278 1994,1278 2121,1278 2247,1278 2374,1278 2501,1278 2627,1278 2754,1276 2881,1276 3007,1276 3134,1276 3261,1274 3388,1274"
+                         HEIGHT="71"
+                         WIDTH="2534"
+                         VPOS="1227"
+                         HPOS="854">
+                  <String ID="string_r1l9"
+                          HEIGHT="71"
+                          WIDTH="2534"
+                          VPOS="1227"
+                          HPOS="854"
+                          CONTENT="borino presso del Grammatico delle citta. nel terzo libro della Pamphilia: il medesimo disse Isidoro nella"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="856,1360 882,1360 909,1360 936,1360 963,1360 990,1360 1017,1360 1044,1359 1071,1358 1098,1357 1125,1355 1152,1352"
+                         HEIGHT="68"
+                         WIDTH="296"
+                         VPOS="1312"
+                         HPOS="856">
+                  <String ID="string_r1l10"
+                          HEIGHT="68"
+                          WIDTH="296"
+                          VPOS="1312"
+                          HPOS="856"
+                          CONTENT="Geographia."/>
+               </TextLine>
+               <TextLine ID="line_1643191255970_113"
+                         BASELINE="554,1420 580,1422 607,1425 634,1426 661,1426 688,1426 714,1426 741,1426 768,1427 795,1429 822,1432 858,1440 986,1442 1114,1442 1242,1444 1371,1444 1499,1444 1627,1446 1756,1446 1884,1446 2012,1446 2141,1446 2269,1446 2397,1446 2525,1446 2654,1446 2782,1446 2910,1446 3039,1446 3167,1446 3295,1446 3424,1448"
+                         HEIGHT="88"
+                         WIDTH="2870"
+                         VPOS="1379"
+                         HPOS="554">
+                  <String ID="string_line_1643191255970_113"
+                          HEIGHT="88"
+                          WIDTH="2870"
+                          VPOS="1379"
+                          HPOS="554"
+                          CONTENT="RHODICIO, Rhodicium, et Rhodigio, è terra è luogo et sedia dell'Adriense Episcopato, sull'Adicino situata, come'è detto"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="854,1534 953,1534 1053,1536 1153,1536 1253,1536 1353,1536 1453,1536 1553,1536 1653,1536 1753,1536 1853,1534 1952,1534 2052,1534 2152,1532 2252,1530 2352,1529 2452,1528 2552,1525 2652,1522 2752,1520 2852,1516"
+                         HEIGHT="75"
+                         WIDTH="1998"
+                         VPOS="1479"
+                         HPOS="854">
+                  <String ID="string_r1l13"
+                          HEIGHT="75"
+                          WIDTH="1998"
+                          VPOS="1479"
+                          HPOS="854"
+                          CONTENT="in variij suoi nomi, in Robico, et in Rhodicio, la quale fu sotto al Ducato Ferrariense."/>
+               </TextLine>
+               <TextLine ID="line_1643191998459_124"
+                         BASELINE="780,1726 912,1724 1045,1722 1178,1720 1311,1716 1444,1712 1554,1709"
+                         HEIGHT="66"
+                         WIDTH="789"
+                         VPOS="1676"
+                         HPOS="780">
+                  <String ID="string_line_1643191998459_124"
+                          HEIGHT="66"
+                          WIDTH="789"
+                          VPOS="1676"
+                          HPOS="780"
+                          CONTENT="RHOEMI et Remi ΡΗΜΟΙ"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="1494,1636 1522,1639 1550,1641 1579,1643 1607,1644 1636,1642"
+                         HEIGHT="56"
+                         WIDTH="142"
+                         VPOS="1604"
+                         HPOS="1494">
+                  <String ID="string_r1l14"
+                          HEIGHT="56"
+                          WIDTH="142"
+                          VPOS="1604"
+                          HPOS="1494"
+                          CONTENT="ΡΟΙΜΟΙ"/>
+               </TextLine>
+               <TextLine ID="line_1643191998458_123"
+                         BASELINE="1569,1708 1576,1708 1709,1702 1842,1698 1975,1693 2108,1690 2240,1685 2373,1682 2506,1680 2639,1678 2772,1679 2904,1680 3037,1684 3170,1688 3303,1695 3436,1704"
+                         HEIGHT="78"
+                         WIDTH="1867"
+                         VPOS="1646"
+                         HPOS="1569">
+                  <String ID="string_line_1643191998458_123"
+                          HEIGHT="78"
+                          WIDTH="1867"
+                          VPOS="1646"
+                          HPOS="1569"
+                          CONTENT="sono popoli della Gallia Belgica, finitimi alli popoli chiamati Medio matri¬"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="874,1806 999,1810 1125,1812 1251,1812 1376,1812 1502,1810 1628,1808 1753,1804 1879,1802 2005,1798 2131,1794 2256,1790 2382,1786 2508,1782 2633,1780 2759,1778 2885,1776 3010,1776 3136,1776 3262,1778 3388,1780"
+                         HEIGHT="69"
+                         WIDTH="2514"
+                         VPOS="1754"
+                         HPOS="874">
+                  <String ID="string_r1l16"
+                          HEIGHT="69"
+                          WIDTH="2514"
+                          VPOS="1754"
+                          HPOS="874"
+                          CONTENT="ci et Leuce, de quali gia Caesare Dittatore fece miserabile stragie presso Gergonia i quali allhora"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="892,1892 1017,1894 1143,1896 1269,1896 1395,1896 1521,1894 1646,1892 1772,1888 1898,1884 2024,1882 2150,1878 2275,1874 2401,1871 2527,1868 2653,1866 2779,1864 2904,1864 3030,1865 3156,1868 3282,1870 3408,1876"
+                         HEIGHT="62"
+                         WIDTH="2516"
+                         VPOS="1844"
+                         HPOS="892">
+                  <String ID="string_r1l18"
+                          HEIGHT="62"
+                          WIDTH="2516"
+                          VPOS="1844"
+                          HPOS="892"
+                          CONTENT="erano i primi saettatori et lanciatori di Tragule, cio è d'armi hastate, gente praestantissime, onde Lu"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="896,1990 1023,1986 1150,1984 1277,1980 1404,1978 1532,1976 1659,1974 1786,1970 1913,1970 2040,1968 2168,1966 2295,1966 2422,1964 2549,1964 2676,1964 2804,1964 2931,1964 3058,1964 3185,1966 3312,1968 3440,1970"
+                         HEIGHT="78"
+                         WIDTH="2544"
+                         VPOS="1929"
+                         HPOS="896">
+                  <String ID="string_r1l20"
+                          HEIGHT="78"
+                          WIDTH="2544"
+                          VPOS="1929"
+                          HPOS="896"
+                          CONTENT="cano li lauda dalle lacertose braccia, cosi dicendo. OPTIMVS EXCVSSO LEVCVS, RHEMVSQVE LACER"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="896,2062 930,2067 964,2062"
+                         HEIGHT="59"
+                         WIDTH="68"
+                         VPOS="2026"
+                         HPOS="896">
+                  <String ID="string_r1l21"
+                          HEIGHT="59"
+                          WIDTH="68"
+                          VPOS="2026"
+                          HPOS="896"
+                          CONTENT="TO."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="778,2128 882,2130 987,2130 1091,2130 1196,2132 1301,2132 1405,2132 1510,2134 1614,2134 1719,2134 1824,2136 1928,2136 2033,2136 2137,2138 2242,2138 2347,2140 2451,2140 2556,2142 2660,2142 2765,2143 2870,2144"
+                         HEIGHT="74"
+                         WIDTH="2092"
+                         VPOS="2089"
+                         HPOS="778">
+                  <String ID="string_r1l22"
+                          HEIGHT="74"
+                          WIDTH="2092"
+                          VPOS="2089"
+                          HPOS="778"
+                          CONTENT="RHOGE, ΡΩΤΗ, è Isola, nel mare Lycio, come vuole plinio nel quinto libro alcapo trentuno."/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="774,2218 862,2218 950,2216 1039,2216 1127,2216 1216,2216 1304,2216 1392,2216 1481,2216 1569,2216 1658,2216 1746,2216 1834,2216 1923,2216 2011,2218 2100,2218 2188,2218 2276,2218 2365,2218 2453,2220 2542,2220"
+                         HEIGHT="58"
+                         WIDTH="1768"
+                         VPOS="2180"
+                         HPOS="774">
+                  <String ID="string_r1l23"
+                          HEIGHT="58"
+                          WIDTH="1768"
+                          VPOS="2180"
+                          HPOS="774"
+                          CONTENT="RHOGOMANE, Ringomanes, è fiume della perside Regione, secondo Ptoleameo."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="792,2306 922,2304 1052,2304 1182,2302 1312,2300 1443,2298 1573,2296 1703,2295 1833,2294 1963,2292 2094,2290 2224,2288 2354,2288 2484,2286 2614,2286 2744,2286 2875,2288 3005,2288 3135,2290 3265,2292 3396,2296"
+                         HEIGHT="71"
+                         WIDTH="2604"
+                         VPOS="2252"
+                         HPOS="792">
+                  <String ID="string_r1l24"
+                          HEIGHT="71"
+                          WIDTH="2604"
+                          VPOS="2252"
+                          HPOS="792"
+                          CONTENT="RHOMBITO, Rhombitus, ΡΟΜΒΙΤΟΣ, è fiume della Sarmatia Asiatica, secondo Ptolemaeo. et Rhombito è unaltro pic"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="836,2374 892,2374 948,2374 1004,2372 1060,2372 1117,2372 1173,2372 1229,2370 1285,2370 1341,2368 1398,2368 1454,2368 1510,2366 1566,2366 1622,2366 1679,2366 1735,2366 1791,2366 1847,2366 1903,2366 1960,2366"
+                         HEIGHT="59"
+                         WIDTH="1124"
+                         VPOS="2332"
+                         HPOS="836">
+                  <String ID="string_r1l25"
+                          HEIGHT="59"
+                          WIDTH="1124"
+                          VPOS="2332"
+                          HPOS="836"
+                          CONTENT="ciolo fiume della istessa Sarmatia detto il minore."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="794,2460 882,2460 971,2460 1060,2460 1149,2460 1238,2460 1326,2460 1415,2460 1504,2460 1593,2460 1682,2460 1770,2460 1859,2460 1948,2462 2037,2462 2126,2462 2214,2464 2303,2464 2392,2466 2481,2467 2570,2468"
+                         HEIGHT="68"
+                         WIDTH="1776"
+                         VPOS="2420"
+                         HPOS="794">
+                  <String ID="string_r1l26"
+                          HEIGHT="68"
+                          WIDTH="1776"
+                          VPOS="2420"
+                          HPOS="794"
+                          CONTENT="RHOPOLANI, et Rhoxolani sono populi oltre al Dannuvio fiume della Scythia."/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="778,2548 908,2546 1038,2546 1168,2546 1298,2544 1428,2544 1558,2544 1688,2544 1818,2544 1948,2544 2078,2544 2208,2544 2338,2546 2468,2548 2598,2550 2728,2552 2858,2556 2988,2560 3118,2564 3248,2568 3378,2576"
+                         HEIGHT="83"
+                         WIDTH="2600"
+                         VPOS="2510"
+                         HPOS="778">
+                  <String ID="string_r1l27"
+                          HEIGHT="83"
+                          WIDTH="2600"
+                          VPOS="2510"
+                          HPOS="778"
+                          CONTENT="RHOTOMAGO, Rhotomagus, ΡΟΤΟΜΑΓΟΣ, è citta Nelli Nervori populi della Gallia Belgica secondo Ptolemaeo. Et"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="822,2608 925,2612 1029,2615 1133,2618 1236,2620 1340,2620 1444,2622 1547,2622 1651,2622 1755,2622 1859,2620 1962,2620 2066,2620 2170,2618 2273,2618 2377,2618 2481,2618 2584,2618 2688,2620 2792,2620 2896,2622"
+                         HEIGHT="65"
+                         WIDTH="2074"
+                         VPOS="2574"
+                         HPOS="822">
+                  <String ID="string_r1l28"
+                          HEIGHT="65"
+                          WIDTH="2074"
+                          VPOS="2574"
+                          HPOS="822"
+                          CONTENT="Rhotomago, è citta de Vedeliocasiori, nella Gallia Lugdunese: chel vulgo l'appella Roan,"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="768,2734 901,2738 1035,2741 1169,2742 1303,2744 1437,2744 1570,2746 1704,2746 1838,2744 1972,2744 2106,2744 2239,2744 2373,2744 2507,2744 2641,2744 2775,2746 2908,2748 3042,2750 3176,2754 3310,2758 3444,2762"
+                         HEIGHT="76"
+                         WIDTH="2676"
+                         VPOS="2702"
+                         HPOS="768">
+                  <String ID="string_r1l29"
+                          HEIGHT="76"
+                          WIDTH="2676"
+                          VPOS="2702"
+                          HPOS="768"
+                          CONTENT="RHOXOLANI, sono populi della Sarmatia in Europa, come dice Ptolemaeo. i quali sono cognominati, Troxolani, et Rho¬"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="830,2806 889,2806 949,2806 1008,2806 1068,2806 1128,2806 1187,2808 1247,2808 1306,2809 1366,2810 1426,2810 1485,2812 1545,2812 1604,2812 1664,2814 1724,2814 1783,2814 1843,2814 1902,2814 1962,2814 2022,2812"
+                         HEIGHT="56"
+                         WIDTH="1192"
+                         VPOS="2774"
+                         HPOS="830">
+                  <String ID="string_r1l30"
+                          HEIGHT="56"
+                          WIDTH="1192"
+                          VPOS="2774"
+                          HPOS="830"
+                          CONTENT="polani. et Transdannuvianori, populi bellicosissimi:"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="822,3218 948,3224 1075,3228 1201,3230 1328,3232 1455,3232 1581,3232 1708,3230 1834,3228 1961,3225 2088,3222 2214,3218 2341,3216 2467,3212 2594,3210 2721,3208 2847,3208 2974,3208 3100,3210 3227,3212 3354,3218"
+                         HEIGHT="85"
+                         WIDTH="2532"
+                         VPOS="3167"
+                         HPOS="822">
+                  <String ID="string_r1l31"
+                          HEIGHT="85"
+                          WIDTH="2532"
+                          VPOS="3167"
+                          HPOS="822"
+                          CONTENT="RHOXONOCAEA, ò vero, ΡΟΖΟΝΟΚΑΙΑ, è nome di citta, et di gente presso Stephano, donde declinai"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="840,3300 967,3309 1095,3315 1223,3319 1351,3322 1479,3324 1606,3324 1734,3322 1862,3322 1990,3320 2118,3318 2245,3315 2373,3312 2501,3310 2629,3310 2757,3308 2884,3308 3012,3310 3140,3312 3268,3316 3396,3322"
+                         HEIGHT="84"
+                         WIDTH="2556"
+                         VPOS="3260"
+                         HPOS="840">
+                  <String ID="string_r1l32"
+                          HEIGHT="84"
+                          WIDTH="2556"
+                          VPOS="3260"
+                          HPOS="840"
+                          CONTENT="suoi genitivi gentili di Rhoxonacaeo, di Rhoxonocaeate, et di Rhoxonocaeno, cosi nel greco modo. ΤΟ ΕΘ¬"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="844,3380 927,3387 1010,3392 1093,3397 1176,3400 1259,3403 1342,3406 1425,3408 1508,3409 1591,3410 1674,3412 1757,3412 1840,3412 1923,3412 2006,3412 2089,3412 2172,3414 2255,3414 2338,3414 2421,3416 2504,3416"
+                         HEIGHT="94"
+                         WIDTH="1660"
+                         VPOS="3341"
+                         HPOS="844">
+                  <String ID="string_r1l33"
+                          HEIGHT="94"
+                          WIDTH="1660"
+                          VPOS="3341"
+                          HPOS="844"
+                          CONTENT="ΝΙΚΟΝ, ΡΟΣΟΝΟΚΑΙΟΣ, ΚΑΙ ΡΟΣΟΝΟΚΑΙΑΤΗΣ, ΚΑΙ ΡΟΣΟΝΟΚΑΙΑΝΟΣ."/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="828,3680 918,3680 1009,3679 1100,3678 1190,3678 1281,3676 1372,3676 1462,3674 1553,3672 1644,3672 1735,3670 1825,3668 1916,3668 2007,3666 2097,3664 2188,3664 2279,3663 2369,3662 2460,3662 2551,3662 2642,3662"
+                         HEIGHT="79"
+                         WIDTH="1814"
+                         VPOS="3621"
+                         HPOS="828">
+                  <String ID="string_r1l34"
+                          HEIGHT="79"
+                          WIDTH="1814"
+                          VPOS="3621"
+                          HPOS="828"
+                          CONTENT="RHUDA, et, ΡΟΥΔΑ, città nella Parthia, come dicono Quadrato et Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="832,3782 942,3782 1053,3780 1164,3780 1275,3780 1386,3778 1497,3778 1608,3776 1719,3774 1830,3774 1941,3772 2051,3770 2162,3769 2273,3768 2384,3766 2495,3764 2606,3763 2717,3762 2828,3760 2939,3758 3050,3758"
+                         HEIGHT="85"
+                         WIDTH="2218"
+                         VPOS="3717"
+                         HPOS="832">
+                  <String ID="string_r1l35"
+                          HEIGHT="85"
+                          WIDTH="2218"
+                          VPOS="3717"
+                          HPOS="832"
+                          CONTENT="RHUSPE, ΡΟΥΕΠΗ, città nellaminore Africa, come scrive Ptoleameo: la quale il vulgo chiama Alfaques"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="858,3882 991,3884 1125,3884 1259,3882 1392,3882 1526,3880 1660,3879 1793,3878 1927,3875 2061,3872 2195,3870 2328,3868 2462,3866 2596,3864 2729,3862 2863,3860 2997,3860 3130,3859 3264,3858 3398,3860 3532,3860"
+                         HEIGHT="87"
+                         WIDTH="2674"
+                         VPOS="3817"
+                         HPOS="858">
+                  <String ID="string_r1l36"
+                          HEIGHT="87"
+                          WIDTH="2674"
+                          VPOS="3817"
+                          HPOS="858"
+                          CONTENT="RHYBDO, Rhybdus, è antico castello nella Sicilia, dacui il gentile Rhybda et Rhybdaei, come è detto piu oltre, nella parola Rybdo."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="854,3990 986,3990 1118,3990 1251,3988 1383,3986 1516,3984 1648,3980 1780,3978 1913,3974 2045,3971 2178,3967 2310,3964 2442,3960 2575,3956 2707,3954 2840,3952 2972,3950 3104,3948 3237,3948 3369,3948 3502,3948"
+                         HEIGHT="103"
+                         WIDTH="2648"
+                         VPOS="3907"
+                         HPOS="854">
+                  <String ID="string_r1l37"
+                          HEIGHT="103"
+                          WIDTH="2648"
+                          VPOS="3907"
+                          HPOS="854"
+                          CONTENT="RHYMNO, Rhymnus, ΡΥΜΝΟΣ, è fiume de Rhymnici populi et Monte Rhymnaco, come accusa Hermolao Barbaro in plinio, nell Hellesponto,"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="866,4090 992,4092 1118,4092 1244,4092 1370,4090 1496,4088 1622,4084 1748,4080 1874,4078 2000,4073 2127,4069 2253,4065 2379,4062 2505,4058 2631,4056 2757,4054 2883,4052 3009,4052 3135,4054 3261,4056 3388,4060"
+                         HEIGHT="101"
+                         WIDTH="2522"
+                         VPOS="4011"
+                         HPOS="866">
+                  <String ID="string_r1l38"
+                          HEIGHT="101"
+                          WIDTH="2522"
+                          VPOS="4011"
+                          HPOS="866"
+                          CONTENT="RHYMNACO, Rhymnacus. ΡΥΝΜΑΚΟΣ, è citta et fiume et città nella Phrygia in Hellesponto, come è detto più oltre, in Ryndaco."/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="870,4182 955,4182 1041,4182 1127,4182 1212,4182 1298,4182 1384,4182 1469,4180 1555,4180 1641,4178 1727,4176 1812,4176 1898,4174 1984,4172 2069,4170 2155,4168 2241,4166 2326,4164 2412,4162 2498,4160 2584,4158"
+                         HEIGHT="85"
+                         WIDTH="1714"
+                         VPOS="4117"
+                         HPOS="870">
+                  <String ID="string_r1l39"
+                          HEIGHT="85"
+                          WIDTH="1714"
+                          VPOS="4117"
+                          HPOS="870"
+                          CONTENT="RHYPA, et, ΡΙΠΗ, Rhype, è città nell'Arcadia Regione, nominata da Artemidoro,"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="866,4266 962,4268 1059,4270 1155,4272 1252,4272 1349,4272 1445,4272 1542,4272 1638,4270 1735,4270 1832,4268 1928,4267 2025,4266 2121,4264 2218,4262 2315,4262 2411,4261 2508,4260 2604,4260 2701,4260 2798,4262"
+                         HEIGHT="73"
+                         WIDTH="1932"
+                         VPOS="4219"
+                         HPOS="866">
+                  <String ID="string_r1l40"
+                          HEIGHT="73"
+                          WIDTH="1932"
+                          VPOS="4219"
+                          HPOS="866"
+                          CONTENT="RHYPARA, et Rypara, è Isola appunto à Samo Isola, come dice plinio nel quinto libro alcapo .31."/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="854,4362 953,4366 1052,4367 1152,4368 1251,4368 1351,4368 1450,4368 1549,4366 1649,4366 1748,4364 1848,4362 1947,4361 2046,4359 2146,4358 2245,4356 2345,4354 2444,4352 2543,4352 2643,4350 2742,4350 2842,4350"
+                         HEIGHT="79"
+                         WIDTH="1988"
+                         VPOS="4309"
+                         HPOS="854">
+                  <String ID="string_r1l41"
+                          HEIGHT="79"
+                          WIDTH="1988"
+                          VPOS="4309"
+                          HPOS="854"
+                          CONTENT="RHYSSADIO, Rhyssadium, ΡΥΣΣΑΔΙΟΝ, è promontorio della Lybia inferiore, come dice Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="854,4446 962,4450 1070,4453 1178,4456 1286,4456 1394,4458 1502,4456 1610,4456 1718,4456 1826,4454 1935,4452 2043,4450 2151,4448 2259,4446 2367,4444 2475,4444 2583,4442 2691,4442 2799,4442 2907,4443 3016,4444"
+                         HEIGHT="77"
+                         WIDTH="2162"
+                         VPOS="4401"
+                         HPOS="854">
+                  <String ID="string_r1l42"
+                          HEIGHT="77"
+                          WIDTH="2162"
+                          VPOS="4401"
+                          HPOS="854"
+                          CONTENT="RHYSSADIRO, Rhyssairum, et ΡΥΣΣΑΔΙΡΟΝ, è città nella Mauretania Tingitana; secondo Ptolemaeo"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="826,4534 949,4536 1072,4536 1195,4538 1319,4538 1442,4538 1565,4538 1689,4538 1812,4538 1935,4536 2059,4536 2182,4536 2305,4536 2428,4534 2552,4534 2675,4534 2798,4534 2922,4534 3045,4534 3168,4534 3292,4536"
+                         HEIGHT="65"
+                         WIDTH="2466"
+                         VPOS="4493"
+                         HPOS="826">
+                  <String ID="string_r1l43"
+                          HEIGHT="65"
+                          WIDTH="2466"
+                          VPOS="4493"
+                          HPOS="826"
+                          CONTENT="RHYTIO, Rhytium, ΡΥΤΙΟΝ, è città nell'Isola di Crete adentroterra, come scrive plinio nellibro quarto alcapo .12."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

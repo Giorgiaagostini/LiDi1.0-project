@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_066b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:12.604+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r5" HEIGHT="239" WIDTH="190" VPOS="179" HPOS="3053">
+               <Shape>
+                  <Polygon POINTS="3062,182 3053,407 3243,418 3235,179"/>
+               </Shape>
+               <TextLine ID="r5l1"
+                         BASELINE="3120,240 3148,237 3176,235 3204,232"
+                         HEIGHT="118"
+                         WIDTH="123"
+                         VPOS="178"
+                         HPOS="3101">
+                  <String ID="string_r5l1"
+                          HEIGHT="118"
+                          WIDTH="123"
+                          VPOS="178"
+                          HPOS="3101"
+                          CONTENT="69"/>
+               </TextLine>
+               <TextLine ID="r5l2"
+                         BASELINE="3096,372 3128,372 3160,372"
+                         HEIGHT="138"
+                         WIDTH="95"
+                         VPOS="283"
+                         HPOS="3080">
+                  <String ID="string_r5l2"
+                          HEIGHT="138"
+                          WIDTH="95"
+                          VPOS="283"
+                          HPOS="3080"
+                          CONTENT="66"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1648630971857_945"
+                       HEIGHT="2327"
+                       WIDTH="2515"
+                       VPOS="286"
+                       HPOS="484">
+               <Shape>
+                  <Polygon POINTS="484,286 2999,296 2974,2613 484,2613"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="1184,330 1210,330 1236,330 1263,332 1289,332 1316,332 1342,332 1369,332 1395,332 1421,333 1448,334 1474,334 1501,334 1527,333 1554,332"
+                         HEIGHT="135"
+                         WIDTH="404"
+                         VPOS="249"
+                         HPOS="1167">
+                  <String ID="string_r2l1"
+                          HEIGHT="135"
+                          WIDTH="404"
+                          VPOS="249"
+                          HPOS="1167"
+                          CONTENT="DI ROMA"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="492,446 614,450 736,454 858,457 980,460 1102,462 1224,464 1346,466 1468,468 1590,469 1712,470 1834,470 1956,472 2078,472 2200,472 2322,474 2444,474 2566,474 2688,474 2810,474 2950,485"
+                         HEIGHT="175"
+                         WIDTH="2488"
+                         VPOS="334"
+                         HPOS="477">
+                  <String ID="string_r2l2"
+                          HEIGHT="175"
+                          WIDTH="2488"
+                          VPOS="334"
+                          HPOS="477"
+                          CONTENT="La sottoscritta dedicatione in una Base ò vero Ara di marmo, fu trovata nella Via sacra, dal cardinale Bellaio"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="544,546 664,547 784,548 904,549 1024,550 1144,552 1264,552 1384,554 1504,555 1624,556 1744,558 1864,558 1984,560 2104,561 2224,562 2344,564 2464,564 2584,566 2704,566 2824,566 2944,566"
+                         HEIGHT="121"
+                         WIDTH="2429"
+                         VPOS="475"
+                         HPOS="529">
+                  <String ID="string_r2l3"
+                          HEIGHT="121"
+                          WIDTH="2429"
+                          VPOS="475"
+                          HPOS="529"
+                          CONTENT="di parisi. cavando dinanzi alla chiesa di Sant'Hadriano che fu anticamente il Volcanale. nellacui"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="538,632 657,634 776,638 895,640 1014,642 1133,644 1252,646 1371,648 1490,650 1609,652 1729,654 1848,656 1967,658 2086,660 2205,662 2324,664 2443,665 2562,667 2681,669 2800,672 2929,677"
+                         HEIGHT="136"
+                         WIDTH="2424"
+                         VPOS="575"
+                         HPOS="523">
+                  <String ID="string_r2l4"
+                          HEIGHT="136"
+                          WIDTH="2424"
+                          VPOS="575"
+                          HPOS="523"
+                          CONTENT="dedicatione si vede il rito del dare la mancia all'imperadore, si come si legge ancho appresso di Sveto"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="550,734 668,738 787,740 906,742 1025,742 1144,744 1263,746 1382,746 1501,748 1620,748 1739,750 1857,750 1976,752 2095,752 2214,754 2333,754 2452,756 2571,758 2690,760 2809,762 2958,775"
+                         HEIGHT="123"
+                         WIDTH="2438"
+                         VPOS="682"
+                         HPOS="535">
+                  <String ID="string_r2l5"
+                          HEIGHT="123"
+                          WIDTH="2438"
+                          VPOS="682"
+                          HPOS="535"
+                          CONTENT="nio, che i Romani diloro spontanea volontà celebravano il nascimento di Augusto due giorni continui, et che"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="538,824 657,824 777,826 897,828 1016,830 1136,832 1256,834 1375,836 1495,838 1615,840 1735,842 1854,846 1974,847 2094,850 2213,852 2333,854 2453,856 2572,858 2692,858 2812,860 2932,862"
+                         HEIGHT="136"
+                         WIDTH="2427"
+                         VPOS="784"
+                         HPOS="523">
+                  <String ID="string_r2l6"
+                          HEIGHT="136"
+                          WIDTH="2427"
+                          VPOS="784"
+                          HPOS="523"
+                          CONTENT="per voto fatto communemente da tutti, perla salute di quello, i senatori, cavaglieri, et populari tutti gitta¬"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="538,924 657,928 777,930 897,931 1016,932 1136,934 1256,936 1375,938 1495,940 1615,942 1735,942 1854,944 1974,946 2094,946 2213,948 2333,950 2453,952 2572,954 2692,956 2812,958 2932,960"
+                         HEIGHT="147"
+                         WIDTH="2426"
+                         VPOS="874"
+                         HPOS="522">
+                  <String ID="string_r2l7"
+                          HEIGHT="147"
+                          WIDTH="2426"
+                          VPOS="874"
+                          HPOS="522"
+                          CONTENT="vano una moneta nella bocca del lago Curtio, ch'era lasciata, fra'l palazzo el capitolino nel Foro Roma"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="532,1030 650,1034 769,1036 887,1038 1006,1041 1125,1043 1243,1044 1362,1046 1480,1048 1599,1048 1718,1050 1836,1050 1955,1052 2073,1052 2192,1054 2311,1056 2429,1056 2548,1058 2666,1060 2785,1062 2904,1064"
+                         HEIGHT="172"
+                         WIDTH="2404"
+                         VPOS="944"
+                         HPOS="516">
+                  <String ID="string_r2l8"
+                          HEIGHT="172"
+                          WIDTH="2404"
+                          VPOS="944"
+                          HPOS="516"
+                          CONTENT="no: Medesimamente lo primo giorno di Gennaio, per essere lo primo dell'ordinato principio dell'an¬"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="548,1146 667,1148 786,1150 905,1152 1024,1152 1144,1154 1263,1154 1382,1156 1501,1156 1620,1156 1740,1157 1859,1158 1978,1158 2097,1158 2216,1158 2336,1160 2455,1160 2574,1162 2693,1164 2812,1164 2932,1166"
+                         HEIGHT="98"
+                         WIDTH="2414"
+                         VPOS="1084"
+                         HPOS="533">
+                  <String ID="string_r2l9"
+                          HEIGHT="98"
+                          WIDTH="2414"
+                          VPOS="1084"
+                          HPOS="533"
+                          CONTENT="no nuovo, tutto lo popolo nel Capitolio gli dava la mancia, la qual cosa non restava di farsi per essentia dell'"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="530,1254 648,1256 766,1256 884,1258 1002,1259 1121,1260 1239,1262 1357,1262 1475,1264 1593,1264 1712,1266 1830,1266 1948,1268 2066,1268 2184,1270 2303,1270 2421,1271 2539,1272 2657,1272 2775,1274 2894,1274"
+                         HEIGHT="137"
+                         WIDTH="2395"
+                         VPOS="1196"
+                         HPOS="515">
+                  <String ID="string_r2l10"
+                          HEIGHT="137"
+                          WIDTH="2395"
+                          VPOS="1196"
+                          HPOS="515"
+                          CONTENT="imperatore, e questo non solo a'lui, ma anchora aglialtri imperatori si faceva; onde si legge nella vita"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="546,1370 662,1370 778,1370 895,1370 1011,1370 1128,1370 1244,1370 1360,1370 1477,1372 1593,1372 1710,1372 1826,1372 1942,1374 2059,1374 2175,1374 2292,1376 2408,1376 2524,1378 2641,1378 2757,1378 2874,1380"
+                         HEIGHT="139"
+                         WIDTH="2358"
+                         VPOS="1306"
+                         HPOS="532">
+                  <String ID="string_r2l11"
+                          HEIGHT="139"
+                          WIDTH="2358"
+                          VPOS="1306"
+                          HPOS="532"
+                          CONTENT="di Caio Calligola anchora, che egli in persona riceveva la mancia nel Capitoglio, et che poi havendo,"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="544,1466 660,1468 777,1470 893,1472 1010,1474 1127,1476 1243,1478 1360,1480 1476,1482 1593,1486 1710,1488 1826,1490 1943,1494 2059,1496 2176,1498 2293,1500 2409,1502 2526,1504 2642,1504 2759,1506 2876,1506"
+                         HEIGHT="136"
+                         WIDTH="2365"
+                         VPOS="1418"
+                         HPOS="528">
+                  <String ID="string_r2l12"
+                          HEIGHT="136"
+                          WIDTH="2365"
+                          VPOS="1418"
+                          HPOS="528"
+                          CONTENT="messo interra tutti quei danari d'oro, visi coricò sopra, conle spalle, et poi à guisa d'Asino nella polvere"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="518,1574 636,1576 755,1579 874,1582 993,1585 1112,1588 1230,1591 1349,1594 1468,1596 1587,1600 1706,1603 1824,1606 1943,1610 2062,1612 2181,1616 2300,1618 2418,1622 2537,1626 2656,1628 2775,1632 2894,1636"
+                         HEIGHT="189"
+                         WIDTH="2409"
+                         VPOS="1501"
+                         HPOS="502">
+                  <String ID="string_r2l13"
+                          HEIGHT="189"
+                          WIDTH="2409"
+                          VPOS="1501"
+                          HPOS="502"
+                          CONTENT="visi voltulo. Questa dunque è quella stipe, che alcuni chiamano strena, che è scritta nella dedicatione, et que¬"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="526,1692 643,1694 760,1694 878,1696 995,1698 1113,1700 1230,1702 1347,1704 1465,1706 1582,1709 1700,1712 1817,1714 1934,1716 2052,1719 2169,1721 2287,1724 2404,1726 2521,1728 2639,1730 2756,1730 2874,1732"
+                         HEIGHT="138"
+                         WIDTH="2380"
+                         VPOS="1605"
+                         HPOS="508">
+                  <String ID="string_r2l14"
+                          HEIGHT="138"
+                          WIDTH="2380"
+                          VPOS="1605"
+                          HPOS="508"
+                          CONTENT="questa è quella medesimamente di cui parla Ovidio nel primo libro de Fasti, la qual cosa fa dichiarare"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="508,1802 626,1804 744,1806 862,1807 980,1809 1098,1812 1216,1813 1334,1816 1452,1818 1570,1820 1688,1822 1806,1824 1924,1828 2042,1830 2160,1832 2278,1834 2396,1834 2514,1836 2632,1838 2750,1838 2868,1838"
+                         HEIGHT="142"
+                         WIDTH="2393"
+                         VPOS="1755"
+                         HPOS="491">
+                  <String ID="string_r2l15"
+                          HEIGHT="142"
+                          WIDTH="2393"
+                          VPOS="1755"
+                          HPOS="491"
+                          CONTENT="à Iano Iddio di Romani; di questi danari adunque Augusto faceva far varie statue di diversi Iddij,"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="528,1912 644,1915 761,1917 877,1920 994,1922 1110,1924 1227,1928 1343,1930 1460,1932 1576,1936 1693,1938 1809,1940 1926,1943 2042,1946 2159,1948 2275,1950 2392,1952 2508,1954 2625,1956 2741,1956 2858,1958"
+                         HEIGHT="175"
+                         WIDTH="2362"
+                         VPOS="1846"
+                         HPOS="513">
+                  <String ID="string_r2l16"
+                          HEIGHT="175"
+                          WIDTH="2362"
+                          VPOS="1846"
+                          HPOS="513"
+                          CONTENT="di molto valore, mettendole in varij luoghi dela citta, come fece quella del colosso di Apolline di mar"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="520,2028 637,2032 755,2036 872,2038 990,2042 1107,2044 1225,2046 1342,2049 1460,2050 1577,2053 1695,2054 1812,2056 1930,2058 2047,2060 2165,2062 2282,2064 2400,2067 2517,2070 2635,2073 2752,2076 2870,2080"
+                         HEIGHT="182"
+                         WIDTH="2383"
+                         VPOS="1950"
+                         HPOS="504">
+                  <String ID="string_r2l17"
+                          HEIGHT="182"
+                          WIDTH="2383"
+                          VPOS="1950"
+                          HPOS="504"
+                          CONTENT="mo nel Vico Sandaliario, cio è de pianellari, quella di Iove, nel Vico ò vicinato ove habitavano i mae¬"/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="506,2134 622,2138 739,2140 856,2142 973,2144 1090,2148 1207,2149 1324,2151 1441,2153 1558,2154 1675,2156 1791,2158 1908,2160 2025,2162 2142,2163 2259,2165 2376,2166 2493,2168 2610,2170 2727,2172 2844,2174"
+                         HEIGHT="159"
+                         WIDTH="2368"
+                         VPOS="2068"
+                         HPOS="491">
+                  <String ID="string_r2l18"
+                          HEIGHT="159"
+                          WIDTH="2368"
+                          VPOS="2068"
+                          HPOS="491"
+                          CONTENT="stri delle Tragedie, et molte anchora nella Regione Palatina, allhor' ch'egli edificò la casa sua. Et in"/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="508,2244 625,2244 742,2246 859,2246 976,2248 1094,2250 1211,2250 1328,2253 1445,2255 1562,2257 1680,2259 1797,2262 1914,2264 2031,2266 2148,2268 2266,2270 2383,2272 2500,2274 2617,2276 2734,2278 2852,2278"
+                         HEIGHT="153"
+                         WIDTH="2376"
+                         VPOS="2163"
+                         HPOS="491">
+                  <String ID="string_r2l19"
+                          HEIGHT="153"
+                          WIDTH="2376"
+                          VPOS="2163"
+                          HPOS="491"
+                          CONTENT="questa dedicatione, è da havertire, tre cose la sudetta stipe, et la parola impensa scritta per .Ν."/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="514,2340 630,2341 747,2342 864,2344 981,2346 1098,2346 1214,2348 1331,2350 1448,2354 1565,2356 1682,2358 1798,2360 1915,2362 2032,2365 2149,2368 2266,2370 2382,2372 2499,2374 2616,2378 2733,2380 2850,2382"
+                         HEIGHT="126"
+                         WIDTH="2369"
+                         VPOS="2289"
+                         HPOS="499">
+                  <String ID="string_r2l20"
+                          HEIGHT="126"
+                          WIDTH="2369"
+                          VPOS="2289"
+                          HPOS="499"
+                          CONTENT="et il nome di Quinctio scritto per .C., come ancho Absente per .P. Apsens. L'altra dedicatione dela"/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="510,2440 627,2442 744,2442 861,2444 978,2446 1095,2448 1212,2451 1329,2454 1446,2456 1563,2460 1680,2462 1797,2466 1914,2469 2031,2472 2148,2474 2265,2478 2382,2480 2499,2482 2616,2484 2733,2487 2850,2488"
+                         HEIGHT="150"
+                         WIDTH="2372"
+                         VPOS="2382"
+                         HPOS="494">
+                  <String ID="string_r2l21"
+                          HEIGHT="150"
+                          WIDTH="2372"
+                          VPOS="2382"
+                          HPOS="494"
+                          CONTENT="stata Fortuna dedicata dali sandaliari ò maestri del Vico di essi sandaliari fu trovata nel capitoglio et"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="484,2544 541,2547 599,2550 656,2552 714,2554 772,2556 829,2556 887,2558 944,2558 1002,2560 1060,2560 1117,2560 1175,2562 1232,2562 1290,2562 1348,2564 1405,2565 1463,2566 1520,2568 1578,2571 1636,2574"
+                         HEIGHT="153"
+                         WIDTH="1184"
+                         VPOS="2465"
+                         HPOS="468">
+                  <String ID="string_r2l22"
+                          HEIGHT="153"
+                          WIDTH="1184"
+                          VPOS="2465"
+                          HPOS="468"
+                          CONTENT="portata incasa di picchi gintilhuomini Romani."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r1" HEIGHT="254" WIDTH="274" VPOS="3447" HPOS="245">
+               <Shape>
+                  <Polygon POINTS="248,3453 245,3684 519,3701 519,3447"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="286,3530 313,3533 340,3534 368,3536 395,3535 423,3534 450,3533 478,3530"
+                         HEIGHT="160"
+                         WIDTH="221"
+                         VPOS="3414"
+                         HPOS="271">
+                  <String ID="string_r1l1"
+                          HEIGHT="160"
+                          WIDTH="221"
+                          VPOS="3414"
+                          HPOS="271"
+                          CONTENT="di Augusto."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="311,3609 353,3606 380,3607 408,3608 435,3609 462,3610 490,3612"
+                         HEIGHT="98"
+                         WIDTH="211"
+                         VPOS="3549"
+                         HPOS="294">
+                  <String ID="string_r1l2"
+                          HEIGHT="98"
+                          WIDTH="211"
+                          VPOS="3549"
+                          HPOS="294"
+                          CONTENT="olimpiade"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="316,3671 343,3674 370,3676 397,3677 430,3673"
+                         HEIGHT="88"
+                         WIDTH="146"
+                         VPOS="3620"
+                         HPOS="299">
+                  <String ID="string_r1l3"
+                          HEIGHT="88"
+                          WIDTH="146"
+                          VPOS="3620"
+                          HPOS="299"
+                          CONTENT="192•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1648631014752_982"
+                       HEIGHT="926"
+                       WIDTH="1244"
+                       VPOS="2814"
+                       HPOS="543">
+               <Shape>
+                  <Polygon POINTS="545,2814 1787,2857 1746,3736 543,3740"/>
+               </Shape>
+               <TextLine ID="r2l30"
+                         BASELINE="612,2942 668,2944 724,2948 780,2949 836,2950 892,2952 948,2952 1004,2954 1060,2954 1116,2954 1173,2954 1229,2956 1285,2956 1341,2956 1397,2958 1453,2958 1509,2960 1565,2962 1621,2964 1677,2968 1734,2972"
+                         HEIGHT="142"
+                         WIDTH="1155"
+                         VPOS="2849"
+                         HPOS="595">
+                  <String ID="string_r2l30"
+                          HEIGHT="142"
+                          WIDTH="1155"
+                          VPOS="2849"
+                          HPOS="595"
+                          CONTENT="IMP•CAESAR•DIVI•F•AVGVSTVS"/>
+               </TextLine>
+               <TextLine ID="r2l35"
+                         BASELINE="778,3044 818,3044 859,3045 899,3047 940,3048 981,3050 1021,3051 1062,3053 1102,3054 1143,3056 1184,3058 1224,3060 1265,3061 1305,3062 1346,3064 1387,3064 1427,3066 1468,3066 1508,3068 1549,3068 1590,3068"
+                         HEIGHT="139"
+                         WIDTH="844"
+                         VPOS="2964"
+                         HPOS="763">
+                  <String ID="string_r2l35"
+                          HEIGHT="139"
+                          WIDTH="844"
+                          VPOS="2964"
+                          HPOS="763"
+                          CONTENT="PONTIFEX•MAXIMVS"/>
+               </TextLine>
+               <TextLine ID="r2l39"
+                         BASELINE="702,3154 753,3156 804,3159 855,3161 906,3162 958,3165 1009,3167 1060,3169 1111,3170 1162,3172 1214,3174 1265,3175 1316,3176 1367,3178 1418,3178 1470,3180 1521,3180 1572,3180 1623,3180 1674,3182 1739,3180"
+                         HEIGHT="173"
+                         WIDTH="1065"
+                         VPOS="3060"
+                         HPOS="687">
+                  <String ID="string_r2l39"
+                          HEIGHT="173"
+                          WIDTH="1065"
+                          VPOS="3060"
+                          HPOS="687"
+                          CONTENT="IMP•X̄ĪĪĪ•COS•X̄Ī•TRIB•POTEST•X̄V̄"/>
+               </TextLine>
+               <TextLine ID="r2l42"
+                         BASELINE="602,3250 658,3252 714,3254 770,3258 826,3260 882,3262 938,3264 994,3267 1050,3268 1106,3270 1162,3272 1218,3274 1274,3276 1330,3276 1386,3278 1442,3280 1498,3280 1554,3282 1610,3282 1666,3284 1745,3284"
+                         HEIGHT="154"
+                         WIDTH="1176"
+                         VPOS="3167"
+                         HPOS="586">
+                  <String ID="string_r2l42"
+                          HEIGHT="154"
+                          WIDTH="1176"
+                          VPOS="3167"
+                          HPOS="586"
+                          CONTENT="EX•STIPE•QVAM•POPVLVS•ROMANVS"/>
+               </TextLine>
+               <TextLine ID="line_1648632047220_1213"
+                         BASELINE="1129,3307 1183,3307"
+                         HEIGHT="77"
+                         WIDTH="86"
+                         VPOS="3243"
+                         HPOS="1113">
+                  <String ID="string_line_1648632047220_1213"
+                          HEIGHT="77"
+                          WIDTH="86"
+                          VPOS="3243"
+                          HPOS="1113"
+                          CONTENT="SIC"/>
+               </TextLine>
+               <TextLine ID="r2l47"
+                         BASELINE="664,3346 714,3348 764,3350 814,3352 865,3354 915,3355 965,3357 1016,3358 1066,3360 1116,3362 1167,3363 1217,3364 1267,3366 1317,3368 1368,3370 1418,3370 1468,3372 1519,3374 1569,3374 1619,3376 1670,3378"
+                         HEIGHT="161"
+                         WIDTH="1041"
+                         VPOS="3261"
+                         HPOS="647">
+                  <String ID="string_r2l47"
+                          HEIGHT="161"
+                          WIDTH="1041"
+                          VPOS="3261"
+                          HPOS="647"
+                          CONTENT="A•NNO•NOVO•APSENTI•COTVLIT"/>
+               </TextLine>
+               <TextLine ID="r2l50"
+                         BASELINE="788,3454 828,3454 868,3456 909,3458 949,3458 990,3460 1030,3462 1070,3464 1111,3465 1151,3468 1192,3470 1232,3471 1272,3472 1313,3474 1353,3476 1394,3478 1434,3479 1474,3480 1515,3481 1555,3482 1596,3482"
+                         HEIGHT="125"
+                         WIDTH="843"
+                         VPOS="3387"
+                         HPOS="770">
+                  <String ID="string_r2l50"
+                          HEIGHT="125"
+                          WIDTH="843"
+                          VPOS="3387"
+                          HPOS="770"
+                          CONTENT="NERONE•CLAVDIO•DRVSO"/>
+               </TextLine>
+               <TextLine ID="r2l53"
+                         BASELINE="792,3552 834,3554 876,3555 918,3558 960,3559 1003,3562 1045,3565 1087,3567 1129,3569 1171,3571 1214,3573 1256,3574 1298,3574 1340,3576 1382,3574 1425,3576 1473,3572 1521,3576 1549,3542 1600,3550 1646,3556"
+                         HEIGHT="131"
+                         WIDTH="886"
+                         VPOS="3478"
+                         HPOS="777">
+                  <String ID="string_r2l53"
+                          HEIGHT="131"
+                          WIDTH="886"
+                          VPOS="3478"
+                          HPOS="777"
+                          CONTENT="T•QVINCTIO•CRISPINO COS"/>
+               </TextLine>
+               <TextLine ID="r2l56"
+                         BASELINE="1000,3666 1026,3668 1052,3669 1078,3672 1105,3674 1131,3675 1157,3677 1183,3678 1210,3679 1236,3680 1262,3681 1288,3682 1315,3682 1341,3682 1367,3681 1393,3680 1420,3678"
+                         HEIGHT="173"
+                         WIDTH="457"
+                         VPOS="3565"
+                         HPOS="983">
+                  <String ID="string_r2l56"
+                          HEIGHT="173"
+                          WIDTH="457"
+                          VPOS="3565"
+                          HPOS="983"
+                          CONTENT="VOLCANO"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r4" HEIGHT="366" WIDTH="503" VPOS="2802" HPOS="2938">
+               <Shape>
+                  <Polygon POINTS="2938,2802 2938,3142 3441,3168 3441,2827"/>
+               </Shape>
+               <TextLine ID="r4l2"
+                         BASELINE="2962,2926 2987,2924 3012,2924 3037,2924 3062,2926 3087,2926 3112,2926 3137,2928 3162,2928 3187,2929 3212,2931 3237,2932 3262,2933 3287,2934 3312,2936 3337,2937 3362,2940"
+                         HEIGHT="151"
+                         WIDTH="433"
+                         VPOS="2857"
+                         HPOS="2946">
+                  <String ID="string_r4l2"
+                          HEIGHT="151"
+                          WIDTH="433"
+                          VPOS="2857"
+                          HPOS="2946"
+                          CONTENT="Nel principato di Augusto"/>
+               </TextLine>
+               <TextLine ID="r4l3"
+                         BASELINE="2938,3016 2963,3016 2989,3014 3015,3014 3040,3014 3066,3014 3092,3015 3118,3016 3143,3016 3169,3017 3195,3018 3220,3019 3246,3021 3272,3022 3298,3024"
+                         HEIGHT="109"
+                         WIDTH="392"
+                         VPOS="2953"
+                         HPOS="2923">
+                  <String ID="string_r4l3"
+                          HEIGHT="109"
+                          WIDTH="392"
+                          VPOS="2953"
+                          HPOS="2923"
+                          CONTENT="nel quarto anno"/>
+               </TextLine>
+               <TextLine ID="r4l4"
+                         BASELINE="2954,3108 2979,3106 3005,3106 3031,3106 3057,3107 3083,3108 3109,3109 3135,3110 3160,3112 3186,3113 3212,3116 3238,3116 3264,3118 3290,3118 3316,3119 3389,3124"
+                         HEIGHT="130"
+                         WIDTH="468"
+                         VPOS="3036"
+                         HPOS="2938">
+                  <String ID="string_r4l4"
+                          HEIGHT="130"
+                          WIDTH="468"
+                          VPOS="3036"
+                          HPOS="2938"
+                          CONTENT="della olympiade 196"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1648631014752_981"
+                       HEIGHT="1204"
+                       WIDTH="828"
+                       VPOS="2732"
+                       HPOS="1923">
+               <Shape>
+                  <Polygon POINTS="1954,2732 2751,2754 2733,3936 1923,3909"/>
+               </Shape>
+               <TextLine ID="r2l28"
+                         BASELINE="2007,2873 2057,2874 2091,2876 2125,2877 2159,2878 2193,2878 2227,2879 2261,2880 2295,2881 2329,2882 2363,2882 2396,2884 2430,2884 2464,2885 2498,2886 2532,2886 2566,2888 2600,2888 2634,2888 2668,2888 2720,2890"
+                         HEIGHT="146"
+                         WIDTH="747"
+                         VPOS="2784"
+                         HPOS="1992">
+                  <String ID="string_r2l28"
+                          HEIGHT="146"
+                          WIDTH="747"
+                          VPOS="2784"
+                          HPOS="1992"
+                          CONTENT="GERMANICO•CAESARE"/>
+               </TextLine>
+               <TextLine ID="r2l32"
+                         BASELINE="2002,2984 2037,2984 2072,2986 2107,2986 2142,2986 2177,2988 2212,2988 2247,2989 2282,2990 2317,2990 2353,2992 2388,2992 2423,2993 2458,2994 2493,2994 2528,2996 2563,2996 2598,2996 2633,2996 2668,2996 2733,2995"
+                         HEIGHT="155"
+                         WIDTH="764"
+                         VPOS="2893"
+                         HPOS="1985">
+                  <String ID="string_r2l32"
+                          HEIGHT="155"
+                          WIDTH="764"
+                          VPOS="2893"
+                          HPOS="1985"
+                          CONTENT="C•FONTEIO•CAPITONE•COS"/>
+               </TextLine>
+               <TextLine ID="r2l36"
+                         BASELINE="2216,3086 2242,3084 2268,3084 2294,3085 2320,3089 2346,3092 2372,3095 2398,3097 2435,3097"
+                         HEIGHT="116"
+                         WIDTH="259"
+                         VPOS="3001"
+                         HPOS="2198">
+                  <String ID="string_r2l36"
+                          HEIGHT="116"
+                          WIDTH="259"
+                          VPOS="3001"
+                          HPOS="2198"
+                          CONTENT="K•IAN"/>
+               </TextLine>
+               <TextLine ID="r2l40"
+                         BASELINE="1982,3194 2017,3193 2053,3192 2089,3192 2125,3192 2161,3192 2196,3192 2232,3193 2268,3194 2304,3194 2340,3195 2375,3196 2411,3198 2447,3198 2483,3198 2519,3200 2554,3200 2590,3200 2626,3200 2662,3200 2720,3198"
+                         HEIGHT="178"
+                         WIDTH="770"
+                         VPOS="3100"
+                         HPOS="1966">
+                  <String ID="string_r2l40"
+                          HEIGHT="178"
+                          WIDTH="770"
+                          VPOS="3100"
+                          HPOS="1966"
+                          CONTENT="STATAE•FORTVNAE•AVG"/>
+               </TextLine>
+               <TextLine ID="r2l43"
+                         BASELINE="2210,3302 2236,3304 2263,3304 2290,3306 2317,3308 2344,3308 2371,3310 2398,3311 2425,3312 2452,3312"
+                         HEIGHT="140"
+                         WIDTH="278"
+                         VPOS="3209"
+                         HPOS="2195">
+                  <String ID="string_r2l43"
+                          HEIGHT="140"
+                          WIDTH="278"
+                          VPOS="3209"
+                          HPOS="2195"
+                          CONTENT="SACR"/>
+               </TextLine>
+               <TextLine ID="r2l48"
+                         BASELINE="1992,3402 2027,3402 2062,3404 2097,3406 2132,3408 2167,3410 2202,3411 2237,3413 2272,3414 2307,3416 2342,3417 2377,3419 2412,3420 2447,3422 2482,3423 2517,3424 2552,3424 2587,3425 2622,3426 2657,3425 2692,3424"
+                         HEIGHT="147"
+                         WIDTH="736"
+                         VPOS="3323"
+                         HPOS="1975">
+                  <String ID="string_r2l48"
+                          HEIGHT="147"
+                          WIDTH="736"
+                          VPOS="3323"
+                          HPOS="1975"
+                          CONTENT="SEX•FONTEIVS•Ↄ•L•TROPIIMVS"/>
+               </TextLine>
+               <TextLine ID="r2l51"
+                         BASELINE="1994,3504 2029,3506 2065,3508 2101,3510 2137,3511 2173,3512 2208,3514 2244,3516 2280,3516 2316,3518 2352,3519 2387,3521 2423,3522 2459,3524 2495,3524 2531,3526 2566,3528 2602,3530 2638,3531 2674,3533 2710,3536"
+                         HEIGHT="142"
+                         WIDTH="749"
+                         VPOS="3431"
+                         HPOS="1979">
+                  <String ID="string_r2l51"
+                          HEIGHT="142"
+                          WIDTH="749"
+                          VPOS="3431"
+                          HPOS="1979"
+                          CONTENT="GN•POMPEIVS•CN•F•NICEP•IOR"/>
+               </TextLine>
+               <TextLine ID="r2l55"
+                         BASELINE="2174,3636 2199,3636 2224,3638 2250,3640 2275,3640 2300,3642 2326,3642 2351,3642 2376,3644 2402,3644 2427,3644 2452,3646 2478,3646 2503,3647 2528,3649 2582,3650"
+                         HEIGHT="148"
+                         WIDTH="440"
+                         VPOS="3537"
+                         HPOS="2159">
+                  <String ID="string_r2l55"
+                          HEIGHT="148"
+                          WIDTH="440"
+                          VPOS="3537"
+                          HPOS="2159"
+                          CONTENT="MAG•VICI"/>
+               </TextLine>
+               <TextLine ID="r2l58"
+                         BASELINE="1974,3736 2010,3739 2047,3742 2083,3744 2120,3747 2156,3748 2193,3750 2229,3750 2266,3752 2302,3752 2339,3754 2375,3754 2412,3754 2448,3754 2485,3754 2521,3754 2558,3754 2594,3754 2631,3754 2667,3754 2724,3758"
+                         HEIGHT="149"
+                         WIDTH="783"
+                         VPOS="3631"
+                         HPOS="1958">
+                  <String ID="string_r2l58"
+                          HEIGHT="149"
+                          WIDTH="783"
+                          VPOS="3631"
+                          HPOS="1958"
+                          CONTENT="SANDALIARI•REG"/>
+               </TextLine>
+               <TextLine ID="r2l59"
+                         BASELINE="2084,3856 2111,3857 2138,3860 2166,3861 2193,3864 2221,3864 2248,3866 2275,3867 2303,3868 2330,3868 2358,3869 2385,3870 2412,3870 2440,3870 2467,3870 2495,3871 2522,3872 2549,3872 2577,3872 2604,3873 2632,3874"
+                         HEIGHT="166"
+                         WIDTH="585"
+                         VPOS="3761"
+                         HPOS="2066">
+                  <String ID="string_r2l59"
+                          HEIGHT="166"
+                          WIDTH="585"
+                          VPOS="3761"
+                          HPOS="2066"
+                          CONTENT="ĪĪĪĪ•ANNI•XVIII"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

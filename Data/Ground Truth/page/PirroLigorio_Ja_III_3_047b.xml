@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:38.359+01:00</Created>
+        <LastChange>2024-06-25T19:32:18.479+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902924" pageNr="94" tsid="174125999" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=WGFMDIVHAUSOGAPAGCGHTTFW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SGBGKWGNTPFOJDBZTOMNELUT" imageId="17873962"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_047b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337508507" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="3050,182 3050,433 3250,433 3250,182"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3052,267 3078,266 3104,263 3130,258 3156,255 3156,150 3130,153 3104,158 3078,161 3052,162"/>
+                <Baseline points="3052,232 3078,231 3104,228 3130,223 3156,220"/>
+                <TextEquiv>
+                    <Unicode>50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="3130,401 3160,398 3191,399 3221,398 3252,395 3252,290 3221,293 3191,294 3160,293 3130,296"/>
+                <Baseline points="3130,366 3160,363 3191,364 3221,363 3252,360"/>
+                <TextEquiv>
+                    <Unicode>47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>50
+47</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="299,269 346,4207 3298,4207 3372,2965 2978,2968 2999,284"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:11; length:6;} Greek {offset:88; length:6;}">
+                <Coords points="352,411 482,409 613,409 743,407 874,406 1005,405 1135,403 1266,403 1396,401 1527,401 1658,401 1788,399 1919,399 2049,399 2180,399 2311,399 2441,399 2572,399 2702,399 2833,401 2964,401 2964,338 2833,338 2702,336 2572,336 2441,336 2311,336 2180,336 2049,336 1919,336 1788,336 1658,338 1527,338 1396,338 1266,340 1135,340 1005,342 874,343 743,344 613,346 482,346 352,348"/>
+                <Baseline points="352,390 482,388 613,388 743,386 874,385 1005,384 1135,382 1266,382 1396,380 1527,380 1658,380 1788,378 1919,378 2049,378 2180,378 2311,378 2441,378 2572,378 2702,378 2833,380 2964,380"/>
+                <TextEquiv>
+                    <Unicode>ROGANE, ò, ΡΩΓΑΝΗ, è citta dell'indi, secondo Eratosthene, donde disse Roganete, ò vero ΡΩΓΑΝΗ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} Greek {offset:0; length:3;}">
+                <Coords points="362,497 432,497 503,499 574,499 645,499 716,498 787,497 858,497 929,495 1000,495 1071,494 1141,493 1212,492 1283,491 1354,491 1425,491 1496,489 1567,491 1638,491 1709,491 1780,493 1780,430 1709,428 1638,428 1567,428 1496,426 1425,428 1354,428 1283,428 1212,429 1141,430 1071,431 1000,432 929,432 858,434 787,434 716,435 645,436 574,436 503,436 432,434 362,434"/>
+                <Baseline points="362,476 432,476 503,478 574,478 645,478 716,477 787,476 858,476 929,474 1000,474 1071,473 1141,472 1212,471 1283,470 1354,470 1425,470 1496,468 1567,470 1638,470 1709,470 1842,476"/>
+                <TextEquiv>
+                    <Unicode>ΤΗΣ, fanne menzione Stephano nel buono testo, et Arriano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} Greek {offset:13; length:4;}">
+                <Coords points="376,977 502,975 629,975 756,973 883,973 1010,971 1137,969 1264,969 1391,967 1518,967 1645,965 1771,965 1898,965 2025,963 2152,963 2279,963 2406,963 2533,963 2660,963 2787,963 2914,963 2914,900 2787,900 2660,900 2533,900 2406,900 2279,900 2152,900 2025,900 1898,902 1771,902 1645,902 1518,904 1391,904 1264,906 1137,906 1010,908 883,910 756,910 629,912 502,912 376,914"/>
+                <Baseline points="376,956 502,954 629,954 756,952 883,952 1010,950 1137,948 1264,948 1391,946 1518,946 1645,944 1771,944 1898,944 2025,942 2152,942 2279,942 2406,942 2533,942 2660,942 2787,942 2914,942"/>
+                <TextEquiv>
+                    <Unicode>ROGE, ò vero ΡΩΓΗ, è nome di Isola nella Lycia, habitata, et il suo albergatore si dice gentilmente Rogaeo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} Greek {offset:8; length:7;}">
+                <Coords points="400,1073 448,1069 496,1068 544,1066 593,1065 641,1063 689,1063 738,1063 786,1061 834,1061 883,1061 931,1061 979,1061 1027,1061 1076,1059 1124,1059 1172,1058 1221,1057 1269,1055 1317,1054 1366,1051 1366,988 1317,991 1269,992 1221,994 1172,995 1124,996 1076,996 1027,998 979,998 931,998 883,998 834,998 786,998 738,1000 689,1000 641,1000 593,1002 544,1003 496,1005 448,1006 400,1010"/>
+                <Baseline points="400,1052 448,1048 496,1047 544,1045 593,1044 641,1042 689,1042 738,1042 786,1040 834,1040 883,1040 931,1040 979,1040 1027,1040 1076,1038 1124,1038 1172,1037 1221,1036 1269,1034 1317,1033 1366,1030"/>
+                <TextEquiv>
+                    <Unicode>ò pure, ΡΩΓΑΙΟΣ, come piace à Stephano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:26; length:6;} unclear {offset:73; length:8;} Greek {offset:90; length:8;}">
+                <Coords points="352,1602 480,1602 608,1600 736,1600 865,1600 993,1599 1121,1598 1250,1598 1378,1598 1506,1598 1635,1596 1763,1596 1891,1596 2019,1596 2148,1596 2276,1596 2404,1596 2533,1598 2661,1598 2789,1599 2918,1600 2918,1540 2789,1539 2661,1538 2533,1538 2404,1536 2276,1536 2148,1536 2019,1536 1891,1536 1763,1536 1635,1536 1506,1538 1378,1538 1250,1538 1121,1538 993,1539 865,1540 736,1540 608,1540 480,1542 352,1542"/>
+                <Baseline points="352,1582 480,1582 608,1580 736,1580 865,1580 993,1579 1121,1578 1250,1578 1378,1578 1506,1578 1635,1576 1763,1576 1891,1576 2019,1576 2148,1576 2276,1576 2404,1576 2533,1578 2661,1578 2789,1579 2918,1580"/>
+                <TextEquiv>
+                    <Unicode>ROGMI, ò vero Rogmei, et, ΡΩΓΜΟΙ, è Albergo della Cilicia, donde si dice Rogmerte, ò vero ΡΩΓΜΙΤΗΣ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="396,1692 477,1690 558,1688 639,1688 721,1686 802,1686 883,1686 965,1684 1046,1684 1127,1684 1209,1684 1290,1682 1371,1682 1452,1682 1534,1682 1615,1680 1696,1680 1778,1680 1859,1678 1940,1678 2022,1676 2022,1616 1940,1618 1859,1618 1778,1620 1696,1620 1615,1620 1534,1622 1452,1622 1371,1622 1290,1622 1209,1624 1127,1624 1046,1624 965,1624 883,1626 802,1626 721,1626 639,1628 558,1628 477,1630 396,1632"/>
+                <Baseline points="396,1672 477,1670 558,1668 639,1668 721,1666 802,1666 883,1666 965,1664 1046,1664 1127,1664 1209,1664 1290,1662 1371,1662 1452,1662 1534,1662 1615,1660 1696,1660 1778,1660 1859,1658 1940,1658 2022,1656"/>
+                <TextEquiv>
+                    <Unicode>come vuole il Grammatico Byzantio. È paese herboso et fruttifero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} unclear {offset:49; length:7;}">
+                <Coords points="362,2409 490,2411 618,2413 746,2415 874,2417 1002,2417 1130,2419 1258,2419 1386,2421 1514,2421 1642,2421 1770,2423 1898,2423 2026,2423 2154,2425 2282,2425 2410,2427 2538,2427 2666,2429 2794,2431 2922,2433 2922,2370 2794,2368 2666,2366 2538,2364 2410,2364 2282,2362 2154,2362 2026,2360 1898,2360 1770,2360 1642,2358 1514,2358 1386,2358 1258,2356 1130,2356 1002,2354 874,2354 746,2352 618,2350 490,2348 362,2346"/>
+                <Baseline points="362,2388 490,2390 618,2392 746,2394 874,2396 1002,2396 1130,2398 1258,2398 1386,2400 1514,2400 1642,2400 1770,2402 1898,2402 2026,2402 2154,2404 2282,2404 2410,2406 2538,2406 2666,2408 2794,2410 2922,2412"/>
+                <TextEquiv>
+                    <Unicode>ROMILIA, ò vero RoMylia, è citta di Italia nelli Sanniti, di donde Stephano dice Romiliate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} Greek {offset:7; length:10;}">
+                <Coords points="398,2511 524,2513 650,2513 776,2515 902,2515 1029,2517 1155,2517 1281,2519 1407,2519 1533,2521 1660,2521 1786,2521 1912,2523 2038,2523 2164,2525 2291,2525 2417,2527 2543,2527 2669,2529 2795,2529 2922,2531 2922,2468 2795,2466 2669,2466 2543,2464 2417,2464 2291,2462 2164,2462 2038,2460 1912,2460 1786,2458 1660,2458 1533,2458 1407,2456 1281,2456 1155,2454 1029,2454 902,2452 776,2452 650,2450 524,2450 398,2448"/>
+                <Baseline points="398,2490 524,2492 650,2492 776,2494 902,2494 1029,2496 1155,2496 1281,2498 1407,2498 1533,2500 1660,2500 1786,2500 1912,2502 2038,2502 2164,2504 2291,2504 2417,2506 2543,2506 2669,2508 2795,2508 2922,2510"/>
+                <TextEquiv>
+                    <Unicode>ò vero ΡΩΜΥΛΙΑΤΗΣ, Fu poi fatta Municipio di Romani, onde esso Municipale nome fu detto Romano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="390,2621 516,2621 642,2621 768,2621 895,2621 1021,2623 1147,2623 1274,2623 1400,2625 1526,2625 1653,2627 1779,2627 1905,2627 2031,2629 2158,2629 2284,2631 2410,2631 2537,2632 2663,2633 2789,2633 2916,2633 2916,2575 2789,2575 2663,2575 2537,2574 2410,2573 2284,2573 2158,2571 2031,2571 1905,2569 1779,2569 1653,2569 1526,2567 1400,2567 1274,2565 1147,2565 1021,2565 895,2563 768,2563 642,2563 516,2563 390,2563"/>
+                <Baseline points="390,2602 516,2602 642,2602 768,2602 895,2602 1021,2604 1147,2604 1274,2604 1400,2606 1526,2606 1653,2608 1779,2608 1905,2608 2031,2610 2158,2610 2284,2612 2410,2612 2537,2613 2663,2614 2789,2614 2916,2614"/>
+                <TextEquiv>
+                    <Unicode>come si trova nella Medaglia, con la Testa di Hercole giovane, et col rovescio della Lupa che allatta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="382,2718 464,2720 547,2720 629,2720 712,2718 795,2718 877,2718 960,2718 1042,2718 1125,2716 1208,2716 1290,2716 1373,2714 1455,2714 1538,2714 1621,2713 1703,2712 1786,2712 1868,2712 1951,2710 2034,2710 2034,2650 1951,2650 1868,2652 1786,2652 1703,2652 1621,2653 1538,2654 1455,2654 1373,2654 1290,2656 1208,2656 1125,2656 1042,2658 960,2658 877,2658 795,2658 712,2658 629,2660 547,2660 464,2660 382,2658"/>
+                <Baseline points="382,2698 464,2700 547,2700 629,2700 712,2698 795,2698 877,2698 960,2698 1042,2698 1125,2696 1208,2696 1290,2696 1373,2694 1455,2694 1538,2694 1621,2693 1703,2692 1786,2692 1868,2692 1951,2690 2034,2690"/>
+                <TextEquiv>
+                    <Unicode>Romolo et Remo si come si soleva presso di Romani fignere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="354,2806 481,2807 609,2808 736,2808 864,2810 991,2810 1119,2810 1246,2810 1374,2810 1501,2808 1629,2808 1756,2808 1884,2808 2011,2808 2139,2806 2266,2806 2394,2806 2521,2806 2649,2806 2776,2806 2904,2806 2904,2751 2776,2751 2649,2751 2521,2751 2394,2751 2266,2751 2139,2751 2011,2753 1884,2753 1756,2753 1629,2753 1501,2753 1374,2755 1246,2755 1119,2755 991,2755 864,2755 736,2753 609,2753 481,2752 354,2751"/>
+                <Baseline points="354,2788 481,2789 609,2790 736,2790 864,2792 991,2792 1119,2792 1246,2792 1374,2792 1501,2790 1629,2790 1756,2790 1884,2790 2011,2790 2139,2788 2266,2788 2394,2788 2521,2788 2649,2788 2776,2788 2904,2788"/>
+                <TextEquiv>
+                    <Unicode>ROMILIA, anchora è nome di una delle quattro prima Tribu de Romani constituita da Romolo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="412,2894 536,2894 661,2894 786,2892 911,2892 1036,2892 1161,2892 1286,2892 1411,2890 1536,2890 1661,2890 1785,2890 1910,2888 2035,2888 2160,2888 2285,2886 2410,2885 2535,2884 2660,2882 2785,2882 2910,2880 2910,2825 2785,2827 2660,2827 2535,2829 2410,2830 2285,2831 2160,2833 2035,2833 1910,2833 1785,2835 1661,2835 1536,2835 1411,2835 1286,2837 1161,2837 1036,2837 911,2837 786,2837 661,2839 536,2839 412,2839"/>
+                <Baseline points="412,2876 536,2876 661,2876 786,2874 911,2874 1036,2874 1161,2874 1286,2874 1411,2872 1536,2872 1661,2872 1785,2872 1910,2870 2035,2870 2160,2870 2285,2868 2410,2867 2535,2866 2660,2864 2785,2864 2910,2862"/>
+                <TextEquiv>
+                    <Unicode>et secondo alcuni gli fudato ultimamente il Municipale luogho superati i Samniti. La quale Tribu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} Greek {offset:22; length:1;} Greek {offset:31; length:7;} Greek {offset:64; length:1;}">
+                <Coords points="402,2977 527,2977 652,2977 777,2979 902,2979 1027,2980 1152,2981 1277,2981 1402,2983 1527,2983 1652,2985 1777,2985 1902,2985 2027,2987 2152,2987 2277,2987 2402,2987 2527,2987 2652,2989 2777,2989 2902,2987 2902,2930 2777,2932 2652,2932 2527,2930 2402,2930 2277,2930 2152,2930 2027,2930 1902,2928 1777,2928 1652,2928 1527,2926 1402,2926 1277,2924 1152,2924 1027,2923 902,2922 777,2922 652,2920 527,2920 402,2920"/>
+                <Baseline points="402,2958 527,2958 652,2958 777,2960 902,2960 1027,2961 1152,2962 1277,2962 1402,2964 1527,2964 1652,2966 1777,2966 1902,2966 2027,2968 2152,2968 2277,2968 2402,2968 2527,2968 2652,2970 2777,2970 2902,2968"/>
+                <TextEquiv>
+                    <Unicode>i greci scrivono per .Ω. cosi, ΡΩΜΙΛΙΑ. Ma Stephano chiama per .Ε. la Tribu inquesto modo.⁓</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="358,3071 485,3073 613,3073 741,3073 869,3075 997,3075 1124,3075 1252,3073 1380,3073 1508,3073 1636,3073 1763,3071 1891,3071 2019,3069 2147,3069 2275,3069 2402,3069 2530,3067 2658,3067 2786,3069 2914,3069 2914,3011 2786,3011 2658,3009 2530,3009 2402,3011 2275,3011 2147,3011 2019,3011 1891,3013 1763,3013 1636,3015 1508,3015 1380,3015 1252,3015 1124,3017 997,3017 869,3017 741,3015 613,3015 485,3015 358,3013"/>
+                <Baseline points="358,3052 485,3054 613,3054 741,3054 869,3056 997,3056 1124,3056 1252,3054 1380,3054 1508,3054 1636,3054 1763,3052 1891,3052 2019,3050 2147,3050 2275,3050 2402,3050 2530,3048 2658,3048 2786,3050 2914,3050"/>
+                <TextEquiv>
+                    <Unicode>Remuuria: ma è luogho guasto. havea essa Tribu per Tutelare Dea Duellona, ò vero Bellona, cosi chiamata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="398,3160 542,3162 687,3162 832,3164 977,3164 1122,3164 1267,3162 1412,3162 1557,3160 1702,3158 1847,3158 1991,3156 2136,3156 2281,3156 2426,3156 2571,3156 2716,3156 2861,3158 3006,3160 3151,3164 3296,3168 3296,3120 3151,3116 3006,3112 2861,3110 2716,3108 2571,3108 2426,3108 2281,3108 2136,3108 1991,3108 1847,3110 1702,3110 1557,3112 1412,3114 1267,3114 1122,3116 977,3116 832,3116 687,3114 542,3114 398,3112"/>
+                <Baseline points="398,3144 542,3146 687,3146 832,3148 977,3148 1122,3148 1267,3146 1412,3146 1557,3144 1702,3142 1847,3142 1991,3140 2136,3140 2281,3140 2426,3140 2571,3140 2716,3140 2861,3142 3006,3144 3151,3148 3316,3163"/>
+                <TextEquiv>
+                    <Unicode>dal bello, et dal Duello. Sicome havemo veduto in una antichissima dedicatione. DVELLONAE SACRVM. et di essa fa menzione Varrone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="3030,3215 3056,3216 3083,3217 3110,3219 3137,3219 3164,3221 3190,3223 3217,3224 3244,3226 3271,3229 3298,3231 3298,3185 3271,3183 3244,3180 3217,3178 3190,3177 3164,3175 3137,3173 3110,3173 3083,3171 3056,3170 3030,3169"/>
+                <Baseline points="3030,3200 3056,3201 3083,3202 3110,3204 3137,3204 3164,3206 3190,3208 3217,3209 3244,3211 3271,3214 3339,3224"/>
+                <TextEquiv>
+                    <Unicode>nel quarto libro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} Greek {offset:28; length:3;}">
+                <Coords points="358,3267 485,3267 613,3267 741,3267 868,3267 996,3267 1124,3267 1251,3267 1379,3265 1507,3265 1635,3265 1762,3263 1890,3263 2018,3263 2145,3261 2273,3261 2401,3261 2528,3261 2656,3261 2784,3261 2912,3261 2912,3198 2784,3198 2656,3198 2528,3198 2401,3198 2273,3198 2145,3198 2018,3200 1890,3200 1762,3200 1635,3202 1507,3202 1379,3202 1251,3204 1124,3204 996,3204 868,3204 741,3204 613,3204 485,3204 358,3204"/>
+                <Baseline points="358,3246 485,3246 613,3246 741,3246 868,3246 996,3246 1124,3246 1251,3246 1379,3244 1507,3244 1635,3244 1762,3242 1890,3242 2018,3242 2145,3240 2273,3240 2401,3240 2528,3240 2656,3240 2784,3240 2932,3253"/>
+                <TextEquiv>
+                    <Unicode>ROM', cosi etiandio i greci ΡΩΜ, è citta della Scythia trali Gandarice nationi, donde il citta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} Greek {offset:28; length:6;} Greek {offset:55; length:3;} Greek {offset:65; length:1;} Greek {offset:83; length:6;}">
+                <Coords points="388,3363 515,3363 643,3363 771,3363 899,3363 1027,3361 1155,3361 1283,3359 1411,3359 1539,3358 1667,3357 1794,3356 1922,3355 2050,3355 2178,3353 2306,3353 2434,3352 2562,3351 2690,3351 2818,3351 2946,3351 2946,3288 2818,3288 2690,3288 2562,3288 2434,3289 2306,3290 2178,3290 2050,3292 1922,3292 1794,3293 1667,3294 1539,3295 1411,3296 1283,3296 1155,3298 1027,3298 899,3300 771,3300 643,3300 515,3300 388,3300"/>
+                <Baseline points="388,3342 515,3342 643,3342 771,3342 899,3342 1027,3340 1155,3340 1283,3338 1411,3338 1539,3337 1667,3336 1794,3335 1922,3334 2050,3334 2178,3332 2306,3332 2434,3331 2562,3330 2690,3330 2818,3330 2946,3330"/>
+                <TextEquiv>
+                    <Unicode>dino si dice Romio, ò vero, ΡΩΜΙΟΣ, altri la scrivono, ΡΩΝ, per, Ν, e il cittadino ΡΩΝΙΟΣ, ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="408,3461 518,3459 628,3457 739,3455 849,3453 960,3453 1070,3451 1180,3451 1291,3449 1401,3449 1512,3449 1622,3447 1732,3447 1843,3447 1953,3445 2064,3445 2174,3443 2284,3443 2395,3441 2505,3439 2616,3437 2616,3374 2505,3376 2395,3378 2284,3380 2174,3380 2064,3382 1953,3382 1843,3384 1732,3384 1622,3384 1512,3386 1401,3386 1291,3386 1180,3388 1070,3388 960,3390 849,3390 739,3392 628,3394 518,3396 408,3398"/>
+                <Baseline points="408,3440 518,3438 628,3436 739,3434 849,3432 960,3432 1070,3430 1180,3430 1291,3428 1401,3428 1512,3428 1622,3426 1732,3426 1843,3426 1953,3424 2064,3424 2174,3422 2284,3422 2395,3420 2505,3418 2616,3416"/>
+                <TextEquiv>
+                    <Unicode>come si voglia sia, si ha da scrivere. et nell'uno et nell'altro caso Romio et Ronio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} Greek {offset:14; length:5;}">
+                <Coords points="346,3715 477,3717 609,3719 741,3719 873,3719 1005,3721 1137,3721 1269,3721 1401,3721 1533,3721 1665,3723 1796,3723 1928,3723 2060,3723 2192,3723 2324,3723 2456,3723 2588,3725 2720,3725 2852,3725 2984,3727 2984,3664 2852,3662 2720,3662 2588,3662 2456,3660 2324,3660 2192,3660 2060,3660 1928,3660 1796,3660 1665,3660 1533,3658 1401,3658 1269,3658 1137,3658 1005,3658 873,3656 741,3656 609,3656 477,3654 346,3652"/>
+                <Baseline points="346,3694 477,3696 609,3698 741,3698 873,3698 1005,3700 1137,3700 1269,3700 1401,3700 1533,3700 1665,3702 1796,3702 1928,3702 2060,3702 2192,3702 2324,3702 2456,3702 2588,3704 2720,3704 2896,3708 3010,3722"/>
+                <TextEquiv>
+                    <Unicode>Rosos, ò vero ΡΩΣΟΣ, è nome di citta ò vero oppido nel Monte Casio, di cui scrive Plinio nel quin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="386,3805 512,3807 639,3809 765,3813 892,3814 1019,3816 1145,3817 1272,3819 1398,3820 1525,3821 1652,3821 1778,3823 1905,3823 2031,3823 2158,3823 2285,3823 2411,3825 2538,3825 2664,3825 2791,3825 2918,3825 2918,3762 2791,3762 2664,3762 2538,3762 2411,3762 2285,3760 2158,3760 2031,3760 1905,3760 1778,3760 1652,3758 1525,3758 1398,3757 1272,3756 1145,3754 1019,3753 892,3751 765,3750 639,3746 512,3744 386,3742"/>
+                <Baseline points="386,3784 512,3786 639,3788 765,3792 892,3793 1019,3795 1145,3796 1272,3798 1398,3799 1525,3800 1652,3800 1778,3802 1905,3802 2031,3802 2158,3802 2285,3802 2411,3804 2538,3804 2664,3804 2791,3804 2918,3804"/>
+                <TextEquiv>
+                    <Unicode>to libro al capo ventesimo secondo nelle cose del detto Monte, posto davante alla Syria. et Stephano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;} Greek {offset:96; length:2;}">
+                <Coords points="390,3903 518,3905 646,3907 774,3909 902,3911 1030,3911 1158,3911 1286,3911 1414,3911 1542,3911 1671,3911 1799,3909 1927,3909 2055,3909 2183,3907 2311,3907 2439,3907 2567,3907 2695,3907 2823,3909 2952,3909 2952,3846 2823,3846 2695,3844 2567,3844 2439,3844 2311,3844 2183,3844 2055,3846 1927,3846 1799,3846 1671,3848 1542,3848 1414,3848 1286,3848 1158,3848 1030,3848 902,3848 774,3846 646,3844 518,3842 390,3840"/>
+                <Baseline points="390,3882 518,3884 646,3886 774,3888 902,3890 1030,3890 1158,3890 1286,3890 1414,3890 1542,3890 1671,3890 1799,3888 1927,3888 2055,3888 2183,3886 2311,3886 2439,3886 2567,3886 2695,3886 2823,3888 2961,3896"/>
+                <TextEquiv>
+                    <Unicode>scrive della sua gente, et dice chel gentile si debba scrivere Rosio et Rosiense. Cosi dicendo. ΡΩ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;} Greek {offset:0; length:82;}">
+                <Coords points="394,4007 521,4007 649,4009 777,4009 905,4009 1033,4009 1160,4009 1288,4009 1416,4009 1544,4009 1672,4009 1799,4009 1927,4009 2055,4009 2183,4011 2311,4011 2438,4011 2566,4013 2694,4013 2822,4015 2950,4017 2950,3954 2822,3952 2694,3950 2566,3950 2438,3948 2311,3948 2183,3948 2055,3946 1927,3946 1799,3946 1672,3946 1544,3946 1416,3946 1288,3946 1160,3946 1033,3946 905,3946 777,3946 649,3946 521,3944 394,3944"/>
+                <Baseline points="394,3986 521,3986 649,3988 777,3988 905,3988 1033,3988 1160,3988 1288,3988 1416,3988 1544,3988 1672,3988 1799,3988 1927,3988 2055,3988 2183,3990 2311,3990 2438,3990 2566,3992 2694,3992 2822,3994 2950,3996"/>
+                <TextEquiv>
+                    <Unicode>ΣΟΣ. ΤΟ ΕΘΝΙΚΟΝ, ΡΩΣΙΟΣ. ΑΛΛΑ ΚΑΙ ΡΩΣΙΕΥΣ, ΩΣ ΑΠΟ ΤΟΥ ΤΑΡΣΟΣ, ΤΑΡΣΕΥΣ, ΚΑΙ ΤΟ ΚΤΗ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} Greek {offset:0; length:34;}">
+                <Coords points="398,4093 523,4097 649,4099 774,4101 900,4103 1026,4103 1151,4105 1277,4105 1402,4105 1528,4105 1654,4105 1779,4103 1905,4103 2030,4103 2156,4101 2282,4101 2407,4101 2533,4101 2658,4101 2784,4101 2910,4101 2910,4038 2784,4038 2658,4038 2533,4038 2407,4038 2282,4038 2156,4038 2030,4040 1905,4040 1779,4040 1654,4042 1528,4042 1402,4042 1277,4042 1151,4042 1026,4040 900,4040 774,4038 649,4036 523,4034 398,4030"/>
+                <Baseline points="398,4072 523,4076 649,4078 774,4080 900,4082 1026,4082 1151,4084 1277,4084 1402,4084 1528,4084 1654,4084 1779,4082 1905,4082 2030,4082 2156,4080 2282,4080 2407,4080 2533,4080 2658,4080 2784,4080 2910,4080"/>
+                <TextEquiv>
+                    <Unicode>ΤΙΚΟΝ, ΡΩΣΙΚΟΣ, ΡΟΣΙΚΟΣ ΣΚΟΠΕΛΟΣ. Cio è dice egli che da Roso si dice Rosio et Rosiense, come da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="408,4185 513,4185 618,4185 723,4187 828,4187 934,4189 1039,4189 1144,4191 1249,4193 1354,4195 1460,4196 1565,4197 1670,4199 1775,4201 1880,4203 1986,4203 2091,4205 2196,4205 2301,4207 2406,4207 2512,4207 2512,4144 2406,4144 2301,4144 2196,4142 2091,4142 1986,4140 1880,4140 1775,4138 1670,4136 1565,4134 1460,4133 1354,4132 1249,4130 1144,4128 1039,4126 934,4126 828,4124 723,4124 618,4122 513,4122 408,4122"/>
+                <Baseline points="408,4164 513,4164 618,4164 723,4166 828,4166 934,4168 1039,4168 1144,4170 1249,4172 1354,4174 1460,4175 1565,4176 1670,4178 1775,4180 1880,4182 1986,4182 2091,4184 2196,4184 2301,4186 2406,4186 2512,4186"/>
+                <TextEquiv>
+                    <Unicode>Tarso Tarsio et Tarsienese et il suo caso possessivamente Rosico, et Rosico il scoglio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ROGANE, ò, ΡΩΓΑΝΗ, è citta dell'indi, secondo Eratosthene, donde disse Roganete, ò vero ΡΩΓΑΝΗ¬
+ΤΗΣ, fanne menzione Stephano nel buono testo, et Arriano.
+ROGE, ò vero ΡΩΓΗ, è nome di Isola nella Lycia, habitata, et il suo albergatore si dice gentilmente Rogaeo,
+ò pure, ΡΩΓΑΙΟΣ, come piace à Stephano.
+ROGMI, ò vero Rogmei, et, ΡΩΓΜΟΙ, è Albergo della Cilicia, donde si dice Rogmerte, ò vero ΡΩΓΜΙΤΗΣ,
+come vuole il Grammatico Byzantio. È paese herboso et fruttifero.
+ROMILIA, ò vero RoMylia, è citta di Italia nelli Sanniti, di donde Stephano dice Romiliate
+ò vero ΡΩΜΥΛΙΑΤΗΣ, Fu poi fatta Municipio di Romani, onde esso Municipale nome fu detto Romano.
+come si trova nella Medaglia, con la Testa di Hercole giovane, et col rovescio della Lupa che allatta
+Romolo et Remo si come si soleva presso di Romani fignere.
+ROMILIA, anchora è nome di una delle quattro prima Tribu de Romani constituita da Romolo,
+et secondo alcuni gli fudato ultimamente il Municipale luogho superati i Samniti. La quale Tribu
+i greci scrivono per .Ω. cosi, ΡΩΜΙΛΙΑ. Ma Stephano chiama per .Ε. la Tribu inquesto modo.⁓
+Remuuria: ma è luogho guasto. havea essa Tribu per Tutelare Dea Duellona, ò vero Bellona, cosi chiamata
+dal bello, et dal Duello. Sicome havemo veduto in una antichissima dedicatione. DVELLONAE SACRVM. et di essa fa menzione Varrone
+nel quarto libro.
+ROM', cosi etiandio i greci ΡΩΜ, è citta della Scythia trali Gandarice nationi, donde il citta
+dino si dice Romio, ò vero, ΡΩΜΙΟΣ, altri la scrivono, ΡΩΝ, per, Ν, e il cittadino ΡΩΝΙΟΣ, ma
+come si voglia sia, si ha da scrivere. et nell'uno et nell'altro caso Romio et Ronio.
+Rosos, ò vero ΡΩΣΟΣ, è nome di citta ò vero oppido nel Monte Casio, di cui scrive Plinio nel quin¬
+to libro al capo ventesimo secondo nelle cose del detto Monte, posto davante alla Syria. et Stephano
+scrive della sua gente, et dice chel gentile si debba scrivere Rosio et Rosiense. Cosi dicendo. ΡΩ¬
+ΣΟΣ. ΤΟ ΕΘΝΙΚΟΝ, ΡΩΣΙΟΣ. ΑΛΛΑ ΚΑΙ ΡΩΣΙΕΥΣ, ΩΣ ΑΠΟ ΤΟΥ ΤΑΡΣΟΣ, ΤΑΡΣΕΥΣ, ΚΑΙ ΤΟ ΚΤΗ¬
+ΤΙΚΟΝ, ΡΩΣΙΚΟΣ, ΡΟΣΙΚΟΣ ΣΚΟΠΕΛΟΣ. Cio è dice egli che da Roso si dice Rosio et Rosiense, come da
+Tarso Tarsio et Tarsienese et il suo caso possessivamente Rosico, et Rosico il scoglio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

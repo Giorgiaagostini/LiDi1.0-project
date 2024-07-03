@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_023a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:59.419+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="4157" WIDTH="2943" VPOS="330" HPOS="652">
+               <Shape>
+                  <Polygon POINTS="652,330 661,4454 3576,4487 3595,379"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="786,510 920,510 1054,512 1188,512 1322,514 1457,514 1591,516 1725,516 1859,516 1993,518 2128,518 2262,518 2396,518 2530,518 2664,518 2798,518 2933,516 3067,516 3201,514 3335,514 3470,512"
+                         HEIGHT="72"
+                         WIDTH="2684"
+                         VPOS="467"
+                         HPOS="786">
+                  <String ID="string_r1l1"
+                          HEIGHT="72"
+                          WIDTH="2684"
+                          VPOS="467"
+                          HPOS="786"
+                          CONTENT="RAURACI, ΡΑΥΡΑΚΟΙ, sono Populi della Gallia Belgica, secondo dice Plinio, nel libro quarto, al capo decimo settimo"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="842,598 974,602 1106,608 1239,610 1371,614 1504,614 1636,616 1768,616 1901,616 2033,616 2166,614 2298,613 2430,612 2563,610 2695,608 2828,606 2960,606 3092,604 3225,604 3357,604 3490,604"
+                         HEIGHT="73"
+                         WIDTH="2648"
+                         VPOS="561"
+                         HPOS="842">
+                  <String ID="string_r1l2"
+                          HEIGHT="73"
+                          WIDTH="2648"
+                          VPOS="561"
+                          HPOS="842"
+                          CONTENT="de quali è detto in Rauraco Città. i quali anticamente si mostrarono arditi et animosi nella guerra. perloro difesa"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="858,684 930,684 1003,686 1076,686 1149,687 1222,688 1295,689 1368,690 1441,690 1514,692 1587,692 1659,694 1732,694 1805,696 1878,696 1951,698 2024,698 2097,698 2170,700 2243,700 2316,700"
+                         HEIGHT="73"
+                         WIDTH="1458"
+                         VPOS="646"
+                         HPOS="858">
+                  <String ID="string_r1l3"
+                          HEIGHT="73"
+                          WIDTH="1458"
+                          VPOS="646"
+                          HPOS="858"
+                          CONTENT="combattendo, contra Romani: et sono detti anchora Galli Comati."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="816,1266 950,1268 1085,1268 1219,1268 1354,1270 1489,1270 1623,1270 1758,1270 1892,1270 2027,1268 2162,1268 2296,1266 2431,1265 2565,1262 2700,1260 2835,1256 2969,1253 3104,1248 3238,1244 3373,1238 3508,1230"
+                         HEIGHT="100"
+                         WIDTH="2692"
+                         VPOS="1190"
+                         HPOS="816">
+                  <String ID="string_r1l4"
+                          HEIGHT="100"
+                          WIDTH="2692"
+                          VPOS="1190"
+                          HPOS="816"
+                          CONTENT="RAURACO, Rauraca, Rauracum, è città della Gallia Comata, nella parte di Rauraci populi sudetti, che alcuni Raurici"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="832,1358 965,1356 1099,1354 1233,1354 1367,1354 1501,1354 1634,1352 1768,1352 1902,1352 2036,1352 2170,1352 2303,1350 2437,1348 2571,1347 2705,1344 2839,1342 2972,1338 3106,1332 3240,1327 3374,1320 3508,1312"
+                         HEIGHT="106"
+                         WIDTH="2676"
+                         VPOS="1272"
+                         HPOS="832">
+                  <String ID="string_r1l5"
+                          HEIGHT="106"
+                          WIDTH="2676"
+                          VPOS="1272"
+                          HPOS="832"
+                          CONTENT="gli scrivono senza l'ultima .A., ΡΑΥΡΙΚΟΙ, che sono nationi Galliche bellicose. alli confini di sequari, et dell'Heluetij"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="840,1446 972,1448 1104,1448 1236,1448 1368,1450 1501,1450 1633,1450 1765,1450 1897,1448 2029,1448 2162,1446 2294,1444 2426,1442 2558,1440 2690,1438 2822,1434 2955,1430 3087,1424 3219,1420 3351,1414 3484,1408"
+                         HEIGHT="106"
+                         WIDTH="2644"
+                         VPOS="1365"
+                         HPOS="840">
+                  <String ID="string_r1l6"
+                          HEIGHT="106"
+                          WIDTH="2644"
+                          VPOS="1365"
+                          HPOS="840"
+                          CONTENT="la cui città per essere stata dedutta colonia de cavaglieri Romani, Plinio nellibro quarto alcapo decimo la"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="840,1544 974,1546 1108,1548 1243,1548 1377,1548 1512,1546 1646,1545 1780,1544 1915,1540 2049,1538 2184,1536 2318,1532 2452,1528 2587,1524 2721,1520 2856,1516 2990,1512 3124,1506 3259,1502 3393,1498 3528,1494"
+                         HEIGHT="117"
+                         WIDTH="2688"
+                         VPOS="1452"
+                         HPOS="840">
+                  <String ID="string_r1l7"
+                          HEIGHT="117"
+                          WIDTH="2688"
+                          VPOS="1452"
+                          HPOS="840"
+                          CONTENT="chiama Rauraco Equestre colonia: et da essa sono appellati i Rauracensi Equestri. et sidice Rauraca colonia"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="848,1648 981,1648 1115,1646 1249,1644 1383,1641 1517,1638 1650,1636 1784,1632 1918,1628 2052,1624 2186,1621 2319,1617 2453,1614 2587,1610 2721,1606 2855,1602 2988,1600 3122,1596 3256,1594 3390,1592 3524,1590"
+                         HEIGHT="119"
+                         WIDTH="2676"
+                         VPOS="1549"
+                         HPOS="848">
+                  <String ID="string_r1l8"
+                          HEIGHT="119"
+                          WIDTH="2676"
+                          VPOS="1549"
+                          HPOS="848"
+                          CONTENT="et Rauriaci le cose d'essa Rauracum sottoposte. Come le dicono i greci ΡΑΥΡΑΚΩΝ, et ΡΑΥΡΙΑΚΟΙ. et nel singulare"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="840,1736 975,1736 1111,1734 1246,1732 1382,1730 1518,1727 1653,1724 1789,1719 1924,1714 2060,1710 2196,1706 2331,1700 2467,1696 2602,1692 2738,1688 2874,1684 3009,1682 3145,1680 3280,1678 3416,1676 3552,1676"
+                         HEIGHT="115"
+                         WIDTH="2712"
+                         VPOS="1639"
+                         HPOS="840">
+                  <String ID="string_r1l9"
+                          HEIGHT="115"
+                          WIDTH="2712"
+                          VPOS="1639"
+                          HPOS="840"
+                          CONTENT="ΡΑΥΡΑΚΕΥΣ. et si dicono Rauracensium, et Rauracense nel singulare et nel numero del più, et singularmente an¬"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="844,1824 939,1826 1034,1826 1129,1826 1224,1824 1319,1822 1414,1818 1509,1814 1604,1810 1699,1805 1794,1800 1889,1795 1984,1790 2079,1785 2174,1782 2269,1776 2364,1774 2459,1772 2554,1770 2649,1770 2744,1772"
+                         HEIGHT="116"
+                         WIDTH="1900"
+                         VPOS="1730"
+                         HPOS="844">
+                  <String ID="string_r1l10"
+                          HEIGHT="116"
+                          WIDTH="1900"
+                          VPOS="1730"
+                          HPOS="844"
+                          CONTENT="cora Rauraceno, et si possono dire, Rauraci et Rauraceini, nell'uso populare."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="840,3360 967,3357 1095,3352 1222,3349 1350,3345 1478,3342 1605,3338 1733,3334 1860,3330 1988,3328 2116,3324 2243,3320 2371,3318 2498,3314 2626,3312 2754,3308 2881,3306 3009,3304 3136,3302 3264,3298 3392,3296"
+                         HEIGHT="128"
+                         WIDTH="2552"
+                         VPOS="3253"
+                         HPOS="840">
+                  <String ID="string_r1l11"
+                          HEIGHT="128"
+                          WIDTH="2552"
+                          VPOS="3253"
+                          HPOS="840"
+                          CONTENT="RAXIMAGABI, ò Raximagabis, è voce vulgare, presa perlo nome del Porto dell'Africa, che gli Antichi"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="904,3444 929,3442 955,3441 980,3440 1006,3438 1031,3438 1057,3437 1082,3436 1108,3436 1133,3436 1159,3436 1184,3435 1210,3434 1235,3434 1261,3434 1286,3434 1312,3434 1337,3433 1363,3432 1388,3432 1414,3430"
+                         HEIGHT="78"
+                         WIDTH="510"
+                         VPOS="3387"
+                         HPOS="904">
+                  <String ID="string_r1l12"
+                          HEIGHT="78"
+                          WIDTH="510"
+                          VPOS="3387"
+                          HPOS="904"
+                          CONTENT="chiamavano Sabatra."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="808,3732 939,3736 1070,3738 1202,3740 1333,3740 1465,3740 1596,3740 1727,3738 1859,3738 1990,3736 2122,3732 2253,3729 2384,3726 2516,3722 2647,3718 2779,3714 2910,3710 3041,3706 3173,3700 3304,3697 3436,3692"
+                         HEIGHT="112"
+                         WIDTH="2628"
+                         VPOS="3649"
+                         HPOS="808">
+                  <String ID="string_r1l13"
+                          HEIGHT="112"
+                          WIDTH="2628"
+                          VPOS="3649"
+                          HPOS="808"
+                          CONTENT="REATINI, Reatineis, sono Populi d'Italia, di Reate città de sabini, posti nel mezzo d'Italia in una bella vista"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="908,3820 1033,3824 1159,3828 1284,3830 1410,3832 1536,3834 1661,3834 1787,3834 1912,3832 2038,3831 2164,3830 2289,3828 2415,3825 2540,3822 2666,3820 2792,3818 2917,3814 3043,3812 3168,3810 3294,3808 3420,3806"
+                         HEIGHT="92"
+                         WIDTH="2512"
+                         VPOS="3763"
+                         HPOS="908">
+                  <String ID="string_r1l14"
+                          HEIGHT="92"
+                          WIDTH="2512"
+                          VPOS="3763"
+                          HPOS="908"
+                          CONTENT="d'uno generoso paese, per onde irriga il Velino fiume. Chiamansi hoggidì Rietini dal nome corrotto della"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="902,3914 1029,3916 1157,3918 1284,3920 1412,3921 1540,3922 1667,3923 1795,3924 1922,3924 2050,3924 2178,3924 2305,3926 2433,3926 2560,3926 2688,3926 2816,3926 2943,3926 3071,3926 3198,3926 3326,3926 3454,3926"
+                         HEIGHT="69"
+                         WIDTH="2552"
+                         VPOS="3876"
+                         HPOS="902">
+                  <String ID="string_r1l15"
+                          HEIGHT="69"
+                          WIDTH="2552"
+                          VPOS="3876"
+                          HPOS="902"
+                          CONTENT="citta che invece di Reate dicono Rieti. Posta quarantamiglia discosto da Roma, nella Via Quinctia Traia¬"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="912,3990 1032,3994 1153,3996 1274,3999 1395,4002 1516,4004 1637,4006 1758,4008 1879,4008 2000,4010 2121,4012 2241,4012 2362,4012 2483,4012 2604,4012 2725,4012 2846,4012 2967,4012 3088,4010 3209,4010 3330,4008"
+                         HEIGHT="79"
+                         WIDTH="2418"
+                         VPOS="3952"
+                         HPOS="912">
+                  <String ID="string_r1l16"
+                          HEIGHT="79"
+                          WIDTH="2418"
+                          VPOS="3952"
+                          HPOS="912"
+                          CONTENT="na. di cui Plinio fa menzione, nel libro terzo al capo duadecimo, ove accusa essere i suoi populi molti."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="896,4076 1024,4079 1152,4081 1280,4084 1409,4085 1537,4086 1665,4088 1794,4088 1922,4090 2050,4090 2179,4090 2307,4090 2435,4090 2563,4090 2692,4090 2820,4090 2948,4090 3077,4092 3205,4092 3333,4092 3462,4094"
+                         HEIGHT="78"
+                         WIDTH="2566"
+                         VPOS="4036"
+                         HPOS="896">
+                  <String ID="string_r1l17"
+                          HEIGHT="78"
+                          WIDTH="2566"
+                          VPOS="4036"
+                          HPOS="896"
+                          CONTENT="REATINO, Reatinus è nome del Territorio di Reate posto attorno ad'essa città, Ubellico d'Italia come dice Var"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="940,4148 1066,4150 1192,4152 1319,4154 1445,4156 1572,4158 1698,4158 1824,4160 1951,4160 2077,4160 2204,4162 2330,4162 2456,4162 2583,4164 2709,4164 2836,4166 2962,4167 3088,4169 3215,4172 3341,4174 3468,4176"
+                         HEIGHT="85"
+                         WIDTH="2528"
+                         VPOS="4110"
+                         HPOS="940">
+                  <String ID="string_r1l18"
+                          HEIGHT="85"
+                          WIDTH="2528"
+                          VPOS="4110"
+                          HPOS="940"
+                          CONTENT="rone, et etian Solino. et Cicerone chiama esso Territorio Tempea Reatina, dalla varieta delli piani et delli"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="930,4230 1057,4232 1185,4232 1313,4234 1441,4234 1569,4236 1696,4236 1824,4238 1952,4240 2080,4240 2208,4242 2335,4244 2463,4244 2591,4246 2719,4248 2847,4248 2974,4250 3102,4252 3230,4253 3358,4254 3486,4256"
+                         HEIGHT="83"
+                         WIDTH="2556"
+                         VPOS="4192"
+                         HPOS="930">
+                  <String ID="string_r1l19"
+                          HEIGHT="83"
+                          WIDTH="2556"
+                          VPOS="4192"
+                          HPOS="930"
+                          CONTENT="colli, et delle Montagne et delli castelli che si vedono attorno et perlo mezzo, con bella et degna coltura, con"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="950,4316 1077,4316 1205,4318 1332,4320 1460,4322 1588,4324 1715,4326 1843,4328 1970,4330 2098,4330 2226,4332 2353,4334 2481,4336 2608,4336 2736,4338 2864,4338 2991,4340 3119,4340 3246,4340 3374,4342 3502,4342"
+                         HEIGHT="86"
+                         WIDTH="2552"
+                         VPOS="4276"
+                         HPOS="950">
+                  <String ID="string_r1l20"
+                          HEIGHT="86"
+                          WIDTH="2552"
+                          VPOS="4276"
+                          HPOS="950"
+                          CONTENT="uno piacevole Fiume detto Velino, che fa officio inquesto Reatino quale fà peneo nella Tempe di Thessaglia."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="942,4396 1067,4398 1192,4400 1317,4402 1442,4404 1567,4406 1692,4408 1817,4410 1942,4412 2067,4414 2192,4416 2317,4418 2442,4420 2567,4422 2692,4424 2817,4426 2942,4426 3067,4428 3192,4428 3317,4428 3442,4428"
+                         HEIGHT="92"
+                         WIDTH="2500"
+                         VPOS="4356"
+                         HPOS="942">
+                  <String ID="string_r1l21"
+                          HEIGHT="92"
+                          WIDTH="2500"
+                          VPOS="4356"
+                          HPOS="942"
+                          CONTENT="che va variando et circondanno i luoghi varij et Amenissime, ove Varrone hebbe una delle sue Ville."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:42.977+01:00</Created>
+        <LastChange>2022-05-18T22:35:57.166+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903083" pageNr="200" tsid="82547834" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=XIRXHEPISMOPEMUXZEJJGUYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GIRSRBUVGTYTLOKPUUKLACGB" imageId="17874068"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_100b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337521184" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1650530106601_622"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1650530104747_617"/>
+                <RegionRefIndexed index="3" regionRef="region_1650530151343_656"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1650530098398_609"/>
+                <RegionRefIndexed index="5" regionRef="region_1650530140300_644"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="3120,68 3120,346 3314,346 3314,68"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="3206,218 3233,220 3260,222 3287,221 3314,222 3314,72 3287,71 3260,72 3233,70 3206,68"/>
+                <Baseline points="3206,168 3233,170 3260,172 3287,171 3314,172"/>
+                <TextEquiv>
+                    <Unicode>103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="3120,340 3151,342 3182,344 3213,344 3244,346 3244,196 3213,194 3182,194 3151,192 3120,190"/>
+                <Baseline points="3120,290 3151,292 3182,294 3213,294 3244,296"/>
+                <TextEquiv>
+                    <Unicode>100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>103
+100</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650530106601_622" custom="readingOrder {index:1;}">
+            <Coords points="504,203 2810,203 2810,308 504,308"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1256,289 1282,291 1308,291 1334,293 1360,293 1386,293 1412,293 1438,293 1464,291 1490,291 1516,290 1542,289 1568,289 1594,287 1620,287 1646,286 1672,285 1698,285 1724,285 1750,285 1750,203 1724,203 1698,203 1672,203 1646,204 1620,205 1594,205 1568,207 1542,207 1516,208 1490,209 1464,209 1438,211 1412,211 1386,211 1360,211 1334,211 1308,209 1282,209 1256,207"/>
+                <Baseline points="1256,262 1282,264 1308,264 1334,266 1360,266 1386,266 1412,266 1438,266 1464,264 1490,264 1516,263 1542,262 1568,262 1594,260 1620,260 1646,259 1672,258 1698,258 1724,258 1772,257"/>
+                <TextEquiv>
+                    <Unicode>DEL CORINTHIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DEL CORINTHIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650530104747_617" custom="readingOrder {index:2;}">
+            <Coords points="504,1783 2810,1783 2810,2000 504,2000"/>
+            <TextLine id="line_1651513108007_3892" custom="readingOrder {index:0;}">
+                <Coords points="504,1842 734,1842 849,1844 965,1844 1080,1846 1195,1848 1311,1849 1426,1851 1541,1852 1657,1854 1772,1857 1887,1860 2002,1862 2118,1864 2233,1866 2348,1868 2464,1870 2579,1872 2694,1874 2778,1875 2778,1929 2694,1928 2579,1926 2464,1924 2348,1922 2233,1920 2118,1918 2002,1916 1887,1914 1772,1911 1657,1908 1541,1906 1426,1905 1311,1903 1195,1902 1080,1900 965,1898 849,1898 734,1896 504,1896"/>
+                <Baseline points="509,1886 624,1886 739,1886 854,1888 970,1888 1085,1890 1200,1892 1316,1893 1431,1895 1546,1896 1662,1898 1777,1901 1892,1904 2007,1906 2123,1908 2238,1910 2353,1912 2469,1914 2584,1916 2699,1918 2778,1919"/>
+                <TextEquiv>
+                    <Unicode>In Roma nelle exquilie dentro del Tempio di Santa Maria Maggiore si vede questa prima Spira;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="520,1968 569,1968 618,1968 667,1970 716,1970 766,1970 815,1970 864,1972 913,1972 962,1972 1012,1974 1061,1974 1110,1974 1159,1976 1208,1976 1258,1976 1307,1978 1356,1978 1405,1980 1454,1980 1504,1980 1504,1926 1454,1926 1405,1926 1356,1924 1307,1924 1258,1922 1208,1922 1159,1922 1110,1920 1061,1920 1012,1920 962,1918 913,1918 864,1918 815,1916 766,1916 716,1916 667,1916 618,1914 569,1914 520,1914"/>
+                <Baseline points="524,1950 573,1950 622,1950 671,1952 720,1952 770,1952 819,1952 868,1954 917,1954 966,1954 1016,1956 1065,1956 1114,1956 1163,1958 1212,1958 1262,1958 1311,1960 1360,1960 1409,1962 1458,1962 1508,1962"/>
+                <TextEquiv>
+                    <Unicode>serve ad una colonna del marmo porphido.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Roma nelle exquilie dentro del Tempio di Santa Maria Maggiore si vede questa prima Spira;
+serve ad una colonna del marmo porphido.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650530151343_656" custom="readingOrder {index:3;}">
+            <Coords points="2094,2512 2468,2512 2468,2975 2094,2975"/>
+            <TextLine id="line_1651513221094_3911" custom="readingOrder {index:0;}">
+                <Coords points="2114,2563 2238,2569 2377,2569 2377,2619 2237,2619 2112,2613"/>
+                <Baseline points="2112,2608 2237,2614 2377,2614"/>
+                <TextEquiv>
+                    <Unicode>TONNINO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513223935_3916" custom="readingOrder {index:1;}">
+                <Coords points="2100,2666 2295,2669 2294,2719 2099,2716"/>
+                <Baseline points="2099,2711 2294,2714"/>
+                <TextEquiv>
+                    <Unicode>GVSCIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513229133_3921" custom="readingOrder {index:2;}">
+                <Coords points="2108,2704 2250,2719 2324,2714 2327,2764 2249,2769 2102,2754"/>
+                <Baseline points="2103,2749 2249,2764 2327,2759"/>
+                <TextEquiv>
+                    <Unicode>LISTELLO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513231823_3926" custom="readingOrder {index:3;}">
+                <Coords points="2139,2781 2305,2791 2302,2841 2136,2831"/>
+                <Baseline points="2136,2826 2302,2836"/>
+                <TextEquiv>
+                    <Unicode>TORO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513234948_3931" custom="readingOrder {index:4;}">
+                <Coords points="2131,2884 2404,2889 2403,2939 2130,2934"/>
+                <Baseline points="2130,2929 2403,2934"/>
+                <TextEquiv>
+                    <Unicode>ZOCCOLO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>TONNINO
+GVSCIO
+LISTELLO
+TORO
+ZOCCOLO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650530098398_609" custom="readingOrder {index:4;}">
+            <Coords points="504,2998 2810,2998 2810,3249 504,3249"/>
+            <TextLine id="line_1651513244197_3938" custom="readingOrder {index:0;}">
+                <Coords points="534,3021 1669,3041 2633,3063 2694,3065 2694,3147 2207,3141 2086,3139 836,3113 761,3111 609,3106 534,3103"/>
+                <Baseline points="534,3076 609,3079 685,3081 761,3084 836,3086 912,3086 988,3088 1063,3090 1139,3090 1215,3091 1291,3092 1366,3092 1442,3094 1518,3094 1593,3096 1669,3096 1745,3098 1820,3100 1896,3102 1972,3104 2048,3106 2086,3112 2116,3112 2146,3112 2177,3112 2207,3114 2238,3114 2268,3114 2298,3114 2329,3114 2359,3114 2390,3116 2420,3116 2450,3116 2481,3116 2511,3116 2542,3117 2572,3118 2602,3118 2633,3118 2663,3119 2694,3120"/>
+                <TextEquiv>
+                    <Unicode>In la casa di .M. Antonio Antichario, nel Monte Quirinale, è assai ben' lavorata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In la casa di .M. Antonio Antichario, nel Monte Quirinale, è assai ben' lavorata</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650530140300_644" custom="readingOrder {index:5;}">
+            <Coords points="2170,3398 2713,3398 2713,3915 2170,3915"/>
+            <TextLine id="line_1651513265063_3960" custom="readingOrder {index:0;}">
+                <Coords points="2249,3430 2366,3433 2511,3440 2607,3440 2607,3490 2510,3490 2364,3483 2248,3480"/>
+                <Baseline points="2248,3475 2364,3478 2510,3485 2607,3485"/>
+                <TextEquiv>
+                    <Unicode>TORO SUPERIORE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513267719_3965" custom="readingOrder {index:1;}">
+                <Coords points="2217,3544 2447,3530 2450,3580 2220,3594"/>
+                <Baseline points="2220,3589 2450,3575"/>
+                <TextEquiv>
+                    <Unicode>TRORHILO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513270110_3970" custom="readingOrder {index:2;}">
+                <Coords points="2248,3665 2570,3665 2570,3715 2248,3715"/>
+                <Baseline points="2248,3710 2570,3710"/>
+                <TextEquiv>
+                    <Unicode>TORO ERIETO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651513272383_3975" custom="readingOrder {index:3;}">
+                <Coords points="2254,3786 2446,3781 2447,3831 2255,3836"/>
+                <Baseline points="2255,3831 2447,3826"/>
+                <TextEquiv>
+                    <Unicode>PLINTO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>TORO SUPERIORE
+TRORHILO
+TORO ERIETO
+PLINTO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

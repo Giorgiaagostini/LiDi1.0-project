@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_015b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:55.437+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643802778197_1070"
+                       HEIGHT="177"
+                       WIDTH="409"
+                       VPOS="147"
+                       HPOS="2997">
+               <Shape>
+                  <Polygon POINTS="2997,154 3406,147 3406,318 2997,324"/>
+               </Shape>
+               <TextLine ID="line_1639758572113_898"
+                         BASELINE="3053,229 3175,229"
+                         HEIGHT="50"
+                         WIDTH="122"
+                         VPOS="211"
+                         HPOS="3053">
+                  <String ID="string_line_1639758572113_898"
+                          HEIGHT="50"
+                          WIDTH="122"
+                          VPOS="211"
+                          HPOS="3053"
+                          CONTENT="18"/>
+               </TextLine>
+               <TextLine ID="line_1639758576876_903"
+                         BASELINE="3196,282 3302,277"
+                         HEIGHT="55"
+                         WIDTH="108"
+                         VPOS="232"
+                         HPOS="3194">
+                  <String ID="string_line_1639758576876_903"
+                          HEIGHT="55"
+                          WIDTH="108"
+                          VPOS="232"
+                          HPOS="3194"
+                          CONTENT="15"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1663341733756_183"
+                       HEIGHT="143"
+                       WIDTH="212"
+                       VPOS="2881"
+                       HPOS="77">
+               <Shape>
+                  <Polygon POINTS="80,2881 289,2881 289,3024 77,3024"/>
+               </Shape>
+               <TextLine ID="line_1652883063693_211"
+                         BASELINE="192,2939 211,2939"
+                         HEIGHT="50"
+                         WIDTH="19"
+                         VPOS="2894"
+                         HPOS="192">
+                  <String ID="string_line_1652883063693_211"
+                          HEIGHT="50"
+                          WIDTH="19"
+                          VPOS="2894"
+                          HPOS="192"
+                          CONTENT="c"/>
+               </TextLine>
+               <TextLine ID="line_1673105402530_125"
+                         BASELINE="110,2986 164,2971 212,2964 215,2963 219,2979 240,2971 240,2965 251,2965"
+                         HEIGHT="72"
+                         WIDTH="161"
+                         VPOS="2919"
+                         HPOS="98">
+                  <String ID="string_line_1673105402530_125"
+                          HEIGHT="72"
+                          WIDTH="161"
+                          VPOS="2919"
+                          HPOS="98"
+                          CONTENT="P•I on•3•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1663341721793_175"
+                       HEIGHT="111"
+                       WIDTH="390"
+                       VPOS="3645"
+                       HPOS="821">
+               <Shape>
+                  <Polygon POINTS="821,3645 1211,3645 1211,3748 821,3756"/>
+               </Shape>
+               <TextLine ID="r3l2"
+                         BASELINE="860,3740 885,3740 910,3741 935,3742 960,3742 985,3742 1010,3742 1035,3742 1060,3742 1085,3742 1110,3741 1135,3739 1160,3736"
+                         HEIGHT="64"
+                         WIDTH="300"
+                         VPOS="3691"
+                         HPOS="856">
+                  <String ID="string_r3l2"
+                          HEIGHT="64"
+                          WIDTH="300"
+                          VPOS="3691"
+                          HPOS="856"
+                          CONTENT="Piedi • X̄I•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1639758514969_887"
+                       HEIGHT="996"
+                       WIDTH="3201"
+                       VPOS="3719"
+                       HPOS="170">
+               <Shape>
+                  <Polygon POINTS="170,3776 3369,3719 3371,4672 178,4715"/>
+               </Shape>
+               <TextLine ID="r3l3"
+                         BASELINE="414,3864 536,3851 659,3841 782,3830 905,3822 1028,3816 1151,3810 1274,3806 1397,3802 1520,3800 1643,3798 1765,3798 1888,3796 2011,3796 2134,3796 2257,3794 2380,3794 2503,3792 2626,3790 2749,3788 2872,3786"
+                         HEIGHT="136"
+                         WIDTH="2458"
+                         VPOS="3747"
+                         HPOS="414">
+                  <String ID="string_r3l3"
+                          HEIGHT="136"
+                          WIDTH="2458"
+                          VPOS="3747"
+                          HPOS="414"
+                          CONTENT="Cosi similimente si vede nella colonia Ariminense in Arimino, ove sono sculpiti gli iddij Tutelari d'essa"/>
+               </TextLine>
+               <TextLine ID="r3l4"
+                         BASELINE="424,3948 544,3936 665,3925 786,3914 907,3906 1028,3900 1149,3894 1270,3888 1391,3884 1512,3881 1633,3878 1753,3876 1874,3874 1995,3874 2116,3872 2237,3872 2358,3870 2479,3870 2600,3870 2721,3868 2842,3866"
+                         HEIGHT="142"
+                         WIDTH="2418"
+                         VPOS="3826"
+                         HPOS="424">
+                  <String ID="string_r3l4"
+                          HEIGHT="142"
+                          WIDTH="2418"
+                          VPOS="3826"
+                          HPOS="424"
+                          CONTENT="città. Iove et Iunione dentro quelli Rotondi luoghi. Cosi nell'antiche medaglie le porte delle colonie doppie"/>
+               </TextLine>
+               <TextLine ID="r3l5"
+                         BASELINE="416,4030 538,4020 661,4011 783,4002 906,3995 1029,3987 1151,3981 1274,3976 1396,3970 1519,3966 1642,3963 1764,3960 1887,3957 2009,3954 2132,3953 2255,3952 2377,3950 2500,3950 2622,3950 2745,3950 2868,3950"
+                         HEIGHT="140"
+                         WIDTH="2452"
+                         VPOS="3910"
+                         HPOS="416">
+                  <String ID="string_r3l5"
+                          HEIGHT="140"
+                          WIDTH="2452"
+                          VPOS="3910"
+                          HPOS="416"
+                          CONTENT="si vegono, onde il simile, è di queste della Nobilissima Ravenna. dove doveano essere, nelli Vani di quelli"/>
+               </TextLine>
+               <TextLine ID="r3l6"
+                         BASELINE="440,4114 561,4108 683,4104 805,4098 927,4092 1049,4086 1170,4078 1292,4074 1414,4067 1536,4060 1658,4055 1779,4050 1901,4045 2023,4042 2145,4038 2267,4034 2388,4032 2510,4032 2632,4032 2754,4033 2876,4036"
+                         HEIGHT="142"
+                         WIDTH="2436"
+                         VPOS="3992"
+                         HPOS="440">
+                  <String ID="string_r3l6"
+                          HEIGHT="142"
+                          WIDTH="2436"
+                          VPOS="3992"
+                          HPOS="440"
+                          CONTENT="Tondi l'effigie d'Hercole et di Diana Tutelari della città, come dall'altra parte di dentro, vi dovea essere"/>
+               </TextLine>
+               <TextLine ID="r3l7"
+                         BASELINE="422,4218 545,4214 668,4210 792,4204 915,4197 1039,4191 1162,4184 1285,4178 1409,4171 1532,4164 1656,4157 1779,4150 1902,4145 2026,4140 2149,4135 2273,4130 2396,4127 2519,4125 2643,4124 2766,4124 2890,4124"
+                         HEIGHT="154"
+                         WIDTH="2468"
+                         VPOS="4084"
+                         HPOS="422">
+                  <String ID="string_r3l7"
+                          HEIGHT="154"
+                          WIDTH="2468"
+                          VPOS="4084"
+                          HPOS="422"
+                          CONTENT="Iove et Neptuno, et non vi erano altramente quelli specchi chelvulgo dice esservi stati posti, che sono sugget¬"/>
+               </TextLine>
+               <TextLine ID="r3l8"
+                         BASELINE="424,4306 548,4304 672,4302 796,4298 920,4294 1044,4289 1168,4284 1292,4278 1416,4271 1540,4264 1664,4258 1788,4251 1912,4246 2036,4240 2160,4234 2284,4230 2408,4226 2532,4224 2656,4222 2780,4222 2904,4224"
+                         HEIGHT="144"
+                         WIDTH="2480"
+                         VPOS="4182"
+                         HPOS="424">
+                  <String ID="string_r3l8"
+                          HEIGHT="144"
+                          WIDTH="2480"
+                          VPOS="4182"
+                          HPOS="424"
+                          CONTENT="ti senza proposito. Dovea de Iure bello sulla sommita d'essa porta ornamenti Triomphali, segni di qua¬"/>
+               </TextLine>
+               <TextLine ID="r3l9"
+                         BASELINE="424,4400 547,4402 670,4402 793,4400 916,4398 1040,4393 1163,4387 1286,4382 1409,4374 1532,4368 1656,4360 1779,4351 1902,4343 2025,4337 2148,4331 2272,4325 2395,4321 2518,4318 2641,4318 2764,4318 2888,4320"
+                         HEIGHT="144"
+                         WIDTH="2464"
+                         VPOS="4278"
+                         HPOS="424">
+                  <String ID="string_r3l9"
+                          HEIGHT="144"
+                          WIDTH="2464"
+                          VPOS="4278"
+                          HPOS="424"
+                          CONTENT="drighe, di Trophei et della Vittoria; de Germani debellati et de Brittanni, sogiogati: secondo si puote giu"/>
+               </TextLine>
+               <TextLine ID="r3l10"
+                         BASELINE="408,4502 531,4501 654,4498 777,4496 900,4491 1023,4486 1146,4481 1269,4474 1392,4468 1515,4461 1638,4455 1761,4448 1884,4442 2007,4436 2130,4430 2253,4425 2376,4420 2499,4416 2622,4414 2745,4412 2868,4410"
+                         HEIGHT="144"
+                         WIDTH="2460"
+                         VPOS="4375"
+                         HPOS="408">
+                  <String ID="string_r3l10"
+                          HEIGHT="144"
+                          WIDTH="2460"
+                          VPOS="4375"
+                          HPOS="408"
+                          CONTENT="stamente credere. Come simili cose veggiamo nell'antiche medaglie di Domitiano conla Triomphale porta"/>
+               </TextLine>
+               <TextLine ID="r3l11"
+                         BASELINE="424,4594 546,4590 668,4586 790,4582 913,4578 1035,4573 1157,4568 1280,4564 1402,4560 1524,4555 1647,4549 1769,4544 1891,4538 2013,4533 2136,4526 2258,4521 2380,4513 2503,4505 2625,4498 2747,4490 2870,4480"
+                         HEIGHT="166"
+                         WIDTH="2446"
+                         VPOS="4445"
+                         HPOS="424">
+                  <String ID="string_r3l11"
+                          HEIGHT="166"
+                          WIDTH="2446"
+                          VPOS="4445"
+                          HPOS="424"
+                          CONTENT="quadrifronte, della Vittoria Germanica, in Troiano, con doppij carri guidati dalla Vittoria: et con carri"/>
+               </TextLine>
+               <TextLine ID="r3l12"
+                         BASELINE="420,4684 545,4678 671,4672 797,4665 923,4660 1049,4654 1175,4648 1301,4644 1427,4639 1553,4634 1679,4628 1804,4624 1930,4618 2056,4614 2182,4607 2308,4602 2434,4594 2560,4588 2686,4581 2812,4573 2938,4564"
+                         HEIGHT="180"
+                         WIDTH="2518"
+                         VPOS="4524"
+                         HPOS="420">
+                  <String ID="string_r3l12"
+                          HEIGHT="180"
+                          WIDTH="2518"
+                          VPOS="4524"
+                          HPOS="420"
+                          CONTENT="tirati da Elephanti, quelli di Domitiano, et da cavalli Tirato il carro di Traiano: et cosi similmente crede¬"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.462+01:00</Created>
+        <LastChange>2024-06-25T19:27:43.456+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902864" pageNr="54" tsid="174124331" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=RVYCNLNUDQRPOAJEYSESAAQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JLLLRQMAXDGPSAKMDWHLWRNP" imageId="17873922"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_027b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337500979" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643803551075_1301"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1644922112702_1221"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643803551075_1301" custom="readingOrder {index:0;}">
+            <Coords points="2926,216 3304,210 3305,435 2926,435"/>
+            <TextLine id="line_1642408895726_482" custom="readingOrder {index:0;}">
+                <Coords points="2949,241 3178,234 3179,284 2950,291"/>
+                <Baseline points="2950,286 3179,279"/>
+                <TextEquiv>
+                    <Unicode>30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1642408899767_487" custom="readingOrder {index:1;}">
+                <Coords points="3103,354 3223,357 3222,407 3102,404"/>
+                <Baseline points="3102,399 3222,402"/>
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>30
+27</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1644922112702_1221" custom="readingOrder {index:1;}">
+            <Coords points="332,381 2926,417 2926,435 3305,435 3319,3580 332,3542"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="346,496 472,497 598,498 724,500 851,502 977,504 1103,506 1230,508 1356,510 1482,512 1609,512 1735,514 1861,516 1987,516 2114,518 2240,518 2366,518 2493,520 2619,520 2745,518 2872,518 2872,451 2745,451 2619,453 2493,453 2366,451 2240,451 2114,451 1987,449 1861,449 1735,447 1609,445 1482,445 1356,443 1230,441 1103,439 977,437 851,435 724,433 598,431 472,430 346,429"/>
+                <Baseline points="346,474 472,475 598,476 724,478 851,480 977,482 1103,484 1230,486 1356,488 1482,490 1609,490 1735,492 1861,494 1987,494 2114,496 2240,496 2366,496 2493,498 2619,498 2745,496 2872,496"/>
+                <TextEquiv>
+                    <Unicode>REGMA, è citta et pago, et nome di Golfo et di litto al persico Golfo, donde si dice il gentile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} Greek {offset:13; length:10;} Greek {offset:64; length:22;}">
+                <Coords points="398,594 522,594 646,596 770,596 895,596 1019,596 1143,598 1268,598 1392,598 1516,600 1641,600 1765,600 1889,602 2013,602 2138,602 2262,602 2386,602 2511,602 2635,602 2759,601 2884,600 2884,534 2759,535 2635,536 2511,536 2386,536 2262,536 2138,536 2013,536 1889,536 1765,534 1641,534 1516,534 1392,532 1268,532 1143,532 1019,530 895,530 770,530 646,530 522,528 398,528"/>
+                <Baseline points="398,572 522,572 646,574 770,574 895,574 1019,574 1143,576 1268,576 1392,576 1516,578 1641,578 1765,578 1889,580 2013,580 2138,580 2262,580 2386,580 2511,580 2635,580 2759,579 2884,578"/>
+                <TextEquiv>
+                    <Unicode>Regmatite, ò ΡΗΓΜΑΤΙΤΗΣ, come si ritrahe da Stephano, ove dice. ΡΗΓΜΑ, ΠΟΛΙΣ, ΩΣ ΑΡΜΑ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;} Greek {offset:0; length:65;} unclear {offset:45; length:8;}">
+                <Coords points="402,683 527,683 653,683 778,683 904,683 1029,683 1155,685 1280,685 1406,687 1531,687 1657,689 1782,689 1908,691 2033,691 2159,693 2284,693 2410,695 2535,695 2661,697 2786,697 2912,697 2912,640 2786,640 2661,640 2535,638 2410,638 2284,636 2159,636 2033,634 1908,634 1782,632 1657,632 1531,630 1406,630 1280,628 1155,628 1029,626 904,626 778,626 653,626 527,626 402,626"/>
+                <Baseline points="402,664 527,664 653,664 778,664 904,664 1029,664 1155,666 1280,666 1406,668 1531,668 1657,670 1782,670 1908,672 2033,672 2159,674 2284,674 2410,676 2535,676 2661,678 2786,678 2912,678"/>
+                <TextEquiv>
+                    <Unicode>ΚΑΙ ΚΟΛΠΟΣ, ΡΗΜΑ ΠΕΡΙΤΟΝ ΠΕΡΣΙΚΟΝ ΚΟΛΠΟΝ. τΟ Ε ΟΝΙΚΟΝ, ΡΗΙΜΑΤΙΤΗΣ: et perche alcuni vogliono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="408,761 493,761 578,759 663,760 748,761 834,761 919,763 1004,765 1089,767 1174,769 1260,771 1345,775 1430,777 1515,779 1600,781 1686,783 1771,785 1856,785 1941,787 2026,787 2112,787 2112,730 2026,730 1941,730 1856,728 1771,728 1686,726 1600,724 1515,722 1430,720 1345,718 1260,714 1174,712 1089,710 1004,708 919,706 834,704 748,704 663,703 578,702 493,704 408,704"/>
+                <Baseline points="408,742 493,742 578,740 663,741 748,742 834,742 919,744 1004,746 1089,748 1174,750 1260,752 1345,756 1430,758 1515,760 1600,762 1686,764 1771,766 1856,766 1941,768 2026,768 2112,768"/>
+                <TextEquiv>
+                    <Unicode>che si scriva Rhegma con la spiratione della . H. nehavemo scritto più oltre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} Greek {offset:6; length:4;} Greek {offset:12; length:5;} Greek {offset:71; length:5;} Greek {offset:81; length:6;}">
+                <Coords points="346,1160 472,1158 599,1156 725,1154 852,1154 978,1154 1105,1154 1231,1154 1358,1156 1484,1156 1611,1158 1737,1160 1864,1162 1990,1164 2117,1168 2243,1170 2370,1172 2496,1174 2623,1176 2749,1177 2876,1178 2876,1111 2749,1110 2623,1109 2496,1107 2370,1105 2243,1103 2117,1101 1990,1097 1864,1095 1737,1093 1611,1091 1484,1089 1358,1089 1231,1087 1105,1087 978,1087 852,1087 725,1087 599,1089 472,1091 346,1093"/>
+                <Baseline points="346,1138 472,1136 599,1134 725,1132 852,1132 978,1132 1105,1132 1231,1132 1358,1134 1484,1134 1611,1136 1737,1138 1864,1140 1990,1142 2117,1146 2243,1148 2370,1150 2496,1152 2623,1154 2749,1155 2876,1156"/>
+                <TextEquiv>
+                    <Unicode>RENE, ΡΗΝΗ, ΝΗΣΟΣ. è picciola Isola presso à Delo, et leggesi Renis, ò ΡΗΝΙΣ, et ΡΗΝΑΙΑ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} Greek {offset:55; length:6;} Greek {offset:63; length:8;}">
+                <Coords points="394,1258 518,1256 642,1254 766,1252 890,1250 1015,1250 1139,1250 1263,1252 1387,1252 1511,1254 1636,1256 1760,1257 1884,1258 2008,1260 2132,1262 2257,1264 2381,1266 2505,1267 2629,1268 2753,1268 2878,1270 2878,1204 2753,1202 2629,1202 2505,1201 2381,1200 2257,1198 2132,1196 2008,1194 1884,1192 1760,1191 1636,1190 1511,1188 1387,1186 1263,1186 1139,1184 1015,1184 890,1184 766,1186 642,1188 518,1190 394,1192"/>
+                <Baseline points="394,1236 518,1234 642,1232 766,1230 890,1228 1015,1228 1139,1228 1263,1230 1387,1230 1511,1232 1636,1234 1760,1235 1884,1236 2008,1238 2132,1240 2257,1242 2381,1244 2505,1245 2629,1246 2753,1246 2878,1248"/>
+                <TextEquiv>
+                    <Unicode>et si legge non solo Renaea, ma Renaeense, et Renio, ò ΡΗΝΙΟΣ, ΡΗΝΑΙΕΥΣ, alcuni per .H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="396,1346 524,1343 652,1340 780,1339 908,1338 1036,1338 1164,1338 1292,1338 1420,1340 1548,1340 1676,1342 1804,1344 1932,1346 2060,1348 2188,1350 2316,1352 2444,1354 2572,1358 2700,1358 2828,1360 2956,1362 2956,1302 2828,1300 2700,1298 2572,1298 2444,1294 2316,1292 2188,1290 2060,1288 1932,1286 1804,1284 1676,1282 1548,1280 1420,1280 1292,1278 1164,1278 1036,1278 908,1278 780,1279 652,1280 524,1283 396,1286"/>
+                <Baseline points="396,1326 524,1323 652,1320 780,1319 908,1318 1036,1318 1164,1318 1292,1318 1420,1320 1548,1320 1676,1322 1804,1324 1932,1326 2060,1328 2188,1330 2316,1332 2444,1334 2572,1338 2700,1338 2828,1340 2956,1342"/>
+                <TextEquiv>
+                    <Unicode>la scrivono latinimente Rhene, et Rhenaea. Et viene annumerata tralecycladi del Mare Aegeo, et ilvul¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="384,1432 414,1430 444,1428 475,1426 505,1426 536,1425 566,1424 596,1424 627,1422 657,1422 688,1422 718,1420 748,1420 779,1420 809,1420 840,1420 870,1421 900,1422 931,1422 961,1423 992,1424 992,1364 961,1363 931,1362 900,1362 870,1361 840,1360 809,1360 779,1360 748,1360 718,1360 688,1362 657,1362 627,1362 596,1364 566,1364 536,1365 505,1366 475,1366 444,1368 414,1370 384,1372"/>
+                <Baseline points="384,1412 414,1410 444,1408 475,1406 505,1406 536,1405 566,1404 596,1404 627,1402 657,1402 688,1402 718,1400 748,1400 779,1400 809,1400 840,1400 870,1401 900,1402 931,1402 961,1403 992,1404"/>
+                <TextEquiv>
+                    <Unicode>go l'appella Fermenia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;} Greek {offset:18; length:5;} Greek {offset:76; length:4;}">
+                <Coords points="352,1756 481,1762 611,1766 740,1770 870,1774 999,1776 1129,1780 1258,1783 1388,1786 1517,1789 1647,1792 1776,1795 1906,1798 2035,1802 2165,1806 2294,1810 2424,1815 2553,1820 2683,1826 2812,1832 2942,1840 2942,1773 2812,1765 2683,1759 2553,1753 2424,1748 2294,1743 2165,1739 2035,1735 1906,1731 1776,1728 1647,1725 1517,1722 1388,1719 1258,1716 1129,1713 999,1709 870,1707 740,1703 611,1699 481,1695 352,1689"/>
+                <Baseline points="352,1734 481,1740 611,1744 740,1748 870,1752 999,1754 1129,1758 1258,1761 1388,1764 1517,1767 1647,1770 1776,1773 1906,1776 2035,1780 2165,1784 2294,1788 2424,1793 2553,1798 2683,1804 2812,1810 2942,1818"/>
+                <TextEquiv>
+                    <Unicode>RENEI, et Rhenai, ΡΗΝΟΙ, sono popoli ò gente nella Persia sul fiume Reno, ò ΡΗΝΩ. come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="390,1858 448,1861 506,1862 564,1864 622,1866 681,1868 739,1868 797,1870 855,1870 913,1872 972,1872 1030,1874 1088,1874 1146,1876 1204,1876 1263,1878 1321,1880 1379,1881 1437,1883 1495,1884 1554,1888 1554,1821 1495,1817 1437,1816 1379,1814 1321,1813 1263,1811 1204,1809 1146,1809 1088,1807 1030,1807 972,1805 913,1805 855,1803 797,1803 739,1801 681,1801 622,1799 564,1797 506,1795 448,1794 390,1791"/>
+                <Baseline points="390,1836 448,1839 506,1840 564,1842 622,1844 681,1846 739,1846 797,1848 855,1848 913,1850 972,1850 1030,1852 1088,1852 1146,1854 1204,1854 1263,1856 1321,1858 1379,1859 1437,1861 1495,1862 1554,1866"/>
+                <TextEquiv>
+                    <Unicode>disse Uranio. et Fanne menzione Stephano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="356,2424 480,2426 605,2428 730,2430 855,2432 980,2436 1105,2438 1230,2441 1355,2444 1480,2447 1605,2450 1729,2454 1854,2458 1979,2461 2104,2464 2229,2468 2354,2472 2479,2474 2604,2478 2729,2482 2854,2486 2854,2419 2729,2415 2604,2411 2479,2407 2354,2405 2229,2401 2104,2397 1979,2394 1854,2391 1729,2387 1605,2383 1480,2380 1355,2377 1230,2374 1105,2371 980,2369 855,2365 730,2363 605,2361 480,2359 356,2357"/>
+                <Baseline points="356,2402 480,2404 605,2406 730,2408 855,2410 980,2414 1105,2416 1230,2419 1355,2422 1480,2425 1605,2428 1729,2432 1854,2436 1979,2439 2104,2442 2229,2446 2354,2450 2479,2452 2604,2456 2729,2460 2854,2464"/>
+                <TextEquiv>
+                    <Unicode>REGILIO, et Regillas, Regillus, è nome di citta di sabini presso à Stephano. ma si gabba.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="368,2520 492,2521 617,2522 741,2525 866,2528 991,2530 1115,2532 1240,2536 1364,2540 1489,2543 1614,2546 1738,2550 1863,2554 1987,2558 2112,2562 2237,2566 2361,2570 2486,2573 2610,2578 2735,2580 2860,2584 2860,2517 2735,2513 2610,2511 2486,2506 2361,2503 2237,2499 2112,2495 1987,2491 1863,2487 1738,2483 1614,2479 1489,2476 1364,2473 1240,2469 1115,2465 991,2463 866,2461 741,2458 617,2455 492,2454 368,2453"/>
+                <Baseline points="368,2498 492,2499 617,2500 741,2503 866,2506 991,2508 1115,2510 1240,2514 1364,2518 1489,2521 1614,2524 1738,2528 1863,2532 1987,2536 2112,2540 2237,2544 2361,2548 2486,2551 2610,2556 2735,2558 2860,2562"/>
+                <TextEquiv>
+                    <Unicode>per che Regillo fu in latio à quattordicimiglia discosto da Roma lo quale luoghi hoggidi, è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="386,2612 509,2614 633,2615 756,2618 880,2620 1003,2622 1127,2626 1250,2630 1374,2634 1497,2639 1621,2644 1744,2650 1868,2654 1991,2658 2115,2664 2238,2669 2362,2674 2485,2678 2609,2683 2732,2688 2856,2690 2856,2623 2732,2621 2609,2616 2485,2611 2362,2607 2238,2602 2115,2597 1991,2591 1868,2587 1744,2583 1621,2577 1497,2572 1374,2567 1250,2563 1127,2559 1003,2555 880,2553 756,2551 633,2548 509,2547 386,2545"/>
+                <Baseline points="386,2590 509,2592 633,2593 756,2596 880,2598 1003,2600 1127,2604 1250,2608 1374,2612 1497,2617 1621,2622 1744,2628 1868,2632 1991,2636 2115,2642 2238,2647 2362,2652 2485,2656 2609,2661 2732,2666 2856,2668"/>
+                <TextEquiv>
+                    <Unicode>dessolato, ove è illago Regillo, ove fu la rotta di latini datagli da Aulo postumio, come scri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="376,2708 499,2710 622,2714 745,2716 869,2720 992,2724 1115,2728 1239,2730 1362,2734 1485,2739 1609,2743 1732,2746 1855,2752 1978,2757 2102,2761 2225,2766 2348,2771 2472,2776 2595,2782 2718,2787 2842,2794 2842,2727 2718,2720 2595,2715 2472,2709 2348,2704 2225,2699 2102,2694 1978,2690 1855,2685 1732,2679 1609,2676 1485,2672 1362,2667 1239,2663 1115,2661 992,2657 869,2653 745,2649 622,2647 499,2643 376,2641"/>
+                <Baseline points="376,2686 499,2688 622,2692 745,2694 869,2698 992,2702 1115,2706 1239,2708 1362,2712 1485,2717 1609,2721 1732,2724 1855,2730 1978,2735 2102,2739 2225,2744 2348,2749 2472,2754 2595,2760 2718,2765 2842,2772"/>
+                <TextEquiv>
+                    <Unicode>vono Livio, et Dionysio Alicarnasseo. Chiamasi hodiernamente Santa presete, posta sulla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="358,2808 482,2808 607,2810 731,2812 856,2815 980,2818 1105,2822 1229,2826 1354,2832 1478,2836 1603,2842 1727,2847 1852,2852 1976,2858 2101,2863 2225,2868 2350,2873 2474,2878 2599,2883 2723,2886 2848,2890 2848,2823 2723,2819 2599,2816 2474,2811 2350,2806 2225,2801 2101,2796 1976,2791 1852,2785 1727,2780 1603,2775 1478,2769 1354,2765 1229,2759 1105,2755 980,2751 856,2748 731,2745 607,2743 482,2741 358,2741"/>
+                <Baseline points="358,2786 482,2786 607,2788 731,2790 856,2793 980,2796 1105,2800 1229,2804 1354,2810 1478,2814 1603,2820 1727,2825 1852,2830 1976,2836 2101,2841 2225,2846 2350,2851 2474,2856 2599,2861 2723,2864 2848,2868"/>
+                <TextEquiv>
+                    <Unicode>go, dove fu il Tempio di Diana. Regillense sula Via Gabinia altramente detta Praenestina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="332,2916 458,2916 585,2916 712,2918 839,2920 966,2922 1092,2926 1219,2930 1346,2935 1473,2939 1600,2945 1726,2950 1853,2954 1980,2960 2107,2964 2234,2969 2360,2974 2487,2978 2614,2980 2741,2984 2868,2984 2868,2917 2741,2917 2614,2913 2487,2911 2360,2907 2234,2902 2107,2897 1980,2893 1853,2887 1726,2883 1600,2878 1473,2872 1346,2868 1219,2863 1092,2859 966,2855 839,2853 712,2851 585,2849 458,2849 332,2849"/>
+                <Baseline points="332,2894 458,2894 585,2894 712,2896 839,2898 966,2900 1092,2904 1219,2908 1346,2913 1473,2917 1600,2923 1726,2928 1853,2932 1980,2938 2107,2942 2234,2947 2360,2952 2487,2956 2614,2958 2741,2962 2868,2962"/>
+                <TextEquiv>
+                    <Unicode>REGILLI Regillis, è la città di sabini patria di Appio Claudio Sabino, da cui fu detta la Tribu Claudia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="376,3002 500,3009 624,3014 748,3020 872,3024 997,3028 1121,3032 1245,3036 1369,3040 1493,3044 1618,3047 1742,3050 1866,3054 1990,3056 2114,3060 2239,3063 2363,3066 2487,3070 2611,3072 2735,3076 2860,3080 2860,3013 2735,3009 2611,3005 2487,3003 2363,2999 2239,2996 2114,2993 1990,2989 1866,2987 1742,2983 1618,2980 1493,2977 1369,2973 1245,2969 1121,2965 997,2961 872,2957 748,2953 624,2947 500,2942 376,2935"/>
+                <Baseline points="376,2980 500,2987 624,2992 748,2998 872,3002 997,3006 1121,3010 1245,3014 1369,3018 1493,3022 1618,3025 1742,3028 1866,3032 1990,3034 2114,3038 2239,3041 2363,3044 2487,3048 2611,3050 2735,3054 2860,3058"/>
+                <TextEquiv>
+                    <Unicode>sendo posto da Romani tra li senatori, et honorati li suoi nella Tribù detta da lui Claudia, che havea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="382,3108 507,3114 632,3120 757,3126 882,3130 1007,3135 1132,3138 1257,3142 1382,3144 1507,3146 1633,3148 1758,3150 1883,3152 2008,3154 2133,3156 2258,3158 2383,3160 2508,3162 2633,3165 2758,3168 2884,3172 2884,3105 2758,3101 2633,3098 2508,3095 2383,3093 2258,3091 2133,3089 2008,3087 1883,3085 1758,3083 1633,3081 1507,3079 1382,3077 1257,3075 1132,3071 1007,3068 882,3063 757,3059 632,3053 507,3047 382,3041"/>
+                <Baseline points="382,3086 507,3092 632,3098 757,3104 882,3108 1007,3113 1132,3116 1257,3120 1382,3122 1507,3124 1633,3126 1758,3128 1883,3130 2008,3132 2133,3134 2258,3136 2383,3138 2508,3140 2633,3143 2758,3146 2884,3150"/>
+                <TextEquiv>
+                    <Unicode>il Territorio dila del fiume Aniene, che hora si dice Teverone: et fù questo regilli rovinata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="370,3196 495,3202 620,3210 745,3217 870,3222 996,3228 1121,3231 1246,3236 1371,3238 1496,3242 1622,3244 1747,3246 1872,3248 1997,3252 2122,3254 2248,3256 2373,3258 2498,3262 2623,3266 2748,3270 2874,3274 2874,3208 2748,3204 2623,3200 2498,3196 2373,3192 2248,3190 2122,3188 1997,3186 1872,3182 1747,3180 1622,3178 1496,3176 1371,3172 1246,3170 1121,3165 996,3162 870,3156 745,3151 620,3144 495,3136 370,3130"/>
+                <Baseline points="370,3174 495,3180 620,3188 745,3195 870,3200 996,3206 1121,3209 1246,3214 1371,3216 1496,3220 1622,3222 1747,3224 1872,3226 1997,3230 2122,3232 2248,3234 2373,3236 2498,3240 2623,3244 2748,3248 2874,3252"/>
+                <TextEquiv>
+                    <Unicode>et da questa patria Svetonio chiama Appio Claudio Regillano lo quale diede la origine alla Claudia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="366,3292 490,3300 614,3306 739,3310 863,3316 988,3320 1112,3324 1236,3328 1361,3331 1485,3334 1610,3336 1734,3340 1858,3342 1983,3345 2107,3348 2232,3350 2356,3354 2480,3356 2605,3360 2729,3364 2854,3368 2854,3301 2729,3297 2605,3293 2480,3289 2356,3287 2232,3283 2107,3281 1983,3278 1858,3275 1734,3273 1610,3269 1485,3267 1361,3264 1236,3261 1112,3257 988,3253 863,3249 739,3243 614,3239 490,3233 366,3225"/>
+                <Baseline points="366,3270 490,3278 614,3284 739,3288 863,3294 988,3298 1112,3302 1236,3306 1361,3309 1485,3312 1610,3314 1734,3318 1858,3320 1983,3323 2107,3326 2232,3328 2356,3332 2480,3334 2605,3338 2729,3342 2854,3346"/>
+                <TextEquiv>
+                    <Unicode>fameglia. Cosi addunque il nome di Regillo mascolinamente se intende perlo laco et Vico ch'era</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="378,3396 503,3402 629,3408 755,3412 880,3416 1006,3420 1132,3424 1257,3428 1383,3430 1509,3433 1635,3436 1760,3438 1886,3440 2012,3442 2137,3444 2263,3446 2389,3450 2514,3452 2640,3456 2766,3460 2892,3464 2892,3397 2766,3393 2640,3389 2514,3385 2389,3383 2263,3379 2137,3377 2012,3375 1886,3373 1760,3371 1635,3369 1509,3366 1383,3363 1257,3361 1132,3357 1006,3353 880,3349 755,3345 629,3341 503,3335 378,3329"/>
+                <Baseline points="378,3374 503,3380 629,3386 755,3390 880,3394 1006,3398 1132,3402 1257,3406 1383,3408 1509,3411 1635,3414 1760,3416 1886,3418 2012,3420 2137,3422 2263,3424 2389,3428 2514,3430 2640,3434 2766,3438 2892,3442"/>
+                <TextEquiv>
+                    <Unicode>nei latini Volsci invia prenestina in contro al Tusculano. di parla plinio nellibro trentesimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="370,3506 457,3506 545,3508 633,3508 721,3510 809,3512 896,3514 984,3516 1072,3518 1160,3522 1248,3524 1335,3527 1423,3529 1511,3532 1599,3534 1687,3536 1774,3538 1862,3540 1950,3542 2038,3542 2126,3542 2126,3475 2038,3475 1950,3475 1862,3473 1774,3471 1687,3469 1599,3467 1511,3465 1423,3462 1335,3460 1248,3457 1160,3455 1072,3451 984,3449 896,3447 809,3445 721,3443 633,3441 545,3441 457,3439 370,3439"/>
+                <Baseline points="370,3484 457,3484 545,3486 633,3486 721,3488 809,3490 896,3492 984,3494 1072,3496 1160,3500 1248,3502 1335,3505 1423,3507 1511,3510 1599,3512 1687,3514 1774,3516 1862,3518 1950,3520 2038,3520 2126,3520"/>
+                <TextEquiv>
+                    <Unicode>terzo alcapo secundo chel vulgo l'appella il lago di Santa Presede.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>REGMA, è citta et pago, et nome di Golfo et di litto al persico Golfo, donde si dice il gentile
+Regmatite, ò ΡΗΓΜΑΤΙΤΗΣ, come si ritrahe da Stephano, ove dice. ΡΗΓΜΑ, ΠΟΛΙΣ, ΩΣ ΑΡΜΑ,
+ΚΑΙ ΚΟΛΠΟΣ, ΡΗΜΑ ΠΕΡΙΤΟΝ ΠΕΡΣΙΚΟΝ ΚΟΛΠΟΝ. τΟ Ε ΟΝΙΚΟΝ, ΡΗΙΜΑΤΙΤΗΣ: et perche alcuni vogliono,
+che si scriva Rhegma con la spiratione della . H. nehavemo scritto più oltre.
+RENE, ΡΗΝΗ, ΝΗΣΟΣ. è picciola Isola presso à Delo, et leggesi Renis, ò ΡΗΝΙΣ, et ΡΗΝΑΙΑ,
+et si legge non solo Renaea, ma Renaeense, et Renio, ò ΡΗΝΙΟΣ, ΡΗΝΑΙΕΥΣ, alcuni per .H.
+la scrivono latinimente Rhene, et Rhenaea. Et viene annumerata tralecycladi del Mare Aegeo, et ilvul¬
+go l'appella Fermenia.
+RENEI, et Rhenai, ΡΗΝΟΙ, sono popoli ò gente nella Persia sul fiume Reno, ò ΡΗΝΩ. come
+disse Uranio. et Fanne menzione Stephano.
+REGILIO, et Regillas, Regillus, è nome di citta di sabini presso à Stephano. ma si gabba.
+per che Regillo fu in latio à quattordicimiglia discosto da Roma lo quale luoghi hoggidi, è
+dessolato, ove è illago Regillo, ove fu la rotta di latini datagli da Aulo postumio, come scri
+vono Livio, et Dionysio Alicarnasseo. Chiamasi hodiernamente Santa presete, posta sulla
+go, dove fu il Tempio di Diana. Regillense sula Via Gabinia altramente detta Praenestina.
+REGILLI Regillis, è la città di sabini patria di Appio Claudio Sabino, da cui fu detta la Tribu Claudia
+sendo posto da Romani tra li senatori, et honorati li suoi nella Tribù detta da lui Claudia, che havea
+il Territorio dila del fiume Aniene, che hora si dice Teverone: et fù questo regilli rovinata
+et da questa patria Svetonio chiama Appio Claudio Regillano lo quale diede la origine alla Claudia
+fameglia. Cosi addunque il nome di Regillo mascolinamente se intende perlo laco et Vico ch'era
+nei latini Volsci invia prenestina in contro al Tusculano. di parla plinio nellibro trentesimo
+terzo alcapo secundo chel vulgo l'appella il lago di Santa Presede.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

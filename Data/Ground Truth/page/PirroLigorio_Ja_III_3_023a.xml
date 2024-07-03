@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.014+01:00</Created>
+        <LastChange>2024-06-25T19:26:38.362+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902851" pageNr="45" tsid="174123365" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=GITZHQKPWZFCAJRBZCAZQOMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQTPBFHWLCRXKRWIGNDACUBL" imageId="17873913"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_023a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337499323" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="652,330 661,4454 3576,4487 3595,379"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:9; length:8;}">
+                <Coords points="786,531 920,531 1054,533 1188,533 1322,535 1457,535 1591,537 1725,537 1859,537 1993,539 2128,539 2262,539 2396,539 2530,539 2664,539 2798,539 2933,537 3067,537 3201,535 3335,535 3470,533 3470,469 3335,471 3201,471 3067,473 2933,473 2798,475 2664,475 2530,475 2396,475 2262,475 2128,475 1993,475 1859,473 1725,473 1591,473 1457,471 1322,471 1188,469 1054,469 920,467 786,467"/>
+                <Baseline points="786,510 920,510 1054,512 1188,512 1322,514 1457,514 1591,516 1725,516 1859,516 1993,518 2128,518 2262,518 2396,518 2530,518 2664,518 2798,518 2933,516 3067,516 3201,514 3335,514 3470,512"/>
+                <TextEquiv>
+                    <Unicode>RAURACI, ΡΑΥΡΑΚΟΙ, sono Populi della Gallia Belgica, secondo dice Plinio, nel libro quarto, al capo decimo settimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="842,616 974,620 1106,626 1239,628 1371,632 1504,632 1636,634 1768,634 1901,634 2033,634 2166,632 2298,631 2430,630 2563,628 2695,626 2828,624 2960,624 3092,622 3225,622 3357,622 3490,622 3490,567 3357,567 3225,567 3092,567 2960,569 2828,569 2695,571 2563,573 2430,575 2298,576 2166,577 2033,579 1901,579 1768,579 1636,579 1504,577 1371,577 1239,573 1106,571 974,565 842,561"/>
+                <Baseline points="842,598 974,602 1106,608 1239,610 1371,614 1504,614 1636,616 1768,616 1901,616 2033,616 2166,614 2298,613 2430,612 2563,610 2695,608 2828,606 2960,606 3092,604 3225,604 3357,604 3490,604"/>
+                <TextEquiv>
+                    <Unicode>de quali è detto in Rauraco Città. i quali anticamente si mostrarono arditi et animosi nella guerra. perloro difesa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="858,703 930,703 1003,705 1076,705 1149,706 1222,707 1295,708 1368,709 1441,709 1514,711 1587,711 1659,713 1732,713 1805,715 1878,715 1951,717 2024,717 2097,717 2170,719 2243,719 2316,719 2316,662 2243,662 2170,662 2097,660 2024,660 1951,660 1878,658 1805,658 1732,656 1659,656 1587,654 1514,654 1441,652 1368,652 1295,651 1222,650 1149,649 1076,648 1003,648 930,646 858,646"/>
+                <Baseline points="858,684 930,684 1003,686 1076,686 1149,687 1222,688 1295,689 1368,690 1441,690 1514,692 1587,692 1659,694 1732,694 1805,696 1878,696 1951,698 2024,698 2097,698 2170,700 2243,700 2316,700"/>
+                <TextEquiv>
+                    <Unicode>combattendo, contra Romani: et sono detti anchora Galli Comati.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="816,1286 950,1288 1085,1288 1219,1288 1354,1290 1489,1290 1623,1290 1758,1290 1892,1290 2027,1288 2162,1288 2296,1286 2431,1285 2565,1282 2700,1280 2835,1276 2969,1273 3104,1268 3238,1264 3373,1258 3508,1250 3508,1190 3373,1198 3238,1204 3104,1208 2969,1213 2835,1216 2700,1220 2565,1222 2431,1225 2296,1226 2162,1228 2027,1228 1892,1230 1758,1230 1623,1230 1489,1230 1354,1230 1219,1228 1085,1228 950,1228 816,1226"/>
+                <Baseline points="816,1266 950,1268 1085,1268 1219,1268 1354,1270 1489,1270 1623,1270 1758,1270 1892,1270 2027,1268 2162,1268 2296,1266 2431,1265 2565,1262 2700,1260 2835,1256 2969,1253 3104,1248 3238,1244 3373,1238 3508,1230"/>
+                <TextEquiv>
+                    <Unicode>RAURACO, Rauraca, Rauracum, è città della Gallia Comata, nella parte di Rauraci populi sudetti, che alcuni Raurici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:33; length:8;}">
+                <Coords points="832,1378 965,1376 1099,1374 1233,1374 1367,1374 1501,1374 1634,1372 1768,1372 1902,1372 2036,1372 2170,1372 2303,1370 2437,1368 2571,1367 2705,1364 2839,1362 2972,1358 3106,1352 3240,1347 3374,1340 3508,1332 3508,1272 3374,1280 3240,1287 3106,1292 2972,1298 2839,1302 2705,1304 2571,1307 2437,1308 2303,1310 2170,1312 2036,1312 1902,1312 1768,1312 1634,1312 1501,1314 1367,1314 1233,1314 1099,1314 965,1316 832,1318"/>
+                <Baseline points="832,1358 965,1356 1099,1354 1233,1354 1367,1354 1501,1354 1634,1352 1768,1352 1902,1352 2036,1352 2170,1352 2303,1350 2437,1348 2571,1347 2705,1344 2839,1342 2972,1338 3106,1332 3240,1327 3374,1320 3508,1312"/>
+                <TextEquiv>
+                    <Unicode>gli scrivono senza l'ultima .A., ΡΑΥΡΙΚΟΙ, che sono nationi Galliche bellicose. alli confini di sequari, et dell'Heluetij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="840,1467 972,1469 1104,1469 1236,1469 1368,1471 1501,1471 1633,1471 1765,1471 1897,1469 2029,1469 2162,1467 2294,1465 2426,1463 2558,1461 2690,1459 2822,1455 2955,1451 3087,1445 3219,1441 3351,1435 3484,1429 3484,1365 3351,1371 3219,1377 3087,1381 2955,1387 2822,1391 2690,1395 2558,1397 2426,1399 2294,1401 2162,1403 2029,1405 1897,1405 1765,1407 1633,1407 1501,1407 1368,1407 1236,1405 1104,1405 972,1405 840,1403"/>
+                <Baseline points="840,1446 972,1448 1104,1448 1236,1448 1368,1450 1501,1450 1633,1450 1765,1450 1897,1448 2029,1448 2162,1446 2294,1444 2426,1442 2558,1440 2690,1438 2822,1434 2955,1430 3087,1424 3219,1420 3351,1414 3484,1408"/>
+                <TextEquiv>
+                    <Unicode>la cui città per essere stata dedutta colonia de cavaglieri Romani, Plinio nellibro quarto alcapo decimo la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="840,1565 974,1567 1108,1569 1243,1569 1377,1569 1512,1567 1646,1566 1780,1565 1915,1561 2049,1559 2184,1557 2318,1553 2452,1549 2587,1545 2721,1541 2856,1537 2990,1533 3124,1527 3259,1523 3393,1519 3528,1515 3528,1452 3393,1456 3259,1460 3124,1464 2990,1470 2856,1474 2721,1478 2587,1482 2452,1486 2318,1490 2184,1494 2049,1496 1915,1498 1780,1502 1646,1503 1512,1504 1377,1506 1243,1506 1108,1506 974,1504 840,1502"/>
+                <Baseline points="840,1544 974,1546 1108,1548 1243,1548 1377,1548 1512,1546 1646,1545 1780,1544 1915,1540 2049,1538 2184,1536 2318,1532 2452,1528 2587,1524 2721,1520 2856,1516 2990,1512 3124,1506 3259,1502 3393,1498 3528,1494"/>
+                <TextEquiv>
+                    <Unicode>chiama Rauraco Equestre colonia: et da essa sono appellati i Rauracensi Equestri. et sidice Rauraca colonia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} Greek {offset:71; length:8;} Greek {offset:84; length:9;}">
+                <Coords points="848,1668 981,1668 1115,1666 1249,1664 1383,1661 1517,1658 1650,1656 1784,1652 1918,1648 2052,1644 2186,1641 2319,1637 2453,1634 2587,1630 2721,1626 2855,1622 2988,1620 3122,1616 3256,1614 3390,1612 3524,1610 3524,1549 3390,1551 3256,1553 3122,1555 2988,1559 2855,1561 2721,1565 2587,1569 2453,1573 2319,1576 2186,1580 2052,1583 1918,1587 1784,1591 1650,1595 1517,1597 1383,1600 1249,1603 1115,1605 981,1607 848,1607"/>
+                <Baseline points="848,1648 981,1648 1115,1646 1249,1644 1383,1641 1517,1638 1650,1636 1784,1632 1918,1628 2052,1624 2186,1621 2319,1617 2453,1614 2587,1610 2721,1606 2855,1602 2988,1600 3122,1596 3256,1594 3390,1592 3524,1590"/>
+                <TextEquiv>
+                    <Unicode>et Rauriaci le cose d'essa Rauracum sottoposte. Come le dicono i greci ΡΑΥΡΑΚΩΝ, et ΡΑΥΡΙΑΚΟΙ. et nel singulare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} Greek {offset:0; length:9;}">
+                <Coords points="840,1754 975,1754 1111,1752 1246,1750 1382,1748 1518,1745 1653,1742 1789,1737 1924,1732 2060,1728 2196,1724 2331,1718 2467,1714 2602,1710 2738,1706 2874,1702 3009,1700 3145,1698 3280,1696 3416,1694 3552,1694 3552,1639 3416,1639 3280,1641 3145,1643 3009,1645 2874,1647 2738,1651 2602,1655 2467,1659 2331,1663 2196,1669 2060,1673 1924,1677 1789,1682 1653,1687 1518,1690 1382,1693 1246,1695 1111,1697 975,1699 840,1699"/>
+                <Baseline points="840,1736 975,1736 1111,1734 1246,1732 1382,1730 1518,1727 1653,1724 1789,1719 1924,1714 2060,1710 2196,1706 2331,1700 2467,1696 2602,1692 2738,1688 2874,1684 3009,1682 3145,1680 3280,1678 3416,1676 3552,1676"/>
+                <TextEquiv>
+                    <Unicode>ΡΑΥΡΑΚΕΥΣ. et si dicono Rauracensium, et Rauracense nel singulare et nel numero del più, et singularmente an¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="844,1844 939,1846 1034,1846 1129,1846 1224,1844 1319,1842 1414,1838 1509,1834 1604,1830 1699,1825 1794,1820 1889,1815 1984,1810 2079,1805 2174,1802 2269,1796 2364,1794 2459,1792 2554,1790 2649,1790 2744,1792 2744,1732 2649,1730 2554,1730 2459,1732 2364,1734 2269,1736 2174,1742 2079,1745 1984,1750 1889,1755 1794,1760 1699,1765 1604,1770 1509,1774 1414,1778 1319,1782 1224,1784 1129,1786 1034,1786 939,1786 844,1784"/>
+                <Baseline points="844,1824 939,1826 1034,1826 1129,1826 1224,1824 1319,1822 1414,1818 1509,1814 1604,1810 1699,1805 1794,1800 1889,1795 1984,1790 2079,1785 2174,1782 2269,1776 2364,1774 2459,1772 2554,1770 2649,1770 2744,1772"/>
+                <TextEquiv>
+                    <Unicode>cora Rauraceno, et si possono dire, Rauraci et Rauraceini, nell'uso populare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="840,3381 967,3378 1095,3373 1222,3370 1350,3366 1478,3363 1605,3359 1733,3355 1860,3351 1988,3349 2116,3345 2243,3341 2371,3339 2498,3335 2626,3333 2754,3329 2881,3327 3009,3325 3136,3323 3264,3319 3392,3317 3392,3253 3264,3255 3136,3259 3009,3261 2881,3263 2754,3265 2626,3269 2498,3271 2371,3275 2243,3277 2116,3281 1988,3285 1860,3287 1733,3291 1605,3295 1478,3299 1350,3302 1222,3306 1095,3309 967,3314 840,3317"/>
+                <Baseline points="840,3360 967,3357 1095,3352 1222,3349 1350,3345 1478,3342 1605,3338 1733,3334 1860,3330 1988,3328 2116,3324 2243,3320 2371,3318 2498,3314 2626,3312 2754,3308 2881,3306 3009,3304 3136,3302 3264,3298 3392,3296"/>
+                <TextEquiv>
+                    <Unicode>RAXIMAGABI, ò Raximagabis, è voce vulgare, presa perlo nome del Porto dell'Africa, che gli Antichi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="904,3465 929,3463 955,3462 980,3461 1006,3459 1031,3459 1057,3458 1082,3457 1108,3457 1133,3457 1159,3457 1184,3456 1210,3455 1235,3455 1261,3455 1286,3455 1312,3455 1337,3454 1363,3453 1388,3453 1414,3451 1414,3387 1388,3389 1363,3389 1337,3390 1312,3391 1286,3391 1261,3391 1235,3391 1210,3391 1184,3392 1159,3393 1133,3393 1108,3393 1082,3393 1057,3394 1031,3395 1006,3395 980,3397 955,3398 929,3399 904,3401"/>
+                <Baseline points="904,3444 929,3442 955,3441 980,3440 1006,3438 1031,3438 1057,3437 1082,3436 1108,3436 1133,3436 1159,3436 1184,3435 1210,3434 1235,3434 1261,3434 1286,3434 1312,3434 1337,3433 1363,3432 1388,3432 1414,3430"/>
+                <TextEquiv>
+                    <Unicode>chiamavano Sabatra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="808,3753 939,3757 1070,3759 1202,3761 1333,3761 1465,3761 1596,3761 1727,3759 1859,3759 1990,3757 2122,3753 2253,3750 2384,3747 2516,3743 2647,3739 2779,3735 2910,3731 3041,3727 3173,3721 3304,3718 3436,3713 3436,3649 3304,3654 3173,3657 3041,3663 2910,3667 2779,3671 2647,3675 2516,3679 2384,3683 2253,3686 2122,3689 1990,3693 1859,3695 1727,3695 1596,3697 1465,3697 1333,3697 1202,3697 1070,3695 939,3693 808,3689"/>
+                <Baseline points="808,3732 939,3736 1070,3738 1202,3740 1333,3740 1465,3740 1596,3740 1727,3738 1859,3738 1990,3736 2122,3732 2253,3729 2384,3726 2516,3722 2647,3718 2779,3714 2910,3710 3041,3706 3173,3700 3304,3697 3436,3692"/>
+                <TextEquiv>
+                    <Unicode>REATINI, Reatineis, sono Populi d'Italia, di Reate città de sabini, posti nel mezzo d'Italia in una bella vista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="908,3841 1033,3845 1159,3849 1284,3851 1410,3853 1536,3855 1661,3855 1787,3855 1912,3853 2038,3852 2164,3851 2289,3849 2415,3846 2540,3843 2666,3841 2792,3839 2917,3835 3043,3833 3168,3831 3294,3829 3420,3827 3420,3763 3294,3765 3168,3767 3043,3769 2917,3771 2792,3775 2666,3777 2540,3779 2415,3782 2289,3785 2164,3787 2038,3788 1912,3789 1787,3791 1661,3791 1536,3791 1410,3789 1284,3787 1159,3785 1033,3781 908,3777"/>
+                <Baseline points="908,3820 1033,3824 1159,3828 1284,3830 1410,3832 1536,3834 1661,3834 1787,3834 1912,3832 2038,3831 2164,3830 2289,3828 2415,3825 2540,3822 2666,3820 2792,3818 2917,3814 3043,3812 3168,3810 3294,3808 3420,3806"/>
+                <TextEquiv>
+                    <Unicode>d'uno generoso paese, per onde irriga il Velino fiume. Chiamansi hoggidì Rietini dal nome corrotto della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="902,3933 1029,3935 1157,3937 1284,3939 1412,3940 1540,3941 1667,3942 1795,3943 1922,3943 2050,3943 2178,3943 2305,3945 2433,3945 2560,3945 2688,3945 2816,3945 2943,3945 3071,3945 3198,3945 3326,3945 3454,3945 3454,3888 3326,3888 3198,3888 3071,3888 2943,3888 2816,3888 2688,3888 2560,3888 2433,3888 2305,3888 2178,3886 2050,3886 1922,3886 1795,3886 1667,3885 1540,3884 1412,3883 1284,3882 1157,3880 1029,3878 902,3876"/>
+                <Baseline points="902,3914 1029,3916 1157,3918 1284,3920 1412,3921 1540,3922 1667,3923 1795,3924 1922,3924 2050,3924 2178,3924 2305,3926 2433,3926 2560,3926 2688,3926 2816,3926 2943,3926 3071,3926 3198,3926 3326,3926 3454,3926"/>
+                <TextEquiv>
+                    <Unicode>citta che invece di Reate dicono Rieti. Posta quarantamiglia discosto da Roma, nella Via Quinctia Traia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="912,4009 1032,4013 1153,4015 1274,4018 1395,4021 1516,4023 1637,4025 1758,4027 1879,4027 2000,4029 2121,4031 2241,4031 2362,4031 2483,4031 2604,4031 2725,4031 2846,4031 2967,4031 3088,4029 3209,4029 3330,4027 3330,3970 3209,3972 3088,3972 2967,3974 2846,3974 2725,3974 2604,3974 2483,3974 2362,3974 2241,3974 2121,3974 2000,3972 1879,3970 1758,3970 1637,3968 1516,3966 1395,3964 1274,3961 1153,3958 1032,3956 912,3952"/>
+                <Baseline points="912,3990 1032,3994 1153,3996 1274,3999 1395,4002 1516,4004 1637,4006 1758,4008 1879,4008 2000,4010 2121,4012 2241,4012 2362,4012 2483,4012 2604,4012 2725,4012 2846,4012 2967,4012 3088,4010 3209,4010 3330,4008"/>
+                <TextEquiv>
+                    <Unicode>na. di cui Plinio fa menzione, nel libro terzo al capo duadecimo, ove accusa essere i suoi populi molti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="896,4096 1024,4099 1152,4101 1280,4104 1409,4105 1537,4106 1665,4108 1794,4108 1922,4110 2050,4110 2179,4110 2307,4110 2435,4110 2563,4110 2692,4110 2820,4110 2948,4110 3077,4112 3205,4112 3333,4112 3462,4114 3462,4054 3333,4052 3205,4052 3077,4052 2948,4050 2820,4050 2692,4050 2563,4050 2435,4050 2307,4050 2179,4050 2050,4050 1922,4050 1794,4048 1665,4048 1537,4046 1409,4045 1280,4044 1152,4041 1024,4039 896,4036"/>
+                <Baseline points="896,4076 1024,4079 1152,4081 1280,4084 1409,4085 1537,4086 1665,4088 1794,4088 1922,4090 2050,4090 2179,4090 2307,4090 2435,4090 2563,4090 2692,4090 2820,4090 2948,4090 3077,4092 3205,4092 3333,4092 3462,4094"/>
+                <TextEquiv>
+                    <Unicode>REATINO, Reatinus è nome del Territorio di Reate posto attorno ad'essa città, Ubellico d'Italia come dice Var</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="940,4167 1066,4169 1192,4171 1319,4173 1445,4175 1572,4177 1698,4177 1824,4179 1951,4179 2077,4179 2204,4181 2330,4181 2456,4181 2583,4183 2709,4183 2836,4185 2962,4186 3088,4188 3215,4191 3341,4193 3468,4195 3468,4138 3341,4136 3215,4134 3088,4131 2962,4129 2836,4128 2709,4126 2583,4126 2456,4124 2330,4124 2204,4124 2077,4122 1951,4122 1824,4122 1698,4120 1572,4120 1445,4118 1319,4116 1192,4114 1066,4112 940,4110"/>
+                <Baseline points="940,4148 1066,4150 1192,4152 1319,4154 1445,4156 1572,4158 1698,4158 1824,4160 1951,4160 2077,4160 2204,4162 2330,4162 2456,4162 2583,4164 2709,4164 2836,4166 2962,4167 3088,4169 3215,4172 3341,4174 3468,4176"/>
+                <TextEquiv>
+                    <Unicode>rone, et etian Solino. et Cicerone chiama esso Territorio Tempea Reatina, dalla varieta delli piani et delli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="930,4249 1057,4251 1185,4251 1313,4253 1441,4253 1569,4255 1696,4255 1824,4257 1952,4259 2080,4259 2208,4261 2335,4263 2463,4263 2591,4265 2719,4267 2847,4267 2974,4269 3102,4271 3230,4272 3358,4273 3486,4275 3486,4218 3358,4216 3230,4215 3102,4214 2974,4212 2847,4210 2719,4210 2591,4208 2463,4206 2335,4206 2208,4204 2080,4202 1952,4202 1824,4200 1696,4198 1569,4198 1441,4196 1313,4196 1185,4194 1057,4194 930,4192"/>
+                <Baseline points="930,4230 1057,4232 1185,4232 1313,4234 1441,4234 1569,4236 1696,4236 1824,4238 1952,4240 2080,4240 2208,4242 2335,4244 2463,4244 2591,4246 2719,4248 2847,4248 2974,4250 3102,4252 3230,4253 3358,4254 3486,4256"/>
+                <TextEquiv>
+                    <Unicode>colli, et delle Montagne et delli castelli che si vedono attorno et perlo mezzo, con bella et degna coltura, con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="950,4336 1077,4336 1205,4338 1332,4340 1460,4342 1588,4344 1715,4346 1843,4348 1970,4350 2098,4350 2226,4352 2353,4354 2481,4356 2608,4356 2736,4358 2864,4358 2991,4360 3119,4360 3246,4360 3374,4362 3502,4362 3502,4302 3374,4302 3246,4300 3119,4300 2991,4300 2864,4298 2736,4298 2608,4296 2481,4296 2353,4294 2226,4292 2098,4290 1970,4290 1843,4288 1715,4286 1588,4284 1460,4282 1332,4280 1205,4278 1077,4276 950,4276"/>
+                <Baseline points="950,4316 1077,4316 1205,4318 1332,4320 1460,4322 1588,4324 1715,4326 1843,4328 1970,4330 2098,4330 2226,4332 2353,4334 2481,4336 2608,4336 2736,4338 2864,4338 2991,4340 3119,4340 3246,4340 3374,4342 3502,4342"/>
+                <TextEquiv>
+                    <Unicode>uno piacevole Fiume detto Velino, che fa officio inquesto Reatino quale fà peneo nella Tempe di Thessaglia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="942,4416 1067,4418 1192,4420 1317,4422 1442,4424 1567,4426 1692,4428 1817,4430 1942,4432 2067,4434 2192,4436 2317,4438 2442,4440 2567,4442 2692,4444 2817,4446 2942,4446 3067,4448 3192,4448 3317,4448 3442,4448 3442,4388 3317,4388 3192,4388 3067,4388 2942,4386 2817,4386 2692,4384 2567,4382 2442,4380 2317,4378 2192,4376 2067,4374 1942,4372 1817,4370 1692,4368 1567,4366 1442,4364 1317,4362 1192,4360 1067,4358 942,4356"/>
+                <Baseline points="942,4396 1067,4398 1192,4400 1317,4402 1442,4404 1567,4406 1692,4408 1817,4410 1942,4412 2067,4414 2192,4416 2317,4418 2442,4420 2567,4422 2692,4424 2817,4426 2942,4426 3067,4428 3192,4428 3317,4428 3442,4428"/>
+                <TextEquiv>
+                    <Unicode>che va variando et circondanno i luoghi varij et Amenissime, ove Varrone hebbe una delle sue Ville.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAURACI, ΡΑΥΡΑΚΟΙ, sono Populi della Gallia Belgica, secondo dice Plinio, nel libro quarto, al capo decimo settimo
+de quali è detto in Rauraco Città. i quali anticamente si mostrarono arditi et animosi nella guerra. perloro difesa
+combattendo, contra Romani: et sono detti anchora Galli Comati.
+RAURACO, Rauraca, Rauracum, è città della Gallia Comata, nella parte di Rauraci populi sudetti, che alcuni Raurici
+gli scrivono senza l'ultima .A., ΡΑΥΡΙΚΟΙ, che sono nationi Galliche bellicose. alli confini di sequari, et dell'Heluetij
+la cui città per essere stata dedutta colonia de cavaglieri Romani, Plinio nellibro quarto alcapo decimo la
+chiama Rauraco Equestre colonia: et da essa sono appellati i Rauracensi Equestri. et sidice Rauraca colonia
+et Rauriaci le cose d'essa Rauracum sottoposte. Come le dicono i greci ΡΑΥΡΑΚΩΝ, et ΡΑΥΡΙΑΚΟΙ. et nel singulare
+ΡΑΥΡΑΚΕΥΣ. et si dicono Rauracensium, et Rauracense nel singulare et nel numero del più, et singularmente an¬
+cora Rauraceno, et si possono dire, Rauraci et Rauraceini, nell'uso populare.
+RAXIMAGABI, ò Raximagabis, è voce vulgare, presa perlo nome del Porto dell'Africa, che gli Antichi
+chiamavano Sabatra.
+REATINI, Reatineis, sono Populi d'Italia, di Reate città de sabini, posti nel mezzo d'Italia in una bella vista
+d'uno generoso paese, per onde irriga il Velino fiume. Chiamansi hoggidì Rietini dal nome corrotto della
+citta che invece di Reate dicono Rieti. Posta quarantamiglia discosto da Roma, nella Via Quinctia Traia¬
+na. di cui Plinio fa menzione, nel libro terzo al capo duadecimo, ove accusa essere i suoi populi molti.
+REATINO, Reatinus è nome del Territorio di Reate posto attorno ad'essa città, Ubellico d'Italia come dice Var
+rone, et etian Solino. et Cicerone chiama esso Territorio Tempea Reatina, dalla varieta delli piani et delli
+colli, et delle Montagne et delli castelli che si vedono attorno et perlo mezzo, con bella et degna coltura, con
+uno piacevole Fiume detto Velino, che fa officio inquesto Reatino quale fà peneo nella Tempe di Thessaglia.
+che va variando et circondanno i luoghi varij et Amenissime, ove Varrone hebbe una delle sue Ville.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

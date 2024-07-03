@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_075b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:13.964+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r2" HEIGHT="302" WIDTH="285" VPOS="118" HPOS="3085">
+               <Shape>
+                  <Polygon POINTS="3085,118 3089,414 3362,420 3370,119"/>
+               </Shape>
+               <TextLine ID="line_1649772057518_2391"
+                         BASELINE="3185,172 3255,170"
+                         HEIGHT="59"
+                         WIDTH="100"
+                         VPOS="122"
+                         HPOS="3170">
+                  <String ID="string_line_1649772057518_2391"
+                          HEIGHT="59"
+                          WIDTH="100"
+                          VPOS="122"
+                          HPOS="3170"
+                          CONTENT="69"/>
+               </TextLine>
+               <TextLine ID="line_1649772062325_2396"
+                         BASELINE="3302,174 3360,174"
+                         HEIGHT="90"
+                         WIDTH="87"
+                         VPOS="124"
+                         HPOS="3288">
+                  <String ID="string_line_1649772062325_2396"
+                          HEIGHT="90"
+                          WIDTH="87"
+                          VPOS="124"
+                          HPOS="3288"
+                          CONTENT="5"/>
+               </TextLine>
+               <TextLine ID="r2l1"
+                         BASELINE="3166,232 3193,235 3220,236 3247,235 3274,236"
+                         HEIGHT="102"
+                         WIDTH="140"
+                         VPOS="164"
+                         HPOS="3150">
+                  <String ID="string_r2l1"
+                          HEIGHT="102"
+                          WIDTH="140"
+                          VPOS="164"
+                          HPOS="3150"
+                          CONTENT="78"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="3102,384 3131,386 3160,387 3190,388"
+                         HEIGHT="125"
+                         WIDTH="123"
+                         VPOS="298"
+                         HPOS="3085">
+                  <String ID="string_r2l2"
+                          HEIGHT="125"
+                          WIDTH="123"
+                          VPOS="298"
+                          HPOS="3085"
+                          CONTENT="75"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649772074455_2403"
+                       HEIGHT="548"
+                       WIDTH="2488"
+                       VPOS="462"
+                       HPOS="352">
+               <Shape>
+                  <Polygon POINTS="352,477 2840,462 2826,1010 352,1010"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="374,596 492,596 611,594 730,594 848,594 968,613 1094,595 1204,596 1323,596 1442,596 1561,598 1679,598 1798,600 1917,600 2035,602 2154,604 2273,604 2391,606 2510,607 2629,608 2748,610"
+                         HEIGHT="119"
+                         WIDTH="2404"
+                         VPOS="509"
+                         HPOS="358">
+                  <String ID="string_r1l1"
+                          HEIGHT="119"
+                          WIDTH="2404"
+                          VPOS="509"
+                          HPOS="358"
+                          CONTENT="Per la via Latina son questi dui epitaphij et molto rovinati; et discosto da Roma circa ad otto miglia, neli"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="382,662 502,660 623,658 743,658 864,658 985,658 1105,658 1226,660 1346,662 1467,663 1588,664 1708,666 1829,668 1949,670 2070,672 2191,674 2311,676 2432,676 2552,678 2673,678 2794,680"
+                         HEIGHT="87"
+                         WIDTH="2444"
+                         VPOS="623"
+                         HPOS="367">
+                  <String ID="string_r1l2"
+                          HEIGHT="87"
+                          WIDTH="2444"
+                          VPOS="623"
+                          HPOS="367"
+                          CONTENT="quali si dive notare molte cose, inquesta prima, chi cosa sia quella Decuria quarta favoris presso ò ver median¬"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="388,728 505,726 623,724 741,722 858,722 976,722 1094,722 1211,722 1329,722 1447,724 1565,726 1682,728 1800,730 1918,732 2035,736 2153,738 2271,742 2388,744 2506,748 2624,750 2742,752"
+                         HEIGHT="85"
+                         WIDTH="2383"
+                         VPOS="692"
+                         HPOS="374">
+                  <String ID="string_r1l3"
+                          HEIGHT="85"
+                          WIDTH="2383"
+                          VPOS="692"
+                          HPOS="374"
+                          CONTENT="te l'Imperadori, et nell'altra segnata .Π. chi vi è scritta una dele Trenta cinque tribus per PVBLILLA•"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="382,804 502,800 622,795 743,792 863,789 984,787 1104,786 1224,784 1345,784 1465,786 1586,786 1706,788 1826,790 1947,792 2067,796 2188,800 2308,802 2428,808 2549,812 2669,818 2790,824"
+                         HEIGHT="121"
+                         WIDTH="2437"
+                         VPOS="746"
+                         HPOS="367">
+                  <String ID="string_r1l4"
+                          HEIGHT="121"
+                          WIDTH="2437"
+                          VPOS="746"
+                          HPOS="367"
+                          CONTENT="et non per publicia come nei libri si trova scritta. Il soldato, che vi fu sepolto militò sotto una cintu¬"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="384,876 501,872 619,868 737,866 855,863 973,860 1090,860 1208,858 1326,858 1444,856 1562,858 1679,858 1797,859 1915,860 2033,862 2151,866 2268,868 2386,872 2504,876 2622,881 2740,886"
+                         HEIGHT="88"
+                         WIDTH="2390"
+                         VPOS="825"
+                         HPOS="367">
+                  <String ID="string_r1l5"
+                          HEIGHT="88"
+                          WIDTH="2390"
+                          VPOS="825"
+                          HPOS="367"
+                          CONTENT="tione del pretorio di Caio Calligola Imperadore, il qual si trova mentione in Svetonio nela vita di detto"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="384,944 410,941 436,940 462,940 488,940 514,938"
+                         HEIGHT="101"
+                         WIDTH="161"
+                         VPOS="879"
+                         HPOS="369">
+                  <String ID="string_r1l6"
+                          HEIGHT="101"
+                          WIDTH="161"
+                          VPOS="879"
+                          HPOS="369"
+                          CONTENT="Caio "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649772083862_2412"
+                       HEIGHT="1113"
+                       WIDTH="1197"
+                       VPOS="1010"
+                       HPOS="352">
+               <Shape>
+                  <Polygon POINTS="352,1010 1549,1010 1549,2123 352,2123"/>
+               </Shape>
+               <TextLine ID="r1l9"
+                         BASELINE="545,1177 573,1180 601,1181 629,1183 657,1183 685,1183 713,1183 741,1183 769,1183 797,1183 825,1181 853,1181 881,1181 909,1179 937,1178 965,1177 993,1176 1021,1175 1049,1175 1077,1174 1135,1171"
+                         HEIGHT="109"
+                         WIDTH="622"
+                         VPOS="1097"
+                         HPOS="529">
+                  <String ID="string_r1l9"
+                          HEIGHT="109"
+                          WIDTH="622"
+                          VPOS="1097"
+                          HPOS="529"
+                          CONTENT="L•VITELLIO•L•LIB"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="546,1236 574,1236 602,1236 631,1236 659,1236 688,1236 716,1236 744,1236 773,1236 801,1236 830,1236 858,1235 886,1234 915,1233 943,1232 972,1232 1000,1230 1028,1230 1057,1227 1085,1226 1131,1221"
+                         HEIGHT="79"
+                         WIDTH="616"
+                         VPOS="1172"
+                         HPOS="531">
+                  <String ID="string_r1l11"
+                          HEIGHT="79"
+                          WIDTH="616"
+                          VPOS="1172"
+                          HPOS="531"
+                          CONTENT="GRATIO•AVL•VITELLI•"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="549,1296 577,1295 605,1294 633,1294 661,1293 689,1292 717,1292 745,1292 773,1290 801,1290 829,1290 857,1288 885,1288 913,1288 941,1286 969,1286 997,1284 1025,1284 1053,1282 1081,1281 1148,1274"
+                         HEIGHT="84"
+                         WIDTH="632"
+                         VPOS="1218"
+                         HPOS="532">
+                  <String ID="string_r1l13"
+                          HEIGHT="84"
+                          WIDTH="632"
+                          VPOS="1218"
+                          HPOS="532"
+                          CONTENT="AVGVST•MINIST•DECVR•"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="564,1340 592,1340 621,1340 649,1338 678,1338 707,1338 735,1338 764,1337 792,1336 821,1336 850,1334 878,1334 907,1334 935,1332 964,1332 993,1331 1021,1330 1050,1330 1078,1330 1107,1329 1154,1331"
+                         HEIGHT="85"
+                         WIDTH="618"
+                         VPOS="1270"
+                         HPOS="549">
+                  <String ID="string_r1l14"
+                          HEIGHT="85"
+                          WIDTH="618"
+                          VPOS="1270"
+                          HPOS="549"
+                          CONTENT="IIII•DECVR•FAV•L•VITELLI"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="548,1386 577,1386 606,1388 636,1388 665,1388 695,1388 724,1388 753,1388 783,1390 812,1390 842,1390 871,1389 900,1388 930,1388 959,1388 989,1387 1018,1386 1047,1386 1077,1384 1106,1383 1136,1380"
+                         HEIGHT="55"
+                         WIDTH="619"
+                         VPOS="1344"
+                         HPOS="533">
+                  <String ID="string_r1l16"
+                          HEIGHT="55"
+                          WIDTH="619"
+                          VPOS="1344"
+                          HPOS="533"
+                          CONTENT="VS•L•LIBER•CELEIVS"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="549,1450 577,1450 605,1448 633,1448 661,1447 689,1446 717,1446 745,1446 773,1446 801,1446 830,1444 858,1444 886,1444 914,1444 942,1443 970,1442 998,1441 1026,1440 1054,1438 1082,1435 1135,1435"
+                         HEIGHT="96"
+                         WIDTH="616"
+                         VPOS="1391"
+                         HPOS="534">
+                  <String ID="string_r1l18"
+                          HEIGHT="96"
+                          WIDTH="616"
+                          VPOS="1391"
+                          HPOS="534"
+                          CONTENT="FRATRI OPTVMO"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649772083862_2411"
+                       HEIGHT="1113"
+                       WIDTH="1277"
+                       VPOS="1010"
+                       HPOS="1549">
+               <Shape>
+                  <Polygon POINTS="1549,1010 2826,1010 2797,2123 1549,2123"/>
+               </Shape>
+               <TextLine ID="r1l8"
+                         BASELINE="2717,1166 2784,1166"
+                         HEIGHT="84"
+                         WIDTH="96"
+                         VPOS="1098"
+                         HPOS="2703">
+                  <String ID="string_r1l8"
+                          HEIGHT="84"
+                          WIDTH="96"
+                          VPOS="1098"
+                          HPOS="2703"
+                          CONTENT="•Π•"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="1814,1160 1853,1158 1892,1156 1931,1154 1970,1154 2009,1152 2048,1152 2087,1152 2126,1152 2165,1152 2204,1152 2243,1152 2282,1154 2321,1154 2360,1154 2399,1154 2438,1154 2477,1154 2516,1154 2555,1152 2594,1152"
+                         HEIGHT="94"
+                         WIDTH="812"
+                         VPOS="1077"
+                         HPOS="1798">
+                  <String ID="string_r1l7"
+                          HEIGHT="94"
+                          WIDTH="812"
+                          VPOS="1077"
+                          HPOS="1798"
+                          CONTENT="DIIS•MANIBVS•SACRVM•"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1814,1216 1853,1213 1892,1212 1931,1211 1970,1210 2010,1210 2049,1210 2088,1210 2127,1210 2166,1210 2206,1212 2245,1212 2284,1212 2323,1214 2362,1216 2402,1217 2441,1218 2480,1220 2519,1221 2558,1222 2628,1221"
+                         HEIGHT="78"
+                         WIDTH="846"
+                         VPOS="1163"
+                         HPOS="1798">
+                  <String ID="string_r1l10"
+                          HEIGHT="78"
+                          WIDTH="846"
+                          VPOS="1163"
+                          HPOS="1798"
+                          CONTENT="L•AQVILLIVS•L•FIL•PVBLIL•"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="1810,1274 1859,1274 1897,1274 1935,1274 1973,1274 2011,1274 2048,1274 2086,1274 2124,1274 2162,1274 2200,1276 2237,1276 2275,1276 2313,1278 2351,1279 2389,1280 2426,1281 2464,1283 2502,1284 2540,1287 2578,1288"
+                         HEIGHT="73"
+                         WIDTH="800"
+                         VPOS="1229"
+                         HPOS="1794">
+                  <String ID="string_r1l12"
+                          HEIGHT="73"
+                          WIDTH="800"
+                          VPOS="1229"
+                          HPOS="1794"
+                          CONTENT="PATERCVLVS•MIL•COH•V̄Ī"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1815,1336 1863,1334 1900,1332 1938,1331 1975,1330 2013,1330 2050,1330 2087,1330 2125,1330 2162,1331 2200,1332 2237,1334 2274,1334 2312,1336 2349,1338 2387,1339 2424,1340 2461,1342 2499,1343 2536,1344 2574,1344"
+                         HEIGHT="70"
+                         WIDTH="792"
+                         VPOS="1290"
+                         HPOS="1798">
+                  <String ID="string_r1l15"
+                          HEIGHT="70"
+                          WIDTH="792"
+                          VPOS="1290"
+                          HPOS="1798"
+                          CONTENT="PRAET•Q•MACRONI•MIL•"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="1818,1396 1857,1393 1896,1391 1935,1388 1974,1386 2013,1386 2052,1386 2091,1386 2130,1386 2169,1388 2208,1388 2247,1390 2286,1392 2325,1394 2364,1396 2403,1397 2442,1400 2481,1400 2520,1402 2559,1403 2598,1404"
+                         HEIGHT="109"
+                         WIDTH="810"
+                         VPOS="1319"
+                         HPOS="1803">
+                  <String ID="string_r1l17"
+                          HEIGHT="109"
+                          WIDTH="810"
+                          VPOS="1319"
+                          HPOS="1803"
+                          CONTENT="ANN•VIIII•VIX•ANN•XXX"/>
+               </TextLine>
+               <TextLine ID="line_1649773687843_2467"
+                         BASELINE="1825,1452 1861,1454 1889,1454 1917,1454 1944,1452 1972,1452 2000,1452 2027,1452 2055,1452 2083,1452 2111,1450 2138,1450 2166,1450 2194,1450 2221,1450 2249,1450 2277,1450 2304,1451 2332,1452 2360,1452 2388,1452 2412,1452 2438,1455 2465,1455 2526,1461"
+                         HEIGHT="80"
+                         WIDTH="730"
+                         VPOS="1405"
+                         HPOS="1811">
+                  <String ID="string_line_1649773687843_2467"
+                          HEIGHT="80"
+                          WIDTH="730"
+                          VPOS="1405"
+                          HPOS="1811"
+                          CONTENT="VIIII•M•V̄Ī•D•ĪĪĪ•H•S•"/>
+               </TextLine>
+               <TextLine ID="line_1649773877995_2513"
+                         BASELINE="1915,1538 2228,1538 2322,1551 2362,1546 2642,1546"
+                         HEIGHT="89"
+                         WIDTH="758"
+                         VPOS="1471"
+                         HPOS="1899">
+                  <String ID="string_line_1649773877995_2513"
+                          HEIGHT="89"
+                          WIDTH="758"
+                          VPOS="1471"
+                          HPOS="1899"
+                          CONTENT="T•F•I•...................."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1835,1598 1874,1596 1914,1596 1953,1594 1993,1594 2032,1594 2072,1595 2111,1596 2151,1597 2190,1598 2230,1598 2269,1600 2309,1600 2348,1602 2388,1602 2427,1602 2467,1602 2506,1601 2546,1600 2585,1598 2635,1596"
+                         HEIGHT="98"
+                         WIDTH="830"
+                         VPOS="1536"
+                         HPOS="1821">
+                  <String ID="string_r1l25"
+                          HEIGHT="98"
+                          WIDTH="830"
+                          VPOS="1536"
+                          HPOS="1821"
+                          CONTENT="FILIIS•ET•FILIABVS•CVM•MAT"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="1826,1668 1866,1665 1906,1662 1946,1660 1986,1660 2026,1660 2066,1659 2106,1660 2146,1660 2186,1661 2226,1662 2266,1663 2306,1664 2346,1666 2386,1666 2426,1668 2466,1668 2506,1668 2546,1668 2586,1666 2626,1666"
+                         HEIGHT="66"
+                         WIDTH="833"
+                         VPOS="1614"
+                         HPOS="1809">
+                  <String ID="string_r1l26"
+                          HEIGHT="66"
+                          WIDTH="833"
+                          VPOS="1614"
+                          HPOS="1809"
+                          CONTENT="COM......☿•ↂ ↀↀ NVM•"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="1821,1720 1859,1718 1898,1716 1936,1716 1975,1714 2014,1714 2052,1714 2091,1714 2129,1714 2168,1714 2207,1715 2245,1716 2284,1716 2322,1718 2361,1718 2400,1720 2438,1720 2477,1721 2515,1722 2554,1722 2625,1721"
+                         HEIGHT="69"
+                         WIDTH="833"
+                         VPOS="1663"
+                         HPOS="1806">
+                  <String ID="string_r1l27"
+                          HEIGHT="69"
+                          WIDTH="833"
+                          VPOS="1663"
+                          HPOS="1806"
+                          CONTENT="..........NAT..........ABVSQVE........"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="1818,1780 1858,1778 1899,1775 1940,1774 1981,1772 2022,1772 2063,1772 2104,1772 2145,1772 2186,1772 2227,1772 2267,1774 2308,1774 2349,1774 2390,1774 2431,1774 2472,1774 2513,1773 2554,1772 2595,1770 2636,1768"
+                         HEIGHT="71"
+                         WIDTH="848"
+                         VPOS="1729"
+                         HPOS="1802">
+                  <String ID="string_r1l28"
+                          HEIGHT="71"
+                          WIDTH="848"
+                          VPOS="1729"
+                          HPOS="1802"
+                          CONTENT="........................................"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="1858,1818 1884,1818 1911,1817 1938,1816 1965,1816 1991,1815 2018,1814 2045,1813 2072,1811 2098,1810 2125,1808 2152,1807 2179,1806 2206,1806"
+                         HEIGHT="82"
+                         WIDTH="382"
+                         VPOS="1760"
+                         HPOS="1841">
+                  <String ID="string_r1l29"
+                          HEIGHT="82"
+                          WIDTH="382"
+                          VPOS="1760"
+                          HPOS="1841"
+                          CONTENT="Base dal Tempo."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

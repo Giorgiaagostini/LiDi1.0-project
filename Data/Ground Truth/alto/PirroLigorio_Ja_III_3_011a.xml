@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_011a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:53.206+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1639650087525_213"
+                       HEIGHT="222"
+                       WIDTH="2824"
+                       VPOS="420"
+                       HPOS="789">
+               <Shape>
+                  <Polygon POINTS="789,426 3613,420 3613,606 3579,612 1565,566 1564,642 789,631"/>
+               </Shape>
+               <TextLine ID="line_1639650087644_216"
+                         BASELINE="886,600 993,602 1100,604 1207,606 1314,610 1421,613 1528,617 1564,618"
+                         HEIGHT="76"
+                         WIDTH="678"
+                         VPOS="561"
+                         HPOS="886">
+                  <String ID="string_line_1639650087644_216"
+                          HEIGHT="76"
+                          WIDTH="678"
+                          VPOS="561"
+                          HPOS="886"
+                          CONTENT="delle Cisterne inquesto senso:"/>
+               </TextLine>
+               <TextLine ID="line_1638894643776_224"
+                         BASELINE="866,500 995,506 1125,510 1254,516 1384,520 1513,524 1643,526 1772,529 1852,530"
+                         HEIGHT="94"
+                         WIDTH="986"
+                         VPOS="457"
+                         HPOS="866">
+                  <String ID="string_line_1638894643776_224"
+                          HEIGHT="94"
+                          WIDTH="986"
+                          VPOS="457"
+                          HPOS="866"
+                          CONTENT="ostie del pado fiume detta Messanico padusa et "/>
+               </TextLine>
+               <TextLine ID="line_1638894648433_228"
+                         BASELINE="1835,494 1891,494"
+                         HEIGHT="50"
+                         WIDTH="56"
+                         VPOS="449"
+                         HPOS="1835">
+                  <String ID="string_line_1638894648433_228"
+                          HEIGHT="50"
+                          WIDTH="56"
+                          VPOS="449"
+                          HPOS="1835"
+                          CONTENT="al"/>
+               </TextLine>
+               <TextLine ID="line_1638894643776_223"
+                         BASELINE="1852,530 1902,532 2031,534 2161,536 2290,540 2420,542 2549,544 2679,548 2808,552 2938,556 3067,560 3197,566 3326,572 3456,578"
+                         HEIGHT="112"
+                         WIDTH="1604"
+                         VPOS="487"
+                         HPOS="1852">
+                  <String ID="string_line_1638894643776_223"
+                          HEIGHT="112"
+                          WIDTH="1604"
+                          VPOS="487"
+                          HPOS="1852"
+                          CONTENT="Spinetico. Viene anchora nominata Ravenna da Martiale nell'acqua"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1639650310898_259"
+                       HEIGHT="365"
+                       WIDTH="1568"
+                       VPOS="566"
+                       HPOS="1561">
+               <Shape>
+                  <Polygon POINTS="1565,566 3129,609 3129,931 1561,931 1565,643 1564,642"/>
+               </Shape>
+               <TextLine ID="line_1639650087643_215"
+                         BASELINE="1564,618 1635,620 1742,625 1849,628 1956,632 2063,636 2170,639 2277,642 2384,646 2491,648 2598,650 2705,652 2812,654 2919,654 3026,654"
+                         HEIGHT="94"
+                         WIDTH="1462"
+                         VPOS="579"
+                         HPOS="1564">
+                  <String ID="string_line_1639650087643_215"
+                          HEIGHT="94"
+                          WIDTH="1462"
+                          VPOS="579"
+                          HPOS="1564"
+                          CONTENT="SIT CISTERNA MIHI, QVAM VINEA, MALO RAVENNAE,"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1638,702 1704,703 1770,704 1836,706 1903,710 1969,712 2035,714 2102,716 2168,718 2234,722 2301,724 2367,726 2433,728 2499,730 2566,732 2632,734 2698,736 2765,736 2831,738 2897,738 2964,738"
+                         HEIGHT="94"
+                         WIDTH="1326"
+                         VPOS="663"
+                         HPOS="1638">
+                  <String ID="string_r1l3"
+                          HEIGHT="94"
+                          WIDTH="1326"
+                          VPOS="663"
+                          HPOS="1638"
+                          CONTENT="CVM POSSIM MVLTO VENDERE PLVRIS AQVAM;"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="1582,798 1657,799 1732,802 1807,804 1882,806 1957,808 2032,810 2107,812 2182,815 2257,817 2332,820 2407,822 2482,824 2557,826 2632,828 2707,830 2782,832 2857,834 2932,836 3007,838 3082,840"
+                         HEIGHT="102"
+                         WIDTH="1500"
+                         VPOS="758"
+                         HPOS="1582">
+                  <String ID="string_r1l4"
+                          HEIGHT="102"
+                          WIDTH="1500"
+                          VPOS="758"
+                          HPOS="1582"
+                          CONTENT="CALLIDVS IMPOSVIT NVPER MIHI CAVPO RAVENNAE."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="1682,890 1747,890 1813,892 1879,893 1945,894 2011,896 2076,898 2142,900 2208,902 2274,904 2340,906 2405,908 2471,910 2537,911 2603,912 2669,914 2734,916 2800,916 2866,918 2932,918 2998,918"
+                         HEIGHT="88"
+                         WIDTH="1316"
+                         VPOS="850"
+                         HPOS="1682">
+                  <String ID="string_r1l5"
+                          HEIGHT="88"
+                          WIDTH="1316"
+                          VPOS="850"
+                          HPOS="1682"
+                          CONTENT="CVM PATEREM MIXTVM VENDIT ILLE MERVM•"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1639650195585_233"
+                       HEIGHT="1959"
+                       WIDTH="2824"
+                       VPOS="858"
+                       HPOS="789">
+               <Shape>
+                  <Polygon POINTS="789,931 1050,858 1249,927 3613,952 3613,2817 2978,2817 2978,2716 1540,2724 1540,2809 1540,2817 789,2817"/>
+               </Shape>
+               <TextLine ID="line_1639650195744_235"
+                         BASELINE="885,2795 1031,2792 1133,2792 1234,2790 1336,2790 1438,2790 1539,2790 1540,2790"
+                         HEIGHT="66"
+                         WIDTH="610"
+                         VPOS="2747"
+                         HPOS="930">
+                  <String ID="string_line_1639650195744_235"
+                          HEIGHT="66"
+                          WIDTH="610"
+                          VPOS="2747"
+                          HPOS="930"
+                          CONTENT="ò dubia à chi non sa le cose:"/>
+               </TextLine>
+               <TextLine ID="line_1638895007122_248"
+                         BASELINE="876,970 1003,975 1029,976"
+                         HEIGHT="70"
+                         WIDTH="153"
+                         VPOS="927"
+                         HPOS="876">
+                  <String ID="string_line_1638895007122_248"
+                          HEIGHT="70"
+                          WIDTH="153"
+                          VPOS="927"
+                          HPOS="876"
+                          CONTENT="Sinqui"/>
+               </TextLine>
+               <TextLine ID="line_1638895007121_247"
+                         BASELINE="1029,976 1131,980 1259,984 1387,986 1515,988 1643,990 1771,992 1899,994 2027,996 2155,996 2282,998 2410,999 2538,1001 2666,1004 2794,1006 2922,1009 3050,1012 3178,1017 3306,1023 3434,1028"
+                         HEIGHT="116"
+                         WIDTH="2405"
+                         VPOS="933"
+                         HPOS="1029">
+                  <String ID="string_line_1638895007121_247"
+                          HEIGHT="116"
+                          WIDTH="2405"
+                          VPOS="933"
+                          HPOS="1029"
+                          CONTENT="tuttigli sopradetti oppenioni d'Historici: potemo agilmente credere non havendo sopra d'essi nulloicontrario."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="894,1064 1020,1068 1147,1070 1274,1074 1401,1075 1528,1078 1654,1078 1781,1080 1908,1082 2035,1084 2162,1084 2288,1086 2415,1088 2542,1090 2669,1092 2796,1094 2922,1097 3049,1100 3176,1104 3303,1109 3430,1114"
+                         HEIGHT="110"
+                         WIDTH="2536"
+                         VPOS="1024"
+                         HPOS="894">
+                  <String ID="string_r1l7"
+                          HEIGHT="110"
+                          WIDTH="2536"
+                          VPOS="1024"
+                          HPOS="894"
+                          CONTENT="Ma volendo ricercare per sottile tutta la sua antichità per più antico origine, non è dubio che si trova come"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="902,1152 1028,1158 1154,1164 1280,1168 1407,1172 1533,1176 1659,1178 1786,1181 1912,1182 2038,1184 2165,1186 2291,1186 2417,1186 2543,1188 2670,1188 2796,1188 2922,1190 3049,1190 3175,1192 3301,1194 3428,1194"
+                         HEIGHT="102"
+                         WIDTH="2526"
+                         VPOS="1112"
+                         HPOS="902">
+                  <String ID="string_r1l8"
+                          HEIGHT="102"
+                          WIDTH="2526"
+                          VPOS="1112"
+                          HPOS="902"
+                          CONTENT="ha dato materia à molti d'altri oppenioni: et sono stati alcuni, ch'essa sia fatta delle reliquie di Spina città"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="905,1264 3457,1301"
+                         HEIGHT="92"
+                         WIDTH="2550"
+                         VPOS="1219"
+                         HPOS="902">
+                  <String ID="string_r1l9"
+                          HEIGHT="92"
+                          WIDTH="2550"
+                          VPOS="1219"
+                          HPOS="902"
+                          CONTENT="colonia de pelasgi ch'era sul pado fiume nella parte del Messanico. Spinetico che fù edifico di Diomede secondo"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="886,1360 1014,1364 1142,1366 1270,1368 1399,1370 1527,1370 1655,1370 1784,1370 1912,1370 2040,1370 2169,1370 2297,1370 2425,1370 2553,1370 2682,1370 2810,1372 2938,1372 3067,1375 3195,1378 3323,1382 3452,1386"
+                         HEIGHT="90"
+                         WIDTH="2566"
+                         VPOS="1317"
+                         HPOS="886">
+                  <String ID="string_r1l10"
+                          HEIGHT="90"
+                          WIDTH="2566"
+                          VPOS="1317"
+                          HPOS="886"
+                          CONTENT="plinio delli Thesori di Delpho, il che Dionysio et Strabone confermano essere così stata Spina edificata: et anchora"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="898,1452 1025,1454 1153,1456 1281,1458 1408,1460 1536,1460 1664,1460 1791,1460 1919,1460 2047,1460 2175,1460 2302,1460 2430,1460 2558,1462 2685,1462 2813,1462 2941,1464 3068,1466 3196,1470 3324,1472 3452,1476"
+                         HEIGHT="88"
+                         WIDTH="2554"
+                         VPOS="1409"
+                         HPOS="898">
+                  <String ID="string_r1l11"
+                          HEIGHT="88"
+                          WIDTH="2554"
+                          VPOS="1409"
+                          HPOS="898"
+                          CONTENT="al tempo loro mancata: onde eglino non dicendo che di Spina fusse fatta Ravenna, non è da credere alli moderni"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="908,1546 1034,1548 1160,1548 1286,1549 1412,1550 1539,1550 1665,1550 1791,1550 1917,1552 2043,1552 2170,1552 2296,1552 2422,1552 2548,1552 2674,1554 2801,1554 2927,1554 3053,1554 3179,1556 3305,1556 3432,1558"
+                         HEIGHT="76"
+                         WIDTH="2524"
+                         VPOS="1503"
+                         HPOS="908">
+                  <String ID="string_r1l12"
+                          HEIGHT="76"
+                          WIDTH="2524"
+                          VPOS="1503"
+                          HPOS="908"
+                          CONTENT="che credono, che Spina facesse Ravenna. pure avegna come si vuole Ravenna confinava conlo contato"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="912,1638 1039,1640 1167,1644 1294,1646 1422,1648 1550,1650 1677,1650 1805,1652 1932,1652 2060,1654 2188,1654 2315,1654 2443,1656 2570,1656 2698,1656 2826,1658 2953,1659 3081,1660 3208,1662 3336,1665 3464,1668"
+                         HEIGHT="94"
+                         WIDTH="2552"
+                         VPOS="1595"
+                         HPOS="912">
+                  <String ID="string_r1l13"
+                          HEIGHT="94"
+                          WIDTH="2552"
+                          VPOS="1595"
+                          HPOS="912"
+                          CONTENT="di Spina perla contiguo paese. Donde s'ingannano, per cio che altro è Ravenna et altro è Spina, ambidue città"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="894,1746 1021,1748 1148,1750 1275,1750 1402,1752 1530,1752 1657,1752 1784,1752 1911,1754 2038,1754 2166,1754 2293,1754 2420,1754 2547,1754 2674,1756 2802,1756 2929,1758 3056,1758 3183,1760 3310,1762 3438,1764"
+                         HEIGHT="82"
+                         WIDTH="2544"
+                         VPOS="1703"
+                         HPOS="894">
+                  <String ID="string_r1l14"
+                          HEIGHT="82"
+                          WIDTH="2544"
+                          VPOS="1703"
+                          HPOS="894"
+                          CONTENT="antichissime, et nobilissime, in uno medesimo tratto di mare, l'una sul pado Spinetio Messanico primaro: l'alora"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="902,1842 1029,1842 1156,1844 1283,1844 1411,1844 1538,1846 1665,1846 1793,1846 1920,1848 2047,1848 2175,1848 2302,1850 2429,1850 2556,1852 2684,1852 2811,1854 2938,1856 3066,1858 3193,1858 3320,1860 3448,1862"
+                         HEIGHT="83"
+                         WIDTH="2546"
+                         VPOS="1800"
+                         HPOS="902">
+                  <String ID="string_r1l15"
+                          HEIGHT="83"
+                          WIDTH="2546"
+                          VPOS="1800"
+                          HPOS="902"
+                          CONTENT="più discosto assai confinanti di territorio et in uno litto, et per questo Martiale perla continuità del paese, ò litto"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="894,1936 1023,1934 1152,1934 1281,1932 1411,1932 1540,1932 1669,1932 1799,1934 1928,1934 2057,1934 2187,1936 2316,1936 2445,1938 2574,1938 2704,1940 2833,1940 2962,1942 3092,1942 3221,1944 3350,1944 3480,1946"
+                         HEIGHT="77"
+                         WIDTH="2586"
+                         VPOS="1890"
+                         HPOS="894">
+                  <String ID="string_r1l16"
+                          HEIGHT="77"
+                          WIDTH="2586"
+                          VPOS="1890"
+                          HPOS="894"
+                          CONTENT="Lo chiama di Spina Ravenna nell'Asparagi paesani, ove sono generosi: ma non per questa auttorita di Martia¬"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="888,2028 1015,2026 1142,2026 1269,2026 1396,2026 1523,2026 1650,2026 1777,2028 1904,2028 2031,2030 2159,2030 2286,2031 2413,2032 2540,2032 2667,2032 2794,2032 2921,2030 3048,2028 3175,2027 3302,2024 3430,2020"
+                         HEIGHT="76"
+                         WIDTH="2542"
+                         VPOS="1977"
+                         HPOS="888">
+                  <String ID="string_r1l17"
+                          HEIGHT="76"
+                          WIDTH="2542"
+                          VPOS="1977"
+                          HPOS="888"
+                          CONTENT="Le fà che Ravenna sia Spina, ansi siano sempre due città. Per cio che Spina fù sul Fiume Pado sudetto nel Ri"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="902,2116 1031,2117 1161,2119 1291,2121 1420,2122 1550,2124 1680,2126 1809,2128 1939,2130 2069,2132 2199,2134 2328,2134 2458,2136 2588,2136 2717,2136 2847,2136 2977,2136 3106,2135 3236,2134 3366,2132 3509,2129"
+                         HEIGHT="84"
+                         WIDTH="2594"
+                         VPOS="2073"
+                         HPOS="902">
+                  <String ID="string_r1l18"
+                          HEIGHT="84"
+                          WIDTH="2594"
+                          VPOS="2073"
+                          HPOS="902"
+                          CONTENT="vo cognominato Spinetico Messanico secondo Dionysio Halicarnasseo, et Ravenna situata in altri diversi fiu¬"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="902,2204 1031,2210 1161,2216 1291,2220 1421,2222 1551,2224 1681,2226 1811,2226 1941,2226 2071,2226 2201,2226 2330,2226 2460,2226 2590,2226 2720,2224 2850,2224 2980,2226 3110,2226 3240,2228 3370,2230 3550,2235"
+                         HEIGHT="94"
+                         WIDTH="2598"
+                         VPOS="2161"
+                         HPOS="902">
+                  <String ID="string_r1l19"
+                          HEIGHT="94"
+                          WIDTH="2598"
+                          VPOS="2161"
+                          HPOS="902"
+                          CONTENT="mi chiamati Anemone, Montone Viti et Sapi. ove circa et nella confluentia di questi intrapresa, sivede situa¬"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="894,2306 1022,2308 1151,2310 1280,2312 1409,2312 1538,2314 1667,2314 1796,2314 1925,2314 2054,2314 2183,2314 2311,2314 2440,2314 2569,2313 2698,2312 2827,2312 2956,2312 3085,2312 3214,2312 3343,2312 3472,2312"
+                         HEIGHT="72"
+                         WIDTH="2578"
+                         VPOS="2263"
+                         HPOS="894">
+                  <String ID="string_r1l20"
+                          HEIGHT="72"
+                          WIDTH="2578"
+                          VPOS="2263"
+                          HPOS="894"
+                          CONTENT="ta: et dal portare materia nel mare lo quale si scarca d'essa materia hanno discostata la città dall'onde salse et"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="912,2412 1039,2410 1166,2408 1294,2406 1421,2406 1549,2406 1676,2406 1803,2406 1931,2406 2058,2406 2186,2406 2313,2406 2440,2408 2568,2408 2695,2408 2823,2408 2950,2406 3077,2406 3205,2404 3332,2402 3460,2400"
+                         HEIGHT="76"
+                         WIDTH="2548"
+                         VPOS="2357"
+                         HPOS="912">
+                  <String ID="string_r1l21"
+                          HEIGHT="76"
+                          WIDTH="2548"
+                          VPOS="2357"
+                          HPOS="912"
+                          CONTENT="è adentro terra, ove pria era sul mare, et perlo incrimento dellitto giace adentroterra. Et non è da dubitare"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="896,2510 1023,2508 1151,2506 1278,2504 1406,2504 1533,2504 1661,2504 1788,2504 1916,2504 2043,2504 2171,2504 2298,2504 2426,2504 2553,2504 2681,2504 2808,2502 2936,2502 3063,2500 3191,2500 3318,2498 3446,2494"
+                         HEIGHT="80"
+                         WIDTH="2550"
+                         VPOS="2451"
+                         HPOS="896">
+                  <String ID="string_r1l22"
+                          HEIGHT="80"
+                          WIDTH="2550"
+                          VPOS="2451"
+                          HPOS="896"
+                          CONTENT="che'essa non sia nel medesimo sito ove era stata sempre quando il mare la bagnava. Ordunque sendo come è"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="920,2610 1045,2608 1171,2608 1297,2606 1423,2606 1549,2604 1675,2604 1801,2604 1927,2604 2053,2604 2179,2604 2304,2604 2430,2604 2556,2604 2682,2604 2808,2604 2934,2602 3060,2602 3186,2600 3312,2598 3438,2596"
+                         HEIGHT="75"
+                         WIDTH="2518"
+                         VPOS="2555"
+                         HPOS="920">
+                  <String ID="string_r1l23"
+                          HEIGHT="75"
+                          WIDTH="2518"
+                          VPOS="2555"
+                          HPOS="920"
+                          CONTENT="detto il spinetico paese congionto col Ravennate Martiale nel distico ventesimo primo del decimo terzo libro"/>
+               </TextLine>
+               <TextLine ID="line_1638899594639_304"
+                         BASELINE="908,2700 1034,2698 1161,2698 1288,2696 1414,2696 1430,2695"
+                         HEIGHT="66"
+                         WIDTH="522"
+                         VPOS="2654"
+                         HPOS="908">
+                  <String ID="string_line_1638899594639_304"
+                          HEIGHT="66"
+                          WIDTH="522"
+                          VPOS="2654"
+                          HPOS="908"
+                          CONTENT="de suoi carmi laudando "/>
+               </TextLine>
+               <TextLine ID="line_1638899600339_308"
+                         BASELINE="1427,2657 1499,2655"
+                         HEIGHT="52"
+                         WIDTH="73"
+                         VPOS="2610"
+                         HPOS="1426">
+                  <String ID="string_line_1638899600339_308"
+                          HEIGHT="52"
+                          WIDTH="73"
+                          VPOS="2610"
+                          HPOS="1426"
+                          CONTENT="gli"/>
+               </TextLine>
+               <TextLine ID="line_1638899594638_303"
+                         BASELINE="1430,2695 1541,2694 1668,2694 1794,2692 1921,2692 2048,2690 2175,2690 2301,2690 2428,2690 2555,2688 2681,2688 2808,2688 2935,2688 3061,2688 3188,2688 3315,2690 3442,2690"
+                         HEIGHT="68"
+                         WIDTH="2012"
+                         VPOS="2647"
+                         HPOS="1430">
+                  <String ID="string_line_1638899594638_303"
+                          HEIGHT="68"
+                          WIDTH="2012"
+                          VPOS="2647"
+                          HPOS="1430"
+                          CONTENT="asparagi di Spina et di Ravenna sforzato dal verso dice questa sententia ambigua"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1639650195585_232"
+                       HEIGHT="211"
+                       WIDTH="1438"
+                       VPOS="2716"
+                       HPOS="1540">
+               <Shape>
+                  <Polygon POINTS="1540,2724 2978,2716 2978,2817 2978,2924 1540,2927 1540,2817 1540,2809"/>
+               </Shape>
+               <TextLine ID="line_1639650195745_236"
+                         BASELINE="1540,2790 1641,2790 1742,2790 1844,2790 1946,2790 2047,2790 2149,2790 2250,2790 2352,2790 2454,2790 2555,2790 2657,2790 2758,2790 2860,2790 2962,2788"
+                         HEIGHT="66"
+                         WIDTH="1422"
+                         VPOS="2745"
+                         HPOS="1540">
+                  <String ID="string_line_1639650195745_236"
+                          HEIGHT="66"
+                          WIDTH="1422"
+                          VPOS="2745"
+                          HPOS="1540"
+                          CONTENT="MOLLIS IN AEQVOREA QVAE CREVIT SPINA, RAVENNA"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="1824,2888 1881,2888 1939,2888 1997,2888 2055,2888 2113,2888 2170,2886 2228,2886 2286,2886 2344,2886 2402,2886 2459,2885 2517,2884 2575,2884 2633,2882 2691,2880 2748,2879 2806,2878 2864,2876 2922,2873 2980,2870"
+                         HEIGHT="81"
+                         WIDTH="1156"
+                         VPOS="2828"
+                         HPOS="1824">
+                  <String ID="string_r1l26"
+                          HEIGHT="81"
+                          WIDTH="1156"
+                          VPOS="2828"
+                          HPOS="1824"
+                          CONTENT="NON ERIT INCVLTIS GRATIOR ASPARAGIS."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1639650139165_225"
+                       HEIGHT="1795"
+                       WIDTH="2828"
+                       VPOS="2912"
+                       HPOS="789">
+               <Shape>
+                  <Polygon POINTS="792,2920 1536,2912 3617,2913 3617,4707 789,4623"/>
+               </Shape>
+               <TextLine ID="r1l27"
+                         BASELINE="902,2972 1028,2974 1154,2974 1280,2976 1406,2976 1533,2976 1659,2976 1785,2974 1911,2974 2037,2972 2164,2972 2290,2972 2416,2970 2542,2970 2668,2970 2795,2970 2921,2972 3047,2974 3173,2976 3299,2978 3426,2982"
+                         HEIGHT="75"
+                         WIDTH="2524"
+                         VPOS="2928"
+                         HPOS="902">
+                  <String ID="string_r1l27"
+                          HEIGHT="75"
+                          WIDTH="2524"
+                          VPOS="2928"
+                          HPOS="902"
+                          CONTENT="per chè tutto aegualmente nel paese di Spina e di Ravenna nascono i sparagi di formosissima qualità. Altri"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="894,3066 1021,3066 1148,3064 1275,3064 1402,3064 1529,3064 1656,3064 1783,3064 1910,3064 2037,3066 2164,3066 2291,3066 2418,3068 2545,3068 2672,3070 2799,3072 2926,3074 3053,3076 3180,3078 3307,3080 3434,3084"
+                         HEIGHT="83"
+                         WIDTH="2540"
+                         VPOS="3022"
+                         HPOS="894">
+                  <String ID="string_r1l28"
+                          HEIGHT="83"
+                          WIDTH="2540"
+                          VPOS="3022"
+                          HPOS="894"
+                          CONTENT="con altri oppenioni dicono, Che Ravenna fusse detta Navenna, dalla navigatione delle sue acque sendo in "/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="898,3165 1026,3166 1155,3167 1283,3169 1412,3169 1541,3169 1669,3169 1798,3171 1926,3171 2055,3171 2184,3171 2312,3171 2441,3172 2569,3173 2698,3175 2827,3176 2955,3178 3084,3181 3212,3184 3341,3188 3514,3194"
+                         HEIGHT="89"
+                         WIDTH="2572"
+                         VPOS="3111"
+                         HPOS="898">
+                  <String ID="string_r1l29"
+                          HEIGHT="89"
+                          WIDTH="2572"
+                          VPOS="3111"
+                          HPOS="898"
+                          CONTENT="paese molle, per che presso d'essa sono i quinque mari stagni defiumi che per diversi luoghi gli italici vi na¬"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="894,3234 1020,3237 1146,3240 1272,3243 1398,3246 1524,3248 1650,3250 1776,3251 1902,3252 2028,3254 2155,3254 2281,3254 2407,3256 2533,3256 2659,3256 2785,3254 2911,3254 3037,3254 3163,3252 3289,3252 3416,3250"
+                         HEIGHT="83"
+                         WIDTH="2522"
+                         VPOS="3193"
+                         HPOS="894">
+                  <String ID="string_r1l30"
+                          HEIGHT="83"
+                          WIDTH="2522"
+                          VPOS="3193"
+                          HPOS="894"
+                          CONTENT="vigavano. Per chè anchora sendo dove concorrono et rompono i fiumi col constrasto ancho del mare ne viene detta"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="886,3336 1013,3338 1140,3340 1267,3342 1395,3342 1522,3344 1649,3346 1777,3348 1904,3348 2031,3350 2159,3350 2286,3352 2413,3352 2540,3352 2668,3352 2795,3352 2922,3352 3050,3350 3177,3350 3304,3348 3432,3344"
+                         HEIGHT="80"
+                         WIDTH="2546"
+                         VPOS="3293"
+                         HPOS="886">
+                  <String ID="string_r1l31"
+                          HEIGHT="80"
+                          WIDTH="2546"
+                          VPOS="3293"
+                          HPOS="886"
+                          CONTENT="Ruenna. Altri per conto della sua antichità, vogliono che fusse stata pria edificata dalli discesi di Noè da suoi"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="886,3430 1015,3434 1145,3436 1274,3438 1404,3440 1533,3440 1663,3442 1792,3442 1922,3442 2051,3442 2181,3442 2310,3442 2440,3442 2569,3443 2699,3444 2828,3444 2958,3446 3087,3446 3217,3448 3346,3451 3476,3454"
+                         HEIGHT="88"
+                         WIDTH="2590"
+                         VPOS="3387"
+                         HPOS="886">
+                  <String ID="string_r1l32"
+                          HEIGHT="88"
+                          WIDTH="2590"
+                          VPOS="3387"
+                          HPOS="886"
+                          CONTENT="nepoti, dipoi da Thessali.⁓ Ma pria secondo dice Beroso fù colonia dedutta da Noè, quando molte città fece edi¬"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="892,3536 1021,3536 1150,3536 1279,3535 1408,3534 1537,3534 1666,3534 1795,3534 1924,3536 2053,3536 2183,3536 2312,3536 2441,3538 2570,3538 2699,3540 2828,3540 2957,3542 3086,3544 3215,3545 3344,3546 3474,3548"
+                         HEIGHT="78"
+                         WIDTH="2582"
+                         VPOS="3491"
+                         HPOS="892">
+                  <String ID="string_r1l33"
+                          HEIGHT="78"
+                          WIDTH="2582"
+                          VPOS="3491"
+                          HPOS="892"
+                          CONTENT="ficare,nella successione doppo il Diluvio universale. et nelle edificationi vi mando Gomer, Gallo, Comer, et Ia¬"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="894,3630 1021,3630 1148,3632 1275,3632 1402,3632 1529,3634 1656,3634 1783,3634 1910,3634 2037,3634 2164,3636 2291,3636 2418,3636 2545,3636 2672,3637 2799,3638 2926,3638 3053,3640 3180,3640 3307,3642 3434,3642"
+                         HEIGHT="75"
+                         WIDTH="2540"
+                         VPOS="3588"
+                         HPOS="894">
+                  <String ID="string_r1l34"
+                          HEIGHT="75"
+                          WIDTH="2540"
+                          VPOS="3588"
+                          HPOS="894"
+                          CONTENT="pheto suoi figliuoli, et mando questi nella parte d'Italia che fù detta Hetruria et dipoi Tuscia. Onde i Nepoti"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="870,3728 998,3728 1126,3728 1255,3728 1383,3728 1512,3728 1640,3730 1768,3730 1897,3730 2025,3732 2154,3732 2282,3734 2410,3734 2539,3734 2667,3734 2796,3734 2924,3734 3052,3734 3181,3732 3309,3730 3438,3728"
+                         HEIGHT="70"
+                         WIDTH="2568"
+                         VPOS="3685"
+                         HPOS="870">
+                  <String ID="string_r1l35"
+                          HEIGHT="70"
+                          WIDTH="2568"
+                          VPOS="3685"
+                          HPOS="870"
+                          CONTENT="suoi nati di Iapheto, dipoi mando nell'Armenia, et d'indigli conduste in Italia, cosi è la oppenione di Beroso, et"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="894,3818 1024,3820 1154,3822 1284,3824 1415,3824 1545,3826 1675,3826 1806,3828 1936,3828 2066,3828 2197,3830 2327,3830 2457,3830 2587,3830 2718,3830 2848,3830 2978,3830 3109,3830 3239,3830 3369,3830 3500,3830"
+                         HEIGHT="76"
+                         WIDTH="2606"
+                         VPOS="3775"
+                         HPOS="894">
+                  <String ID="string_r1l36"
+                          HEIGHT="76"
+                          WIDTH="2606"
+                          VPOS="3775"
+                          HPOS="894"
+                          CONTENT="che facessero alcune città in Hetruria, et da essi nacque Ravenna. Altri dicono che, che furono da Noè manda¬"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="886,3916 1016,3919 1146,3922 1277,3924 1407,3925 1538,3926 1668,3926 1798,3926 1929,3926 2059,3924 2190,3924 2320,3922 2450,3922 2581,3920 2711,3920 2842,3918 2972,3918 3102,3918 3233,3918 3363,3918 3494,3918"
+                         HEIGHT="74"
+                         WIDTH="2608"
+                         VPOS="3873"
+                         HPOS="886">
+                  <String ID="string_r1l37"
+                          HEIGHT="74"
+                          WIDTH="2608"
+                          VPOS="3873"
+                          HPOS="886"
+                          CONTENT="ti, Crano et Crana, che in Italia sul Tibere fiume Regnarono nella Hetruria, et nell'Umbria, che occuparono,"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="886,4006 1013,4008 1141,4010 1269,4012 1397,4014 1525,4014 1652,4014 1780,4014 1908,4014 2036,4014 2164,4014 2291,4014 2419,4014 2547,4014 2675,4014 2803,4014 2930,4015 3058,4016 3186,4018 3314,4020 3481,4020"
+                         HEIGHT="80"
+                         WIDTH="2556"
+                         VPOS="3963"
+                         HPOS="886">
+                  <String ID="string_r1l38"
+                          HEIGHT="80"
+                          WIDTH="2556"
+                          VPOS="3963"
+                          HPOS="886"
+                          CONTENT="et vi habitarono su' gli carri perle acque, trovando quasi tutto'l paese undoso ò Umbroso et male culto:"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="890,4110 1019,4114 1149,4116 1279,4118 1409,4118 1539,4118 1669,4118 1799,4116 1929,4115 2059,4114 2189,4112 2318,4110 2448,4110 2578,4108 2708,4106 2838,4106 2968,4106 3098,4108 3228,4108 3358,4111 3488,4114"
+                         HEIGHT="75"
+                         WIDTH="2598"
+                         VPOS="4064"
+                         HPOS="890">
+                  <String ID="string_r1l39"
+                          HEIGHT="75"
+                          WIDTH="2598"
+                          VPOS="4064"
+                          HPOS="890"
+                          CONTENT="de pochi habitatori, dove in Hetruria la città Veio, che fù appellata cosi nella voce Armenica che suona Sagu"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="886,4208 1016,4208 1146,4208 1276,4206 1406,4206 1536,4206 1666,4204 1796,4204 1926,4204 2056,4202 2187,4202 2317,4202 2447,4202 2577,4202 2707,4204 2837,4204 2967,4206 3097,4208 3227,4210 3357,4214 3493,4218"
+                         HEIGHT="80"
+                         WIDTH="2602"
+                         VPOS="4159"
+                         HPOS="886">
+                  <String ID="string_r1l40"
+                          HEIGHT="80"
+                          WIDTH="2602"
+                          VPOS="4159"
+                          HPOS="886"
+                          CONTENT="ò Mantello per uno certo augurio. et fecero Agylla citta che poscia da Tyrrheni fù detta Caere. Et furono que¬"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="872,4302 1002,4304 1132,4304 1262,4304 1392,4304 1522,4304 1652,4302 1782,4302 1912,4300 2042,4298 2173,4298 2303,4296 2433,4296 2563,4296 2693,4296 2823,4298 2953,4300 3083,4302 3213,4306 3343,4310 3474,4316"
+                         HEIGHT="84"
+                         WIDTH="2602"
+                         VPOS="4253"
+                         HPOS="872">
+                  <String ID="string_r1l41"
+                          HEIGHT="84"
+                          WIDTH="2602"
+                          VPOS="4253"
+                          HPOS="872"
+                          CONTENT="sti appellati Curuli dalli Curri, ò carri che usavano. et dalli sacri misterij detti Hetrusci.⁓ et questi vogliono, che "/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="872,4400 1003,4402 1134,4404 1266,4404 1397,4404 1529,4404 1660,4404 1791,4404 1923,4404 2054,4402 2186,4402 2317,4402 2448,4402 2580,4402 2711,4404 2843,4404 2974,4408 3105,4410 3237,4414 3368,4418 3522,4443"
+                         HEIGHT="88"
+                         WIDTH="2628"
+                         VPOS="4357"
+                         HPOS="872">
+                  <String ID="string_r1l42"
+                          HEIGHT="88"
+                          WIDTH="2628"
+                          VPOS="4357"
+                          HPOS="872"
+                          CONTENT="facessero Ravenna, onde ne fù detta Colonia Hetrusca. Altri a questo dicono che successe la edificatione de sabi¬"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="882,4498 1011,4500 1141,4500 1271,4502 1401,4500 1531,4500 1661,4500 1791,4498 1921,4498 2051,4496 2181,4496 2310,4494 2440,4494 2570,4494 2700,4494 2830,4494 2960,4496 3090,4497 3220,4500 3350,4503 3480,4506"
+                         HEIGHT="76"
+                         WIDTH="2598"
+                         VPOS="4451"
+                         HPOS="882">
+                  <String ID="string_r1l43"
+                          HEIGHT="76"
+                          WIDTH="2598"
+                          VPOS="4451"
+                          HPOS="882"
+                          CONTENT="ni, l'anno doppo il Dilluvio Cento quarantuno. Vogliono che intermine di dugento anni per varij accidenti et "/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="880,4590 1011,4590 1142,4590 1273,4590 1404,4590 1535,4590 1666,4592 1797,4592 1928,4592 2059,4592 2190,4592 2321,4592 2452,4592 2583,4592 2714,4594 2845,4594 2976,4592 3107,4592 3238,4592 3369,4592 3500,4592"
+                         HEIGHT="68"
+                         WIDTH="2620"
+                         VPOS="4547"
+                         HPOS="880">
+                  <String ID="string_r1l44"
+                          HEIGHT="68"
+                          WIDTH="2620"
+                          VPOS="4547"
+                          HPOS="880"
+                          CONTENT="mesticanze de populi, furono detti Tusci,Sagi Vei, Armeni et Umbri, ò Umbroni come avanzati dalle acque, "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

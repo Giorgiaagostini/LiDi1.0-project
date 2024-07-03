@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_026a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:00.763+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1556" WIDTH="2884" VPOS="357" HPOS="744">
+               <Shape>
+                  <Polygon POINTS="751,370 744,1913 3628,1913 3589,357"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="780,512 919,509 1058,506 1198,502 1337,498 1477,495 1616,492 1755,488 1895,484 2034,481 2174,478 2313,474 2452,472 2592,468 2731,464 2871,460 3010,457 3149,454 3289,450 3428,446 3568,442"
+                         HEIGHT="125"
+                         WIDTH="2788"
+                         VPOS="405"
+                         HPOS="780">
+                  <String ID="string_r1l1"
+                          HEIGHT="125"
+                          WIDTH="2788"
+                          VPOS="405"
+                          HPOS="780"
+                          CONTENT="REGIENSI, sono populi della Gallia Togata, come le nomina plinio Regienses nel buono testo, i quali hanno perla"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="862,596 931,594 1000,589 1070,586 1139,584 1209,580 1278,578 1347,576 1417,574 1486,572 1556,570 1625,568 1694,566 1764,564 1833,563 1903,562 1972,560 2041,558 2111,555 2180,552 2250,550"
+                         HEIGHT="101"
+                         WIDTH="1388"
+                         VPOS="513"
+                         HPOS="862">
+                  <String ID="string_r1l2"
+                          HEIGHT="101"
+                          WIDTH="1388"
+                          VPOS="513"
+                          HPOS="862"
+                          CONTENT="sua citta Regio Iepida. de cui fa menzione Cicerone."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="794,1074 897,1078 1000,1080 1104,1082 1207,1082 1311,1082 1414,1082 1517,1080 1621,1078 1724,1076 1828,1074 1931,1072 2034,1068 2138,1066 2241,1064 2345,1062 2448,1060 2551,1058 2655,1057 2758,1056 2862,1058"
+                         HEIGHT="89"
+                         WIDTH="2068"
+                         VPOS="1014"
+                         HPOS="794">
+                  <String ID="string_r1l3"
+                          HEIGHT="89"
+                          WIDTH="2068"
+                          VPOS="1014"
+                          HPOS="794"
+                          CONTENT="REGIO, Regius, ΡΗΤΙΟΣ, è fiume della Mesopotamia, secondo Ptolemaeo scrive."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="800,1494 938,1494 1076,1492 1214,1491 1352,1488 1491,1486 1629,1484 1767,1482 1905,1478 2043,1476 2182,1472 2320,1468 2458,1464 2596,1460 2734,1456 2873,1452 3011,1448 3149,1444 3287,1440 3425,1435 3564,1430"
+                         HEIGHT="127"
+                         WIDTH="2764"
+                         VPOS="1388"
+                         HPOS="800">
+                  <String ID="string_r1l4"
+                          HEIGHT="127"
+                          WIDTH="2764"
+                          VPOS="1388"
+                          HPOS="800"
+                          CONTENT="REGIO LEPIDA, è citta insigne colonia Romana dedutta da Aemilio Lepido situata nella Via Aemilia,"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="856,1580 990,1578 1125,1576 1260,1574 1395,1572 1530,1570 1664,1568 1799,1566 1934,1564 2069,1562 2204,1560 2338,1558 2473,1558 2608,1556 2743,1554 2878,1552 3012,1550 3147,1548 3282,1546 3417,1542 3552,1540"
+                         HEIGHT="103"
+                         WIDTH="2696"
+                         VPOS="1498"
+                         HPOS="856">
+                  <String ID="string_r1l5"
+                          HEIGHT="103"
+                          WIDTH="2696"
+                          VPOS="1498"
+                          HPOS="856"
+                          CONTENT="dove hodiernamente è celebrata la divotissima chiesa di Santa Eulalia figliuola di pasyphyle di natione"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="840,1670 976,1666 1113,1664 1249,1662 1386,1660 1523,1658 1659,1658 1796,1656 1932,1656 2069,1654 2206,1654 2342,1654 2479,1654 2615,1652 2752,1652 2889,1650 3025,1648 3162,1647 3298,1644 3435,1642 3572,1638"
+                         HEIGHT="95"
+                         WIDTH="2732"
+                         VPOS="1596"
+                         HPOS="840">
+                  <String ID="string_r1l6"
+                          HEIGHT="95"
+                          WIDTH="2732"
+                          VPOS="1596"
+                          HPOS="840"
+                          CONTENT="di Hispania gloriosa Martyre, che fu Vergine posta in croce come fù fatto à Santo Andrea Apostolo, da paga¬"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="856,1768 992,1766 1128,1764 1264,1762 1400,1760 1536,1758 1672,1758 1808,1756 1944,1754 2080,1754 2216,1752 2352,1752 2488,1750 2624,1750 2760,1750 2896,1750 3032,1750 3168,1752 3304,1752 3440,1754 3576,1754"
+                         HEIGHT="81"
+                         WIDTH="2720"
+                         VPOS="1708"
+                         HPOS="856">
+                  <String ID="string_r1l7"
+                          HEIGHT="81"
+                          WIDTH="2720"
+                          VPOS="1708"
+                          HPOS="856"
+                          CONTENT="ni martizata. il cui nome significa, illustre, et chiara nel ben parlare, eccelente. La quale fu humilissima, di fer"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="834,1846 920,1850 1006,1852 1092,1854 1179,1856 1265,1856 1351,1854 1438,1854 1524,1852 1610,1851 1697,1849 1783,1846 1869,1844 1955,1843 2042,1840 2128,1838 2214,1838 2301,1836 2387,1836 2473,1837 2560,1838"
+                         HEIGHT="83"
+                         WIDTH="1726"
+                         VPOS="1794"
+                         HPOS="834">
+                  <String ID="string_r1l8"
+                          HEIGHT="83"
+                          WIDTH="1726"
+                          VPOS="1794"
+                          HPOS="834"
+                          CONTENT="missima Fede et di somma charitate. dedita al sommo et aeterno bene."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

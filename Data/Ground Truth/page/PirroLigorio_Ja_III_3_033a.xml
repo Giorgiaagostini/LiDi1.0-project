@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.965+01:00</Created>
+        <LastChange>2024-06-25T19:29:35.849+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902880" pageNr="65" tsid="174125393" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=SNYDNQVWEEDATXMLMLUCRBRW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOGMCXAMFEDPSLZFVUJYXICB" imageId="17873933"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_033a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337503172" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="753,329 732,3240 3513,3254 3477,300"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:8; length:5;}">
+                <Coords points="790,439 913,435 1037,434 1160,433 1284,433 1408,433 1531,433 1655,433 1778,435 1902,435 2026,437 2149,439 2273,441 2396,443 2520,446 2644,449 2767,451 2891,453 3014,455 3138,457 3262,459 3262,401 3138,399 3014,397 2891,395 2767,393 2644,391 2520,388 2396,385 2273,383 2149,381 2026,379 1902,377 1778,377 1655,375 1531,375 1408,375 1284,375 1160,375 1037,376 913,377 790,381"/>
+                <Baseline points="790,420 913,416 1037,415 1160,414 1284,414 1408,414 1531,414 1655,414 1778,416 1902,416 2026,418 2149,420 2273,422 2396,424 2520,427 2644,430 2767,432 2891,434 3014,436 3138,438 3262,440"/>
+                <TextEquiv>
+                    <Unicode>RHOARA, ΡΩΑΡΗ, è città della Parthia Regione Asiatica, secondo scriveno Quadrato et Ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} unclear {offset:7; length:8;}">
+                <Coords points="818,514 870,516 923,516 976,518 1029,518 1082,518 1134,518 1187,518 1240,518 1293,516 1346,516 1398,516 1451,514 1504,514 1557,514 1610,514 1662,514 1715,514 1768,515 1821,516 1874,518 1874,458 1821,456 1768,455 1715,454 1662,454 1610,454 1557,454 1504,454 1451,454 1398,456 1346,456 1293,456 1240,458 1187,458 1134,458 1082,458 1029,458 976,458 923,456 870,456 818,454"/>
+                <Baseline points="818,494 870,496 923,496 976,498 1029,498 1082,498 1134,498 1187,498 1240,498 1293,496 1346,496 1398,496 1451,494 1504,494 1557,494 1610,494 1662,494 1715,494 1768,495 1821,496 1874,498"/>
+                <TextEquiv>
+                    <Unicode>da cui Rhoareno, et Rhoareo. et Rhoarense.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="798,622 917,617 1037,613 1157,610 1277,608 1397,606 1516,606 1636,606 1756,608 1876,610 1996,613 2115,617 2235,620 2355,625 2475,630 2595,634 2714,640 2834,645 2954,650 3074,657 3194,662 3194,601 3074,596 2954,589 2834,584 2714,579 2595,573 2475,569 2355,564 2235,559 2115,556 1996,552 1876,549 1756,547 1636,545 1516,545 1397,545 1277,547 1157,549 1037,552 917,556 798,561"/>
+                <Baseline points="798,602 917,597 1037,593 1157,590 1277,588 1397,586 1516,586 1636,586 1756,588 1876,590 1996,593 2115,597 2235,600 2355,605 2475,610 2595,614 2714,620 2834,625 2954,630 3074,637 3194,642"/>
+                <TextEquiv>
+                    <Unicode>RHOAS, è la medesimo città ch'è Rhoara e Rhoare, cosi prima denominata secondo alcuni: ma se gabano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="816,702 917,704 1019,706 1120,706 1222,706 1323,706 1425,704 1526,704 1628,704 1729,702 1831,702 1932,702 2034,702 2135,702 2237,704 2338,706 2440,710 2541,713 2643,718 2744,725 2846,732 2846,671 2744,664 2643,657 2541,652 2440,649 2338,645 2237,643 2135,641 2034,641 1932,641 1831,641 1729,641 1628,643 1526,643 1425,643 1323,645 1222,645 1120,645 1019,645 917,643 816,641"/>
+                <Baseline points="816,682 917,684 1019,686 1120,686 1222,686 1323,686 1425,684 1526,684 1628,684 1729,682 1831,682 1932,682 2034,682 2135,682 2237,684 2338,686 2440,690 2541,693 2643,698 2744,705 2846,712"/>
+                <TextEquiv>
+                    <Unicode>Perchè Rhoas fu detta Laodicea, come la nomina diversamente Plinio nellibro quinto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:25; length:9;}">
+                <Coords points="810,1100 935,1096 1060,1094 1186,1092 1311,1092 1437,1092 1562,1092 1687,1093 1813,1094 1938,1096 2064,1100 2189,1102 2314,1106 2440,1108 2565,1112 2691,1116 2816,1118 2941,1122 3067,1124 3192,1128 3318,1130 3318,1075 3192,1073 3067,1069 2941,1067 2816,1063 2691,1061 2565,1057 2440,1053 2314,1051 2189,1047 2064,1045 1938,1041 1813,1039 1687,1038 1562,1037 1437,1037 1311,1037 1186,1037 1060,1039 935,1041 810,1045"/>
+                <Baseline points="810,1082 935,1078 1060,1076 1186,1074 1311,1074 1437,1074 1562,1074 1687,1075 1813,1076 1938,1078 2064,1082 2189,1084 2314,1088 2440,1090 2565,1094 2691,1098 2816,1100 2941,1104 3067,1106 3192,1110 3318,1112"/>
+                <TextEquiv>
+                    <Unicode>RHOBOGDIO, ò Rhobogdium, ΡΩΒΓΟΔΙΟΝ, è Promontorio nella Hybernia, nominato da Ptolemaeo: donde sono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="818,1177 859,1177 900,1177 942,1177 983,1177 1025,1177 1066,1177 1107,1177 1149,1177 1190,1177 1232,1177 1273,1177 1314,1177 1356,1175 1397,1175 1439,1175 1480,1175 1521,1175 1563,1175 1604,1175 1646,1175 1646,1118 1604,1118 1563,1118 1521,1118 1480,1118 1439,1118 1397,1118 1356,1118 1314,1120 1273,1120 1232,1120 1190,1120 1149,1120 1107,1120 1066,1120 1025,1120 983,1120 942,1120 900,1120 859,1120 818,1120"/>
+                <Baseline points="818,1158 859,1158 900,1158 942,1158 983,1158 1025,1158 1066,1158 1107,1158 1149,1158 1190,1158 1232,1158 1273,1158 1314,1158 1356,1156 1397,1156 1439,1156 1480,1156 1521,1156 1563,1156 1604,1156 1646,1156"/>
+                <TextEquiv>
+                    <Unicode>detti i Rhobogodij populi Hybernici.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} Greek {offset:9; length:6;}">
+                <Coords points="806,1369 892,1371 979,1375 1066,1377 1153,1377 1240,1379 1326,1381 1413,1381 1500,1381 1587,1381 1674,1381 1760,1381 1847,1381 1934,1381 2021,1381 2108,1381 2194,1381 2281,1383 2368,1383 2455,1385 2542,1387 2542,1323 2455,1321 2368,1319 2281,1319 2194,1317 2108,1317 2021,1317 1934,1317 1847,1317 1760,1317 1674,1317 1587,1317 1500,1317 1413,1317 1326,1317 1240,1315 1153,1313 1066,1313 979,1311 892,1307 806,1305"/>
+                <Baseline points="806,1348 892,1350 979,1354 1066,1356 1153,1356 1240,1358 1326,1360 1413,1360 1500,1360 1587,1360 1674,1360 1760,1360 1847,1360 1934,1360 2021,1360 2108,1360 2194,1360 2281,1362 2368,1362 2455,1364 2542,1366"/>
+                <TextEquiv>
+                    <Unicode>RHOCOBE, ΡΩΚΟΒΗ, è citta nella Thracia Regione: da cui Rhocobeni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} Greek {offset:7; length:4;}">
+                <Coords points="786,1665 833,1667 881,1669 928,1671 976,1671 1024,1671 1071,1673 1119,1673 1166,1673 1214,1673 1262,1673 1309,1673 1357,1673 1404,1673 1452,1671 1500,1671 1547,1671 1595,1671 1642,1671 1690,1671 1738,1671 1738,1607 1690,1607 1642,1607 1595,1607 1547,1607 1500,1607 1452,1607 1404,1609 1357,1609 1309,1609 1262,1609 1214,1609 1166,1609 1119,1609 1071,1609 1024,1607 976,1607 928,1607 881,1605 833,1603 786,1601"/>
+                <Baseline points="786,1644 833,1646 881,1648 928,1650 976,1650 1024,1650 1071,1652 1119,1652 1166,1652 1214,1652 1262,1652 1309,1652 1357,1652 1404,1652 1452,1650 1500,1650 1547,1650 1595,1650 1642,1650 1690,1650 1738,1650"/>
+                <TextEquiv>
+                    <Unicode>RHODE, ΡΩΔΗ, è fiume della Sarmatia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="806,1919 938,1925 1070,1929 1202,1933 1334,1935 1466,1937 1598,1937 1730,1935 1862,1935 1994,1933 2126,1931 2258,1929 2390,1929 2522,1927 2654,1927 2786,1927 2918,1929 3050,1931 3182,1935 3314,1941 3446,1949 3446,1891 3314,1883 3182,1877 3050,1873 2918,1871 2786,1869 2654,1869 2522,1869 2390,1871 2258,1871 2126,1873 1994,1875 1862,1877 1730,1877 1598,1879 1466,1879 1334,1877 1202,1875 1070,1871 938,1867 806,1861"/>
+                <Baseline points="806,1900 938,1906 1070,1910 1202,1914 1334,1916 1466,1918 1598,1918 1730,1916 1862,1916 1994,1914 2126,1912 2258,1910 2390,1910 2522,1908 2654,1908 2786,1908 2918,1910 3050,1912 3182,1916 3314,1922 3446,1930"/>
+                <TextEquiv>
+                    <Unicode>RHODIA, è città della Lycia secondo Ptolemaeo scrive, et Rhodia è nome della Nympha detta da Hesiodo dal fluere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="842,2009 971,2011 1101,2013 1231,2013 1361,2013 1491,2014 1620,2013 1750,2013 1880,2013 2010,2013 2140,2011 2269,2011 2399,2011 2529,2011 2659,2011 2789,2013 2918,2013 3048,2015 3178,2018 3308,2023 3438,2027 3438,1969 3308,1965 3178,1960 3048,1957 2918,1955 2789,1955 2659,1953 2529,1953 2399,1953 2269,1953 2140,1953 2010,1955 1880,1955 1750,1955 1620,1955 1491,1956 1361,1955 1231,1955 1101,1955 971,1953 842,1951"/>
+                <Baseline points="842,1990 971,1992 1101,1994 1231,1994 1361,1994 1491,1995 1620,1994 1750,1994 1880,1994 2010,1994 2140,1992 2269,1992 2399,1992 2529,1992 2659,1992 2789,1994 2918,1994 3048,1996 3178,1999 3308,2004 3438,2008"/>
+                <TextEquiv>
+                    <Unicode>et da essa si scrive, Rhodiaco, Rhodiaca, come Rhodio, Rhodia, et Rhodiense. Come nel latino. Rhodiacus, Rhodiaca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="828,2091 956,2093 1084,2095 1212,2097 1341,2097 1469,2097 1597,2097 1726,2095 1854,2095 1982,2093 2111,2091 2239,2091 2367,2091 2495,2090 2624,2091 2752,2091 2880,2093 3009,2097 3137,2101 3265,2105 3394,2111 3394,2054 3265,2048 3137,2044 3009,2040 2880,2036 2752,2034 2624,2034 2495,2033 2367,2034 2239,2034 2111,2034 1982,2036 1854,2038 1726,2038 1597,2040 1469,2040 1341,2040 1212,2040 1084,2038 956,2036 828,2034"/>
+                <Baseline points="828,2072 956,2074 1084,2076 1212,2078 1341,2078 1469,2078 1597,2078 1726,2076 1854,2076 1982,2074 2111,2072 2239,2072 2367,2072 2495,2071 2624,2072 2752,2072 2880,2074 3009,2078 3137,2082 3265,2086 3394,2092"/>
+                <TextEquiv>
+                    <Unicode>Rhodiacum, Rhodius, Rhodia, Rhodium, et Rhodiensis. Come Rhodiense il pelago à Mare, ch'è proprio nell'Asia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="828,2169 854,2172 880,2174 906,2175 932,2176 959,2178 985,2179 1011,2181 1037,2181 1063,2183 1090,2183 1116,2183 1142,2185 1168,2185 1194,2185 1221,2185 1247,2183 1273,2183 1299,2183 1326,2183 1326,2126 1299,2126 1273,2126 1247,2126 1221,2128 1194,2128 1168,2128 1142,2128 1116,2126 1090,2126 1063,2126 1037,2124 1011,2124 985,2122 959,2121 932,2119 906,2118 880,2117 854,2115 828,2112"/>
+                <Baseline points="828,2150 854,2153 880,2155 906,2156 932,2157 959,2159 985,2160 1011,2162 1037,2162 1063,2164 1090,2164 1116,2164 1142,2166 1168,2166 1194,2166 1221,2166 1247,2164 1273,2164 1299,2164 1326,2164"/>
+                <TextEquiv>
+                    <Unicode>secondo Ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} Greek {offset:25; length:11;}">
+                <Coords points="808,2415 940,2413 1073,2413 1205,2413 1338,2413 1470,2413 1603,2413 1735,2415 1868,2415 2000,2415 2133,2417 2265,2417 2398,2417 2530,2417 2663,2417 2795,2417 2928,2415 3060,2415 3193,2413 3325,2409 3458,2407 3458,2355 3325,2357 3193,2361 3060,2363 2928,2363 2795,2365 2663,2365 2530,2365 2398,2365 2265,2365 2133,2365 2000,2363 1868,2363 1735,2363 1603,2361 1470,2361 1338,2361 1205,2361 1073,2361 940,2361 808,2363"/>
+                <Baseline points="808,2398 940,2396 1073,2396 1205,2396 1338,2396 1470,2396 1603,2396 1735,2398 1868,2398 2000,2398 2133,2400 2265,2400 2398,2400 2530,2400 2663,2400 2795,2400 2928,2398 3060,2398 3193,2396 3325,2392 3458,2390"/>
+                <TextEquiv>
+                    <Unicode>RHODIOPOLI, Rhodiopolis, ΡΩΔΙΟΥΠΟΛΙΣ, è citta nella Lycia Regione, secondo Plinio nel quinto libro al capo ventesi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="812,2489 848,2489 885,2490 921,2491 958,2491 995,2491 1031,2491 1068,2491 1104,2491 1141,2491 1178,2491 1214,2489 1251,2489 1287,2489 1324,2487 1361,2487 1397,2487 1434,2485 1470,2485 1507,2483 1544,2483 1544,2431 1507,2431 1470,2433 1434,2433 1397,2435 1361,2435 1324,2435 1287,2437 1251,2437 1214,2437 1178,2439 1141,2439 1104,2439 1068,2439 1031,2439 995,2439 958,2439 921,2439 885,2438 848,2437 812,2437"/>
+                <Baseline points="812,2472 848,2472 885,2473 921,2474 958,2474 995,2474 1031,2474 1068,2474 1104,2474 1141,2474 1178,2474 1214,2472 1251,2472 1287,2472 1324,2470 1361,2470 1397,2470 1434,2468 1470,2468 1507,2466 1544,2466"/>
+                <TextEquiv>
+                    <Unicode>mo settimo: da cui Rhodiopoliti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} Greek {offset:17; length:6;}">
+                <Coords points="816,2809 946,2809 1077,2809 1208,2809 1338,2809 1469,2809 1600,2809 1730,2807 1861,2807 1992,2807 2123,2807 2253,2805 2384,2805 2515,2803 2645,2803 2776,2801 2907,2799 3037,2799 3168,2796 3299,2794 3430,2791 3430,2734 3299,2737 3168,2739 3037,2742 2907,2742 2776,2744 2645,2746 2515,2746 2384,2748 2253,2748 2123,2750 1992,2750 1861,2750 1730,2750 1600,2752 1469,2752 1338,2752 1208,2752 1077,2752 946,2752 816,2752"/>
+                <Baseline points="816,2790 946,2790 1077,2790 1208,2790 1338,2790 1469,2790 1600,2790 1730,2788 1861,2788 1992,2788 2123,2788 2253,2786 2384,2786 2515,2784 2645,2784 2776,2782 2907,2780 3037,2780 3168,2777 3299,2775 3453,2785"/>
+                <TextEquiv>
+                    <Unicode>RHODIO, Rhodius, ΡΩΔΙΟΣ, e fiume nella Troade Regione, di cui parla plinio nel quinto libro al capo trenta. et Rhodio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="828,2887 958,2886 1088,2885 1219,2885 1349,2885 1480,2885 1610,2885 1740,2885 1871,2885 2001,2885 2132,2885 2262,2885 2392,2885 2523,2885 2653,2883 2784,2883 2914,2881 3044,2879 3175,2877 3305,2873 3436,2871 3436,2814 3305,2816 3175,2820 3044,2822 2914,2824 2784,2826 2653,2826 2523,2828 2392,2828 2262,2828 2132,2828 2001,2828 1871,2828 1740,2828 1610,2828 1480,2828 1349,2828 1219,2828 1088,2828 958,2829 828,2830"/>
+                <Baseline points="828,2868 958,2867 1088,2866 1219,2866 1349,2866 1480,2866 1610,2866 1740,2866 1871,2866 2001,2866 2132,2866 2262,2866 2392,2866 2523,2866 2653,2864 2784,2864 2914,2862 3044,2860 3175,2858 3305,2854 3436,2852"/>
+                <TextEquiv>
+                    <Unicode>è unaltro fiume della Hispania. et unaltro terzo fiume è nella Sarmatia. Ma quello del Troadeo, nelle favole de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="810,2959 943,2961 1077,2961 1210,2963 1344,2963 1477,2963 1611,2963 1744,2961 1878,2961 2011,2961 2145,2959 2278,2959 2412,2957 2545,2957 2679,2955 2812,2955 2946,2955 3079,2953 3213,2953 3346,2953 3480,2953 3480,2902 3346,2902 3213,2902 3079,2902 2946,2904 2812,2904 2679,2904 2545,2906 2412,2906 2278,2908 2145,2908 2011,2910 1878,2910 1744,2910 1611,2912 1477,2912 1344,2912 1210,2912 1077,2910 943,2910 810,2908"/>
+                <Baseline points="810,2942 943,2944 1077,2944 1210,2946 1344,2946 1477,2946 1611,2946 1744,2944 1878,2944 2011,2944 2145,2942 2278,2942 2412,2940 2545,2940 2679,2938 2812,2938 2946,2938 3079,2936 3213,2936 3346,2936 3480,2936"/>
+                <TextEquiv>
+                    <Unicode>greci viene celebrato per l'amore di Paride et di Venere, ove in pastore Venere lo favori poscia al fiume Simoenta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} unclear {offset:0; length:5;}">
+                <Coords points="830,3031 869,3031 909,3031 949,3031 989,3031 1029,3031 1068,3031 1108,3031 1148,3031 1188,3031 1228,3031 1267,3031 1307,3031 1347,3031 1387,3031 1427,3031 1466,3031 1506,3031 1546,3031 1586,3031 1626,3029 1626,2978 1586,2980 1546,2980 1506,2980 1466,2980 1427,2980 1387,2980 1347,2980 1307,2980 1267,2980 1228,2980 1188,2980 1148,2980 1108,2980 1068,2980 1029,2980 989,2980 949,2980 909,2980 869,2980 830,2980"/>
+                <Baseline points="830,3014 869,3014 909,3014 949,3014 989,3014 1029,3014 1068,3014 1108,3014 1148,3014 1188,3014 1228,3014 1267,3014 1307,3014 1347,3014 1387,3014 1427,3014 1466,3014 1506,3014 1546,3014 1586,3014 1626,3012"/>
+                <TextEquiv>
+                    <Unicode>idazo: nel giuditio delle tre Dee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} unclear {offset:0; length:8;} Greek {offset:14; length:5;} Greek {offset:98; length:8;}">
+                <Coords points="788,3113 918,3113 1048,3113 1178,3112 1308,3111 1439,3111 1569,3111 1699,3109 1829,3107 1959,3107 2090,3105 2220,3101 2350,3099 2480,3097 2610,3093 2740,3088 2871,3083 3001,3078 3131,3073 3261,3065 3392,3059 3392,3001 3261,3007 3131,3015 3001,3020 2871,3025 2740,3030 2610,3035 2480,3039 2350,3041 2220,3043 2090,3047 1959,3049 1829,3049 1699,3051 1569,3053 1439,3053 1308,3053 1178,3054 1048,3055 918,3055 788,3055"/>
+                <Baseline points="788,3094 918,3094 1048,3094 1178,3093 1308,3092 1439,3092 1569,3092 1699,3090 1829,3088 1959,3088 2090,3086 2220,3082 2350,3080 2480,3078 2610,3074 2740,3069 2871,3064 3001,3059 3131,3054 3261,3046 3392,3040"/>
+                <TextEquiv>
+                    <Unicode>RHODOEII, da, ΡΩΔΟΗ che nome della città dell'India, da cui il gentile dice Stephano Rhodoete, ò, ΡΩΔΟΗΤΗΣ. come è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} unclear {offset:0; length:5;}">
+                <Coords points="814,3195 946,3195 1078,3195 1211,3193 1343,3193 1476,3193 1608,3191 1740,3191 1873,3189 2005,3189 2138,3187 2270,3185 2402,3183 2535,3181 2667,3179 2800,3175 2932,3173 3064,3169 3197,3165 3329,3161 3462,3157 3462,3093 3329,3097 3197,3101 3064,3105 2932,3109 2800,3111 2667,3115 2535,3117 2402,3119 2270,3121 2138,3123 2005,3125 1873,3125 1740,3127 1608,3127 1476,3129 1343,3129 1211,3129 1078,3131 946,3131 814,3131"/>
+                <Baseline points="814,3174 946,3174 1078,3174 1211,3172 1343,3172 1476,3172 1608,3170 1740,3170 1873,3168 2005,3168 2138,3166 2270,3164 2402,3162 2535,3160 2667,3158 2800,3154 2932,3152 3064,3148 3197,3144 3329,3140 3462,3136"/>
+                <TextEquiv>
+                    <Unicode>detto piu oltre nel nome della città. Alcuni scriveno essi populi per la .Ω. altri per la .Ο. picciola come usa Stephano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RHOARA, ΡΩΑΡΗ, è città della Parthia Regione Asiatica, secondo scriveno Quadrato et Ptolemaeo.
+da cui Rhoareno, et Rhoareo. et Rhoarense.
+RHOAS, è la medesimo città ch'è Rhoara e Rhoare, cosi prima denominata secondo alcuni: ma se gabano.
+Perchè Rhoas fu detta Laodicea, come la nomina diversamente Plinio nellibro quinto.
+RHOBOGDIO, ò Rhobogdium, ΡΩΒΓΟΔΙΟΝ, è Promontorio nella Hybernia, nominato da Ptolemaeo: donde sono
+detti i Rhobogodij populi Hybernici.
+RHOCOBE, ΡΩΚΟΒΗ, è citta nella Thracia Regione: da cui Rhocobeni.
+RHODE, ΡΩΔΗ, è fiume della Sarmatia
+RHODIA, è città della Lycia secondo Ptolemaeo scrive, et Rhodia è nome della Nympha detta da Hesiodo dal fluere.
+et da essa si scrive, Rhodiaco, Rhodiaca, come Rhodio, Rhodia, et Rhodiense. Come nel latino. Rhodiacus, Rhodiaca,
+Rhodiacum, Rhodius, Rhodia, Rhodium, et Rhodiensis. Come Rhodiense il pelago à Mare, ch'è proprio nell'Asia
+secondo Ptolemaeo.
+RHODIOPOLI, Rhodiopolis, ΡΩΔΙΟΥΠΟΛΙΣ, è citta nella Lycia Regione, secondo Plinio nel quinto libro al capo ventesi¬
+mo settimo: da cui Rhodiopoliti.
+RHODIO, Rhodius, ΡΩΔΙΟΣ, e fiume nella Troade Regione, di cui parla plinio nel quinto libro al capo trenta. et Rhodio
+è unaltro fiume della Hispania. et unaltro terzo fiume è nella Sarmatia. Ma quello del Troadeo, nelle favole de
+greci viene celebrato per l'amore di Paride et di Venere, ove in pastore Venere lo favori poscia al fiume Simoenta
+idazo: nel giuditio delle tre Dee.
+RHODOEII, da, ΡΩΔΟΗ che nome della città dell'India, da cui il gentile dice Stephano Rhodoete, ò, ΡΩΔΟΗΤΗΣ. come è
+detto piu oltre nel nome della città. Alcuni scriveno essi populi per la .Ω. altri per la .Ο. picciola come usa Stephano.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

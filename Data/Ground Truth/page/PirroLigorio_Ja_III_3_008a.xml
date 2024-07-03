@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:34.197+01:00</Created>
+        <LastChange>2024-06-25T19:22:24.624+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902807" pageNr="15" tsid="174113756" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=MGKVAUEYFCAAQRYXPCGASLSQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDXODDLTLFQIFQOJJVYBMUID" imageId="17873883"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_008a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337492342" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="787,240 768,1004 3582,998 3556,240"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:18; length:6;}">
+                <Coords points="808,382 941,378 1075,374 1209,370 1343,366 1477,364 1611,360 1745,358 1879,356 2013,354 2147,354 2280,352 2414,352 2548,352 2682,352 2816,352 2950,352 3084,354 3218,356 3352,358 3486,360 3486,299 3352,297 3218,295 3084,293 2950,291 2816,291 2682,291 2548,291 2414,291 2280,291 2147,293 2013,293 1879,295 1745,297 1611,299 1477,303 1343,305 1209,309 1075,313 941,317 808,321"/>
+                <Baseline points="808,362 941,358 1075,354 1209,350 1343,346 1477,344 1611,340 1745,338 1879,336 2013,334 2147,334 2280,332 2414,332 2548,332 2682,332 2816,332 2950,332 3084,334 3218,336 3352,338 3486,340"/>
+                <TextEquiv>
+                    <Unicode>RARIO, Rarium, et ΡΑΡΙΟΝ, è nome di Poggio, di luogho illustre et di edificio, et di Tempio et claustro in Eleusina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="866,459 996,455 1127,451 1258,448 1389,445 1520,443 1651,441 1782,439 1913,437 2044,435 2175,435 2305,435 2436,435 2567,435 2698,435 2829,437 2960,438 3091,439 3222,441 3353,443 3484,445 3484,387 3353,385 3222,383 3091,381 2960,380 2829,379 2698,377 2567,377 2436,377 2305,377 2175,377 2044,377 1913,379 1782,381 1651,383 1520,385 1389,387 1258,390 1127,393 996,397 866,401"/>
+                <Baseline points="866,440 996,436 1127,432 1258,429 1389,426 1520,424 1651,422 1782,420 1913,418 2044,416 2175,416 2305,416 2436,416 2567,416 2698,416 2829,418 2960,419 3091,420 3222,422 3353,424 3484,426"/>
+                <TextEquiv>
+                    <Unicode>opera degli Eleusini populi d'Eleusi città nell'Attica, dove si adorava Cerere Raria. Come luogo consecrato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="872,547 1002,542 1132,537 1262,533 1393,531 1523,527 1653,525 1784,523 1914,523 2044,521 2175,521 2305,521 2435,521 2565,521 2696,521 2826,523 2956,523 3087,523 3217,524 3347,525 3478,525 3478,467 3347,467 3217,466 3087,465 2956,465 2826,465 2696,463 2565,463 2435,463 2305,463 2175,463 2044,463 1914,465 1784,465 1653,467 1523,469 1393,473 1262,475 1132,479 1002,484 872,489"/>
+                <Baseline points="872,528 1002,523 1132,518 1262,514 1393,512 1523,508 1653,506 1784,504 1914,504 2044,502 2175,502 2305,502 2435,502 2565,502 2696,502 2826,504 2956,504 3087,504 3217,505 3347,506 3478,506"/>
+                <TextEquiv>
+                    <Unicode>alla Madre Cerere Eleusina, ove pria mostro il frumento all'antichi nell'uso della coltura et della divitia, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="872,638 1000,632 1128,626 1256,622 1384,618 1512,614 1640,612 1768,610 1896,610 2024,608 2153,608 2281,608 2409,609 2537,610 2665,610 2793,612 2921,613 3049,614 3177,616 3305,618 3434,618 3434,557 3305,557 3177,555 3049,553 2921,552 2793,551 2665,549 2537,549 2409,548 2281,547 2153,547 2024,547 1896,549 1768,549 1640,551 1512,553 1384,557 1256,561 1128,565 1000,571 872,577"/>
+                <Baseline points="872,618 1000,612 1128,606 1256,602 1384,598 1512,594 1640,592 1768,590 1896,590 2024,588 2153,588 2281,588 2409,589 2537,590 2665,590 2793,592 2921,593 3049,594 3177,596 3305,598 3434,598"/>
+                <TextEquiv>
+                    <Unicode>mostro l'uso da fare le pizze ò focaccie, et la Farratione. Onde la dissero Raria Matre, inquesto suono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:0; length:11;} Greek {offset:16; length:15;} unclear {offset:24; length:7;}">
+                <Coords points="874,724 1005,720 1137,716 1269,712 1400,710 1532,708 1664,706 1795,704 1927,702 2059,702 2191,700 2322,702 2454,702 2586,702 2717,704 2849,706 2981,710 3112,712 3244,716 3376,720 3508,726 3508,665 3376,659 3244,655 3112,651 2981,649 2849,645 2717,643 2586,641 2454,641 2322,641 2191,639 2059,641 1927,641 1795,643 1664,645 1532,647 1400,649 1269,651 1137,655 1005,659 874,663"/>
+                <Baseline points="874,704 1005,700 1137,696 1269,692 1400,690 1532,688 1664,686 1795,684 1927,682 2059,682 2191,680 2322,682 2454,682 2586,682 2717,684 2849,686 2981,690 3112,692 3244,696 3376,700 3508,706"/>
+                <TextEquiv>
+                    <Unicode>ΡΑΡΙΑ ΜΗΤΗΡ, et ΡΑΡΙΑ Η ΑΗΜΗΤΗΡ, et vi veneravano Apolline, et Ptriptolemo predicattore delle frugie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} unclear {offset:52; length:4;}">
+                <Coords points="858,803 989,801 1121,799 1253,797 1385,795 1517,795 1649,793 1781,791 1913,791 2045,791 2177,791 2308,791 2440,791 2572,793 2704,794 2836,797 2968,799 3100,803 3232,807 3364,811 3496,817 3496,759 3364,753 3232,749 3100,745 2968,741 2836,739 2704,736 2572,735 2440,733 2308,733 2177,733 2045,733 1913,733 1781,733 1649,735 1517,737 1385,737 1253,739 1121,741 989,743 858,745"/>
+                <Baseline points="858,784 989,782 1121,780 1253,778 1385,776 1517,776 1649,774 1781,772 1913,772 2045,772 2177,772 2308,772 2440,772 2572,774 2704,775 2836,778 2968,780 3100,784 3232,788 3364,792 3496,798"/>
+                <TextEquiv>
+                    <Unicode>cereali. per che dicono che Cerere albergo con Raro Aare di Triptolemo et di Baubona, fanciulla che ralle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="858,887 989,887 1121,885 1253,885 1385,883 1517,881 1649,881 1781,879 1913,877 2045,877 2177,875 2308,875 2440,875 2572,875 2704,877 2836,879 2968,881 3100,883 3232,888 3364,892 3496,899 3496,841 3364,834 3232,830 3100,825 2968,823 2836,821 2704,819 2572,817 2440,817 2308,817 2177,817 2045,819 1913,819 1781,821 1649,823 1517,823 1385,825 1253,827 1121,827 989,829 858,829"/>
+                <Baseline points="858,868 989,868 1121,866 1253,866 1385,864 1517,862 1649,862 1781,860 1913,858 2045,858 2177,856 2308,856 2440,856 2572,856 2704,858 2836,860 2968,862 3100,864 3232,869 3364,873 3496,880"/>
+                <TextEquiv>
+                    <Unicode>gro Cerere perle sue burle. Et dal medesimo luogo fu detta Ravia Diana. Et scrivesi Rhario per spira¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="874,988 932,986 991,984 1049,982 1108,982 1166,980 1225,980 1283,978 1342,978 1400,978 1459,976 1517,976 1576,975 1634,974 1693,974 1751,972 1810,971 1868,970 1927,968 1985,965 2044,962 2044,901 1985,904 1927,907 1868,909 1810,910 1751,911 1693,913 1634,913 1576,914 1517,915 1459,915 1400,917 1342,917 1283,917 1225,919 1166,919 1108,921 1049,921 991,923 932,925 874,927"/>
+                <Baseline points="874,968 932,966 991,964 1049,962 1108,962 1166,960 1225,960 1283,958 1342,958 1400,958 1459,956 1517,956 1576,955 1634,954 1693,954 1751,952 1810,951 1868,950 1927,948 1985,945 2044,942"/>
+                <TextEquiv>
+                    <Unicode>tione come, è detto piu oltre nell'altro suo luogo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RARIO, Rarium, et ΡΑΡΙΟΝ, è nome di Poggio, di luogho illustre et di edificio, et di Tempio et claustro in Eleusina.
+opera degli Eleusini populi d'Eleusi città nell'Attica, dove si adorava Cerere Raria. Come luogo consecrato
+alla Madre Cerere Eleusina, ove pria mostro il frumento all'antichi nell'uso della coltura et della divitia, et
+mostro l'uso da fare le pizze ò focaccie, et la Farratione. Onde la dissero Raria Matre, inquesto suono,
+ΡΑΡΙΑ ΜΗΤΗΡ, et ΡΑΡΙΑ Η ΑΗΜΗΤΗΡ, et vi veneravano Apolline, et Ptriptolemo predicattore delle frugie
+cereali. per che dicono che Cerere albergo con Raro Aare di Triptolemo et di Baubona, fanciulla che ralle
+gro Cerere perle sue burle. Et dal medesimo luogo fu detta Ravia Diana. Et scrivesi Rhario per spira¬
+tione come, è detto piu oltre nell'altro suo luogo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

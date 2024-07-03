@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:40.705+01:00</Created>
+        <LastChange>2022-04-27T13:05:13.766+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903004" pageNr="147" tsid="81270568" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=OEEIPQGNPGSIPVCORFHYPWUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXRLAUXWZJGOTKOAIGOOCXRS" imageId="17874015"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_074a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337513648" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1649759239218_1744"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1649759248406_1749"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1649759255307_1754"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1649759255307_1753"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1649759239218_1744" custom="readingOrder {index:0;}">
+            <Coords points="889,198 3527,198 3527,2082 2655,2082 2663,837 889,813"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1516,301 1562,314 1654,280 1917,338 1990,301 1990,212 1929,209 1907,231 1822,243 1791,222 1736,243 1709,228 1654,243 1516,234"/>
+                <Baseline points="1532,286 1558,284 1584,284 1610,284 1636,284 1662,284 1688,284 1714,284 1740,284 1766,284 1792,284 1818,284 1844,284 1870,284 1896,284 1922,284 1948,284 1974,284"/>
+                <TextEquiv>
+                    <Unicode>DI.ROMA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="899,463 3372,473 3373,379 2826,351 901,353"/>
+                <Baseline points="914,434 1036,433 1158,432 1280,432 1402,432 1525,432 1647,434 1769,434 1891,436 2013,438 2136,440 2258,442 2380,444 2502,446 2624,448 2747,450 2869,452 2991,452 3113,454 3235,456 3358,456"/>
+                <TextEquiv>
+                    <Unicode>Nella Parte del colle Quirinale, uno deli sette colli dela città era la casa di Tito Pomponio Basso, dove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="918,522 3351,581 3352,462 919,455"/>
+                <Baseline points="934,518 1054,518 1174,516 1294,516 1414,518 1534,518 1654,518 1774,520 1894,522 2014,522 2135,524 2255,526 2375,528 2495,528 2615,530 2735,532 2855,532 2975,534 3095,534 3215,534 3336,534"/>
+                <TextEquiv>
+                    <Unicode>anticamente si chiamava Malo punico. et presso la casa Flavia, dove i Pomponij hebbero un gran palazzo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="931,611 3343,648 3160,558 932,568"/>
+                <Baseline points="946,606 1065,608 1184,608 1303,608 1422,608 1541,608 1660,610 1779,610 1898,610 2017,610 2136,610 2255,612 2374,612 2493,613 2612,614 2731,616 2850,616 2969,618 3088,620 3207,622 3326,624"/>
+                <TextEquiv>
+                    <Unicode>con molti ornamenti di statue di marmo et di Bronzo, secondo mostravano le diverse cose de diversi frag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="934,725 3352,719 3352,648 3187,627 935,664"/>
+                <Baseline points="950,698 1069,698 1188,698 1307,696 1427,696 1546,696 1665,696 1785,695 1904,694 2023,694 2143,694 2262,694 2381,694 2500,696 2620,696 2739,696 2858,698 2978,698 3097,700 3216,700 3336,702"/>
+                <TextEquiv>
+                    <Unicode>menti. tra i quali era questa Memoria inuna Tabola di Bronzo intagliata et fitta in una colonna, la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="942,812 3308,830 3330,729 943,739"/>
+                <Baseline points="958,788 1075,786 1193,784 1311,784 1429,784 1547,784 1664,784 1782,784 1900,786 2018,786 2136,788 2253,788 2371,790 2489,790 2607,790 2725,792 2842,790 2960,790 3078,788 3196,786 3314,784"/>
+                <TextEquiv>
+                    <Unicode>quale hebbe M. Uberto. Baldini Thesauriere Pontificale. In questa casa istessa habbito Pomponio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="2686,915 2790,890 2827,918 2863,887 2998,883 3337,911 3337,829 3236,811 3111,852 2967,819 2930,844 2900,828 2814,853 2780,820 2686,824"/>
+                <Baseline points="2702,882 2733,882 2764,881 2795,880 2826,880 2857,878 2888,878 2919,878 2950,876 2981,876 3012,876 3043,876 3074,876 3105,876 3136,876 3167,876 3198,876 3229,877 3260,878 3291,879 3322,880"/>
+                <TextEquiv>
+                    <Unicode>Attico, come scriveno Sexto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="2685,995 2740,1007 2863,963 2905,985 3055,966 3132,1005 3193,962 3324,976 3324,906 3107,892 3067,920 3003,883 2917,884 2832,912 2783,891 2685,915"/>
+                <Baseline points="2702,958 2732,958 2762,958 2793,958 2823,958 2854,957 2884,956 2914,956 2945,956 2975,956 3006,956 3036,956 3066,956 3097,956 3127,956 3158,956 3188,956 3218,956 3249,956 3279,954 3310,954"/>
+                <TextEquiv>
+                    <Unicode>Rufo et Publio Vittore nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="2684,1085 2843,1064 2919,1097 3057,1060 3368,1062 3368,970 3252,989 3191,962 3105,1014 3023,968 2946,1014 2913,993 2849,1015 2684,1003"/>
+                <Baseline points="2698,1044 2730,1044 2763,1046 2796,1046 2828,1046 2861,1046 2894,1046 2926,1045 2959,1044 2992,1044 3025,1044 3057,1044 3090,1044 3123,1043 3155,1042 3188,1042 3221,1043 3253,1044 3286,1044 3319,1045 3352,1046"/>
+                <TextEquiv>
+                    <Unicode>sesta Regione di Roma chiama</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="2689,1161 2820,1134 2906,1162 3003,1135 3114,1160 3174,1128 3343,1145 3341,1078 3215,1050 2917,1095 2846,1066 2687,1085"/>
+                <Baseline points="2704,1132 2735,1130 2766,1128 2797,1128 2828,1126 2859,1126 2890,1124 2921,1124 2952,1124 2983,1122 3015,1122 3046,1120 3077,1120 3108,1120 3139,1118 3170,1118 3201,1118 3232,1117 3263,1116 3294,1116 3326,1114"/>
+                <TextEquiv>
+                    <Unicode>ta Alta semita, che passava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="2686,1223 2751,1243 2784,1215 2809,1233 2900,1213 2937,1237 3034,1205 3231,1238 3343,1203 3342,1148 3247,1131 3177,1129 3113,1161 3003,1132 2942,1167 2819,1135 2756,1167 2685,1162"/>
+                <Baseline points="2700,1202 2731,1202 2762,1200 2793,1200 2825,1200 2856,1198 2887,1198 2919,1198 2950,1196 2981,1196 3013,1196 3044,1196 3075,1195 3106,1194 3138,1194 3169,1194 3200,1194 3232,1192 3263,1192 3294,1192 3326,1190"/>
+                <TextEquiv>
+                    <Unicode>perla parte più alta del sudetto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:11;}">
+                <Coords points="2678,1315 2748,1284 2849,1309 2928,1290 2981,1323 3154,1277 3188,1295 3255,1275 3286,1302 3356,1289 3355,1234 3279,1217 3252,1236 3120,1210 3062,1230 3034,1206 2934,1241 2900,1214 2808,1234 2784,1216 2756,1241 2677,1227"/>
+                <Baseline points="2692,1276 2724,1276 2756,1276 2789,1276 2821,1276 2854,1276 2886,1276 2918,1276 2951,1274 2983,1274 3016,1272 3048,1272 3080,1272 3113,1270 3145,1270 3178,1269 3210,1268 3242,1268 3275,1268 3307,1268 3340,1268"/>
+                <TextEquiv>
+                    <Unicode>Quirinale colle, et la nominano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:12;}">
+                <Coords points="2666,1362 2807,1382 2874,1360 2932,1390 3005,1350 3125,1382 3185,1351 3357,1368 3356,1298 3307,1277 3194,1296 3145,1278 2993,1323 2888,1284 2782,1312 2665,1298"/>
+                <Baseline points="2682,1344 2714,1346 2747,1346 2780,1348 2813,1348 2846,1348 2879,1348 2912,1348 2945,1346 2978,1346 3011,1346 3043,1346 3076,1344 3109,1344 3142,1344 3175,1344 3208,1342 3241,1342 3274,1342 3307,1342 3340,1342"/>
+                <TextEquiv>
+                    <Unicode>DOMVS Attici. Quivi anchora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:13;}">
+                <Coords points="2664,1451 3339,1422 3338,1370 3264,1344 3118,1381 3084,1354 3038,1370 2998,1352 2941,1393 2663,1381"/>
+                <Baseline points="2680,1422 2712,1422 2744,1422 2776,1422 2808,1422 2841,1421 2873,1420 2905,1420 2937,1420 2969,1420 3002,1418 3034,1418 3066,1418 3098,1417 3130,1416 3163,1415 3195,1414 3227,1413 3259,1412 3291,1410 3324,1408"/>
+                <TextEquiv>
+                    <Unicode>fu trovata una Base scritta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:14;}">
+                <Coords points="2677,1514 2882,1541 2995,1512 3105,1535 3251,1496 3337,1507 3336,1461 3275,1447 3061,1447 3033,1426 2841,1469 2819,1448 2792,1466 2764,1442 2676,1441"/>
+                <Baseline points="2692,1496 2723,1496 2755,1496 2786,1496 2818,1496 2849,1496 2881,1496 2912,1496 2944,1494 2975,1494 3007,1494 3038,1494 3070,1492 3101,1492 3133,1491 3164,1490 3196,1490 3227,1490 3259,1488 3290,1488 3322,1486"/>
+                <TextEquiv>
+                    <Unicode>ch'era posamento dela statua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:15;}">
+                <Coords points="2665,1600 2943,1591 2998,1619 3041,1585 3136,1608 3230,1580 3340,1595 3340,1494 3147,1535 2994,1512 2882,1543 2664,1520"/>
+                <Baseline points="2680,1576 2712,1574 2744,1574 2776,1574 2808,1573 2841,1572 2873,1572 2905,1570 2937,1570 2969,1568 3002,1568 3034,1568 3066,1568 3098,1568 3130,1568 3163,1568 3195,1568 3227,1570 3259,1570 3291,1572 3324,1574"/>
+                <TextEquiv>
+                    <Unicode>del Genio conservatore della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:16;}">
+                <Coords points="2656,1662 2724,1688 2751,1666 2999,1675 3023,1650 3084,1664 3148,1642 3335,1684 3334,1593 3187,1586 3135,1608 3000,1580 2857,1616 2753,1593 2655,1619"/>
+                <Baseline points="2672,1652 2704,1652 2736,1650 2769,1650 2801,1650 2834,1648 2866,1648 2898,1647 2931,1646 2963,1646 2996,1644 3028,1644 3060,1644 3093,1644 3125,1642 3158,1642 3190,1642 3222,1642 3255,1642 3287,1643 3320,1644"/>
+                <TextEquiv>
+                    <Unicode>casa Pomponia Attica. et cosi an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:17;}">
+                <Coords points="2663,1739 2960,1764 2996,1732 3161,1744 3201,1725 3272,1764 3351,1759 3350,1692 3147,1641 3065,1664 3022,1649 2953,1697 2821,1662 2662,1681"/>
+                <Baseline points="2678,1726 2710,1728 2743,1728 2776,1728 2809,1726 2842,1726 2875,1726 2908,1724 2941,1723 2974,1722 3007,1720 3039,1720 3072,1718 3105,1718 3138,1718 3171,1716 3204,1716 3237,1718 3270,1718 3303,1719 3336,1720"/>
+                <TextEquiv>
+                    <Unicode>cora unaltra, ch'era della sta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:18;}">
+                <Coords points="2666,1842 2828,1818 2993,1845 3030,1811 3109,1806 3232,1835 3280,1806 3320,1827 3337,1769 3224,1731 3058,1725 2912,1761 2836,1738 2754,1773 2664,1741"/>
+                <Baseline points="2680,1808 2712,1807 2744,1806 2776,1804 2808,1802 2841,1802 2873,1800 2905,1800 2937,1798 2969,1797 3002,1796 3034,1796 3066,1795 3098,1794 3130,1794 3163,1794 3195,1794 3227,1796 3259,1796 3291,1798 3324,1798"/>
+                <TextEquiv>
+                    <Unicode>tua di pomponio Basso fatta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:19;}">
+                <Coords points="2664,1926 2716,1897 2851,1913 2890,1891 3010,1919 3143,1880 3284,1890 3343,1925 3341,1821 3280,1844 3213,1821 3143,1850 3066,1811 2987,1843 2861,1824 2663,1846"/>
+                <Baseline points="2680,1890 2712,1889 2744,1888 2777,1887 2809,1886 2842,1884 2874,1883 2906,1882 2939,1880 2971,1878 3004,1878 3036,1876 3068,1876 3101,1876 3133,1876 3166,1876 3198,1876 3230,1878 3263,1878 3295,1881 3328,1884"/>
+                <TextEquiv>
+                    <Unicode>gli dali Ferentinati Novani,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:20;}">
+                <Coords points="2658,1973 2781,1998 2857,1962 2942,1960 3010,1990 3049,1958 3119,1956 3154,1980 3340,1988 3338,1890 3145,1879 3015,1922 2889,1897 2657,1918"/>
+                <Baseline points="2672,1956 2704,1958 2737,1958 2769,1957 2802,1956 2835,1956 2867,1954 2900,1954 2932,1953 2965,1952 2998,1950 3030,1948 3063,1948 3095,1946 3128,1946 3161,1946 3193,1946 3226,1946 3258,1946 3291,1947 3324,1948"/>
+                <TextEquiv>
+                    <Unicode>che habitavano nell'Hernici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:21;}">
+                <Coords points="2652,2051 2717,2070 2735,2051 2860,2037 2900,2051 2951,2031 3114,2037 3211,2018 3210,1982 3120,1957 3081,1974 3059,1956 3011,1992 2946,1964 2845,1964 2761,2001 2699,1973 2650,1980"/>
+                <Baseline points="2668,2028 2694,2030 2720,2030 2747,2032 2773,2032 2800,2030 2826,2030 2852,2029 2879,2028 2905,2028 2932,2026 2958,2024 2984,2022 3011,2021 3037,2020 3064,2019 3090,2016 3116,2016 3143,2016 3169,2016 3196,2016"/>
+                <TextEquiv>
+                    <Unicode>latini sula Via Latina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DI.ROMA
+Nella Parte del colle Quirinale, uno deli sette colli dela città era la casa di Tito Pomponio Basso, dove
+anticamente si chiamava Malo punico. et presso la casa Flavia, dove i Pomponij hebbero un gran palazzo
+con molti ornamenti di statue di marmo et di Bronzo, secondo mostravano le diverse cose de diversi frag
+menti. tra i quali era questa Memoria inuna Tabola di Bronzo intagliata et fitta in una colonna, la
+quale hebbe M. Uberto. Baldini Thesauriere Pontificale. In questa casa istessa habbito Pomponio
+Attico, come scriveno Sexto
+Rufo et Publio Vittore nella
+sesta Regione di Roma chiama
+ta Alta semita, che passava
+perla parte più alta del sudetto
+Quirinale colle, et la nominano
+DOMVS Attici. Quivi anchora
+fu trovata una Base scritta
+ch'era posamento dela statua
+del Genio conservatore della
+casa Pomponia Attica. et cosi an
+cora unaltra, ch'era della sta¬
+tua di pomponio Basso fatta
+gli dali Ferentinati Novani,
+che habitavano nell'Hernici
+latini sula Via Latina.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649759248406_1749" custom="readingOrder {index:1;}">
+            <Coords points="889,813 2663,837 2655,2082 3527,2082 3527,3077 889,3077"/>
+            <TextLine id="line_1649759309638_1783" custom="readingOrder {index:0;}">
+                <Coords points="1050,1084 1386,1117 1862,1046 1979,1103 2343,1105 2477,1063 2476,996 2341,967 1049,1008"/>
+                <Baseline points="1064,1069 1109,1073 1155,1075 1201,1077 1247,1077 1293,1077 1338,1077 1384,1077 1430,1075 1476,1073 1522,1071 1567,1069 1613,1067 1659,1065 1705,1062 1751,1061 1796,1059 1842,1057 1888,1057 1934,1057 1980,1057 2008,1061 2034,1061 2060,1061 2086,1061 2112,1061 2138,1063 2164,1063 2190,1063 2216,1063 2243,1065 2269,1065 2295,1065 2321,1065 2347,1065 2373,1064 2399,1063 2436,1062 2463,1059"/>
+                <TextEquiv>
+                    <Unicode>L•ARRVNTIO•STELLA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759316320_1788" custom="readingOrder {index:1;}">
+                <Coords points="1046,1218 1548,1229 1742,1150 1982,1227 2112,1173 2394,1203 2580,1170 2579,1051 1641,1133 1463,1075 1384,1118 1044,1077"/>
+                <Baseline points="1062,1175 1088,1175 1114,1175 1140,1174 1166,1173 1192,1173 1218,1173 1244,1173 1270,1173 1297,1173 1323,1173 1349,1172 1375,1171 1401,1171 1427,1171 1453,1171 1479,1171 1505,1173 1532,1173 1906,1161 1938,1164 1970,1168 2002,1169 2035,1171 2067,1173 2099,1173 2132,1173 2164,1173 2196,1171 2229,1169 2261,1167 2293,1166 2325,1163 2358,1160 2390,1157 2422,1154 2455,1151 2487,1146 2519,1144 2565,1140"/>
+                <TextEquiv>
+                    <Unicode>L•IVLIO MARINO COS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759357076_1802" custom="readingOrder {index:2;}">
+                <Coords points="2172,1212 2191,1210 2199,1217 2225,1207 2234,1208 2245,1218 2268,1211 2276,1218 2291,1220 2295,1177 2268,1171 2258,1177 2247,1169 2228,1174 2222,1167 2213,1166 2204,1172 2176,1169"/>
+                <Baseline points="2189,1204 2277,1212"/>
+                <TextEquiv>
+                    <Unicode>SIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759345876_1798" custom="readingOrder {index:3;}">
+                <Coords points="1320,1311 1430,1286 1522,1312 1580,1275 1742,1297 1870,1256 2252,1288 2325,1278 2325,1208 1909,1219 1746,1151 1548,1229 1319,1201"/>
+                <Baseline points="1335,1272 1361,1272 1387,1272 1413,1273 1439,1272 1465,1272 1491,1270 1518,1270 1544,1268 1570,1266 1596,1265 1622,1263 1648,1261 1674,1259 1701,1256 1755,1266 1782,1263 1809,1262 1837,1261 1864,1260 1892,1260 1919,1260 1946,1260 1974,1260 2001,1261 2029,1262 2056,1262 2083,1263 2111,1264 2138,1264 2166,1264 2193,1263 2220,1262 2248,1260 2275,1258 2309,1257"/>
+                <TextEquiv>
+                    <Unicode>XIIII•K•NOV•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:4;}">
+                <Coords points="1045,1374 2442,1380 2560,1339 2560,1269 2013,1297 1872,1253 1347,1315 1044,1276"/>
+                <Baseline points="1060,1354 1133,1356 1206,1356 1279,1358 1352,1358 1425,1360 1498,1360 1571,1358 1644,1358 1717,1358 1791,1356 1864,1354 1937,1354 2010,1352 2083,1350 2156,1348 2229,1346 2302,1344 2375,1342 2448,1340 2544,1340"/>
+                <TextEquiv>
+                    <Unicode>M•ACILIVS•PLACIDVS•L•PETRONIVS•FRONTO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:5;}">
+                <Coords points="1067,1452 2458,1450 2577,1427 2576,1360 1066,1385"/>
+                <Baseline points="1082,1429 1153,1433 1225,1437 1297,1439 1369,1441 1441,1442 1513,1443 1585,1442 1657,1441 1729,1440 1801,1439 1872,1437 1944,1435 2016,1433 2088,1431 2160,1429 2232,1427 2304,1427 2376,1425 2448,1425 2560,1425"/>
+                <TextEquiv>
+                    <Unicode>IĪĪĪ•VIR•D•S•C•FERENTINI•CVRIA AEDIS•MER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:6;}">
+                <Coords points="1063,1505 2227,1489 2377,1530 2579,1502 2578,1435 1062,1456"/>
+                <Baseline points="1078,1492 1151,1496 1224,1498 1297,1500 1370,1500 1444,1500 1517,1500 1590,1498 1663,1498 1736,1496 1810,1494 1883,1492 1956,1490 2029,1488 2102,1487 2176,1485 2249,1484 2322,1484 2395,1482 2468,1482 2562,1486"/>
+                <TextEquiv>
+                    <Unicode>CVRI•SCRIBVNDO•ADFVERVNT•Q•SEGIARNVS•MAE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759434283_1824" custom="readingOrder {index:7;}">
+                <Coords points="1903,1504 1921,1505 1949,1535 1965,1536 1968,1533 1971,1537 1986,1538 1990,1486 1971,1484 1962,1487 1954,1477 1944,1476 1935,1485 1929,1481 1925,1484 1904,1483"/>
+                <Baseline points="1917,1510 1972,1514"/>
+                <TextEquiv>
+                    <Unicode>SIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759431360_1819" custom="readingOrder {index:8;}">
+                <Coords points="1086,1512 1101,1513 1112,1524 1119,1521 1131,1523 1133,1526 1137,1523 1139,1527 1143,1527 1156,1516 1171,1518 1174,1497 1088,1487"/>
+                <Baseline points="1101,1520 1156,1526"/>
+                <TextEquiv>
+                    <Unicode>SIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:9;}">
+                <Coords points="1064,1581 2122,1578 2314,1514 1063,1507"/>
+                <Baseline points="1078,1558 1137,1560 1196,1560 1255,1560 1314,1560 1374,1560 1433,1560 1492,1560 1551,1560 1610,1559 1670,1558 1729,1558 1788,1556 1847,1555 1906,1554 1966,1552 2025,1550 2084,1548 2143,1546 2202,1544 2300,1547"/>
+                <TextEquiv>
+                    <Unicode>CIANVS•T•MVNNIVS•NOMANLINVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:10;}">
+                <Coords points="1026,1669 1141,1627 2575,1615 2573,1538 2365,1520 2122,1577 1024,1562"/>
+                <Baseline points="1040,1617 1113,1621 1187,1623 1261,1625 1334,1627 1408,1629 1482,1629 1555,1628 1629,1627 1703,1627 1777,1625 1850,1623 1924,1620 1998,1618 2071,1615 2145,1613 2219,1609 2292,1607 2366,1604 2440,1601 2559,1600"/>
+                <TextEquiv>
+                    <Unicode>Q•VNIVERSI•V•F•T•POMPONIVM•BASSVM•CLARIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:11;}">
+                <Coords points="1057,1693 2298,1696 2551,1677 2583,1600 1924,1645 1055,1617"/>
+                <Baseline points="1072,1680 1146,1680 1220,1680 1295,1680 1369,1680 1444,1680 1518,1680 1592,1680 1667,1678 1741,1678 1816,1678 1890,1676 1964,1674 2039,1672 2113,1672 2188,1668 2262,1666 2336,1662 2411,1659 2485,1655 2570,1654"/>
+                <TextEquiv>
+                    <Unicode>SIMVM•VIRVM•DEMANDATAM•SIBI•CVRAM•AB</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:12;}">
+                <Coords points="1056,1749 2407,1752 2565,1729 2565,1667 1055,1684"/>
+                <Baseline points="1072,1738 1145,1738 1219,1740 1293,1740 1367,1740 1441,1740 1515,1740 1589,1740 1663,1740 1737,1739 1811,1738 1884,1738 1958,1736 2032,1736 2106,1734 2180,1732 2254,1730 2328,1728 2402,1726 2476,1724 2550,1720"/>
+                <TextEquiv>
+                    <Unicode>INDVLGENTISSIMO•IMP•CAESARE•NERVA•TRATANO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:13;}">
+                <Coords points="1066,1817 2548,1804 2575,1733 1065,1756"/>
+                <Baseline points="1080,1800 1152,1800 1225,1800 1298,1798 1371,1798 1444,1798 1517,1796 1590,1796 1663,1796 1736,1794 1809,1794 1881,1794 1954,1792 2027,1791 2100,1790 2173,1788 2246,1787 2319,1786 2392,1784 2465,1782 2559,1782"/>
+                <TextEquiv>
+                    <Unicode>AVGVSTO•GERMANICO•QVA•AETERNITATI•ITALIAE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:14;}">
+                <Coords points="1058,1893 2310,1846 2498,1881 2532,1786 1056,1826"/>
+                <Baseline points="1074,1870 1146,1870 1218,1870 1290,1870 1362,1868 1434,1868 1506,1867 1578,1866 1650,1864 1722,1863 1794,1862 1866,1860 1938,1858 2010,1856 2082,1854 2154,1852 2226,1848 2298,1846 2370,1844 2442,1841 2519,1838"/>
+                <TextEquiv>
+                    <Unicode>ITA•ORDINARI•VT•OMNIS•AETAS•CVRAE•EIVS•MERITO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:15;}">
+                <Coords points="1072,1941 2447,1913 2418,1849 1070,1883"/>
+                <Baseline points="1086,1934 1152,1934 1218,1934 1284,1934 1351,1934 1417,1932 1483,1930 1550,1928 1616,1926 1682,1924 1749,1922 1815,1920 1881,1918 1947,1915 2014,1912 2080,1910 2146,1908 2213,1906 2279,1904 2345,1902 2431,1899"/>
+                <TextEquiv>
+                    <Unicode>GRATIAS•AGERE•DEBEAT•FVTVRVMQ•VT•TANTAE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:16;}">
+                <Coords points="1078,2026 2563,1980 2585,1900 1076,1956"/>
+                <Baseline points="1094,1996 1167,1994 1240,1992 1313,1990 1386,1990 1459,1988 1532,1986 1605,1984 1678,1982 1751,1980 1824,1978 1897,1976 1970,1974 2043,1972 2116,1970 2189,1968 2262,1966 2335,1964 2408,1962 2481,1960 2572,1955"/>
+                <TextEquiv>
+                    <Unicode>VIRTVTIS•VIR•AVXILIO•SIT•FVTVRVS•MVNICIPIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:17;}">
+                <Coords points="1087,2080 2169,2044 2167,1983 2029,1975 1086,2025"/>
+                <Baseline points="1101,2067 1150,2065 1200,2063 1250,2061 1300,2059 1350,2057 1399,2057 1449,2054 1499,2053 1549,2051 1599,2049 1648,2049 1698,2047 1748,2045 1798,2045 1848,2043 1897,2043 1947,2041 1997,2041 2047,2040 2153,2038"/>
+                <TextEquiv>
+                    <Unicode>NOSTRO•Q•D•E•R•F•P•D•E•R•I•C•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:18;}">
+                <Coords points="1052,2155 2527,2092 2565,1968 2341,2036 1049,2078"/>
+                <Baseline points="1068,2139 1141,2136 1215,2133 1289,2131 1363,2127 1437,2125 1511,2122 1585,2118 1659,2115 1733,2113 1807,2109 1880,2106 1954,2103 2028,2099 2102,2095 2176,2093 2250,2089 2324,2086 2398,2083 2472,2081 2554,2076"/>
+                <TextEquiv>
+                    <Unicode>PLACERE CONSCRIPTIS•LEGATOS•EX•HOC•ORDINE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759515826_1846" custom="readingOrder {index:19;}">
+                <Coords points="1079,2201 1606,2205 2110,2131 2396,2164 2514,2140 2512,2082 1077,2155"/>
+                <Baseline points="1093,2192 1140,2190 1188,2188 1235,2186 1283,2183 1331,2182 1378,2180 1426,2178 1473,2175 1521,2173 1569,2172 1616,2170 1664,2166 1711,2164 1759,2162 1807,2158 1854,2156 1902,2154 1949,2150 1997,2148 2045,2144 2101,2142 2127,2144 2154,2145 2180,2146 2207,2146 2233,2144 2260,2143 2287,2142 2313,2140 2340,2138 2366,2137 2393,2134 2419,2134 2446,2134 2498,2132"/>
+                <TextEquiv>
+                    <Unicode>MITTI•A•T•POMPONIVM BASSVM•CLARISSI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:20;}">
+                <Coords points="1085,2269 2585,2203 2559,2116 1082,2202"/>
+                <Baseline points="1100,2252 1172,2251 1245,2248 1318,2245 1391,2242 1464,2238 1536,2234 1609,2231 1682,2225 1755,2221 1828,2216 1900,2213 1973,2208 2046,2204 2119,2200 2192,2196 2264,2193 2337,2191 2410,2188 2483,2186 2568,2183"/>
+                <TextEquiv>
+                    <Unicode>MVM•VIRVM•QVI•AB•EO•IMPETRANT•INCLIEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759532216_1853" custom="readingOrder {index:21;}">
+                <Coords points="1088,2339 1755,2331 2268,2254 2449,2312 2572,2266 2569,2205 1084,2265"/>
+                <Baseline points="1104,2323 1160,2323 1216,2321 1273,2321 1329,2319 1386,2315 1442,2312 1498,2310 1555,2306 1611,2301 1668,2298 1724,2295 1780,2289 1837,2285 1893,2281 1950,2276 2006,2273 2062,2267 2119,2265 2175,2260 2232,2257 2370,2269 2395,2267 2420,2265 2446,2264 2471,2263 2497,2262 2522,2261 2557,2258"/>
+                <TextEquiv>
+                    <Unicode>TELAM•AMPLISSIMAE•DOMVS•SVAE•MVNI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:22;}">
+                <Coords points="1102,2411 1650,2401 1729,2352 2083,2366 2190,2331 2186,2270 1097,2347"/>
+                <Baseline points="1115,2394 1168,2392 1221,2388 1274,2385 1327,2382 1380,2380 1433,2376 1486,2372 1539,2368 1592,2364 1645,2362 1698,2357 1751,2353 1804,2349 1857,2345 1910,2341 1963,2336 2016,2330 2069,2326 2122,2322 2175,2316"/>
+                <TextEquiv>
+                    <Unicode>CIPIVM•RECIPERE•DIGNETVR•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:23;}">
+                <Coords points="1078,2474 2567,2396 2559,2277 2084,2364 1731,2350 1652,2402 1073,2403"/>
+                <Baseline points="1093,2463 1165,2459 1238,2456 1311,2452 1384,2449 1457,2443 1530,2439 1603,2435 1676,2430 1749,2425 1822,2419 1894,2415 1967,2409 2040,2405 2113,2398 2186,2394 2259,2389 2332,2383 2405,2379 2478,2373 2551,2369"/>
+                <TextEquiv>
+                    <Unicode>PETRONIVS•QVE•SE•COOPTARI•TABVLA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:24;}">
+                <Coords points="1128,2537 2490,2468 2595,2433 2588,2336 2498,2403 1124,2479"/>
+                <Baseline points="1144,2532 1214,2526 1285,2521 1356,2516 1426,2510 1497,2506 1568,2500 1638,2497 1709,2492 1780,2488 1851,2482 1921,2478 1992,2474 2063,2469 2133,2465 2204,2459 2275,2455 2345,2451 2416,2444 2487,2439 2581,2435"/>
+                <TextEquiv>
+                    <Unicode>HOSPITALI•INCISA•HOC•DECRETO•IN•DOMO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759563359_1865" custom="readingOrder {index:25;}">
+                <Coords points="1143,2639 1899,2537 2324,2567 2571,2509 2567,2448 1137,2557"/>
+                <Baseline points="1156,2598 1200,2596 1244,2593 1289,2589 1333,2586 1378,2584 1422,2580 1466,2576 1511,2572 1555,2569 1600,2565 1644,2562 1688,2558 1733,2553 1777,2549 1822,2546 1866,2544 1910,2540 1955,2536 1999,2534 2044,2532 2118,2518 2143,2520 2169,2520 2195,2520 2221,2520 2246,2518 2272,2516 2298,2514 2324,2512 2349,2510 2375,2508 2401,2506 2427,2504 2452,2503 2478,2502 2504,2502 2530,2502 2556,2502"/>
+                <TextEquiv>
+                    <Unicode>SVA•POSITA•PERMITTAT•CENSVERE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l53" custom="readingOrder {index:26;}">
+                <Coords points="1539,2656 1739,2627 1818,2658 1886,2628 2202,2627 2195,2530 1534,2586"/>
+                <Baseline points="1553,2636 1584,2633 1616,2629 1647,2626 1679,2623 1711,2620 1742,2619 1774,2616 1805,2614 1837,2613 1869,2610 1900,2608 1932,2606 1963,2604 1995,2601 2027,2600 2058,2598 2090,2595 2121,2592 2153,2590 2185,2588"/>
+                <TextEquiv>
+                    <Unicode>EGERVNT•LEGATI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649759582556_1873" custom="readingOrder {index:27;}">
+                <Coords points="1093,2757 2572,2718 2568,2624 2450,2583 1820,2659 1088,2641"/>
+                <Baseline points="1108,2746 1173,2742 1238,2737 1303,2732 1368,2728 1434,2724 1499,2719 1564,2714 1629,2712 1694,2707 1760,2704 1825,2700 1890,2696 1955,2694 2020,2691 2086,2690 2151,2688 2216,2686 2281,2684 2346,2684 2412,2684 2480,2680 2505,2679 2530,2677 2556,2676"/>
+                <TextEquiv>
+                    <Unicode>A•CAELIVS•A•F•QVIRINALIS•ET</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:28;}">
+                <Coords points="1375,2846 1455,2863 1617,2801 1808,2817 1940,2784 2083,2821 2077,2711 1981,2705 1910,2743 1703,2713 1669,2749 1569,2727 1369,2755"/>
+                <Baseline points="1386,2806 1420,2806 1454,2806 1488,2804 1522,2804 1556,2802 1590,2800 1624,2798 1658,2796 1692,2793 1726,2790 1760,2787 1794,2785 1828,2782 1862,2781 1896,2779 1930,2776 1964,2774 2016,2787 2050,2786 2066,2770"/>
+                <TextEquiv>
+                    <Unicode>QVIRINALIS•F•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L•ARRVNTIO•STELLA
+L•IVLIO MARINO COS
+SIC
+XIIII•K•NOV•
+M•ACILIVS•PLACIDVS•L•PETRONIVS•FRONTO
+IĪĪĪ•VIR•D•S•C•FERENTINI•CVRIA AEDIS•MER
+CVRI•SCRIBVNDO•ADFVERVNT•Q•SEGIARNVS•MAE
+SIC
+SIC
+CIANVS•T•MVNNIVS•NOMANLINVS
+Q•VNIVERSI•V•F•T•POMPONIVM•BASSVM•CLARIS
+SIMVM•VIRVM•DEMANDATAM•SIBI•CVRAM•AB
+INDVLGENTISSIMO•IMP•CAESARE•NERVA•TRATANO
+AVGVSTO•GERMANICO•QVA•AETERNITATI•ITALIAE
+ITA•ORDINARI•VT•OMNIS•AETAS•CVRAE•EIVS•MERITO
+GRATIAS•AGERE•DEBEAT•FVTVRVMQ•VT•TANTAE
+VIRTVTIS•VIR•AVXILIO•SIT•FVTVRVS•MVNICIPIO
+NOSTRO•Q•D•E•R•F•P•D•E•R•I•C•
+PLACERE CONSCRIPTIS•LEGATOS•EX•HOC•ORDINE
+MITTI•A•T•POMPONIVM BASSVM•CLARISSI
+MVM•VIRVM•QVI•AB•EO•IMPETRANT•INCLIEN
+TELAM•AMPLISSIMAE•DOMVS•SVAE•MVNI
+CIPIVM•RECIPERE•DIGNETVR•
+PETRONIVS•QVE•SE•COOPTARI•TABVLA
+HOSPITALI•INCISA•HOC•DECRETO•IN•DOMO
+SVA•POSITA•PERMITTAT•CENSVERE
+EGERVNT•LEGATI
+A•CAELIVS•A•F•QVIRINALIS•ET
+QVIRINALIS•F•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649759255307_1754" custom="readingOrder {index:2;}">
+            <Coords points="989,3243 2392,3243 2392,4238 989,4238"/>
+            <TextLine id="r1l57" custom="readingOrder {index:0;}">
+                <Coords points="1315,3403 1416,3427 1728,3390 1872,3429 2085,3381 2196,3417 2244,3392 2244,3300 1314,3296"/>
+                <Baseline points="1330,3370 1379,3388 1424,3391 1465,3388 1510,3378 1555,3379 1600,3380 1645,3380 1690,3380 1735,3380 1780,3380 1825,3378 1870,3378 1915,3378 1960,3378 2005,3376 2050,3376 2095,3378 2140,3378 2185,3378 2230,3380"/>
+                <TextEquiv>
+                    <Unicode>GENIO•CONSERVAT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l59" custom="readingOrder {index:1;}">
+                <Coords points="1451,3521 2041,3517 2141,3485 2140,3396 2079,3379 2012,3413 1896,3405 1871,3430 1721,3389 1449,3411"/>
+                <Baseline points="1467,3484 1500,3484 1533,3484 1566,3484 1599,3484 1632,3485 1665,3486 1698,3486 1731,3485 1764,3484 1797,3484 1830,3484 1863,3484 1896,3483 1929,3482 1962,3480 1995,3480 2028,3479 2061,3478 2094,3476 2127,3474"/>
+                <TextEquiv>
+                    <Unicode>DOMVS•POMPONI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l61" custom="readingOrder {index:2;}">
+                <Coords points="1623,3616 1660,3604 1708,3621 1749,3591 1779,3607 1828,3580 1895,3597 1926,3579 1941,3594 1990,3592 1992,3494 1943,3521 1912,3502 1894,3520 1866,3520 1821,3497 1765,3521 1732,3505 1680,3516 1625,3494"/>
+                <Baseline points="1640,3566 1665,3566 1691,3568 1717,3568 1743,3568 1769,3570 1795,3570 1820,3570 1846,3571 1872,3572 1898,3572 1924,3572 1950,3572 1976,3570"/>
+                <TextEquiv>
+                    <Unicode>ATTICI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l63" custom="readingOrder {index:3;}">
+                <Coords points="1356,3692 1842,3691 1967,3724 2129,3684 2233,3708 2233,3626 2160,3599 1992,3620 1866,3584 1674,3630 1356,3597"/>
+                <Baseline points="1370,3674 1412,3674 1454,3676 1497,3676 1539,3677 1582,3678 1624,3678 1666,3678 1709,3680 1751,3680 1794,3680 1836,3680 1878,3680 1921,3679 1963,3678 2006,3677 2048,3676 2090,3676 2133,3674 2175,3672 2218,3670"/>
+                <TextEquiv>
+                    <Unicode>M•POMPONIVS•M•F•T•N•MA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:4;}">
+                <Coords points="1416,3784 1591,3761 1667,3799 1759,3779 1810,3798 1869,3771 2082,3792 2113,3786 2114,3701 2013,3693 1964,3723 1866,3716 1842,3691 1741,3714 1570,3694 1487,3717 1417,3689"/>
+                <Baseline points="1432,3761 1465,3761 1498,3761 1531,3761 1565,3763 1598,3763 1631,3763 1665,3763 1698,3765 1731,3765 1765,3765 1798,3767 1831,3767 1864,3767 1898,3767 1931,3767 1964,3767 1998,3765 2029,3775 2064,3766 2098,3765"/>
+                <TextEquiv>
+                    <Unicode>XIMVS•I•DIC•ET</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:5;}">
+                <Coords points="1427,3894 1678,3847 1809,3884 1879,3848 2011,3888 2234,3889 2234,3788 2195,3776 1916,3778 1870,3811 1761,3777 1736,3798 1427,3778"/>
+                <Baseline points="1442,3844 1480,3844 1519,3844 1558,3844 1597,3844 1636,3844 1675,3844 1714,3846 1753,3846 1792,3847 1831,3848 1869,3848 1908,3850 1947,3850 1986,3850 2025,3850 2064,3848 2103,3847 2142,3846 2181,3844 2220,3842"/>
+                <TextEquiv>
+                    <Unicode>POMPONIA MARVLLA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l70" custom="readingOrder {index:6;}">
+                <Coords points="1380,3960 1483,4000 1597,3952 2138,3973 2220,3953 2221,3891 1906,3856 1380,3880"/>
+                <Baseline points="1395,3950 1434,3947 1474,3945 1514,3942 1553,3941 1593,3940 1633,3940 1672,3940 1712,3942 1752,3942 1792,3944 1831,3944 1871,3946 1911,3946 1950,3948 1990,3948 2030,3948 2069,3948 2109,3948 2149,3946 2204,3943"/>
+                <TextEquiv>
+                    <Unicode>E•T•TITVS•POMPONIVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l72" custom="readingOrder {index:7;}">
+                <Coords points="1530,4046 1606,4068 1677,4035 1790,4057 1817,4033 1875,4058 1946,4043 1991,4074 2153,4058 2154,3972 2078,3953 1858,3960 1830,3981 1702,3949 1668,3968 1531,3963"/>
+                <Baseline points="1546,4016 1575,4016 1605,4016 1635,4016 1664,4018 1694,4018 1724,4019 1753,4020 1783,4020 1813,4021 1843,4022 1872,4022 1902,4022 1932,4022 1961,4022 1991,4022 2021,4022 2050,4022 2080,4020 2110,4020 2140,4018"/>
+                <TextEquiv>
+                    <Unicode>T•F•MARCIANVS•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l74" custom="readingOrder {index:8;}">
+                <Coords points="1705,4133 1742,4136 1757,4120 1788,4132 1818,4111 1846,4126 1898,4111 1898,4059 1879,4062 1858,4041 1818,4032 1800,4047 1785,4041 1757,4050 1730,4035 1705,4041"/>
+                <Baseline points="1720,4102 1747,4102 1774,4102 1801,4103 1828,4104 1855,4102 1882,4100"/>
+                <TextEquiv>
+                    <Unicode>D•D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>GENIO•CONSERVAT
+DOMVS•POMPONI
+ATTICI
+M•POMPONIVS•M•F•T•N•MA
+XIMVS•I•DIC•ET
+POMPONIA MARVLLA
+E•T•TITVS•POMPONIVS
+T•F•MARCIANVS•
+D•D</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649759255307_1753" custom="readingOrder {index:3;}">
+            <Coords points="2392,3243 3627,3243 3627,4238 2392,4238"/>
+            <TextLine id="r1l58" custom="readingOrder {index:0;}">
+                <Coords points="2741,3436 2790,3461 2915,3419 3224,3443 3322,3404 3444,3457 3530,3425 3531,3311 3494,3290 3439,3329 3338,3340 3118,3308 3051,3325 3008,3295 2883,3336 2828,3293 2742,3304"/>
+                <Baseline points="2758,3391 2795,3395 2833,3398 2871,3401 2909,3405 2947,3408 2985,3409 3023,3411 3061,3413 3099,3414 3137,3415 3174,3415 3212,3415 3250,3414 3288,3413 3326,3411 3364,3409 3402,3407 3440,3404 3478,3401 3516,3395"/>
+                <TextEquiv>
+                    <Unicode>T•POMPONIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:1;}">
+                <Coords points="2910,3523 2977,3511 3035,3527 3085,3488 3179,3544 3240,3539 3292,3506 3368,3534 3408,3516 3409,3452 3366,3449 3321,3405 3226,3444 3162,3440 3144,3421 3100,3451 3058,3423 3039,3438 2911,3425"/>
+                <Baseline points="2926,3494 2953,3499 2978,3496 3004,3505 3029,3505 3062,3507 3080,3491 3105,3493 3131,3494 3156,3495 3182,3497 3207,3498 3232,3500 3258,3502 3283,3503 3309,3505 3334,3505 3392,3503"/>
+                <TextEquiv>
+                    <Unicode>T•F•QVIR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:2;}">
+                <Coords points="2890,3603 2927,3616 2964,3601 3003,3626 3037,3606 3052,3618 3101,3604 3198,3637 3269,3608 3312,3624 3364,3616 3366,3536 3179,3545 3137,3510 3118,3519 3079,3500 3036,3526 2892,3514"/>
+                <Baseline points="2906,3594 2932,3592 2958,3592 2984,3593 3010,3594 3036,3594 3062,3596 3088,3596 3114,3597 3140,3598 3166,3600 3192,3600 3218,3600 3244,3600 3270,3600 3296,3600 3322,3600 3348,3598"/>
+                <TextEquiv>
+                    <Unicode>BASSO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l64" custom="readingOrder {index:3;}">
+                <Coords points="2778,3701 3511,3713 3512,3618 3414,3645 3277,3607 3200,3637 3130,3609 3044,3630 2965,3601 2839,3619 2778,3600"/>
+                <Baseline points="2792,3680 2827,3680 2862,3680 2897,3680 2932,3680 2968,3682 3003,3682 3038,3682 3073,3683 3108,3684 3144,3684 3179,3685 3214,3686 3249,3686 3284,3686 3320,3686 3355,3686 3390,3684 3425,3684 3460,3682 3496,3682"/>
+                <TextEquiv>
+                    <Unicode>VIRO•CLARISSIMO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l66" custom="readingOrder {index:4;}">
+                <Coords points="2801,3800 2878,3778 3174,3802 3220,3771 3281,3796 3363,3771 3446,3795 3464,3792 3464,3697 2801,3708"/>
+                <Baseline points="2816,3762 2847,3762 2879,3764 2910,3764 2942,3764 2974,3764 3005,3764 3037,3764 3068,3764 3100,3764 3132,3764 3163,3764 3195,3764 3226,3764 3258,3762 3290,3762 3321,3762 3353,3762 3384,3762 3416,3762 3448,3762"/>
+                <TextEquiv>
+                    <Unicode>PATRONO•MVNIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l68" custom="readingOrder {index:5;}">
+                <Coords points="2805,3867 2884,3889 2964,3862 3031,3890 3211,3858 3327,3902 3370,3872 3538,3873 3539,3779 3466,3766 3371,3805 3322,3777 3285,3807 3228,3773 3059,3805 2806,3778"/>
+                <Baseline points="2820,3846 2855,3846 2890,3846 2925,3846 2960,3846 2995,3848 3030,3848 3065,3848 3100,3848 3135,3850 3171,3850 3206,3850 3241,3851 3276,3852 3311,3852 3346,3852 3381,3852 3416,3852 3451,3850 3486,3850 3522,3848"/>
+                <TextEquiv>
+                    <Unicode>FERENTINATI•NOVAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l69" custom="readingOrder {index:6;}">
+                <Coords points="2964,3939 2998,3945 3038,3917 3074,3936 3114,3920 3175,3942 3206,3926 3242,3944 3297,3926 3297,3874 3242,3874 3206,3859 3178,3868 3148,3859 3108,3881 3074,3865 3056,3881 2964,3869"/>
+                <Baseline points="2980,3920 3005,3918 3030,3918 3055,3918 3080,3918 3105,3919 3131,3920 3156,3920 3181,3920 3206,3920 3231,3919 3256,3917 3282,3914"/>
+                <TextEquiv>
+                    <Unicode>C•A•D•D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l71" custom="readingOrder {index:7;}">
+                <Coords points="2784,3997 3429,4002 3542,3979 3541,3917 3455,3934 3336,3905 3248,3950 3119,3921 2994,3947 2782,3902"/>
+                <Baseline points="2798,3980 2834,3982 2870,3982 2907,3982 2943,3984 2980,3984 3016,3984 3052,3984 3089,3984 3125,3982 3162,3982 3198,3982 3234,3980 3271,3980 3307,3979 3344,3978 3380,3976 3416,3974 3453,3973 3489,3972 3526,3970"/>
+                <TextEquiv>
+                    <Unicode>A•CAECILIVS•A•F•QVIRINI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:8;}">
+                <Coords points="2862,4088 2956,4059 3262,4073 3396,4050 3421,4071 3546,4051 3545,3980 3362,4011 3194,3982 3173,4004 2861,3999"/>
+                <Baseline points="2876,4048 2908,4050 2941,4050 2974,4050 3007,4050 3040,4051 3072,4052 3105,4052 3138,4050 3171,4050 3204,4050 3236,4050 3269,4049 3302,4048 3335,4047 3367,4046 3400,4045 3433,4044 3466,4042 3499,4041 3532,4040"/>
+                <TextEquiv>
+                    <Unicode>ALIS•M•ACILIVS•M•F</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l75" custom="readingOrder {index:9;}">
+                <Coords points="2934,4134 3038,4119 3057,4135 3179,4138 3228,4117 3295,4139 3378,4111 3448,4118 3448,4066 3417,4072 3396,4050 3347,4071 2935,4058"/>
+                <Baseline points="2950,4102 2975,4104 3000,4104 3026,4106 3051,4106 3077,4107 3102,4108 3128,4108 3153,4108 3179,4108 3204,4108 3230,4108 3255,4108 3281,4107 3306,4106 3332,4106 3357,4106 3383,4106 3408,4106 3434,4106"/>
+                <TextEquiv>
+                    <Unicode>PETRONIANVS•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>T•POMPONIO
+T•F•QVIR
+BASSO
+VIRO•CLARISSIMO
+PATRONO•MVNIC
+FERENTINATI•NOVAN
+C•A•D•D
+A•CAECILIVS•A•F•QVIRINI
+ALIS•M•ACILIVS•M•F
+PETRONIANVS•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_092a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:18.769+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1650469404688_1714"
+                       HEIGHT="3395"
+                       WIDTH="2486"
+                       VPOS="217"
+                       HPOS="914">
+               <Shape>
+                  <Polygon POINTS="914,217 3400,217 3400,3612 914,3612"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1530,288 1556,290 1582,293 1608,295 1635,296 1661,297 1687,299 1714,301 1740,303 1766,304 1792,304 1819,306 1845,306 1871,307 1898,308"
+                         HEIGHT="78"
+                         WIDTH="368"
+                         VPOS="249"
+                         HPOS="1530">
+                  <String ID="string_r1l1"
+                          HEIGHT="78"
+                          WIDTH="368"
+                          VPOS="249"
+                          HPOS="1530"
+                          CONTENT="DI ROMA."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="926,408 1047,412 1169,416 1291,419 1413,422 1535,424 1656,428 1778,430 1900,434 2022,436 2144,438 2265,440 2387,442 2509,444 2631,446 2753,449 2874,450 2996,452 3118,454 3240,456 3370,457"
+                         HEIGHT="108"
+                         WIDTH="2436"
+                         VPOS="369"
+                         HPOS="926">
+                  <String ID="string_r1l2"
+                          HEIGHT="108"
+                          WIDTH="2436"
+                          VPOS="369"
+                          HPOS="926"
+                          CONTENT="perle gran dignità ricevute da quello: onde egli di poi che sendo fatto imperadore: et vendicata la morte di pertinace"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="928,498 1048,502 1169,506 1290,510 1411,512 1532,514 1652,517 1773,520 1894,520 2015,523 2136,524 2256,526 2377,528 2498,530 2619,534 2740,536 2860,538 2981,542 3102,546 3223,550 3365,558"
+                         HEIGHT="115"
+                         WIDTH="2416"
+                         VPOS="460"
+                         HPOS="928">
+                  <String ID="string_r1l3"
+                          HEIGHT="115"
+                          WIDTH="2416"
+                          VPOS="460"
+                          HPOS="928"
+                          CONTENT="pose tragli Dei il suo figliuolo Commodo: percio che esso Lucio septimio, come scrive Elio Spartiano, sendo"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="936,594 1056,597 1177,598 1298,600 1418,602 1539,604 1660,604 1780,606 1901,606 2022,606 2143,608 2263,608 2384,610 2505,612 2625,614 2746,616 2867,618 2987,622 3108,625 3229,630 3350,634"
+                         HEIGHT="98"
+                         WIDTH="2414"
+                         VPOS="555"
+                         HPOS="936">
+                  <String ID="string_r1l4"
+                          HEIGHT="98"
+                          WIDTH="2414"
+                          VPOS="555"
+                          HPOS="936"
+                          CONTENT="venuto dal detto Imperatore Antonino à Roma di eta di deciotto anni, domando illato clavo, coè la veste et or"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="942,684 1064,686 1186,690 1308,692 1431,693 1553,694 1675,696 1798,698 1920,700 2042,702 2165,702 2287,704 2409,706 2531,708 2654,708 2776,710 2898,712 3021,714 3143,715 3265,717 3388,718"
+                         HEIGHT="92"
+                         WIDTH="2446"
+                         VPOS="645"
+                         HPOS="942">
+                  <String ID="string_r1l5"
+                          HEIGHT="92"
+                          WIDTH="2446"
+                          VPOS="645"
+                          HPOS="942"
+                          CONTENT="dine senatorio, et da esso Marco Antonino lhebbe: di piu hebbe il Tribunato dela plebe peropera et favore"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="942,786 1064,788 1187,788 1309,790 1432,790 1555,792 1677,794 1800,796 1922,798 2045,800 2168,802 2290,804 2413,807 2535,808 2658,810 2781,812 2903,814 3026,814 3148,816 3271,816 3394,816"
+                         HEIGHT="88"
+                         WIDTH="2452"
+                         VPOS="747"
+                         HPOS="942">
+                  <String ID="string_r1l6"
+                          HEIGHT="88"
+                          WIDTH="2452"
+                          VPOS="747"
+                          HPOS="942"
+                          CONTENT="del medesimo imperatore, et lo essercitò congrandissima severita: et diligentia: Appresso fù disegnato pre"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="930,894 1052,894 1175,894 1297,894 1420,894 1543,896 1665,896 1788,898 1910,898 2033,900 2156,900 2278,902 2401,902 2523,902 2646,904 2769,904 2891,904 3014,904 3136,904 3259,902 3382,902"
+                         HEIGHT="68"
+                         WIDTH="2452"
+                         VPOS="855"
+                         HPOS="930">
+                  <String ID="string_r1l7"
+                          HEIGHT="68"
+                          WIDTH="2452"
+                          VPOS="855"
+                          HPOS="930"
+                          CONTENT="tore, non gia candidato: ma chiamato trala moltitudine de competitori Pretore. havendo anni della sua età"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="922,988 1045,988 1168,990 1291,990 1414,990 1537,990 1660,992 1783,992 1906,992 2029,994 2153,994 2276,994 2399,996 2522,996 2645,996 2768,996 2891,996 3014,994 3137,994 3260,992 3384,992"
+                         HEIGHT="66"
+                         WIDTH="2462"
+                         VPOS="949"
+                         HPOS="922">
+                  <String ID="string_r1l8"
+                          HEIGHT="66"
+                          WIDTH="2462"
+                          VPOS="949"
+                          HPOS="922"
+                          CONTENT="trentadue, et perciò esso Severo come ricordevole: per segno di bene mento, come se fusse della istessa parente"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="928,1084 1051,1084 1174,1086 1297,1086 1420,1086 1543,1086 1666,1086 1789,1088 1912,1088 2035,1088 2158,1090 2281,1090 2404,1090 2527,1090 2650,1090 2773,1090 2896,1090 3019,1090 3142,1090 3265,1088 3388,1088"
+                         HEIGHT="64"
+                         WIDTH="2460"
+                         VPOS="1045"
+                         HPOS="928">
+                  <String ID="string_r1l9"
+                          HEIGHT="64"
+                          WIDTH="2460"
+                          VPOS="1045"
+                          HPOS="928"
+                          CONTENT="la, chiamo primieramente Bassiano Caesare Antonino: anzi comesi legge nelle medaglie il chiamo Marco"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="928,1190 1051,1192 1175,1192 1298,1192 1422,1192 1546,1192 1669,1192 1793,1190 1916,1189 2040,1188 2164,1187 2287,1186 2411,1186 2534,1186 2658,1186 2782,1186 2905,1188 3029,1190 3152,1192 3276,1196 3400,1200"
+                         HEIGHT="72"
+                         WIDTH="2472"
+                         VPOS="1147"
+                         HPOS="928">
+                  <String ID="string_r1l10"
+                          HEIGHT="72"
+                          WIDTH="2472"
+                          VPOS="1147"
+                          HPOS="928"
+                          CONTENT="Aurelio Antonino: et questo fece per darle il secondo luogho nel'imperia le luogo doppo lui come porimo successore"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="926,1286 1049,1284 1172,1282 1295,1282 1418,1282 1542,1282 1665,1282 1788,1282 1911,1282 2034,1282 2158,1282 2281,1284 2404,1284 2527,1286 2650,1286 2774,1288 2897,1288 3020,1290 3143,1290 3266,1290 3390,1292"
+                         HEIGHT="68"
+                         WIDTH="2464"
+                         VPOS="1243"
+                         HPOS="926">
+                  <String ID="string_r1l11"
+                          HEIGHT="68"
+                          WIDTH="2464"
+                          VPOS="1243"
+                          HPOS="926"
+                          CONTENT="et privarne Geta suo fratello dallato di padre: accio che Geta havesse speranza doppo Bussiano: alla succes"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="932,1380 1054,1378 1177,1378 1300,1378 1422,1378 1545,1378 1668,1378 1790,1380 1913,1380 2036,1382 2159,1382 2281,1382 2404,1384 2527,1384 2649,1384 2772,1382 2895,1382 3017,1380 3140,1378 3263,1374 3386,1370"
+                         HEIGHT="71"
+                         WIDTH="2454"
+                         VPOS="1332"
+                         HPOS="932">
+                  <String ID="string_r1l12"
+                          HEIGHT="71"
+                          WIDTH="2454"
+                          VPOS="1332"
+                          HPOS="932"
+                          CONTENT="sione: il che non succedette. Concio sia cosa che septimio sendo in punto di morte nella Brittannia lascio,"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="918,1476 1042,1476 1166,1476 1290,1476 1414,1474 1538,1474 1662,1474 1786,1474 1910,1474 2034,1474 2158,1474 2282,1474 2406,1476 2530,1476 2654,1476 2778,1476 2902,1476 3026,1474 3150,1474 3274,1474 3398,1474"
+                         HEIGHT="60"
+                         WIDTH="2480"
+                         VPOS="1435"
+                         HPOS="918">
+                  <String ID="string_r1l13"
+                          HEIGHT="60"
+                          WIDTH="2480"
+                          VPOS="1435"
+                          HPOS="918"
+                          CONTENT="Hesedi et Geta et Antonino; i quali nel'ritornare à Roma gia mai non siparlarono, tanto era nato odiò tra"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="918,1572 1040,1570 1163,1570 1285,1568 1408,1568 1531,1568 1653,1568 1776,1568 1898,1568 2021,1568 2144,1568 2266,1570 2389,1570 2511,1570 2634,1570 2757,1570 2879,1570 3002,1568 3124,1568 3247,1566 3370,1564"
+                         HEIGHT="66"
+                         WIDTH="2452"
+                         VPOS="1525"
+                         HPOS="918">
+                  <String ID="string_r1l14"
+                          HEIGHT="66"
+                          WIDTH="2452"
+                          VPOS="1525"
+                          HPOS="918"
+                          CONTENT="loro: Finalmente sendo giunti inde brad ethavendo consecralo Severo loro padre: Antonino deliberato,"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="926,1650 1048,1650 1171,1652 1294,1654 1417,1654 1540,1656 1663,1656 1786,1658 1909,1658 2032,1660 2155,1660 2277,1661 2400,1662 2523,1662 2646,1662 2769,1662 2892,1662 3015,1662 3138,1662 3261,1660 3384,1660"
+                         HEIGHT="69"
+                         WIDTH="2458"
+                         VPOS="1612"
+                         HPOS="926">
+                  <String ID="string_r1l15"
+                          HEIGHT="69"
+                          WIDTH="2458"
+                          VPOS="1612"
+                          HPOS="926"
+                          CONTENT="di uccidere Geta, ammazzollo per regnare solo. Dimaniera dunque, che l'odio crudele et intestino trapa¬"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="934,1748 1055,1748 1176,1748 1297,1748 1419,1748 1540,1748 1661,1748 1783,1750 1904,1750 2025,1750 2147,1752 2268,1752 2389,1752 2510,1752 2632,1752 2753,1752 2874,1752 2996,1750 3117,1750 3238,1748 3372,1750"
+                         HEIGHT="64"
+                         WIDTH="2426"
+                         VPOS="1707"
+                         HPOS="934">
+                  <String ID="string_r1l16"
+                          HEIGHT="64"
+                          WIDTH="2426"
+                          VPOS="1707"
+                          HPOS="934"
+                          CONTENT="renti incomincio dall'ordine paternò istesso, per cio che à septimio Comedice Herodiano piacquero piu li"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="924,1842 1046,1844 1169,1846 1292,1846 1415,1848 1538,1848 1661,1850 1784,1850 1907,1850 2030,1850 2153,1852 2275,1852 2398,1852 2521,1852 2644,1852 2767,1850 2890,1850 3013,1850 3136,1850 3259,1850 3382,1850"
+                         HEIGHT="68"
+                         WIDTH="2458"
+                         VPOS="1803"
+                         HPOS="924">
+                  <String ID="string_r1l17"
+                          HEIGHT="68"
+                          WIDTH="2458"
+                          VPOS="1803"
+                          HPOS="924"
+                          CONTENT="vitij di Antonino caracalla suo figliuoli che l'e altrui virtù. E gli adunque inquesta sua adottione come"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="922,1942 1043,1942 1164,1942 1286,1942 1407,1944 1529,1944 1650,1944 1771,1944 1893,1944 2014,1944 2136,1944 2257,1944 2378,1944 2500,1942 2621,1940 2743,1940 2864,1937 2985,1934 3107,1932 3228,1929 3363,1928"
+                         HEIGHT="78"
+                         WIDTH="2428"
+                         VPOS="1885"
+                         HPOS="922">
+                  <String ID="string_r1l18"
+                          HEIGHT="78"
+                          WIDTH="2428"
+                          VPOS="1885"
+                          HPOS="922"
+                          CONTENT="il marmo ci significa, egli si Faceva chiamare Figliuuolo di Marco Antonino, et suo figliuolo denomino"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="920,2044 1042,2042 1164,2042 1286,2042 1408,2040 1531,2040 1653,2040 1775,2040 1897,2040 2019,2042 2142,2042 2264,2042 2386,2042 2508,2042 2630,2042 2753,2042 2875,2040 2997,2040 3119,2038 3241,2037 3371,2037"
+                         HEIGHT="66"
+                         WIDTH="2444"
+                         VPOS="1997"
+                         HPOS="920">
+                  <String ID="string_r1l19"
+                          HEIGHT="66"
+                          WIDTH="2444"
+                          VPOS="1997"
+                          HPOS="920"
+                          CONTENT="Marco Aurelio Antonino come in esso fusse scritta la memoria del buon Narco: et inlui propagata.⁓ per"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="930,2142 1052,2140 1174,2138 1296,2136 1419,2135 1541,2134 1663,2134 1786,2132 1908,2132 2030,2132 2153,2132 2275,2132 2397,2132 2519,2134 2642,2134 2764,2134 2886,2136 3009,2136 3131,2136 3253,2138 3376,2138"
+                         HEIGHT="68"
+                         WIDTH="2446"
+                         VPOS="2093"
+                         HPOS="930">
+                  <String ID="string_r1l20"
+                          HEIGHT="68"
+                          WIDTH="2446"
+                          VPOS="2093"
+                          HPOS="930"
+                          CONTENT="cio che come narra ancho spartiano severo vidde insogno, che Antonino gli dovea succedere nell'impe¬"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="926,2228 1048,2228 1170,2228 1292,2228 1414,2228 1536,2227 1658,2226 1780,2226 1902,2224 2024,2224 2147,2224 2269,2222 2391,2222 2513,2220 2635,2220 2757,2220 2879,2218 3001,2218 3123,2218 3245,2218 3368,2218"
+                         HEIGHT="68"
+                         WIDTH="2442"
+                         VPOS="2179"
+                         HPOS="926">
+                  <String ID="string_r1l21"
+                          HEIGHT="68"
+                          WIDTH="2442"
+                          VPOS="2179"
+                          HPOS="926"
+                          CONTENT="rio, et lui applaude alla visione. Onde alcuni pensano per questo che Publio Geta secondo suo figliuolo, fus"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="930,2320 1050,2320 1171,2320 1291,2318 1412,2318 1532,2318 1653,2318 1773,2316 1894,2316 2014,2316 2135,2316 2255,2316 2376,2316 2496,2316 2617,2316 2737,2316 2858,2316 2978,2316 3099,2316 3219,2318 3340,2318"
+                         HEIGHT="62"
+                         WIDTH="2410"
+                         VPOS="2277"
+                         HPOS="930">
+                  <String ID="string_r1l22"
+                          HEIGHT="62"
+                          WIDTH="2410"
+                          VPOS="2277"
+                          HPOS="930"
+                          CONTENT="se ancho detto Antonino, et poi lo lasciasse sendo fatto Cesare Augusto, et dicano ancho che Severo istesso"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="926,2406 1048,2408 1171,2408 1293,2410 1416,2410 1538,2412 1661,2412 1783,2412 1906,2414 2028,2414 2151,2414 2273,2414 2396,2414 2518,2414 2641,2414 2763,2414 2886,2414 3008,2412 3131,2412 3253,2412 3376,2410"
+                         HEIGHT="66"
+                         WIDTH="2450"
+                         VPOS="2367"
+                         HPOS="926">
+                  <String ID="string_r1l23"
+                          HEIGHT="66"
+                          WIDTH="2450"
+                          VPOS="2367"
+                          HPOS="926"
+                          CONTENT="volle intrare nella fameglia et casata Aelia di Marco Antonino: et per affettare à tale darentato, d'indi"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="924,2502 1046,2502 1168,2500 1290,2500 1412,2500 1535,2500 1657,2502 1779,2502 1901,2504 2023,2504 2146,2506 2268,2506 2390,2508 2512,2508 2634,2510 2757,2510 2879,2510 3001,2510 3123,2509 3245,2508 3368,2506"
+                         HEIGHT="68"
+                         WIDTH="2444"
+                         VPOS="2461"
+                         HPOS="924">
+                  <String ID="string_r1l24"
+                          HEIGHT="68"
+                          WIDTH="2444"
+                          VPOS="2461"
+                          HPOS="924"
+                          CONTENT="egli nel senato è presso al popolo lodo commodo, et comando, che Divo fusse chiamato: dipoi edificato,"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="920,2588 1042,2590 1165,2590 1288,2592 1411,2592 1534,2592 1656,2594 1779,2594 1902,2594 2025,2594 2148,2594 2270,2594 2393,2592 2516,2592 2639,2592 2762,2592 2884,2592 3007,2592 3130,2592 3253,2592 3376,2592"
+                         HEIGHT="64"
+                         WIDTH="2456"
+                         VPOS="2549"
+                         HPOS="920">
+                  <String ID="string_r1l25"
+                          HEIGHT="64"
+                          WIDTH="2456"
+                          VPOS="2549"
+                          HPOS="920"
+                          CONTENT="ch'egli hebbe pertinace prese il cognome di quello, non tanto per sua voluntà quanto che per seguitare"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="926,2676 1047,2678 1169,2680 1290,2682 1412,2684 1534,2684 1655,2684 1777,2684 1898,2684 2020,2682 2142,2682 2263,2680 2385,2680 2506,2678 2628,2678 2750,2676 2871,2674 2993,2674 3114,2672 3236,2672 3358,2672"
+                         HEIGHT="70"
+                         WIDTH="2432"
+                         VPOS="2633"
+                         HPOS="926">
+                  <String ID="string_r1l26"
+                          HEIGHT="70"
+                          WIDTH="2432"
+                          VPOS="2633"
+                          HPOS="926"
+                          CONTENT="la parsimonia de costumi, per che lo havesse vendicato. Si che egli doppo morte lasciò duoi figliuoli"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="921,2775 1047,2776 1168,2776 1289,2776 1410,2776 1531,2776 1652,2775 1773,2774 1894,2772 2015,2772 2137,2770 2258,2768 2379,2768 2500,2766 2621,2766 2742,2766 2863,2766 2984,2766 3105,2767 3226,2768 3365,2774"
+                         HEIGHT="68"
+                         WIDTH="2422"
+                         VPOS="2727"
+                         HPOS="926">
+                  <String ID="string_r1l27"
+                          HEIGHT="68"
+                          WIDTH="2422"
+                          VPOS="2727"
+                          HPOS="926"
+                          CONTENT="cio è il sudetto Bassiano Antonino, et Publio Geta: et volle che questi lo sepellisse per divotione dentro"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="929,2862 1051,2862 1174,2860 1296,2860 1419,2860 1541,2858 1664,2858 1786,2858 1909,2858 2031,2858 2154,2856 2276,2856 2399,2856 2521,2856 2644,2854 2766,2854 2889,2852 3011,2850 3134,2848 3256,2846 3379,2844"
+                         HEIGHT="76"
+                         WIDTH="2450"
+                         VPOS="2805"
+                         HPOS="918">
+                  <String ID="string_r1l28"
+                          HEIGHT="76"
+                          WIDTH="2450"
+                          VPOS="2805"
+                          HPOS="918"
+                          CONTENT="il sepulchro di Marco Antonino, qual tra tutti gli imperatori tanto grandemente osservò vivente: et"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="926,2952 1048,2952 1170,2950 1292,2950 1415,2950 1537,2948 1659,2948 1782,2948 1904,2948 2026,2946 2149,2946 2271,2946 2393,2946 2515,2946 2638,2946 2760,2948 2882,2948 3005,2948 3127,2950 3249,2952 3382,2958"
+                         HEIGHT="66"
+                         WIDTH="2446"
+                         VPOS="2907"
+                         HPOS="926">
+                  <String ID="string_r1l29"
+                          HEIGHT="66"
+                          WIDTH="2446"
+                          VPOS="2907"
+                          HPOS="926"
+                          CONTENT="commodo suo figliuolo, come habbiumo detto pose tragli Dei. Et si credette che perhavere dotati i figluo"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="936,3046 1057,3048 1179,3048 1301,3048 1422,3046 1544,3046 1666,3046 1787,3046 1909,3044 2031,3044 2153,3044 2274,3042 2396,3042 2518,3043 2639,3044 2761,3044 2883,3046 3004,3048 3126,3050 3248,3052 3370,3056"
+                         HEIGHT="72"
+                         WIDTH="2434"
+                         VPOS="3003"
+                         HPOS="936">
+                  <String ID="string_r1l30"
+                          HEIGHT="72"
+                          WIDTH="2434"
+                          VPOS="3003"
+                          HPOS="936"
+                          CONTENT="li di si degno nome dell'Antoniana Fameglia s'ingegnassero di imitare et parere infatto delli costumi"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="928,3144 1050,3148 1172,3142 1294,3144 1416,3144 1539,3146 1661,3146 1783,3144 1905,3144 2027,3144 2150,3142 2272,3141 2394,3140 2516,3140 2638,3140 2761,3140 2883,3140 3005,3142 3127,3144 3249,3148 3383,3154"
+                         HEIGHT="76"
+                         WIDTH="2444"
+                         VPOS="3095"
+                         HPOS="928">
+                  <String ID="string_r1l31"
+                          HEIGHT="76"
+                          WIDTH="2444"
+                          VPOS="3095"
+                          HPOS="928"
+                          CONTENT="del duo Marco.⁓ et quivi s'inganno: conciosia cosa che per crudelta Antonino bassiano trapasso, commo"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="925,3237 1045,3241 1168,3240 1288,3240 1408,3240 1529,3240 1649,3238 1769,3237 1889,3236 2009,3234 2130,3232 2250,3230 2370,3228 2490,3228 2610,3228 2731,3228 2851,3230 2971,3233 3091,3237 3211,3244 3332,3250"
+                         HEIGHT="80"
+                         WIDTH="2404"
+                         VPOS="3189"
+                         HPOS="928">
+                  <String ID="string_r1l32"
+                          HEIGHT="80"
+                          WIDTH="2404"
+                          VPOS="3189"
+                          HPOS="928"
+                          CONTENT="do: percio che imito l'odio di Thideo et di polynice: che per causa d'imperio violarono l'un l'altro, cosi"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="928,3334 1048,3334 1169,3334 1290,3334 1411,3334 1532,3334 1653,3333 1774,3332 1895,3332 2016,3330 2137,3330 2257,3328 2378,3328 2499,3328 2620,3328 2741,3328 2862,3330 2983,3330 3104,3332 3225,3334 3367,3342"
+                         HEIGHT="68"
+                         WIDTH="2418"
+                         VPOS="3289"
+                         HPOS="922">
+                  <String ID="string_r1l33"
+                          HEIGHT="68"
+                          WIDTH="2418"
+                          VPOS="3289"
+                          HPOS="922"
+                          CONTENT="etiandio esso Antonino Bassiano, per regnare facilmente odiando la bonta di Geta l'uccise et prese permo"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="914,3418 1036,3422 1158,3422 1280,3424 1402,3424 1524,3424 1646,3424 1768,3422 1890,3422 2012,3420 2135,3420 2257,3418 2379,3418 2501,3418 2623,3418 2745,3418 2867,3418 2989,3420 3111,3422 3233,3424 3356,3428"
+                         HEIGHT="68"
+                         WIDTH="2442"
+                         VPOS="3379"
+                         HPOS="914">
+                  <String ID="string_r1l34"
+                          HEIGHT="68"
+                          WIDTH="2442"
+                          VPOS="3379"
+                          HPOS="914"
+                          CONTENT="glie lamadre, che quasi le sanguinava la veste dell'ucciso figliuolo, che ingrembo alei mori: caden"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="940,3514 982,3517 1021,3518 1060,3519 1099,3520 1138,3520 1176,3518 1215,3518 1254,3516 1293,3516 1332,3514 1370,3512 1409,3511 1448,3510 1487,3508 1526,3508 1564,3508 1603,3506 1642,3506 1681,3507 1720,3508"
+                         HEIGHT="72"
+                         WIDTH="776"
+                         VPOS="3467"
+                         HPOS="944">
+                  <String ID="string_r1l35"
+                          HEIGHT="72"
+                          WIDTH="776"
+                          VPOS="3467"
+                          HPOS="944"
+                          CONTENT="do sotto il Gladio del Fraticida."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650469416798_1719"
+                       HEIGHT="983"
+                       WIDTH="1098"
+                       VPOS="3669"
+                       HPOS="730">
+               <Shape>
+                  <Polygon POINTS="730,3669 1828,3669 1828,4652 730,4652"/>
+               </Shape>
+               <TextLine ID="line_1651484055176_1828"
+                         BASELINE="1219,3927 1227,3926 1253,3924 1278,3922 1303,3921 1329,3921 1354,3921 1380,3923 1405,3925 1430,3926 1456,3928 1481,3930 1506,3932"
+                         HEIGHT="49"
+                         WIDTH="334"
+                         VPOS="3891"
+                         HPOS="1172">
+                  <String ID="string_line_1651484055176_1828"
+                          HEIGHT="49"
+                          WIDTH="334"
+                          VPOS="3891"
+                          HPOS="1172"
+                          CONTENT="CO"/>
+               </TextLine>
+               <TextLine ID="line_1651484055176_1827"
+                         BASELINE="1506,3932 1532,3934 1557,3937 1583,3939"
+                         HEIGHT="37"
+                         WIDTH="30"
+                         VPOS="3906"
+                         HPOS="1506">
+                  <String ID="string_line_1651484055176_1827"
+                          HEIGHT="37"
+                          WIDTH="30"
+                          VPOS="3906"
+                          HPOS="1506"
+                          CONTENT="RA"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="1170,3984 1195,3986 1220,3986 1245,3989 1270,3991 1295,3992 1320,3993 1346,3994 1371,3997 1396,3998 1421,3999 1446,4000 1471,4001 1496,4002 1532,4003"
+                         HEIGHT="65"
+                         WIDTH="352"
+                         VPOS="3950"
+                         HPOS="1170">
+                  <String ID="string_r1l42"
+                          HEIGHT="65"
+                          WIDTH="352"
+                          VPOS="3950"
+                          HPOS="1170"
+                          CONTENT="QIACIC AICCHXAPIC"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="1163,4064 1189,4066 1215,4068 1241,4068 1268,4070 1294,4072 1320,4073 1347,4075 1373,4076 1399,4078 1426,4080 1452,4081 1478,4083 1525,4087"
+                         HEIGHT="67"
+                         WIDTH="342"
+                         VPOS="4030"
+                         HPOS="1162">
+                  <String ID="string_r1l44"
+                          HEIGHT="67"
+                          WIDTH="342"
+                          VPOS="4030"
+                          HPOS="1162"
+                          CONTENT="CIAE MEMCICCIC"/>
+               </TextLine>
+               <TextLine ID="line_1650469479037_1763"
+                         BASELINE="1149,4123 1159,4124 1184,4126 1209,4129 1235,4131 1260,4133 1285,4136 1310,4137 1335,4140 1360,4141 1386,4144 1411,4146 1436,4148 1461,4149 1486,4150 1511,4152 1537,4155"
+                         HEIGHT="66"
+                         WIDTH="388"
+                         VPOS="4097"
+                         HPOS="1142">
+                  <String ID="string_line_1650469479037_1763"
+                          HEIGHT="66"
+                          WIDTH="388"
+                          VPOS="4097"
+                          HPOS="1142"
+                          CONTENT="TOCONMCICH OCIHI"/>
+               </TextLine>
+               <TextLine ID="line_1651484076617_1838"
+                         BASELINE="1181,4190 1207,4193 1232,4195 1257,4196 1283,4198 1308,4200 1334,4200 1359,4201 1384,4202 1410,4203 1435,4204 1460,4205 1486,4207 1511,4209 1522,4210"
+                         HEIGHT="54"
+                         WIDTH="344"
+                         VPOS="4163"
+                         HPOS="1178">
+                  <String ID="string_line_1651484076617_1838"
+                          HEIGHT="54"
+                          WIDTH="344"
+                          VPOS="4163"
+                          HPOS="1178"
+                          CONTENT="OCCONCTGCEQIACI"/>
+               </TextLine>
+               <TextLine ID="r1l50"
+                         BASELINE="986,4534 1020,4535 1054,4536 1088,4538 1123,4538 1157,4540 1191,4540 1226,4542 1260,4542 1294,4544 1329,4544 1363,4546 1397,4546 1431,4546 1466,4548 1500,4548 1534,4548 1569,4548 1603,4548 1637,4547 1672,4546"
+                         HEIGHT="60"
+                         WIDTH="686"
+                         VPOS="4503"
+                         HPOS="986">
+                  <String ID="string_r1l50"
+                          HEIGHT="60"
+                          WIDTH="686"
+                          VPOS="4503"
+                          HPOS="986"
+                          CONTENT="incameo antico poste trale cose belle"/>
+               </TextLine>
+               <TextLine ID="r1l51"
+                         BASELINE="992,4602 1017,4602 1042,4603 1067,4604 1092,4604 1117,4606 1142,4607 1167,4608 1192,4609 1217,4610 1242,4610 1267,4612 1292,4612 1317,4612 1342,4612 1368,4610"
+                         HEIGHT="56"
+                         WIDTH="376"
+                         VPOS="4571"
+                         HPOS="992">
+                  <String ID="string_r1l51"
+                          HEIGHT="56"
+                          WIDTH="376"
+                          VPOS="4571"
+                          HPOS="992"
+                          CONTENT="di Monsignor Gadi."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_037a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:04.591+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="3591" WIDTH="2792" VPOS="305" HPOS="826">
+               <Shape>
+                  <Polygon POINTS="826,305 830,3896 3618,3896 3603,355"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="890,426 1025,434 1161,440 1297,445 1433,448 1569,450 1704,450 1840,452 1976,450 2112,450 2248,448 2383,446 2519,446 2655,444 2791,444 2927,444 3062,444 3198,446 3334,450 3470,454 3606,460"
+                         HEIGHT="98"
+                         WIDTH="2716"
+                         VPOS="383"
+                         HPOS="890">
+                  <String ID="string_r1l1"
+                          HEIGHT="98"
+                          WIDTH="2716"
+                          VPOS="383"
+                          HPOS="890"
+                          CONTENT="RIPAEA, ò vero, ΡΙΠΑΙΑ, è nome di Monte habitato nelli Hyperborei popoli. donde gli habitatori si dicono Ripaei."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="914,518 1046,523 1179,527 1311,532 1444,534 1577,538 1709,540 1842,542 1974,544 2107,544 2240,544 2372,546 2505,546 2637,546 2770,545 2903,544 3035,544 3168,543 3300,542 3433,542 3566,540"
+                         HEIGHT="92"
+                         WIDTH="2652"
+                         VPOS="475"
+                         HPOS="914">
+                  <String ID="string_r1l2"
+                          HEIGHT="92"
+                          WIDTH="2652"
+                          VPOS="475"
+                          HPOS="914"
+                          CONTENT="et Ripeo, et Ripaensi, et Ripense. Secondo il Grammatico delle citta. da essa Ripaea. aduce, ΡΙΠΑΙΟΣ, et an"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="908,618 976,620 1045,620 1113,622 1182,624 1250,624 1319,626 1387,626 1456,626 1524,628 1593,628 1661,628 1730,628 1798,630 1867,630 1935,630 2004,630 2072,632 2141,632 2209,634 2278,634"
+                         HEIGHT="85"
+                         WIDTH="1370"
+                         VPOS="572"
+                         HPOS="908">
+                  <String ID="string_r1l3"
+                          HEIGHT="85"
+                          WIDTH="1370"
+                          VPOS="572"
+                          HPOS="908"
+                          CONTENT="co, ΡΙΠΑΙΕΥΣ, il che cavo da Artemidoro, et nonlo nomina."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="890,1158 1020,1158 1151,1160 1282,1160 1413,1162 1544,1162 1674,1164 1805,1166 1936,1166 2067,1168 2198,1168 2328,1170 2459,1170 2590,1172 2721,1172 2852,1174 2982,1174 3113,1174 3244,1176 3375,1176 3506,1176"
+                         HEIGHT="91"
+                         WIDTH="2616"
+                         VPOS="1109"
+                         HPOS="890">
+                  <String ID="string_r1l4"
+                          HEIGHT="91"
+                          WIDTH="2616"
+                          VPOS="1109"
+                          HPOS="890"
+                          CONTENT="RIPE, ò veramente, ΡΙΠΗ, è città dell'Arcadi, digente Arcadice. secondo disse il scepsio: et da essa chiamo il "/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="908,1254 1040,1254 1172,1254 1305,1254 1437,1255 1570,1256 1702,1256 1834,1258 1967,1258 2099,1258 2232,1260 2364,1260 2496,1260 2629,1260 2761,1260 2894,1260 3026,1260 3158,1258 3291,1258 3423,1256 3556,1254"
+                         HEIGHT="79"
+                         WIDTH="2648"
+                         VPOS="1205"
+                         HPOS="908">
+                  <String ID="string_r1l5"
+                          HEIGHT="79"
+                          WIDTH="2648"
+                          VPOS="1205"
+                          HPOS="908"
+                          CONTENT="cittadino con grave suono, ΡΙΠΑΙΟΣ, il che anchora dice Stephano, con questa sentenza. ΡΙΠΗ, ΑΡΚΑΔΙΚΗ ΠΟ¬"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="898,1356 963,1359 1028,1360 1094,1362 1159,1364 1225,1364 1290,1365 1355,1366 1421,1366 1486,1366 1552,1366 1617,1364 1682,1364 1748,1363 1813,1362 1879,1361 1944,1360 2009,1360 2075,1358 2140,1356 2206,1356"
+                         HEIGHT="83"
+                         WIDTH="1308"
+                         VPOS="1307"
+                         HPOS="898">
+                  <String ID="string_r1l6"
+                          HEIGHT="83"
+                          WIDTH="1308"
+                          VPOS="1307"
+                          HPOS="898"
+                          CONTENT="ΛΙΣ, ΒΑΡΥΤΟΝΩΣ, ΤΟ ΕΘΝΙΚΟΝ, ΡΙΠΑΙΟΣ ΟΜΟΙΩΣ."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="874,1792 1006,1796 1139,1800 1272,1805 1405,1809 1538,1812 1671,1816 1804,1818 1937,1821 2070,1824 2203,1826 2335,1828 2468,1830 2601,1832 2734,1836 2867,1838 3000,1842 3133,1845 3266,1850 3399,1853 3532,1858"
+                         HEIGHT="136"
+                         WIDTH="2658"
+                         VPOS="1745"
+                         HPOS="874">
+                  <String ID="string_r1l7"
+                          HEIGHT="136"
+                          WIDTH="2658"
+                          VPOS="1745"
+                          HPOS="874"
+                          CONTENT="RIPEPORA, è antica citta, ò vogliamo dire oppido della Hyspania, nelli Cordubesi, et si dicono Ripepori Faede"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="890,1900 1020,1901 1151,1902 1281,1904 1412,1906 1543,1908 1673,1912 1804,1914 1934,1916 2065,1920 2196,1922 2326,1925 2457,1928 2587,1930 2718,1933 2849,1936 2979,1938 3110,1940 3240,1942 3371,1944 3502,1946"
+                         HEIGHT="116"
+                         WIDTH="2612"
+                         VPOS="1853"
+                         HPOS="890">
+                  <String ID="string_r1l8"
+                          HEIGHT="116"
+                          WIDTH="2612"
+                          VPOS="1853"
+                          HPOS="890"
+                          CONTENT="rati, col popolo Romano. Onde Plinio, dice RIPEPORA FAEDERATORVM, nellibro terzo al capo primo nelle"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="878,2010 1009,2011 1141,2012 1273,2014 1405,2016 1537,2018 1669,2020 1801,2022 1933,2024 2065,2024 2197,2026 2328,2028 2460,2030 2592,2030 2724,2032 2856,2032 2988,2034 3120,2034 3252,2036 3384,2036 3516,2036"
+                         HEIGHT="95"
+                         WIDTH="2638"
+                         VPOS="1964"
+                         HPOS="878">
+                  <String ID="string_r1l9"
+                          HEIGHT="95"
+                          WIDTH="2638"
+                          VPOS="1964"
+                          HPOS="878"
+                          CONTENT="cose dell'Europa, et li fa finitimi alli Sacili Martiali habitatori di Onoba. et secondo scrisse Hecataeo, fù"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="882,2104 946,2106 1011,2108 1076,2112 1141,2113 1206,2114 1270,2116 1335,2116 1400,2118 1465,2118 1530,2118 1594,2120 1659,2120 1724,2120 1789,2122 1854,2122 1918,2122 1983,2124 2048,2126 2113,2128 2178,2130"
+                         HEIGHT="95"
+                         WIDTH="1296"
+                         VPOS="2058"
+                         HPOS="882">
+                  <String ID="string_r1l10"
+                          HEIGHT="95"
+                          WIDTH="1296"
+                          VPOS="2058"
+                          HPOS="882"
+                          CONTENT="un tempo habitata da Murgi popoli della Baetica."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="864,2222 1001,2223 1139,2224 1277,2226 1414,2226 1552,2228 1690,2228 1827,2228 1965,2228 2103,2228 2241,2230 2378,2230 2516,2232 2654,2232 2791,2234 2929,2236 3067,2238 3204,2242 3342,2246 3480,2250 3618,2254"
+                         HEIGHT="98"
+                         WIDTH="2754"
+                         VPOS="2178"
+                         HPOS="864">
+                  <String ID="string_r1l11"
+                          HEIGHT="98"
+                          WIDTH="2754"
+                          VPOS="2178"
+                          HPOS="864"
+                          CONTENT="RIPHEI. ΡΙΦΕΙΟΙ, sono antichissimi populi dell'Asia nella Paphlagonia. per cio che dice Iosopho nel primo dell'antichi¬"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="902,2320 1026,2318 1150,2318 1274,2318 1398,2318 1522,2316 1646,2316 1770,2316 1894,2316 2018,2316 2142,2318 2266,2318 2390,2320 2514,2321 2638,2323 2762,2326 2886,2328 3010,2332 3134,2336 3258,2341 3382,2346"
+                         HEIGHT="96"
+                         WIDTH="2480"
+                         VPOS="2272"
+                         HPOS="902">
+                  <String ID="string_r1l12"
+                          HEIGHT="96"
+                          WIDTH="2480"
+                          VPOS="2272"
+                          HPOS="902"
+                          CONTENT="ta, ch essi Riphei furono detti da Riphat figliuolo di Achenaz, nepotedi Iaphet, et detti dipo paphlagoni."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="858,2548 991,2551 1125,2554 1259,2556 1393,2558 1527,2560 1660,2560 1794,2562 1928,2562 2062,2562 2196,2564 2329,2564 2463,2564 2597,2564 2731,2566 2865,2566 2998,2568 3132,2570 3266,2572 3400,2574 3534,2578"
+                         HEIGHT="103"
+                         WIDTH="2676"
+                         VPOS="2499"
+                         HPOS="858">
+                  <String ID="string_r1l13"
+                          HEIGHT="103"
+                          WIDTH="2676"
+                          VPOS="2499"
+                          HPOS="858"
+                          CONTENT="RIPHAEI, sono Monti, che alcuni scrivono per spiratione Rhipaei. che i greci dicono, ΡΙΠΑΙΑ, ΟΡΗ, per"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="870,2660 1003,2660 1137,2660 1271,2662 1405,2662 1539,2664 1672,2666 1806,2668 1940,2669 2074,2670 2208,2672 2341,2674 2475,2676 2609,2678 2743,2680 2877,2683 3010,2685 3144,2687 3278,2689 3412,2690 3546,2692"
+                         HEIGHT="102"
+                         WIDTH="2676"
+                         VPOS="2613"
+                         HPOS="870">
+                  <String ID="string_r1l14"
+                          HEIGHT="102"
+                          WIDTH="2676"
+                          VPOS="2613"
+                          HPOS="870"
+                          CONTENT=".Π. altri per .Φ. ΡΙΦΑΙΑ, posti nella parte settentrionale della Scythia. de quali fa menzione plinio in molti"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="878,2756 1010,2758 1142,2759 1274,2760 1406,2762 1539,2764 1671,2766 1803,2769 1935,2770 2067,2774 2200,2774 2332,2776 2464,2778 2596,2780 2728,2780 2860,2780 2993,2780 3125,2780 3257,2780 3389,2778 3522,2776"
+                         HEIGHT="94"
+                         WIDTH="2644"
+                         VPOS="2709"
+                         HPOS="878">
+                  <String ID="string_r1l15"
+                          HEIGHT="94"
+                          WIDTH="2644"
+                          VPOS="2709"
+                          HPOS="878"
+                          CONTENT="luoghi. et particolarmente nellibro quarto al capo duodecimo. et li scrive come, molti greci li scrissero senza"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="872,2856 1004,2856 1136,2856 1268,2858 1401,2860 1533,2861 1665,2863 1798,2866 1930,2868 2062,2870 2195,2874 2327,2876 2459,2878 2591,2880 2724,2882 2856,2884 2988,2884 3121,2884 3253,2884 3385,2884 3518,2882"
+                         HEIGHT="100"
+                         WIDTH="2646"
+                         VPOS="2808"
+                         HPOS="872">
+                  <String ID="string_r1l16"
+                          HEIGHT="100"
+                          WIDTH="2646"
+                          VPOS="2808"
+                          HPOS="872"
+                          CONTENT="spiratione nella prima Syllaba, facendoli venire ΑΠΟ, ΑΙ ΡΙΠΑΔΟΣ. dal fiato vehementissimo del vento che"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="874,2960 1008,2958 1142,2958 1276,2956 1411,2956 1545,2956 1679,2956 1814,2956 1948,2958 2082,2958 2217,2958 2351,2960 2485,2962 2619,2963 2754,2964 2888,2966 3022,2968 3157,2970 3291,2973 3425,2976 3560,2978"
+                         HEIGHT="89"
+                         WIDTH="2686"
+                         VPOS="2911"
+                         HPOS="874">
+                  <String ID="string_r1l17"
+                          HEIGHT="89"
+                          WIDTH="2686"
+                          VPOS="2911"
+                          HPOS="874"
+                          CONTENT="ricevono della Borea, et li latini scrivono per fare differenza dalli Rhiphaei Monti d'Arcadia, che si dicono con"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="872,3052 1004,3051 1137,3050 1269,3048 1402,3048 1535,3046 1667,3046 1800,3046 1932,3046 2065,3046 2198,3047 2330,3048 2463,3048 2595,3050 2728,3052 2861,3053 2993,3054 3126,3056 3258,3058 3391,3062 3524,3064"
+                         HEIGHT="76"
+                         WIDTH="2652"
+                         VPOS="3007"
+                         HPOS="872">
+                  <String ID="string_r1l18"
+                          HEIGHT="76"
+                          WIDTH="2652"
+                          VPOS="3007"
+                          HPOS="872"
+                          CONTENT="aspiratione, da questi settentrionali, come dice Servio Honorato grammatico, donde forma RHIPHAEVS, alla"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="858,3138 992,3138 1126,3136 1260,3136 1394,3134 1528,3134 1662,3132 1796,3132 1930,3132 2064,3130 2199,3130 2333,3130 2467,3130 2601,3130 2735,3132 2869,3134 3003,3135 3137,3138 3271,3140 3405,3145 3540,3150"
+                         HEIGHT="78"
+                         WIDTH="2682"
+                         VPOS="3091"
+                         HPOS="858">
+                  <String ID="string_r1l19"
+                          HEIGHT="78"
+                          WIDTH="2682"
+                          VPOS="3091"
+                          HPOS="858"
+                          CONTENT="greca, ΡΙΦΑΙΟΣ, come Virgilio nel terzo della Georgica recita. GENS EFERAENA VIRVM RIPHAEO TVNDI¬"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="866,3230 998,3230 1130,3230 1262,3230 1395,3228 1527,3228 1659,3228 1792,3228 1924,3228 2056,3228 2189,3228 2321,3228 2453,3228 2585,3228 2718,3228 2850,3230 2982,3230 3115,3232 3247,3232 3379,3234 3512,3236"
+                         HEIGHT="75"
+                         WIDTH="2646"
+                         VPOS="3183"
+                         HPOS="866">
+                  <String ID="string_r1l20"
+                          HEIGHT="75"
+                          WIDTH="2646"
+                          VPOS="3183"
+                          HPOS="866"
+                          CONTENT="TVR EVRO. Rhiphaeo, ò vero RHIPHAEVS, è nome di uno de cinthauri sepolto in esse Monte dell'Arcadia,"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="876,3328 1008,3330 1140,3332 1273,3334 1405,3334 1538,3336 1670,3336 1802,3338 1935,3338 2067,3338 2200,3340 2332,3340 2464,3340 2597,3340 2729,3340 2862,3342 2994,3342 3126,3342 3259,3344 3391,3344 3524,3346"
+                         HEIGHT="85"
+                         WIDTH="2648"
+                         VPOS="3283"
+                         HPOS="876">
+                  <String ID="string_r1l21"
+                          HEIGHT="85"
+                          WIDTH="2648"
+                          VPOS="3283"
+                          HPOS="876"
+                          CONTENT="secondo Callysthene. Lo quale come piace ad Ovidio fù figliuolo di Ixione et di Nube. nominandolo nel¬"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="888,3422 1020,3427 1152,3432 1284,3436 1416,3440 1549,3442 1681,3444 1813,3446 1945,3448 2077,3448 2210,3448 2342,3448 2474,3448 2606,3448 2738,3446 2870,3444 3003,3444 3135,3442 3267,3440 3399,3440 3532,3438"
+                         HEIGHT="89"
+                         WIDTH="2644"
+                         VPOS="3380"
+                         HPOS="888">
+                  <String ID="string_r1l22"
+                          HEIGHT="89"
+                          WIDTH="2644"
+                          VPOS="3380"
+                          HPOS="888"
+                          CONTENT="libro duodecimo delle trasformationi. Et Rhiphaeo fù anchora Troiano celebre in causa di gustitia di cui parla"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="886,3508 928,3510 970,3511 1012,3512 1054,3514 1096,3516 1138,3518 1180,3518 1222,3520 1264,3522 1306,3524 1348,3524 1390,3526 1432,3528 1474,3529 1516,3530 1558,3532 1600,3532 1642,3534 1684,3534 1726,3534"
+                         HEIGHT="89"
+                         WIDTH="840"
+                         VPOS="3466"
+                         HPOS="886">
+                  <String ID="string_r1l23"
+                          HEIGHT="89"
+                          WIDTH="840"
+                          VPOS="3466"
+                          HPOS="886"
+                          CONTENT="Virgilio nel secondo dell'Aeneide."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="830,3648 964,3654 1098,3659 1233,3664 1367,3668 1502,3670 1636,3674 1770,3676 1905,3678 2039,3680 2174,3682 2308,3682 2442,3684 2577,3686 2711,3686 2846,3688 2980,3690 3114,3694 3249,3696 3383,3699 3518,3704"
+                         HEIGHT="116"
+                         WIDTH="2688"
+                         VPOS="3608"
+                         HPOS="830">
+                  <String ID="string_r1l24"
+                          HEIGHT="116"
+                          WIDTH="2688"
+                          VPOS="3608"
+                          HPOS="830"
+                          CONTENT="RIPHEAMA, è nome di oppido, ò vero città nell'Arabi Amathei, et Cenessiri, come disse Artemidoro."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="886,3766 1017,3768 1148,3770 1280,3771 1411,3772 1543,3774 1674,3774 1805,3774 1937,3775 2068,3776 2200,3776 2331,3776 2462,3776 2594,3776 2725,3778 2857,3778 2988,3778 3119,3780 3251,3780 3382,3782 3514,3784"
+                         HEIGHT="78"
+                         WIDTH="2628"
+                         VPOS="3726"
+                         HPOS="886">
+                  <String ID="string_r1l25"
+                          HEIGHT="78"
+                          WIDTH="2628"
+                          VPOS="3726"
+                          HPOS="886"
+                          CONTENT="et parimenti Plinio. et dice che esse nome suona Hordeum, che noi dicemo, orzo. i cittadini dicono Riphea"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="894,3870 922,3872 951,3872 980,3872 1008,3871 1037,3869 1066,3866"
+                         HEIGHT="79"
+                         WIDTH="172"
+                         VPOS="3817"
+                         HPOS="894">
+                  <String ID="string_r1l26"
+                          HEIGHT="79"
+                          WIDTH="172"
+                          VPOS="3817"
+                          HPOS="894"
+                          CONTENT="mani."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

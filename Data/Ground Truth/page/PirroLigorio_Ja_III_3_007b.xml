@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:34.135+01:00</Created>
+        <LastChange>2024-06-25T19:22:15.348+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902806" pageNr="14" tsid="174113545" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=FHLUVDRSQXLEMPPMCHDZYORD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=REJCASOULAHBQHYBUSKXUBBB" imageId="17873882"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_007b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337492113" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643801272123_918"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643801272123_917"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643801272123_918" custom="readingOrder {index:0;}">
+            <Coords points="3000,155 3355,152 3354,393 3010,388"/>
+            <TextLine id="line_1641287493140_1434" custom="readingOrder {index:0;}">
+                <Coords points="3089,170 3176,170 3176,220 3089,220"/>
+                <Baseline points="3089,215 3176,215"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1641287496650_1439" custom="readingOrder {index:1;}">
+                <Coords points="3179,294 3253,294 3253,344 3179,344"/>
+                <Baseline points="3179,339 3253,339"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>10
+7</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643801272123_917" custom="readingOrder {index:1;}">
+            <Coords points="365,180 3000,155 3010,388 3354,393 3352,2152 316,2147"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:15; length:6;}">
+                <Coords points="368,355 487,355 607,355 727,357 847,359 967,361 1086,363 1206,365 1326,367 1446,369 1566,371 1685,373 1805,375 1925,377 2045,379 2165,379 2284,381 2404,381 2524,381 2644,381 2764,379 2764,321 2644,323 2524,323 2404,323 2284,323 2165,321 2045,321 1925,319 1805,317 1685,315 1566,313 1446,311 1326,309 1206,307 1086,305 967,303 847,301 727,299 607,297 487,297 368,297"/>
+                <Baseline points="368,364 487,336 607,336 727,338 847,340 967,342 1086,344 1206,346 1326,348 1446,350 1566,352 1685,354 1805,356 1925,358 2045,360 2165,360 2284,362 2404,362 2524,362 2644,362 2764,360"/>
+                <TextEquiv>
+                    <Unicode>RAPTA. Raptae, ΡΑΠΤΑΙ, è città grande, et Metropoli dell'Aethiopia, sul Rapto fiume, overo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} Greek {offset:0; length:14;}">
+                <Coords points="444,433 560,435 676,439 792,441 908,443 1024,445 1140,447 1256,449 1372,450 1488,451 1604,453 1720,453 1836,455 1952,457 2068,457 2184,459 2300,461 2416,463 2532,467 2648,469 2764,473 2764,415 2648,411 2532,409 2416,405 2300,403 2184,401 2068,399 1952,399 1836,397 1720,395 1604,395 1488,393 1372,392 1256,391 1140,389 1024,387 908,385 792,383 676,381 560,377 444,375"/>
+                <Baseline points="443,433 560,416 676,420 792,422 908,424 1024,426 1140,428 1256,430 1372,431 1488,432 1604,434 1720,434 1836,436 1952,438 2068,438 2184,440 2300,442 2416,444 2532,448 2648,450 2764,454"/>
+                <TextEquiv>
+                    <Unicode>ΡΑΠΤΟΣ ΠΟΤΑΜΟΣ. dal quale fu detta secondo Herodoto, ove adoravano Baccho, Memnome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="428,521 543,523 659,523 775,525 890,525 1006,525 1122,527 1237,527 1353,527 1469,529 1585,529 1700,531 1816,532 1932,533 2047,535 2163,539 2279,542 2394,547 2510,552 2626,557 2742,563 2742,506 2626,500 2510,495 2394,490 2279,485 2163,482 2047,478 1932,476 1816,475 1700,474 1585,472 1469,472 1353,470 1237,470 1122,470 1006,468 890,468 775,468 659,466 543,466 428,464"/>
+                <Baseline points="430,522 543,504 658,502 775,506 890,506 1006,506 1122,508 1237,508 1353,508 1469,510 1585,510 1700,512 1816,513 1932,514 2047,516 2163,520 2279,523 2394,528 2510,533 2626,538 2742,544"/>
+                <TextEquiv>
+                    <Unicode>et l'Aurora, et è anchora citta metropoli della Barbaria. et da essa Rapta si scrive Raptaeo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="440,608 482,608 524,606 566,604 609,604 651,603 693,602 736,602 778,601 820,600 863,600 905,600 947,600 989,600 1032,601 1074,602 1116,602 1159,603 1201,604 1243,606 1286,606 1286,551 1243,551 1201,549 1159,548 1116,547 1074,547 1032,546 989,545 947,545 905,545 863,545 820,545 778,546 736,547 693,547 651,548 609,549 566,549 524,551 482,553 440,553"/>
+                <Baseline points="440,590 482,590 524,588 566,586 609,586 651,585 693,584 736,584 778,583 820,582 863,582 905,582 947,582 989,582 1032,583 1074,584 1116,584 1159,585 1201,586 1243,588 1286,588"/>
+                <TextEquiv>
+                    <Unicode>et Rapteuse, et Rapteate il gentile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:19; length:8;}">
+                <Coords points="376,2037 502,2037 629,2035 756,2033 883,2031 1010,2029 1136,2027 1263,2025 1390,2023 1517,2021 1644,2019 1770,2019 1897,2017 2024,2016 2151,2015 2278,2015 2404,2015 2531,2015 2658,2017 2785,2019 2912,2021 2912,1964 2785,1962 2658,1960 2531,1958 2404,1958 2278,1958 2151,1958 2024,1959 1897,1960 1770,1962 1644,1962 1517,1964 1390,1966 1263,1968 1136,1970 1010,1972 883,1974 756,1976 629,1978 502,1980 376,1980"/>
+                <Baseline points="376,2018 502,2018 629,2016 756,2014 883,2012 1010,2010 1136,2008 1263,2006 1390,2004 1517,2002 1644,2000 1770,2000 1897,1998 2024,1997 2151,1996 2278,1996 2404,1996 2531,1996 2658,1998 2785,2000 2912,2002"/>
+                <TextEquiv>
+                    <Unicode>RARENTO, Raventus, ΡΑΡΕΝΤΟΣ, è citta d'Italia presso di Stephano, donde deriva Rarentino, overo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} Greek {offset:0; length:10;}">
+                <Coords points="422,2111 526,2113 631,2113 736,2113 841,2113 946,2111 1051,2109 1156,2109 1261,2107 1366,2104 1471,2102 1575,2099 1680,2097 1785,2095 1890,2095 1995,2093 2100,2093 2205,2091 2310,2093 2415,2093 2520,2095 2520,2038 2415,2036 2310,2036 2205,2034 2100,2036 1995,2036 1890,2038 1785,2038 1680,2040 1575,2042 1471,2045 1366,2047 1261,2050 1156,2052 1051,2052 946,2054 841,2056 736,2056 631,2056 526,2056 422,2054"/>
+                <Baseline points="422,2092 526,2094 631,2094 736,2094 841,2094 946,2092 1051,2090 1156,2090 1261,2088 1366,2085 1471,2083 1575,2080 1680,2078 1785,2076 1890,2076 1995,2074 2100,2074 2205,2072 2310,2074 2415,2074 2520,2076"/>
+                <TextEquiv>
+                    <Unicode>ΡΑΡΕΝΤΙΝΟΣ, come vuole Dionysio Alicarnasseo: ma inquale parte Italica non lo dicono.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAPTA. Raptae, ΡΑΠΤΑΙ, è città grande, et Metropoli dell'Aethiopia, sul Rapto fiume, overo
+ΡΑΠΤΟΣ ΠΟΤΑΜΟΣ. dal quale fu detta secondo Herodoto, ove adoravano Baccho, Memnome
+et l'Aurora, et è anchora citta metropoli della Barbaria. et da essa Rapta si scrive Raptaeo
+et Rapteuse, et Rapteate il gentile.
+RARENTO, Raventus, ΡΑΡΕΝΤΟΣ, è citta d'Italia presso di Stephano, donde deriva Rarentino, overo
+ΡΑΡΕΝΤΙΝΟΣ, come vuole Dionysio Alicarnasseo: ma inquale parte Italica non lo dicono.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

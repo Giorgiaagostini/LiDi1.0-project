@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_033a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:03.22+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2954" WIDTH="2781" VPOS="300" HPOS="732">
+               <Shape>
+                  <Polygon POINTS="753,329 732,3240 3513,3254 3477,300"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="790,420 913,416 1037,415 1160,414 1284,414 1408,414 1531,414 1655,414 1778,416 1902,416 2026,418 2149,420 2273,422 2396,424 2520,427 2644,430 2767,432 2891,434 3014,436 3138,438 3262,440"
+                         HEIGHT="84"
+                         WIDTH="2472"
+                         VPOS="375"
+                         HPOS="790">
+                  <String ID="string_r1l1"
+                          HEIGHT="84"
+                          WIDTH="2472"
+                          VPOS="375"
+                          HPOS="790"
+                          CONTENT="RHOARA, ΡΩΑΡΗ, è città della Parthia Regione Asiatica, secondo scriveno Quadrato et Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="818,494 870,496 923,496 976,498 1029,498 1082,498 1134,498 1187,498 1240,498 1293,496 1346,496 1398,496 1451,494 1504,494 1557,494 1610,494 1662,494 1715,494 1768,495 1821,496 1874,498"
+                         HEIGHT="64"
+                         WIDTH="1056"
+                         VPOS="454"
+                         HPOS="818">
+                  <String ID="string_r1l2"
+                          HEIGHT="64"
+                          WIDTH="1056"
+                          VPOS="454"
+                          HPOS="818"
+                          CONTENT="da cui Rhoareno, et Rhoareo. et Rhoarense."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="798,602 917,597 1037,593 1157,590 1277,588 1397,586 1516,586 1636,586 1756,588 1876,590 1996,593 2115,597 2235,600 2355,605 2475,610 2595,614 2714,620 2834,625 2954,630 3074,637 3194,642"
+                         HEIGHT="117"
+                         WIDTH="2396"
+                         VPOS="545"
+                         HPOS="798">
+                  <String ID="string_r1l3"
+                          HEIGHT="117"
+                          WIDTH="2396"
+                          VPOS="545"
+                          HPOS="798"
+                          CONTENT="RHOAS, è la medesimo città ch'è Rhoara e Rhoare, cosi prima denominata secondo alcuni: ma se gabano."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="816,682 917,684 1019,686 1120,686 1222,686 1323,686 1425,684 1526,684 1628,684 1729,682 1831,682 1932,682 2034,682 2135,682 2237,684 2338,686 2440,690 2541,693 2643,698 2744,705 2846,712"
+                         HEIGHT="91"
+                         WIDTH="2030"
+                         VPOS="641"
+                         HPOS="816">
+                  <String ID="string_r1l4"
+                          HEIGHT="91"
+                          WIDTH="2030"
+                          VPOS="641"
+                          HPOS="816"
+                          CONTENT="Perchè Rhoas fu detta Laodicea, come la nomina diversamente Plinio nellibro quinto."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="810,1082 935,1078 1060,1076 1186,1074 1311,1074 1437,1074 1562,1074 1687,1075 1813,1076 1938,1078 2064,1082 2189,1084 2314,1088 2440,1090 2565,1094 2691,1098 2816,1100 2941,1104 3067,1106 3192,1110 3318,1112"
+                         HEIGHT="93"
+                         WIDTH="2508"
+                         VPOS="1037"
+                         HPOS="810">
+                  <String ID="string_r1l5"
+                          HEIGHT="93"
+                          WIDTH="2508"
+                          VPOS="1037"
+                          HPOS="810"
+                          CONTENT="RHOBOGDIO, ò Rhobogdium, ΡΩΒΓΟΔΙΟΝ, è Promontorio nella Hybernia, nominato da Ptolemaeo: donde sono"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="818,1158 859,1158 900,1158 942,1158 983,1158 1025,1158 1066,1158 1107,1158 1149,1158 1190,1158 1232,1158 1273,1158 1314,1158 1356,1156 1397,1156 1439,1156 1480,1156 1521,1156 1563,1156 1604,1156 1646,1156"
+                         HEIGHT="59"
+                         WIDTH="828"
+                         VPOS="1118"
+                         HPOS="818">
+                  <String ID="string_r1l6"
+                          HEIGHT="59"
+                          WIDTH="828"
+                          VPOS="1118"
+                          HPOS="818"
+                          CONTENT="detti i Rhobogodij populi Hybernici."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="806,1348 892,1350 979,1354 1066,1356 1153,1356 1240,1358 1326,1360 1413,1360 1500,1360 1587,1360 1674,1360 1760,1360 1847,1360 1934,1360 2021,1360 2108,1360 2194,1360 2281,1362 2368,1362 2455,1364 2542,1366"
+                         HEIGHT="82"
+                         WIDTH="1736"
+                         VPOS="1305"
+                         HPOS="806">
+                  <String ID="string_r1l7"
+                          HEIGHT="82"
+                          WIDTH="1736"
+                          VPOS="1305"
+                          HPOS="806"
+                          CONTENT="RHOCOBE, ΡΩΚΟΒΗ, è citta nella Thracia Regione: da cui Rhocobeni."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="786,1644 833,1646 881,1648 928,1650 976,1650 1024,1650 1071,1652 1119,1652 1166,1652 1214,1652 1262,1652 1309,1652 1357,1652 1404,1652 1452,1650 1500,1650 1547,1650 1595,1650 1642,1650 1690,1650 1738,1650"
+                         HEIGHT="72"
+                         WIDTH="952"
+                         VPOS="1601"
+                         HPOS="786">
+                  <String ID="string_r1l8"
+                          HEIGHT="72"
+                          WIDTH="952"
+                          VPOS="1601"
+                          HPOS="786"
+                          CONTENT="RHODE, ΡΩΔΗ, è fiume della Sarmatia"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="806,1900 938,1906 1070,1910 1202,1914 1334,1916 1466,1918 1598,1918 1730,1916 1862,1916 1994,1914 2126,1912 2258,1910 2390,1910 2522,1908 2654,1908 2786,1908 2918,1910 3050,1912 3182,1916 3314,1922 3446,1930"
+                         HEIGHT="88"
+                         WIDTH="2640"
+                         VPOS="1861"
+                         HPOS="806">
+                  <String ID="string_r1l9"
+                          HEIGHT="88"
+                          WIDTH="2640"
+                          VPOS="1861"
+                          HPOS="806"
+                          CONTENT="RHODIA, è città della Lycia secondo Ptolemaeo scrive, et Rhodia è nome della Nympha detta da Hesiodo dal fluere."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="842,1990 971,1992 1101,1994 1231,1994 1361,1994 1491,1995 1620,1994 1750,1994 1880,1994 2010,1994 2140,1992 2269,1992 2399,1992 2529,1992 2659,1992 2789,1994 2918,1994 3048,1996 3178,1999 3308,2004 3438,2008"
+                         HEIGHT="76"
+                         WIDTH="2596"
+                         VPOS="1951"
+                         HPOS="842">
+                  <String ID="string_r1l10"
+                          HEIGHT="76"
+                          WIDTH="2596"
+                          VPOS="1951"
+                          HPOS="842"
+                          CONTENT="et da essa si scrive, Rhodiaco, Rhodiaca, come Rhodio, Rhodia, et Rhodiense. Come nel latino. Rhodiacus, Rhodiaca,"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="828,2072 956,2074 1084,2076 1212,2078 1341,2078 1469,2078 1597,2078 1726,2076 1854,2076 1982,2074 2111,2072 2239,2072 2367,2072 2495,2071 2624,2072 2752,2072 2880,2074 3009,2078 3137,2082 3265,2086 3394,2092"
+                         HEIGHT="78"
+                         WIDTH="2566"
+                         VPOS="2033"
+                         HPOS="828">
+                  <String ID="string_r1l11"
+                          HEIGHT="78"
+                          WIDTH="2566"
+                          VPOS="2033"
+                          HPOS="828"
+                          CONTENT="Rhodiacum, Rhodius, Rhodia, Rhodium, et Rhodiensis. Come Rhodiense il pelago à Mare, ch'è proprio nell'Asia"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="828,2150 854,2153 880,2155 906,2156 932,2157 959,2159 985,2160 1011,2162 1037,2162 1063,2164 1090,2164 1116,2164 1142,2166 1168,2166 1194,2166 1221,2166 1247,2164 1273,2164 1299,2164 1326,2164"
+                         HEIGHT="73"
+                         WIDTH="498"
+                         VPOS="2112"
+                         HPOS="828">
+                  <String ID="string_r1l12"
+                          HEIGHT="73"
+                          WIDTH="498"
+                          VPOS="2112"
+                          HPOS="828"
+                          CONTENT="secondo Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="808,2398 940,2396 1073,2396 1205,2396 1338,2396 1470,2396 1603,2396 1735,2398 1868,2398 2000,2398 2133,2400 2265,2400 2398,2400 2530,2400 2663,2400 2795,2400 2928,2398 3060,2398 3193,2396 3325,2392 3458,2390"
+                         HEIGHT="62"
+                         WIDTH="2650"
+                         VPOS="2355"
+                         HPOS="808">
+                  <String ID="string_r1l13"
+                          HEIGHT="62"
+                          WIDTH="2650"
+                          VPOS="2355"
+                          HPOS="808"
+                          CONTENT="RHODIOPOLI, Rhodiopolis, ΡΩΔΙΟΥΠΟΛΙΣ, è citta nella Lycia Regione, secondo Plinio nel quinto libro al capo ventesi¬"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="812,2472 848,2472 885,2473 921,2474 958,2474 995,2474 1031,2474 1068,2474 1104,2474 1141,2474 1178,2474 1214,2472 1251,2472 1287,2472 1324,2470 1361,2470 1397,2470 1434,2468 1470,2468 1507,2466 1544,2466"
+                         HEIGHT="60"
+                         WIDTH="732"
+                         VPOS="2431"
+                         HPOS="812">
+                  <String ID="string_r1l14"
+                          HEIGHT="60"
+                          WIDTH="732"
+                          VPOS="2431"
+                          HPOS="812"
+                          CONTENT="mo settimo: da cui Rhodiopoliti."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="816,2790 946,2790 1077,2790 1208,2790 1338,2790 1469,2790 1600,2790 1730,2788 1861,2788 1992,2788 2123,2788 2253,2786 2384,2786 2515,2784 2645,2784 2776,2782 2907,2780 3037,2780 3168,2777 3299,2775 3453,2785"
+                         HEIGHT="75"
+                         WIDTH="2614"
+                         VPOS="2734"
+                         HPOS="816">
+                  <String ID="string_r1l15"
+                          HEIGHT="75"
+                          WIDTH="2614"
+                          VPOS="2734"
+                          HPOS="816"
+                          CONTENT="RHODIO, Rhodius, ΡΩΔΙΟΣ, e fiume nella Troade Regione, di cui parla plinio nel quinto libro al capo trenta. et Rhodio"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="828,2868 958,2867 1088,2866 1219,2866 1349,2866 1480,2866 1610,2866 1740,2866 1871,2866 2001,2866 2132,2866 2262,2866 2392,2866 2523,2866 2653,2864 2784,2864 2914,2862 3044,2860 3175,2858 3305,2854 3436,2852"
+                         HEIGHT="73"
+                         WIDTH="2608"
+                         VPOS="2814"
+                         HPOS="828">
+                  <String ID="string_r1l16"
+                          HEIGHT="73"
+                          WIDTH="2608"
+                          VPOS="2814"
+                          HPOS="828"
+                          CONTENT="è unaltro fiume della Hispania. et unaltro terzo fiume è nella Sarmatia. Ma quello del Troadeo, nelle favole de"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="810,2942 943,2944 1077,2944 1210,2946 1344,2946 1477,2946 1611,2946 1744,2944 1878,2944 2011,2944 2145,2942 2278,2942 2412,2940 2545,2940 2679,2938 2812,2938 2946,2938 3079,2936 3213,2936 3346,2936 3480,2936"
+                         HEIGHT="61"
+                         WIDTH="2670"
+                         VPOS="2902"
+                         HPOS="810">
+                  <String ID="string_r1l17"
+                          HEIGHT="61"
+                          WIDTH="2670"
+                          VPOS="2902"
+                          HPOS="810"
+                          CONTENT="greci viene celebrato per l'amore di Paride et di Venere, ove in pastore Venere lo favori poscia al fiume Simoenta"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="830,3014 869,3014 909,3014 949,3014 989,3014 1029,3014 1068,3014 1108,3014 1148,3014 1188,3014 1228,3014 1267,3014 1307,3014 1347,3014 1387,3014 1427,3014 1466,3014 1506,3014 1546,3014 1586,3014 1626,3012"
+                         HEIGHT="53"
+                         WIDTH="796"
+                         VPOS="2978"
+                         HPOS="830">
+                  <String ID="string_r1l18"
+                          HEIGHT="53"
+                          WIDTH="796"
+                          VPOS="2978"
+                          HPOS="830"
+                          CONTENT="idazo: nel giuditio delle tre Dee."/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="788,3094 918,3094 1048,3094 1178,3093 1308,3092 1439,3092 1569,3092 1699,3090 1829,3088 1959,3088 2090,3086 2220,3082 2350,3080 2480,3078 2610,3074 2740,3069 2871,3064 3001,3059 3131,3054 3261,3046 3392,3040"
+                         HEIGHT="112"
+                         WIDTH="2604"
+                         VPOS="3001"
+                         HPOS="788">
+                  <String ID="string_r1l19"
+                          HEIGHT="112"
+                          WIDTH="2604"
+                          VPOS="3001"
+                          HPOS="788"
+                          CONTENT="RHODOEII, da, ΡΩΔΟΗ che nome della città dell'India, da cui il gentile dice Stephano Rhodoete, ò, ΡΩΔΟΗΤΗΣ. come è"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="814,3174 946,3174 1078,3174 1211,3172 1343,3172 1476,3172 1608,3170 1740,3170 1873,3168 2005,3168 2138,3166 2270,3164 2402,3162 2535,3160 2667,3158 2800,3154 2932,3152 3064,3148 3197,3144 3329,3140 3462,3136"
+                         HEIGHT="102"
+                         WIDTH="2648"
+                         VPOS="3093"
+                         HPOS="814">
+                  <String ID="string_r1l20"
+                          HEIGHT="102"
+                          WIDTH="2648"
+                          VPOS="3093"
+                          HPOS="814"
+                          CONTENT="detto piu oltre nel nome della città. Alcuni scriveno essi populi per la .Ω. altri per la .Ο. picciola come usa Stephano."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

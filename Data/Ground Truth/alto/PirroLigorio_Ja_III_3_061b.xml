@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_061b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:11.871+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r2" HEIGHT="243" WIDTH="225" VPOS="158" HPOS="3075">
+               <Shape>
+                  <Polygon POINTS="3116,158 3075,401 3296,397 3300,176"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="3156,236 3181,233 3206,230 3231,223 3256,220"
+                         HEIGHT="98"
+                         WIDTH="141"
+                         VPOS="174"
+                         HPOS="3133">
+                  <String ID="string_r2l1"
+                          HEIGHT="98"
+                          WIDTH="141"
+                          VPOS="174"
+                          HPOS="3133"
+                          CONTENT="64"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="3116,354 3141,361 3166,363 3191,363 3216,358"
+                         HEIGHT="176"
+                         WIDTH="139"
+                         VPOS="248"
+                         HPOS="3097">
+                  <String ID="string_r2l2"
+                          HEIGHT="176"
+                          WIDTH="139"
+                          VPOS="248"
+                          HPOS="3097"
+                          CONTENT="61"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r1" HEIGHT="4082" WIDTH="2728" VPOS="349" HPOS="360">
+               <Shape>
+                  <Polygon POINTS="360,349 360,4431 3088,4384 2994,354"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="414,440 537,438 660,438 783,438 907,438 1030,438 1153,440 1277,442 1400,444 1523,446 1647,448 1770,452 1893,454 2016,456 2140,460 2263,462 2386,464 2510,466 2633,468 2756,470 2880,470"
+                         HEIGHT="115"
+                         WIDTH="2500"
+                         VPOS="373"
+                         HPOS="397">
+                  <String ID="string_r1l1"
+                          HEIGHT="115"
+                          WIDTH="2500"
+                          VPOS="373"
+                          HPOS="397"
+                          CONTENT="nel quarto libro de Ponto, et si chiamava gia Coralio, et nasce nel monte Dindymo, dal quale"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="400,526 523,526 646,528 769,530 892,530 1016,532 1139,532 1262,534 1385,534 1508,536 1632,536 1755,536 1878,538 2001,538 2124,538 2248,538 2371,538 2494,538 2617,538 2740,538 2864,538"
+                         HEIGHT="100"
+                         WIDTH="2497"
+                         VPOS="463"
+                         HPOS="383">
+                  <String ID="string_r1l2"
+                          HEIGHT="100"
+                          WIDTH="2497"
+                          VPOS="463"
+                          HPOS="383"
+                          CONTENT="si appella Cybele Dindymea. Sacrificavano gli Helidi ad'Alphaeo, altri al Fonte Anigrese perli amori"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="424,624 547,626 671,626 794,628 918,628 1041,628 1165,628 1288,626 1412,626 1535,624 1659,624 1782,622 1906,620 2029,618 2153,618 2276,616 2400,616 2523,616 2647,614 2770,616 2894,616"
+                         HEIGHT="100"
+                         WIDTH="2503"
+                         VPOS="559"
+                         HPOS="408">
+                  <String ID="string_r1l3"
+                          HEIGHT="100"
+                          WIDTH="2503"
+                          VPOS="559"
+                          HPOS="408"
+                          CONTENT="et Vaticinij, al Fonte Langia, al Ionide alle nymphe Anigresi et alle altre, chiamate Anchirrhoe, Ione"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="428,718 550,716 672,716 794,714 917,712 1039,710 1161,710 1284,708 1406,708 1528,706 1651,706 1773,704 1895,704 2017,702 2140,702 2262,700 2384,698 2507,696 2629,694 2751,692 2874,688"
+                         HEIGHT="138"
+                         WIDTH="2478"
+                         VPOS="620"
+                         HPOS="412">
+                  <String ID="string_r1l4"
+                          HEIGHT="138"
+                          WIDTH="2478"
+                          VPOS="620"
+                          HPOS="412"
+                          CONTENT="Myrtessa; et al fiume Amphriso, all'Eurota perlo amore di Iove et di Leda, et non era citta ne greca"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="416,820 538,818 661,816 784,813 907,811 1030,808 1153,806 1276,804 1399,802 1522,800 1645,800 1767,798 1890,796 2013,794 2136,792 2259,790 2382,788 2505,786 2628,784 2751,781 2874,778"
+                         HEIGHT="108"
+                         WIDTH="2490"
+                         VPOS="751"
+                         HPOS="398">
+                  <String ID="string_r1l5"
+                          HEIGHT="108"
+                          WIDTH="2490"
+                          VPOS="751"
+                          HPOS="398"
+                          CONTENT="ne latina, che non venerassero i Fonti et li Fiumi, et i Mari: come fece Alexandro Magno che sacri"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="410,922 535,918 660,914 786,912 911,908 1037,906 1162,904 1287,902 1413,900 1538,898 1664,896 1789,894 1914,892 2040,890 2165,888 2291,887 2416,886 2541,884 2667,882 2792,880 2918,880"
+                         HEIGHT="122"
+                         WIDTH="2541"
+                         VPOS="831"
+                         HPOS="393">
+                  <String ID="string_r1l6"
+                          HEIGHT="122"
+                          WIDTH="2541"
+                          VPOS="831"
+                          HPOS="393"
+                          CONTENT="fico all'oceano, come origine et padre di tutti ifiumi et degli Iddij chiamati dell'acque et delle Nym"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="422,994 545,992 668,992 792,990 915,990 1039,988 1162,987 1285,986 1409,984 1532,984 1656,982 1779,982 1902,980 2026,980 2149,978 2273,978 2396,976 2519,976 2643,974 2766,974 2890,974"
+                         HEIGHT="118"
+                         WIDTH="2501"
+                         VPOS="910"
+                         HPOS="406">
+                  <String ID="string_r1l7"
+                          HEIGHT="118"
+                          WIDTH="2501"
+                          VPOS="910"
+                          HPOS="406"
+                          CONTENT="phe: et partico larmente Veneravano Glauco et Galathea, Protheo et Idothea suafigliuola, Ne"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="418,1078 541,1078 664,1080 787,1080 910,1078 1034,1078 1157,1076 1280,1076 1403,1074 1526,1072 1650,1070 1773,1068 1896,1067 2019,1066 2142,1064 2266,1062 2389,1060 2512,1060 2635,1058 2758,1058 2882,1058"
+                         HEIGHT="108"
+                         WIDTH="2494"
+                         VPOS="998"
+                         HPOS="403">
+                  <String ID="string_r1l8"
+                          HEIGHT="108"
+                          WIDTH="2494"
+                          VPOS="998"
+                          HPOS="403"
+                          CONTENT="reo et le Nereide, et Neptuno, con trecento Iddij dell'acque et maschi et femine, et sopra alle"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="418,1160 540,1160 662,1160 785,1160 907,1160 1030,1160 1152,1158 1274,1158 1397,1156 1519,1156 1642,1154 1764,1152 1886,1152 2009,1150 2131,1148 2254,1148 2376,1146 2498,1144 2621,1142 2743,1142 2866,1140"
+                         HEIGHT="113"
+                         WIDTH="2481"
+                         VPOS="1075"
+                         HPOS="402">
+                  <String ID="string_r1l9"
+                          HEIGHT="113"
+                          WIDTH="2481"
+                          VPOS="1075"
+                          HPOS="402"
+                          CONTENT="Donne Venere et Doride. Melicerta et Palemone; si che non manchavano all'antichi i nomi"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="420,1250 543,1250 667,1250 791,1250 915,1250 1039,1250 1163,1248 1287,1248 1411,1246 1535,1246 1659,1244 1782,1243 1906,1242 2030,1240 2154,1240 2278,1238 2402,1238 2526,1236 2650,1236 2774,1236 2898,1236"
+                         HEIGHT="123"
+                         WIDTH="2509"
+                         VPOS="1171"
+                         HPOS="404">
+                  <String ID="string_r1l10"
+                          HEIGHT="123"
+                          WIDTH="2509"
+                          VPOS="1171"
+                          HPOS="404"
+                          CONTENT="deloro iddij de Fonti: ma i Romani universalmente, al sole et Aesculapio et alle Figliole li con"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="408,1338 532,1338 656,1338 780,1336 905,1336 1029,1336 1153,1336 1278,1334 1402,1334 1526,1332 1651,1332 1775,1332 1899,1330 2023,1330 2148,1330 2272,1328 2396,1328 2521,1328 2645,1328 2769,1328 2894,1328"
+                         HEIGHT="125"
+                         WIDTH="2519"
+                         VPOS="1250"
+                         HPOS="392">
+                  <String ID="string_r1l11"
+                          HEIGHT="125"
+                          WIDTH="2519"
+                          VPOS="1250"
+                          HPOS="392"
+                          CONTENT="secrarono: et à questi facevano la sollennita Fontande come piace à Varro, ma Festo Pompeio Fon"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="434,1428 556,1430 678,1430 800,1430 922,1430 1045,1430 1167,1430 1289,1430 1411,1428 1533,1428 1656,1426 1778,1426 1900,1424 2022,1422 2144,1422 2267,1420 2389,1418 2511,1418 2633,1416 2755,1416 2878,1414"
+                         HEIGHT="123"
+                         WIDTH="2475"
+                         VPOS="1341"
+                         HPOS="417">
+                  <String ID="string_r1l12"
+                          HEIGHT="123"
+                          WIDTH="2475"
+                          VPOS="1341"
+                          HPOS="417"
+                          CONTENT="tinalia dice essere Ferie dirette et dedicate alli Fonti, et intal hora si coronavano di fiori, et si gitta"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="438,1516 560,1516 683,1516 805,1516 928,1516 1051,1516 1173,1514 1296,1512 1418,1512 1541,1510 1664,1508 1786,1506 1909,1504 2031,1502 2154,1500 2277,1499 2399,1498 2522,1496 2644,1494 2767,1494 2890,1494"
+                         HEIGHT="122"
+                         WIDTH="2485"
+                         VPOS="1432"
+                         HPOS="421">
+                  <String ID="string_r1l13"
+                          HEIGHT="122"
+                          WIDTH="2485"
+                          VPOS="1432"
+                          HPOS="421"
+                          CONTENT="vano esse corone ne Fonti, et coronavano i Pozzi. Et cosi facevano gli habitatori del parnasso nell'"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="430,1604 552,1602 674,1600 797,1599 919,1598 1042,1596 1164,1594 1286,1592 1409,1590 1531,1588 1654,1588 1776,1586 1898,1584 2021,1584 2143,1582 2266,1582 2388,1582 2510,1580 2633,1580 2755,1582 2878,1582"
+                         HEIGHT="114"
+                         WIDTH="2478"
+                         VPOS="1526"
+                         HPOS="414">
+                  <String ID="string_r1l14"
+                          HEIGHT="114"
+                          WIDTH="2478"
+                          VPOS="1526"
+                          HPOS="414"
+                          CONTENT="Helicone, quelli del pegaeo, ò, ΠΗΓΑΙΟΣ, del qual bevevano. Ma in Roma ornavano la Porta Fontilale, la"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="440,1692 562,1690 685,1690 808,1688 930,1688 1053,1686 1176,1684 1298,1684 1421,1682 1544,1680 1667,1679 1789,1678 1912,1676 2035,1674 2157,1674 2280,1672 2403,1672 2525,1672 2648,1672 2771,1672 2894,1672"
+                         HEIGHT="114"
+                         WIDTH="2488"
+                         VPOS="1613"
+                         HPOS="423">
+                  <String ID="string_r1l15"
+                          HEIGHT="114"
+                          WIDTH="2488"
+                          VPOS="1613"
+                          HPOS="423"
+                          CONTENT="quale prima si chiamava Capena, intalhora quando andavano fuori di essa in pompa colle corone à dedicarle"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="438,1778 559,1780 681,1778 803,1778 925,1778 1047,1776 1168,1776 1290,1774 1412,1774 1534,1772 1656,1770 1777,1770 1899,1768 2021,1766 2143,1765 2265,1764 2386,1764 2508,1762 2630,1762 2752,1762 2874,1762"
+                         HEIGHT="137"
+                         WIDTH="2466"
+                         VPOS="1694"
+                         HPOS="423">
+                  <String ID="string_r1l16"
+                          HEIGHT="137"
+                          WIDTH="2466"
+                          VPOS="1694"
+                          HPOS="423"
+                          CONTENT="a i Fonti: et Fudetta Fontinale dala copia dele vene de Fonti, et Iuvenale percio la dice Madida Capena"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="438,1876 558,1874 679,1873 800,1871 921,1870 1042,1868 1163,1866 1284,1864 1405,1864 1526,1862 1647,1860 1767,1860 1888,1858 2009,1856 2130,1856 2251,1854 2372,1854 2493,1852 2614,1850 2735,1850 2856,1848"
+                         HEIGHT="106"
+                         WIDTH="2449"
+                         VPOS="1790"
+                         HPOS="422">
+                  <String ID="string_r1l17"
+                          HEIGHT="106"
+                          WIDTH="2449"
+                          VPOS="1790"
+                          HPOS="422"
+                          CONTENT="cosi nella seconda Satyra. SVBSTITIT AD VETERES ARCVS, MADIDAMQVE CAPENAM. dela cui porta Livio"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="440,1962 562,1960 685,1958 807,1956 930,1954 1053,1954 1175,1952 1298,1952 1420,1950 1543,1950 1666,1948 1788,1948 1911,1946 2033,1946 2156,1944 2279,1944 2401,1944 2524,1942 2646,1942 2769,1940 2892,1940"
+                         HEIGHT="107"
+                         WIDTH="2484"
+                         VPOS="1876"
+                         HPOS="424">
+                  <String ID="string_r1l18"
+                          HEIGHT="107"
+                          WIDTH="2484"
+                          VPOS="1876"
+                          HPOS="424"
+                          CONTENT="parla cosi dicendo. AEDILES ALTERAM PORTICVM AD PORTAM FONTINALEM AD MARTIS ARAM. Q VAIN"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="430,2038 552,2036 675,2036 798,2034 921,2034 1044,2034 1166,2034 1289,2034 1412,2034 1535,2034 1658,2034 1780,2034 1903,2034 2026,2034 2149,2034 2272,2034 2394,2036 2517,2034 2640,2034 2763,2034 2886,2034"
+                         HEIGHT="113"
+                         WIDTH="2487"
+                         VPOS="1978"
+                         HPOS="415">
+                  <String ID="string_r1l19"
+                          HEIGHT="113"
+                          WIDTH="2487"
+                          VPOS="1978"
+                          HPOS="415"
+                          CONTENT="CAMPOS ITER ESSET, PERDVXERE. Percio che era fuori di questa porta il Tempio di Marte Custode della citta"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="442,2128 563,2128 685,2128 807,2130 929,2130 1051,2130 1172,2130 1294,2130 1416,2132 1538,2132 1660,2132 1781,2132 1903,2132 2025,2132 2147,2132 2269,2132 2390,2132 2512,2132 2634,2134 2756,2134 2878,2136"
+                         HEIGHT="128"
+                         WIDTH="2465"
+                         VPOS="2061"
+                         HPOS="428">
+                  <String ID="string_r1l20"
+                          HEIGHT="128"
+                          WIDTH="2465"
+                          VPOS="2061"
+                          HPOS="428"
+                          CONTENT="ora per dire anchora dele cerimonie antiche dell'acque, i Romani particolarmente conducevano nel cir"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="440,2236 561,2238 683,2238 805,2238 926,2238 1048,2236 1170,2236 1291,2234 1413,2232 1535,2230 1657,2228 1778,2226 1900,2224 2022,2223 2143,2222 2265,2220 2387,2220 2508,2220 2630,2220 2752,2220 2874,2222"
+                         HEIGHT="112"
+                         WIDTH="2466"
+                         VPOS="2148"
+                         HPOS="423">
+                  <String ID="string_r1l21"
+                          HEIGHT="112"
+                          WIDTH="2466"
+                          VPOS="2148"
+                          HPOS="423"
+                          CONTENT="co dove facevano i giuochi et sacrificij circensi uno Euripo cio è Rivoletto di acqua Viva, per che"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="436,2336 558,2336 680,2338 802,2338 924,2338 1046,2338 1168,2336 1290,2336 1412,2334 1534,2332 1657,2332 1779,2330 1901,2328 2023,2326 2145,2324 2267,2322 2389,2320 2511,2318 2633,2318 2755,2316 2878,2316"
+                         HEIGHT="121"
+                         WIDTH="2476"
+                         VPOS="2238"
+                         HPOS="419">
+                  <String ID="string_r1l22"
+                          HEIGHT="121"
+                          WIDTH="2476"
+                          VPOS="2238"
+                          HPOS="419"
+                          CONTENT="in essi guochi si honorassero le cose dell'acque et dell'oceano, et per significare la vita di mortali essere"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="456,2432 575,2436 695,2438 815,2440 935,2440 1055,2438 1175,2438 1295,2436 1415,2434 1535,2432 1655,2430 1774,2426 1894,2424 2014,2420 2134,2418 2254,2416 2374,2414 2494,2412 2614,2412 2734,2410 2854,2412"
+                         HEIGHT="124"
+                         WIDTH="2432"
+                         VPOS="2332"
+                         HPOS="439">
+                  <String ID="string_r1l23"
+                          HEIGHT="124"
+                          WIDTH="2432"
+                          VPOS="2332"
+                          HPOS="439"
+                          CONTENT="simile à quella de Fonti, et venire dal suo origine à diventar stagni fiumi, et mari, et sono tutti"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="450,2538 573,2540 696,2540 819,2540 942,2540 1065,2538 1188,2537 1311,2534 1434,2532 1557,2528 1680,2525 1803,2522 1926,2518 2049,2516 2172,2512 2295,2510 2418,2508 2541,2507 2664,2506 2787,2507 2910,2508"
+                         HEIGHT="113"
+                         WIDTH="2492"
+                         VPOS="2451"
+                         HPOS="433">
+                  <String ID="string_r1l24"
+                          HEIGHT="113"
+                          WIDTH="2492"
+                          VPOS="2451"
+                          HPOS="433"
+                          CONTENT="correnti et muovibili et mutabili di fortuna et di quietudine: Il che disse ottimamente Euripide"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="464,2642 585,2642 706,2640 827,2638 948,2635 1069,2632 1190,2630 1311,2626 1432,2623 1553,2620 1675,2616 1796,2613 1917,2610 2038,2606 2159,2602 2280,2600 2401,2596 2522,2594 2643,2592 2764,2590 2886,2588"
+                         HEIGHT="149"
+                         WIDTH="2454"
+                         VPOS="2525"
+                         HPOS="448">
+                  <String ID="string_r1l25"
+                          HEIGHT="149"
+                          WIDTH="2454"
+                          VPOS="2525"
+                          HPOS="448"
+                          CONTENT="concio sia cosa che li fonti nascono et vengono dal suo origine cosi gli uhuomini, et sicome poi simuta"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="470,2736 591,2736 713,2734 834,2732 956,2730 1078,2726 1199,2724 1321,2720 1442,2716 1564,2712 1686,2708 1807,2704 1929,2701 2050,2698 2172,2694 2294,2692 2415,2688 2537,2686 2658,2685 2780,2684 2902,2684"
+                         HEIGHT="132"
+                         WIDTH="2465"
+                         VPOS="2642"
+                         HPOS="451">
+                  <String ID="string_r1l26"
+                          HEIGHT="132"
+                          WIDTH="2465"
+                          VPOS="2642"
+                          HPOS="451"
+                          CONTENT="no et pareno essere leistesse onde,e non sono quelle: ma simili à quelle di prima, et sicome sono hor liete"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="450,2832 573,2830 697,2830 821,2827 945,2824 1069,2820 1192,2817 1316,2814 1440,2810 1564,2806 1688,2800 1811,2796 1935,2792 2059,2790 2183,2786 2307,2782 2430,2780 2554,2778 2678,2776 2802,2774 2926,2774"
+                         HEIGHT="143"
+                         WIDTH="2506"
+                         VPOS="2747"
+                         HPOS="434">
+                  <String ID="string_r1l27"
+                          HEIGHT="143"
+                          WIDTH="2506"
+                          VPOS="2747"
+                          HPOS="434"
+                          CONTENT="et hor turbate et correno alMare Tranquillo et si convertono influtti, et poscia si tranquillino, cosi"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="454,2926 577,2924 700,2922 823,2918 946,2916 1069,2912 1192,2908 1315,2904 1438,2900 1561,2896 1684,2893 1807,2888 1930,2884 2053,2881 2176,2876 2299,2874 2422,2870 2545,2868 2668,2866 2791,2864 2914,2862"
+                         HEIGHT="181"
+                         WIDTH="2495"
+                         VPOS="2778"
+                         HPOS="437">
+                  <String ID="string_r1l28"
+                          HEIGHT="181"
+                          WIDTH="2495"
+                          VPOS="2778"
+                          HPOS="437"
+                          CONTENT="etiandio succede allhumana vita de mortali: pertanto i Romani non conoscendo il vero et grande"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="450,3016 571,3014 692,3014 813,3012 934,3010 1056,3008 1177,3006 1298,3002 1419,3000 1540,2996 1662,2994 1783,2990 1904,2987 2025,2984 2146,2980 2268,2976 2389,2974 2510,2971 2631,2968 2752,2966 2874,2962"
+                         HEIGHT="158"
+                         WIDTH="2455"
+                         VPOS="2912"
+                         HPOS="434">
+                  <String ID="string_r1l29"
+                          HEIGHT="158"
+                          WIDTH="2455"
+                          VPOS="2912"
+                          HPOS="434"
+                          CONTENT="opefice philosophando reverivano l'acque le quali pareno maravigliose nel vederle caminare"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="452,3120 573,3118 695,3116 817,3114 938,3110 1060,3108 1182,3106 1303,3104 1425,3100 1547,3098 1669,3096 1790,3094 1912,3092 2034,3090 2155,3086 2277,3085 2399,3082 2520,3080 2642,3078 2764,3076 2886,3074"
+                         HEIGHT="172"
+                         WIDTH="2466"
+                         VPOS="2978"
+                         HPOS="436">
+                  <String ID="string_r1l30"
+                          HEIGHT="172"
+                          WIDTH="2466"
+                          VPOS="2978"
+                          HPOS="436"
+                          CONTENT="attorno della terra fluire, et partirsi da essa mediante l'ordine dela potenza data ai corpi celesti si"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="464,3216 584,3212 705,3210 825,3208 946,3205 1066,3202 1187,3200 1307,3198 1428,3196 1548,3194 1669,3192 1789,3190 1910,3188 2030,3186 2151,3186 2271,3184 2392,3182 2512,3180 2633,3180 2753,3178 2874,3176"
+                         HEIGHT="132"
+                         WIDTH="2439"
+                         VPOS="3110"
+                         HPOS="449">
+                  <String ID="string_r1l31"
+                          HEIGHT="132"
+                          WIDTH="2439"
+                          VPOS="3110"
+                          HPOS="449"
+                          CONTENT="converte in pioggia, et alimenta le piante: pareva loro questo un slupore un miracolo grande"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="468,3304 588,3304 708,3302 828,3300 948,3298 1068,3296 1188,3294 1308,3292 1428,3291 1548,3290 1669,3288 1789,3286 1909,3285 2029,3284 2149,3282 2269,3282 2389,3280 2509,3280 2629,3278 2749,3278 2870,3276"
+                         HEIGHT="134"
+                         WIDTH="2435"
+                         VPOS="3198"
+                         HPOS="450">
+                  <String ID="string_r1l32"
+                          HEIGHT="134"
+                          WIDTH="2435"
+                          VPOS="3198"
+                          HPOS="450"
+                          CONTENT="come nel vero egliè inconsiderabile, et in questo non riconoscendo la potenza di colui che ha fatto ogni"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="472,3408 592,3408 713,3406 834,3406 955,3404 1076,3402 1197,3400 1318,3398 1439,3396 1560,3394 1681,3392 1801,3390 1922,3388 2043,3386 2164,3386 2285,3384 2406,3384 2527,3384 2648,3386 2769,3386 2890,3388"
+                         HEIGHT="145"
+                         WIDTH="2449"
+                         VPOS="3316"
+                         HPOS="456">
+                  <String ID="string_r1l33"
+                          HEIGHT="145"
+                          WIDTH="2449"
+                          VPOS="3316"
+                          HPOS="456"
+                          CONTENT="cosa davano la Deita all'acque per honorar quella sua potentia, alimentale; et colli Fonti ricorda"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="472,3490 594,3492 716,3492 839,3492 961,3492 1084,3492 1206,3490 1328,3490 1451,3488 1573,3486 1696,3484 1818,3483 1940,3482 2063,3480 2185,3480 2308,3480 2430,3480 2552,3480 2675,3482 2797,3484 2920,3486"
+                         HEIGHT="128"
+                         WIDTH="2481"
+                         VPOS="3398"
+                         HPOS="456">
+                  <String ID="string_r1l34"
+                          HEIGHT="128"
+                          WIDTH="2481"
+                          VPOS="3398"
+                          HPOS="456"
+                          CONTENT="vano la origine dela vita. Et i greci chiamarono atalfine ΚΡΗΝΗ, ΠΗΓΗ, à fundendo, tanto mascolinamen"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="466,3582 586,3582 707,3580 828,3580 949,3580 1070,3578 1190,3576 1311,3576 1432,3574 1553,3572 1674,3572 1794,3570 1915,3570 2036,3568 2157,3568 2278,3568 2398,3568 2519,3568 2640,3570 2761,3570 2882,3572"
+                         HEIGHT="100"
+                         WIDTH="2450"
+                         VPOS="3504"
+                         HPOS="449">
+                  <String ID="string_r1l35"
+                          HEIGHT="100"
+                          WIDTH="2450"
+                          VPOS="3504"
+                          HPOS="449"
+                          CONTENT="te come femininamente, ΚΡΗΝΗ. et ΚΡΟΥΝΗ, et ΚΡΟΥΝΩ. à Fundendo quefundat aquam tondeilatini"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="472,3668 592,3668 713,3668 834,3668 955,3668 1076,3666 1197,3666 1318,3664 1439,3662 1560,3660 1681,3658 1801,3656 1922,3654 2043,3652 2164,3650 2285,3648 2406,3648 2527,3646 2648,3644 2769,3644 2890,3644"
+                         HEIGHT="117"
+                         WIDTH="2451"
+                         VPOS="3575"
+                         HPOS="456">
+                  <String ID="string_r1l36"
+                          HEIGHT="117"
+                          WIDTH="2451"
+                          VPOS="3575"
+                          HPOS="456"
+                          CONTENT="Fecero Fons et Fontis, Fontana. Come disse Caesare nell'ottavo del Bello Gallico. SVB IPSVS ENIM OP¬"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="490,3754 610,3754 730,3756 850,3756 970,3756 1091,3754 1211,3754 1331,3752 1451,3752 1571,3750 1692,3748 1812,3748 1932,3746 2052,3744 2172,3744 2293,3742 2413,3742 2533,3742 2653,3742 2773,3743 2894,3744"
+                         HEIGHT="148"
+                         WIDTH="2435"
+                         VPOS="3651"
+                         HPOS="475">
+                  <String ID="string_r1l37"
+                          HEIGHT="148"
+                          WIDTH="2435"
+                          VPOS="3651"
+                          HPOS="475"
+                          CONTENT="PIDI MVRVM MAGNVS FONS PRORVMPEBAT. et Varrone Forma da Fons Fontana. et Fons si prende per"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="484,3844 603,3842 723,3840 843,3840 963,3838 1083,3838 1203,3838 1323,3836 1443,3836 1563,3836 1683,3836 1802,3836 1922,3836 2042,3836 2162,3836 2282,3836 2402,3838 2522,3838 2642,3838 2762,3838 2882,3838"
+                         HEIGHT="119"
+                         WIDTH="2427"
+                         VPOS="3760"
+                         HPOS="470">
+                  <String ID="string_r1l38"
+                          HEIGHT="119"
+                          WIDTH="2427"
+                          VPOS="3760"
+                          HPOS="470"
+                          CONTENT="translatione, per orgine et Causa, come ci mostra Cicerone nel terzo dele Tuscolane quando dice NONREM"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="474,3934 596,3934 718,3936 840,3936 962,3936 1084,3936 1206,3936 1328,3936 1450,3936 1572,3935 1694,3934 1816,3934 1938,3932 2060,3932 2182,3932 2304,3932 2426,3932 2548,3932 2670,3932 2792,3934 2914,3936"
+                         HEIGHT="118"
+                         WIDTH="2471"
+                         VPOS="3857"
+                         HPOS="458">
+                  <String ID="string_r1l39"
+                          HEIGHT="118"
+                          WIDTH="2471"
+                          VPOS="3857"
+                          HPOS="458"
+                          CONTENT="IPSAM CAVSAM ATQVE FONTEM ESSE MOERORIS. et il medesimo à Bruto: NEC IN SENATV SCELERATISSIMORVM"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="484,4044 605,4042 726,4040 847,4040 968,4038 1090,4036 1211,4034 1332,4032 1453,4030 1574,4028 1696,4026 1817,4024 1938,4024 2059,4022 2180,4020 2302,4018 2423,4016 2544,4016 2665,4014 2786,4014 2908,4012"
+                         HEIGHT="147"
+                         WIDTH="2456"
+                         VPOS="3937"
+                         HPOS="469">
+                  <String ID="string_r1l40"
+                          HEIGHT="147"
+                          WIDTH="2456"
+                          VPOS="3937"
+                          HPOS="469"
+                          CONTENT="CONSILIORVM FONTES APETIRE DVBITAVI. et Virgilio Fontem' per acqua di Fontana pose nel duodecimo dell'"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="486,4126 606,4124 727,4124 847,4122 968,4122 1089,4122 1209,4122 1330,4120 1450,4120 1571,4120 1692,4120 1812,4120 1933,4118 2053,4118 2174,4118 2295,4116 2415,4116 2536,4116 2656,4114 2777,4112 2898,4112"
+                         HEIGHT="126"
+                         WIDTH="2444"
+                         VPOS="4053"
+                         HPOS="471">
+                  <String ID="string_r1l41"
+                          HEIGHT="126"
+                          WIDTH="2444"
+                          VPOS="4053"
+                          HPOS="471"
+                          CONTENT="Aeneide et perla parte usurpa il tutto, ALII FONTEMQVE IGNEMQVE FEREBANT. Siche la maraviglia d'una"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="492,4244 611,4244 731,4244 850,4244 970,4242 1089,4242 1209,4240 1328,4238 1448,4234 1567,4232 1687,4230 1806,4226 1926,4224 2045,4222 2165,4218 2284,4216 2404,4214 2523,4212 2643,4210 2762,4210 2882,4210"
+                         HEIGHT="100"
+                         WIDTH="2422"
+                         VPOS="4176"
+                         HPOS="477">
+                  <String ID="string_r1l42"
+                          HEIGHT="100"
+                          WIDTH="2422"
+                          VPOS="4176"
+                          HPOS="477"
+                          CONTENT="sigrande origine defonti che vengono dai granmari, et stagni fece pensare agli antichi di qualche deita"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="492,4346 612,4346 732,4344 852,4342 973,4340 1093,4339 1213,4336 1334,4332 1454,4330 1574,4326 1695,4323 1815,4320 1935,4316 2055,4312 2176,4310 2296,4306 2416,4304 2537,4301 2657,4300 2777,4298 2898,4298"
+                         HEIGHT="171"
+                         WIDTH="2442"
+                         VPOS="4216"
+                         HPOS="474">
+                  <String ID="string_r1l43"
+                          HEIGHT="171"
+                          WIDTH="2442"
+                          VPOS="4216"
+                          HPOS="474"
+                          CONTENT="come dice Pamphilo: oltre quanti Re et signori, ò che si sono annegati nell'acque à tutti hanno dato il nome"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

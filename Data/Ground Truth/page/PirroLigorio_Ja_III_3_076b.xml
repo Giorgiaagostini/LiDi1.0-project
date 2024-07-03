@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:40.953+01:00</Created>
+        <LastChange>2022-05-12T13:18:39.979+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903011" pageNr="152" tsid="82223138" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=KYTJUFRDQPLXBEWBFNJRCDOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVUQNQGICNIEPDKGXBDDDULZ" imageId="17874020"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_076b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337514056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1649775522873_2732"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1649775503677_2727"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1649775503676_2726"/>
+                <RegionRefIndexed index="4" regionRef="region_1650531979658_1089"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1649775522873_2731"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="3120,143 3120,402 3391,402 3378,128"/>
+            <TextLine id="line_1650531567760_926" custom="readingOrder {index:0;}">
+                <Coords points="3265,168 3280,167 3298,176 3316,169 3332,184 3349,168 3379,165 3377,105 3359,102 3347,108 3324,133 3315,133 3290,110 3264,114"/>
+                <Baseline points="3281,168 3364,166"/>
+                <TextEquiv>
+                    <Unicode>70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:1;}">
+                <Coords points="3177,235 3204,232 3222,250 3243,250 3261,265 3312,255 3312,165 3264,172 3246,157 3231,157 3225,151 3216,157 3203,148 3176,145"/>
+                <Baseline points="3192,216 3218,219 3244,220 3270,218 3296,216"/>
+                <TextEquiv>
+                    <Unicode>79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:2;}">
+                <Coords points="3106,411 3154,408 3169,414 3205,390 3214,396 3238,396 3238,276 3208,270 3190,288 3178,276 3151,267 3136,270 3127,264 3106,270"/>
+                <Baseline points="3120,366 3146,366 3172,366 3198,366 3224,366"/>
+                <TextEquiv>
+                    <Unicode>76</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>70
+79
+76</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649775522873_2732" custom="readingOrder {index:1;}">
+            <Coords points="411,317 2938,331 2938,4389 490,4389 490,3361 2385,3326 2375,1264 421,1254"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="984,413 1872,409 1872,337 1833,316 1647,348 1536,294 1455,336 1323,318 1299,342 1050,341 984,311"/>
+                <Baseline points="998,386 1040,388 1083,388 1126,390 1169,390 1212,390 1255,390 1298,390 1341,390 1384,390 1427,390 1469,390 1512,390 1555,390 1598,390 1641,390 1684,390 1727,390 1770,390 1813,390 1856,390"/>
+                <TextEquiv>
+                    <Unicode>CHE COSA SIA FLÁMEO, ET CHE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="1040,508 1148,506 1240,460 1826,479 1825,407 1149,419 1038,397"/>
+                <Baseline points="1054,462 1091,459 1129,456 1167,454 1205,452 1243,450 1280,450 1318,450 1356,448 1394,448 1432,448 1469,448 1507,448 1545,448 1583,448 1621,448 1658,448 1696,448 1734,448 1772,446 1810,446"/>
+                <TextEquiv>
+                    <Unicode>Velo sponsuale, et deli Dei dele Nozze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531584240_938" custom="readingOrder {index:2;}">
+                <Coords points="1218,541 1251,531 1279,545 1305,529 1330,541 1368,516 1431,523 1446,513 1473,519 1485,506 1521,508 1519,454 1388,467 1321,460 1298,478 1264,464 1216,466"/>
+                <Baseline points="1232,508 1262,508 1292,508 1312,504 1338,504 1364,504 1390,504 1416,502 1442,502 1505,502"/>
+                <TextEquiv>
+                    <Unicode>de Gentili.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531616671_951" custom="readingOrder {index:3;}">
+                <Coords points="466,691 2303,647 1858,548 1660,612 1393,547 1054,612 465,571"/>
+                <Baseline points="482,653 610,656 730,657 851,657 971,657 1092,656 1212,655 1332,655 1453,653 1573,653 1694,651 1814,651 1934,649 2055,649 2175,647 2300,657"/>
+                <TextEquiv>
+                    <Unicode>In quest'Ara si notà oltre agli vestimenti di cittadini Romani, el che ho mostrato disopra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2229,609 2341,617 2378,596 2418,601 2438,591 2454,604 2480,590 2493,595 2516,587 2510,515 2469,531 2443,515 2418,541 2365,516 2332,546 2312,529 2222,534"/>
+                <Baseline points="2242,594 2267,598 2293,598 2319,598 2345,596 2371,593 2396,589 2422,585 2448,581 2474,580 2523,582"/>
+                <TextEquiv>
+                    <Unicode>al suo luogho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650988016055_94" custom="readingOrder {index:5;}">
+                <Coords points="2309,605 2458,602 2611,562 2713,595 2848,558 2944,593 2945,647 2894,675 2732,652 2597,682 2309,646"/>
+                <Baseline points="2309,646 2416,645 2536,645 2657,643 2777,643 2930,644"/>
+                <TextEquiv>
+                    <Unicode>cio è dela Togha et dela Tu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="522,752 2863,750 2950,668 522,689"/>
+                <Baseline points="538,720 662,718 780,718 898,718 1017,718 1135,718 1253,716 1372,716 1490,716 1608,714 1727,714 1845,714 1963,714 2081,712 2200,712 2318,712 2436,712 2555,712 2673,712 2791,712 2934,714"/>
+                <TextEquiv>
+                    <Unicode>nica. Vi è da mostrare alquante cose di più. Primieramente il Velo sponsuale, el quale è quello che porta in testa la Don¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="514,795 2885,806 2885,743 2602,725 514,753"/>
+                <Baseline points="530,784 647,784 764,784 881,782 998,782 1115,782 1232,782 1349,782 1466,782 1583,782 1700,782 1817,782 1934,782 2051,782 2168,782 2285,782 2402,782 2519,782 2636,782 2753,782 2870,784"/>
+                <TextEquiv>
+                    <Unicode>na segnato .B. il quale era di un corto lino chiamato Carbaso et suttilissimo. Oltre è da dir di quel giovenetto che tiene le due</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="515,888 2916,883 2916,814 2738,791 515,797"/>
+                <Baseline points="530,857 659,858 777,858 895,856 1013,856 1131,856 1249,856 1367,856 1485,854 1603,854 1721,854 1838,854 1956,854 2074,854 2192,854 2310,854 2428,854 2546,854 2664,854 2782,854 2900,854"/>
+                <TextEquiv>
+                    <Unicode>facelle; qual credo sia Hymeneo Dio delle Nozze. Catullo chiama la veste di tal Dio Flammeo, et dice che la facella era</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="524,948 2760,968 2880,959 2880,869 524,882"/>
+                <Baseline points="540,928 656,928 772,927 888,926 1005,926 1121,926 1237,926 1354,926 1470,926 1586,926 1703,926 1819,926 1935,926 2051,926 2168,926 2284,925 2400,924 2517,924 2633,924 2749,924 2866,922"/>
+                <TextEquiv>
+                    <Unicode>de pino, oltre dice che portava el socco, che son quei stivaletti ch'egli porta amezza gamba, et lo chiama cultor' de l'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="506,1013 2934,1029 2892,939 506,950"/>
+                <Baseline points="520,996 640,996 760,994 880,994 1000,994 1120,994 1240,994 1360,994 1480,996 1600,996 1720,996 1840,998 1960,998 2080,998 2200,1000 2320,1000 2440,1002 2560,1002 2680,1002 2800,1002 2920,1002"/>
+                <TextEquiv>
+                    <Unicode>Monto Elicona et figliuolo di Urania. Ovidio nela Metamorfose dice che Hymeneo era vestito d'una veste di color Cro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="530,1078 2913,1088 2694,1015 530,1012"/>
+                <Baseline points="544,1062 661,1062 779,1062 897,1062 1014,1064 1132,1064 1250,1064 1367,1066 1485,1066 1603,1068 1721,1068 1838,1070 1956,1070 2074,1072 2191,1072 2309,1072 2427,1074 2544,1074 2662,1074 2780,1076 2898,1076"/>
+                <TextEquiv>
+                    <Unicode>ceo, et haveva le facelle in mano. Martiano Cappella dichiara che Hymeneo fusse figliuolo di Bacco, et di Calliope. Ovidio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="520,1176 2795,1195 2918,1178 2919,1088 521,1080"/>
+                <Baseline points="536,1128 654,1130 772,1131 890,1132 1009,1132 1127,1134 1245,1134 1364,1136 1482,1136 1600,1138 1719,1138 1837,1140 1955,1141 2073,1142 2192,1144 2310,1144 2428,1146 2547,1148 2665,1150 2783,1150 2902,1152"/>
+                <TextEquiv>
+                    <Unicode>al fine del nono libro della Metamorfose, recita, che Venus et Iunone, et Hymeneo sono i dei dele nozze. Plutarco ne poble¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="514,1228 2887,1275 2912,1182 514,1174"/>
+                <Baseline points="530,1212 648,1212 766,1212 885,1210 1003,1211 1122,1212 1240,1212 1358,1212 1477,1213 1595,1214 1714,1214 1832,1216 1950,1216 2069,1218 2187,1220 2306,1220 2424,1222 2542,1224 2661,1224 2779,1226 2898,1226"/>
+                <TextEquiv>
+                    <Unicode>mi, vole che cinque dei si pregavano nellj matrimonij nel principio delle nozze Iove Adulto cio è grande, et Iunone adulta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="2426,1349 2465,1355 2504,1331 2597,1356 2676,1324 2708,1358 2820,1335 2909,1354 2910,1273 2829,1257 2802,1271 2751,1250 2727,1262 2674,1234 2643,1261 2592,1248 2565,1272 2517,1247 2481,1271 2427,1265"/>
+                <Baseline points="2442,1308 2467,1308 2492,1308 2517,1308 2542,1308 2567,1308 2592,1308 2617,1308 2642,1308 2668,1308 2693,1310 2718,1310 2743,1310 2768,1310 2793,1310 2818,1311 2843,1312 2868,1312 2894,1312"/>
+                <TextEquiv>
+                    <Unicode>Venere, Lipore, et Diana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="2424,1414 2529,1399 2562,1424 2604,1421 2658,1397 2682,1418 2757,1424 2778,1409 2853,1427 2904,1404 2905,1349 2853,1355 2821,1334 2715,1352 2677,1322 2586,1349 2502,1330 2475,1351 2424,1348"/>
+                <Baseline points="2438,1391 2483,1392 2508,1390 2534,1390 2559,1388 2585,1388 2610,1388 2635,1388 2661,1388 2686,1388 2712,1388 2737,1390 2762,1390 2788,1390 2813,1391 2839,1392 2864,1392 2890,1392"/>
+                <TextEquiv>
+                    <Unicode>perla prima, et per que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:16;}">
+                <Coords points="2441,1493 2528,1480 2561,1504 2591,1479 2696,1478 2711,1493 2738,1481 2789,1498 2816,1477 2903,1482 2902,1407 2875,1404 2854,1426 2704,1406 2689,1418 2656,1398 2557,1426 2482,1403 2440,1412"/>
+                <Baseline points="2456,1472 2481,1470 2506,1470 2532,1469 2557,1468 2583,1468 2608,1468 2633,1466 2659,1466 2684,1466 2710,1466 2735,1466 2760,1466 2786,1466 2811,1466 2837,1466 2862,1466 2888,1468"/>
+                <TextEquiv>
+                    <Unicode>sto dice che cinque facelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:17;}">
+                <Coords points="2425,1564 2512,1559 2557,1576 2665,1558 2683,1575 2740,1556 2773,1573 2820,1548 2911,1566 2909,1479 2792,1500 2738,1481 2711,1494 2696,1479 2582,1482 2555,1510 2510,1517 2465,1497 2423,1504"/>
+                <Baseline points="2440,1548 2465,1548 2490,1548 2515,1548 2540,1547 2566,1546 2591,1546 2616,1545 2641,1544 2667,1543 2692,1542 2717,1542 2742,1540 2767,1540 2793,1540 2818,1540 2843,1539 2868,1538 2894,1538"/>
+                <TextEquiv>
+                    <Unicode>se accendevano nelle nozze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:18;}">
+                <Coords points="2440,1643 2497,1620 2552,1642 2668,1615 2717,1640 2776,1620 2852,1636 2896,1623 2894,1557 2864,1552 2822,1565 2795,1554 2772,1573 2723,1556 2687,1569 2663,1555 2643,1573 2579,1560 2544,1577 2513,1559 2438,1565"/>
+                <Baseline points="2456,1618 2481,1615 2506,1614 2531,1613 2556,1612 2581,1611 2606,1610 2631,1610 2656,1610 2681,1608 2706,1608 2731,1607 2756,1606 2781,1606 2806,1605 2831,1604 2856,1604 2882,1602"/>
+                <TextEquiv>
+                    <Unicode>per detti dei. Servio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:19;}">
+                <Coords points="2420,1698 2541,1716 2577,1698 2661,1722 2775,1696 2835,1715 2919,1698 2917,1620 2845,1643 2782,1620 2740,1639 2659,1617 2614,1646 2503,1621 2446,1650 2419,1644"/>
+                <Baseline points="2436,1692 2462,1694 2488,1694 2514,1694 2540,1694 2566,1694 2592,1692 2618,1692 2644,1690 2670,1690 2696,1688 2722,1688 2748,1687 2774,1686 2800,1686 2826,1685 2852,1684 2878,1685 2904,1686"/>
+                <TextEquiv>
+                    <Unicode>recita che Hymeneo fù</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:20;} unclear {offset:3; length:6;}">
+                <Coords points="2429,1791 2477,1778 2511,1810 2579,1788 2631,1808 2669,1777 2721,1800 2774,1781 2910,1791 2908,1710 2839,1720 2773,1697 2659,1724 2626,1706 2428,1704"/>
+                <Baseline points="2444,1764 2469,1764 2495,1763 2520,1762 2546,1762 2571,1762 2597,1762 2622,1760 2648,1760 2673,1760 2699,1759 2724,1758 2750,1758 2775,1758 2801,1756 2826,1756 2852,1756 2894,1758"/>
+                <TextEquiv>
+                    <Unicode>un'giovan da Athene,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:21;}">
+                <Coords points="2433,1873 2485,1884 2562,1860 2599,1877 2673,1863 2704,1880 2745,1846 2920,1870 2917,1786 2872,1779 2767,1782 2734,1801 2668,1779 2632,1807 2581,1788 2518,1811 2488,1790 2431,1801"/>
+                <Baseline points="2446,1846 2471,1846 2496,1846 2522,1846 2547,1844 2572,1843 2598,1842 2623,1842 2648,1841 2674,1839 2699,1838 2724,1838 2750,1836 2775,1836 2800,1836 2826,1836 2851,1835 2876,1834 2902,1834"/>
+                <TextEquiv>
+                    <Unicode>il quale tra le guerre cru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:22;}">
+                <Coords points="2434,1951 2521,1964 2553,1936 2638,1953 2811,1928 2932,1961 2930,1871 2816,1874 2744,1845 2705,1879 2651,1862 2615,1881 2564,1861 2483,1884 2432,1873"/>
+                <Baseline points="2448,1926 2473,1924 2498,1924 2524,1924 2549,1924 2575,1922 2600,1922 2626,1921 2651,1920 2677,1920 2702,1918 2727,1918 2753,1918 2778,1916 2804,1916 2829,1916 2855,1916 2880,1914 2915,1924"/>
+                <TextEquiv>
+                    <Unicode>delissime liberò le Vergi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:23;}">
+                <Coords points="2424,2025 2487,2026 2520,2004 2565,2027 2721,2007 2898,2022 2943,2003 2942,1967 2839,1937 2745,1931 2707,1947 2673,1933 2638,1953 2596,1939 2521,1968 2422,1944"/>
+                <Baseline points="2438,2002 2463,2004 2489,2004 2515,2004 2541,2002 2566,2002 2592,2001 2618,2000 2644,1998 2670,1998 2695,1996 2721,1996 2747,1994 2773,1994 2798,1992 2824,1992 2850,1992 2876,1990 2927,1994"/>
+                <TextEquiv>
+                    <Unicode>ni. Suida dice il con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:24;}">
+                <Coords points="2430,2107 2687,2075 2742,2099 2801,2073 2850,2086 2912,2071 2910,2014 2658,2025 2603,2012 2574,2026 2519,2004 2495,2026 2426,2026"/>
+                <Baseline points="2444,2078 2469,2077 2494,2076 2519,2075 2544,2073 2569,2072 2594,2072 2619,2070 2644,2070 2670,2068 2695,2066 2720,2066 2745,2064 2770,2063 2795,2062 2820,2061 2845,2060 2870,2060 2896,2060"/>
+                <TextEquiv>
+                    <Unicode>trario, et che Hymeneo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:25;}">
+                <Coords points="2425,2185 2742,2160 2800,2193 2829,2162 2910,2162 2906,2072 2829,2087 2801,2073 2769,2102 2687,2075 2637,2095 2609,2081 2583,2101 2420,2089"/>
+                <Baseline points="2438,2157 2483,2156 2509,2156 2534,2156 2560,2154 2586,2153 2611,2152 2637,2151 2663,2150 2688,2148 2714,2148 2740,2146 2765,2146 2791,2144 2817,2142 2842,2141 2868,2140 2894,2138"/>
+                <TextEquiv>
+                    <Unicode>fù gioven di Lidia, forse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:26;}">
+                <Coords points="2424,2248 2539,2249 2594,2270 2619,2242 2664,2234 2779,2244 2808,2230 2848,2249 2949,2229 2947,2175 2886,2157 2776,2181 2736,2161 2670,2180 2610,2164 2422,2189"/>
+                <Baseline points="2440,2232 2466,2232 2492,2230 2518,2230 2544,2228 2570,2228 2596,2226 2622,2224 2648,2224 2674,2222 2700,2220 2726,2219 2752,2217 2778,2216 2804,2215 2830,2214 2856,2213 2882,2212 2908,2212 2934,2210"/>
+                <TextEquiv>
+                    <Unicode>in Lidia fù unaltro Hyme¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:27;}">
+                <Coords points="2422,2325 2510,2328 2537,2348 2563,2320 2672,2328 2692,2309 2741,2326 2812,2305 2870,2324 2926,2313 2924,2238 2659,2235 2595,2271 2540,2249 2420,2259"/>
+                <Baseline points="2438,2308 2471,2310 2497,2307 2523,2306 2549,2305 2575,2304 2601,2303 2627,2302 2653,2300 2679,2300 2704,2299 2730,2298 2756,2297 2782,2296 2808,2296 2834,2294 2860,2294 2886,2294 2912,2292"/>
+                <TextEquiv>
+                    <Unicode>neo, Dicono che per esser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:28;}">
+                <Coords points="2428,2409 2929,2384 2923,2307 2865,2326 2806,2303 2733,2339 2653,2317 2563,2321 2538,2347 2510,2328 2424,2346"/>
+                <Baseline points="2442,2398 2467,2398 2506,2390 2532,2388 2557,2386 2582,2384 2608,2382 2633,2380 2658,2378 2684,2376 2709,2374 2734,2372 2760,2371 2785,2369 2810,2368 2836,2367 2861,2366 2886,2365 2912,2364"/>
+                <TextEquiv>
+                    <Unicode>amator' della pudicitia, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:29;}">
+                <Coords points="2426,2497 2509,2481 2595,2504 2635,2474 2703,2504 2732,2487 2784,2494 2804,2475 2853,2493 2878,2468 2932,2468 2928,2384 2854,2400 2832,2383 2782,2416 2679,2397 2500,2415 2421,2404"/>
+                <Baseline points="2438,2466 2464,2467 2490,2468 2516,2468 2542,2468 2568,2467 2594,2466 2620,2464 2646,2464 2672,2461 2698,2459 2724,2457 2750,2455 2776,2454 2802,2452 2828,2450 2854,2449 2880,2448 2915,2447"/>
+                <TextEquiv>
+                    <Unicode>paciale de matre monij lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:30;}">
+                <Coords points="2425,2580 2931,2543 2927,2471 2903,2464 2844,2493 2810,2477 2709,2503 2624,2474 2589,2509 2510,2482 2421,2496"/>
+                <Baseline points="2440,2556 2465,2554 2490,2554 2516,2554 2541,2553 2567,2552 2592,2551 2618,2550 2643,2549 2669,2548 2694,2546 2719,2544 2745,2544 2770,2542 2796,2540 2821,2540 2847,2538 2872,2535 2914,2534"/>
+                <TextEquiv>
+                    <Unicode>invocavano nelle nozze,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:31;}">
+                <Coords points="2430,2647 2637,2633 2710,2649 2748,2630 2818,2651 2868,2625 2932,2641 2929,2566 2871,2547 2428,2581"/>
+                <Baseline points="2444,2634 2469,2632 2494,2632 2520,2632 2545,2630 2570,2629 2596,2628 2621,2628 2646,2627 2672,2626 2697,2625 2722,2624 2748,2624 2773,2623 2798,2622 2824,2620 2849,2620 2874,2618 2916,2616"/>
+                <TextEquiv>
+                    <Unicode>Pausania vole che' l pri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:32;}">
+                <Coords points="2425,2739 2620,2736 2638,2721 2698,2741 2776,2716 2842,2730 2932,2714 2931,2642 2880,2628 2817,2653 2748,2629 2706,2651 2637,2634 2535,2641 2520,2657 2424,2643"/>
+                <Baseline points="2440,2712 2465,2712 2491,2710 2517,2710 2543,2710 2569,2710 2595,2708 2621,2708 2647,2708 2672,2707 2698,2706 2724,2706 2750,2706 2776,2706 2802,2706 2828,2706 2854,2706 2916,2705"/>
+                <TextEquiv>
+                    <Unicode>mo, che ordinasse matri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l45" custom="readingOrder {index:33;}">
+                <Coords points="2432,2805 2549,2824 2585,2808 2732,2817 2852,2793 2907,2819 2904,2720 2859,2715 2839,2734 2778,2717 2707,2740 2640,2723 2491,2744 2460,2730 2431,2745"/>
+                <Baseline points="2446,2790 2472,2792 2498,2792 2525,2792 2551,2792 2577,2790 2604,2790 2630,2790 2657,2789 2683,2788 2709,2788 2736,2786 2762,2786 2788,2785 2815,2784 2841,2784 2890,2785"/>
+                <TextEquiv>
+                    <Unicode>monij fu Cecrope, et il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l46" custom="readingOrder {index:34;}">
+                <Coords points="2426,2876 2538,2894 2582,2878 2598,2890 2792,2875 2820,2896 2841,2877 2912,2869 2911,2818 2802,2794 2647,2831 2610,2805 2503,2829 2472,2806 2424,2804"/>
+                <Baseline points="2442,2866 2467,2866 2492,2866 2518,2867 2543,2868 2568,2868 2594,2868 2619,2868 2644,2868 2670,2867 2695,2866 2720,2866 2746,2865 2771,2863 2796,2862 2822,2859 2847,2857 2872,2855 2898,2850"/>
+                <TextEquiv>
+                    <Unicode>medesimo consente lo in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l48" custom="readingOrder {index:35;}">
+                <Coords points="2430,2966 2490,2966 2535,2944 2583,2968 2661,2946 2697,2964 2721,2945 2769,2966 2817,2938 2877,2968 2910,2961 2909,2874 2822,2896 2792,2872 2750,2888 2633,2877 2540,2893 2429,2876"/>
+                <Baseline points="2444,2936 2470,2934 2496,2934 2522,2932 2548,2932 2574,2932 2600,2932 2626,2932 2652,2933 2678,2934 2704,2934 2730,2933 2756,2932 2782,2932 2808,2932 2834,2931 2860,2928 2895,2925"/>
+                <TextEquiv>
+                    <Unicode>terprete di Aristophane,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l51" custom="readingOrder {index:36;}">
+                <Coords points="2413,3048 2581,3050 2623,3031 2647,3052 2735,3055 2761,3036 2807,3054 2842,3033 2891,3050 2944,3032 2944,2954 2875,2966 2815,2940 2770,2964 2722,2947 2692,2965 2644,2947 2608,2966 2569,2954 2413,2976"/>
+                <Baseline points="2428,3018 2453,3015 2479,3014 2505,3012 2531,3012 2557,3012 2583,3012 2609,3012 2635,3012 2661,3012 2686,3012 2712,3012 2738,3012 2764,3012 2790,3012 2816,3012 2842,3011 2868,3009 2928,3011"/>
+                <TextEquiv>
+                    <Unicode>nel Pluto. Catullo nel'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l53" custom="readingOrder {index:37;}">
+                <Coords points="2421,3111 2484,3138 2566,3103 2640,3121 2674,3098 2746,3122 2941,3097 2941,3043 2920,3036 2827,3039 2806,3057 2761,3035 2731,3050 2647,3052 2623,3034 2581,3055 2476,3036 2422,3051"/>
+                <Baseline points="2438,3092 2463,3090 2488,3090 2513,3090 2538,3090 2563,3090 2588,3090 2613,3092 2638,3092 2664,3092 2689,3094 2714,3094 2739,3094 2764,3094 2789,3094 2814,3093 2839,3092 2864,3091 2926,3095"/>
+                <TextEquiv>
+                    <Unicode>Argonautica cosi comme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l56" custom="readingOrder {index:38;}">
+                <Coords points="2420,3185 2456,3173 2514,3199 2564,3169 2601,3199 2664,3181 2730,3199 2934,3177 2933,3096 2888,3127 2849,3106 2768,3127 2681,3103 2642,3121 2591,3100 2492,3125 2420,3113"/>
+                <Baseline points="2435,3164 2460,3164 2485,3164 2511,3164 2536,3164 2562,3164 2587,3164 2613,3164 2638,3164 2664,3164 2689,3164 2715,3164 2740,3164 2766,3164 2791,3164 2817,3164 2842,3164 2868,3163 2893,3162 2919,3162"/>
+                <TextEquiv>
+                    <Unicode>mora l'anticho ordinator</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l60" custom="readingOrder {index:39;}">
+                <Coords points="2422,3264 2572,3270 2599,3255 2626,3282 2722,3261 2941,3265 2941,3166 2695,3201 2665,3183 2614,3198 2560,3183 2479,3195 2452,3174 2422,3186"/>
+                <Baseline points="2438,3236 2463,3235 2489,3234 2515,3234 2540,3234 2566,3234 2592,3234 2617,3234 2643,3234 2669,3234 2694,3234 2720,3234 2746,3235 2771,3236 2797,3236 2823,3236 2848,3236 2874,3235 2925,3233"/>
+                <TextEquiv>
+                    <Unicode>de matrimonij. SI•TIBI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l63" custom="readingOrder {index:40;}">
+                <Coords points="2427,3351 2505,3339 2559,3359 2688,3332 2928,3343 2927,3268 2888,3262 2624,3281 2597,3254 2558,3275 2522,3257 2471,3279 2426,3273"/>
+                <Baseline points="2440,3324 2466,3323 2492,3321 2518,3320 2544,3320 2571,3320 2597,3319 2623,3318 2649,3318 2676,3320 2702,3320 2728,3320 2754,3320 2780,3320 2807,3320 2833,3320 2859,3320 2885,3320 2912,3320"/>
+                <TextEquiv>
+                    <Unicode>NON•CORDI•FVERANT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l64" custom="readingOrder {index:41;}">
+                <Coords points="2423,3413 2534,3417 2587,3442 2777,3409 2945,3433 2946,3352 2889,3336 2826,3362 2682,3336 2610,3353 2547,3328 2423,3353"/>
+                <Baseline points="2438,3402 2464,3400 2490,3398 2516,3398 2542,3396 2569,3396 2595,3396 2621,3396 2647,3396 2674,3398 2700,3398 2726,3398 2752,3400 2778,3400 2805,3401 2831,3402 2857,3402 2883,3403 2929,3409"/>
+                <TextEquiv>
+                    <Unicode>CONNVBIA•NOSTRA,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531835707_1006" custom="readingOrder {index:42;} unclear {offset:11; length:8;}">
+                <Coords points="2415,3513 2472,3525 2596,3499 2629,3523 2701,3509 2944,3520 2944,3433 2869,3423 2836,3441 2812,3423 2734,3422 2710,3440 2572,3442 2533,3417 2464,3432 2416,3404"/>
+                <Baseline points="2431,3484 2456,3484 2482,3483 2508,3482 2534,3482 2560,3482 2585,3482 2611,3482 2637,3482 2663,3482 2689,3482 2714,3482 2740,3484 2766,3484 2792,3484 2818,3484 2843,3486 2869,3486 2895,3486 2921,3487 2928,3487"/>
+                <TextEquiv>
+                    <Unicode>SAEVA•QVOD•HORREBUS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1649775584683_2746" custom="readingOrder {index:43;}">
+                <Coords points="2413,3583 2557,3585 2584,3567 2677,3587 2734,3572 2926,3582 2925,3513 2553,3522 2469,3492 2412,3517"/>
+                <Baseline points="2429,3567 2911,3564"/>
+                <TextEquiv>
+                    <Unicode>PRISCI•PRAECEPTA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l67" custom="readingOrder {index:44;}">
+                <Coords points="552,3671 2954,3666 2932,3582 1857,3534 552,3605"/>
+                <Baseline points="568,3654 686,3652 805,3652 923,3650 1042,3650 1160,3648 1279,3646 1397,3646 1516,3644 1634,3642 1753,3640 1871,3638 1990,3638 2108,3636 2227,3634 2345,3634 2464,3632 2582,3632 2701,3632 2819,3632 2938,3632"/>
+                <TextEquiv>
+                    <Unicode>PARENTIS, ATTAMEN•IN•VESTRAS•POTVISTI•DVCERE•SEDES•QVAE•TIBI•IVCVNDO•FAMVLA¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l68" custom="readingOrder {index:45;}">
+                <Coords points="552,3746 2905,3739 2908,3654 552,3671"/>
+                <Baseline points="567,3723 682,3723 798,3723 914,3723 1029,3723 1145,3721 1261,3721 1376,3721 1492,3719 1608,3719 1724,3717 1839,3717 1955,3715 2071,3715 2186,3715 2302,3713 2418,3713 2533,3713 2649,3713 2765,3713 2892,3715"/>
+                <TextEquiv>
+                    <Unicode>RER•SERVA•LABORE, Dionysio Alicarnasseo demostra in quel luogho, di oratione Nuptiale al figliuolo cosi li</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l69" custom="readingOrder {index:46;}">
+                <Coords points="550,3807 2708,3816 2942,3792 2942,3723 550,3747"/>
+                <Baseline points="565,3781 701,3780 818,3778 935,3778 1052,3778 1170,3778 1287,3778 1404,3776 1521,3776 1638,3776 1756,3776 1873,3776 1990,3774 2107,3774 2224,3774 2342,3774 2459,3774 2576,3774 2693,3774 2810,3774 2928,3776"/>
+                <TextEquiv>
+                    <Unicode>costumi dele nozze, Mi sarebe stato gratissimo non solamente esser stato presente ale tue nozze, ma participe anchora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l70" custom="readingOrder {index:47;}">
+                <Coords points="558,3856 2521,3885 2902,3867 2902,3801 558,3814"/>
+                <Baseline points="574,3852 689,3850 805,3848 921,3848 1036,3848 1152,3846 1268,3846 1383,3846 1499,3846 1615,3846 1731,3846 1846,3846 1962,3848 2078,3848 2193,3848 2309,3848 2425,3848 2540,3848 2656,3846 2772,3846 2888,3846"/>
+                <TextEquiv>
+                    <Unicode>accio che havesse ballato insieme, et giocato, et havesse lodato il matrimonio, et cantato lo Hymeneo, il che è solito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l71" custom="readingOrder {index:48;}">
+                <Coords points="559,3935 2897,3952 2861,3862 559,3857"/>
+                <Baseline points="573,3914 695,3916 810,3918 925,3918 1040,3918 1155,3918 1270,3920 1385,3918 1500,3918 1615,3918 1731,3918 1846,3918 1961,3916 2076,3916 2191,3916 2306,3916 2421,3916 2536,3916 2651,3918 2766,3918 2882,3920"/>
+                <TextEquiv>
+                    <Unicode>farsi nele nozze, da qui si cava le pazzie che ancho usavono ne matrimonij gli antichi. Dicono che per usanza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l72" custom="readingOrder {index:49;}">
+                <Coords points="555,3999 2851,4028 2876,3956 556,3936"/>
+                <Baseline points="570,3984 684,3986 799,3988 913,3989 1028,3990 1142,3990 1257,3992 1371,3992 1486,3992 1600,3992 1715,3992 1829,3992 1944,3992 2058,3992 2173,3992 2287,3992 2402,3992 2516,3992 2631,3992 2745,3992 2860,3992"/>
+                <TextEquiv>
+                    <Unicode>il padre,et la Madre cantavan' nanZi ala porta deli sposi lo Hymeneo. Oltre dice Dionysio, che Giove, et Iunone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l73" custom="readingOrder {index:50;} unclear {offset:75; length:3;} unclear {offset:79; length:5;}">
+                <Coords points="553,4078 2810,4108 2895,4027 554,4000"/>
+                <Baseline points="567,4054 696,4058 811,4060 926,4062 1041,4064 1156,4064 1271,4066 1386,4066 1501,4066 1616,4068 1731,4068 1845,4068 1960,4068 2075,4068 2190,4068 2305,4068 2420,4068 2535,4068 2650,4070 2765,4070 2880,4070"/>
+                <TextEquiv>
+                    <Unicode>eran gli dei delle Nozze per che mostrorono al mondo el matrimonio, et per che Giove è padre di tutti, et Iunone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l74" custom="readingOrder {index:51;}">
+                <Coords points="548,4146 2922,4176 2887,4088 549,4068"/>
+                <Baseline points="562,4132 679,4134 796,4136 913,4136 1030,4138 1148,4138 1265,4138 1382,4140 1499,4140 1616,4140 1734,4140 1851,4140 1968,4142 2085,4142 2202,4144 2320,4144 2437,4146 2554,4148 2671,4150 2788,4152 2906,4156"/>
+                <TextEquiv>
+                    <Unicode>si chiama Iuga à congiungendo. Il comentator di Callimacho referisce come la sposa portava à carne gnu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l75" custom="readingOrder {index:52;}">
+                <Coords points="554,4237 2879,4265 2880,4205 555,4147"/>
+                <Baseline points="568,4206 682,4206 797,4208 912,4210 1027,4210 1142,4212 1257,4212 1372,4214 1487,4216 1602,4216 1717,4218 1831,4220 1946,4222 2061,4223 2176,4224 2291,4228 2406,4230 2521,4232 2636,4234 2751,4238 2866,4242"/>
+                <TextEquiv>
+                    <Unicode>de la Mitra, la quale era una cintula, che si scignevano le Donne la prima volta quando andavano adormire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l76" custom="readingOrder {index:53;}">
+                <Coords points="545,4316 2778,4336 2890,4256 546,4232"/>
+                <Baseline points="560,4284 675,4284 791,4284 907,4286 1022,4286 1138,4288 1254,4289 1369,4290 1485,4292 1601,4294 1717,4296 1832,4298 1948,4300 2064,4300 2179,4302 2295,4303 2411,4304 2526,4304 2642,4306 2758,4306 2874,4304"/>
+                <TextEquiv>
+                    <Unicode>col marito. Museo de mostra, che nele nozze intervenivano queste cose, si ci ballava, et cantava presso la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l77" custom="readingOrder {index:54;}">
+                <Coords points="553,4394 2828,4415 2915,4398 2915,4302 553,4313"/>
+                <Baseline points="568,4356 684,4358 801,4360 917,4362 1034,4362 1151,4364 1267,4364 1384,4364 1500,4366 1617,4366 1734,4366 1850,4366 1967,4366 2083,4366 2200,4368 2317,4368 2433,4368 2550,4370 2666,4370 2783,4372 2900,4372"/>
+                <TextEquiv>
+                    <Unicode>camera della sposa, ve intervenivano poeti à lo dar i matrimonij, ve intirvenivano faccole, el padre et Ia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHE COSA SIA FLÁMEO, ET CHE
+Velo sponsuale, et deli Dei dele Nozze
+de Gentili.
+In quest'Ara si notà oltre agli vestimenti di cittadini Romani, el che ho mostrato disopra,
+al suo luogho
+cio è dela Togha et dela Tu
+nica. Vi è da mostrare alquante cose di più. Primieramente il Velo sponsuale, el quale è quello che porta in testa la Don¬
+na segnato .B. il quale era di un corto lino chiamato Carbaso et suttilissimo. Oltre è da dir di quel giovenetto che tiene le due
+facelle; qual credo sia Hymeneo Dio delle Nozze. Catullo chiama la veste di tal Dio Flammeo, et dice che la facella era
+de pino, oltre dice che portava el socco, che son quei stivaletti ch'egli porta amezza gamba, et lo chiama cultor' de l'
+Monto Elicona et figliuolo di Urania. Ovidio nela Metamorfose dice che Hymeneo era vestito d'una veste di color Cro¬
+ceo, et haveva le facelle in mano. Martiano Cappella dichiara che Hymeneo fusse figliuolo di Bacco, et di Calliope. Ovidio
+al fine del nono libro della Metamorfose, recita, che Venus et Iunone, et Hymeneo sono i dei dele nozze. Plutarco ne poble¬
+mi, vole che cinque dei si pregavano nellj matrimonij nel principio delle nozze Iove Adulto cio è grande, et Iunone adulta,
+Venere, Lipore, et Diana
+perla prima, et per que
+sto dice che cinque facelle
+se accendevano nelle nozze
+per detti dei. Servio
+recita che Hymeneo fù
+un'giovan da Athene,
+il quale tra le guerre cru
+delissime liberò le Vergi¬
+ni. Suida dice il con¬
+trario, et che Hymeneo
+fù gioven di Lidia, forse
+in Lidia fù unaltro Hyme¬
+neo, Dicono che per esser
+amator' della pudicitia, et
+paciale de matre monij lo
+invocavano nelle nozze,
+Pausania vole che' l pri¬
+mo, che ordinasse matri¬
+monij fu Cecrope, et il
+medesimo consente lo in
+terprete di Aristophane,
+nel Pluto. Catullo nel'
+Argonautica cosi comme
+mora l'anticho ordinator
+de matrimonij. SI•TIBI
+NON•CORDI•FVERANT
+CONNVBIA•NOSTRA,
+SAEVA•QVOD•HORREBUS
+PRISCI•PRAECEPTA
+PARENTIS, ATTAMEN•IN•VESTRAS•POTVISTI•DVCERE•SEDES•QVAE•TIBI•IVCVNDO•FAMVLA¬
+RER•SERVA•LABORE, Dionysio Alicarnasseo demostra in quel luogho, di oratione Nuptiale al figliuolo cosi li
+costumi dele nozze, Mi sarebe stato gratissimo non solamente esser stato presente ale tue nozze, ma participe anchora
+accio che havesse ballato insieme, et giocato, et havesse lodato il matrimonio, et cantato lo Hymeneo, il che è solito
+farsi nele nozze, da qui si cava le pazzie che ancho usavono ne matrimonij gli antichi. Dicono che per usanza
+il padre,et la Madre cantavan' nanZi ala porta deli sposi lo Hymeneo. Oltre dice Dionysio, che Giove, et Iunone
+eran gli dei delle Nozze per che mostrorono al mondo el matrimonio, et per che Giove è padre di tutti, et Iunone
+si chiama Iuga à congiungendo. Il comentator di Callimacho referisce come la sposa portava à carne gnu¬
+de la Mitra, la quale era una cintula, che si scignevano le Donne la prima volta quando andavano adormire
+col marito. Museo de mostra, che nele nozze intervenivano queste cose, si ci ballava, et cantava presso la
+camera della sposa, ve intervenivano poeti à lo dar i matrimonij, ve intirvenivano faccole, el padre et Ia¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649775503677_2727" custom="readingOrder {index:2;}">
+            <Coords points="203,1599 589,1599 604,1960 199,1960"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} unclear {offset:0; length:11;}">
+                <Coords points="199,1692 357,1714 374,1698 411,1701 436,1675 464,1686 532,1672 528,1618 496,1635 433,1594 416,1605 397,1588 261,1579 193,1605"/>
+                <Baseline points="214,1678 240,1678 266,1678 292,1678 318,1677 344,1675 371,1672 397,1670 423,1668 449,1666 475,1663 516,1658"/>
+                <TextEquiv>
+                    <Unicode>Gu. 1115.2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} unclear {offset:0; length:13;}">
+                <Coords points="263,1776 372,1773 412,1788 432,1774 444,1779 478,1749 529,1784 567,1775 560,1688 533,1687 493,1709 431,1693 374,1697 358,1714 326,1701 309,1712 258,1707"/>
+                <Baseline points="276,1756 302,1753 329,1751 356,1750 383,1746 410,1744 437,1741 464,1739 491,1737 549,1734"/>
+                <TextEquiv>
+                    <Unicode>in una figura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gu. 1115.2.
+in una figura</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649775503676_2726" custom="readingOrder {index:3;}">
+            <Coords points="199,1960 604,1960 619,2320 196,2338"/>
+            <TextLine id="line_1650531902970_1034" custom="readingOrder {index:0;}">
+                <Coords points="207,2265 281,2256 331,2229 416,2247 451,2224 512,2236 604,2217 600,2121 373,2152 347,2178 262,2148 203,2178"/>
+                <Baseline points="220,2224 254,2224 288,2224 308,2224 333,2223 358,2222 384,2221 409,2219 435,2218 460,2218 486,2216 511,2214 537,2212 562,2210 588,2208"/>
+                <TextEquiv>
+                    <Unicode>fù Nela vigna del S.or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="286,2290 370,2278 403,2303 421,2294 472,2309 487,2297 523,2313 556,2283 625,2275 626,2199 590,2205 551,2232 452,2225 425,2240 332,2230 286,2242"/>
+                <Baseline points="300,2266 326,2268 353,2268 380,2266 406,2266 433,2266 460,2266 487,2268 513,2268 540,2269 567,2270 609,2268"/>
+                <TextEquiv>
+                    <Unicode>Gihanbattista Passa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="279,2358 297,2358 322,2338 346,2330 361,2330 382,2346 388,2340 409,2341 411,2278 387,2274 375,2283 369,2279 330,2281 312,2269 282,2274"/>
+                <Baseline points="296,2314 321,2315 346,2314 371,2316 396,2318"/>
+                <TextEquiv>
+                    <Unicode>monti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fù Nela vigna del S.or
+Gihanbattista Passa¬
+monti</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650531979658_1089" custom="readingOrder {index:4;}">
+            <Coords points="880,1778 972,1778 972,1865 880,1865"/>
+            <TextLine id="r2l27" custom="readingOrder {index:0;}">
+                <Coords points="870,1839 885,1839 904,1853 910,1850 928,1852 942,1843 957,1842 956,1794 935,1795 932,1798 929,1795 926,1798 905,1796 899,1802 893,1796 884,1803 869,1803"/>
+                <Baseline points="884,1836 913,1836 942,1834"/>
+                <TextEquiv>
+                    <Unicode>.B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>.B.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649775522873_2731" custom="readingOrder {index:5;}">
+            <Coords points="842,2858 1864,2898 1887,3329 828,3339"/>
+            <TextLine id="line_1650531939333_1051" custom="readingOrder {index:0;}">
+                <Coords points="879,2994 942,3010 969,2989 1119,3001 1225,2982 1257,3004 1308,2998 1353,3026 1355,2900 881,2889"/>
+                <Baseline points="894,2986 1339,2994"/>
+                <TextEquiv>
+                    <Unicode>Q•FVRFANIO•C•F</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531941571_1056" custom="readingOrder {index:1;}">
+                <Coords points="941,3027 983,3028 1001,3046 1037,3028 1088,3034 1097,3026 1115,3035 1172,3023 1196,3035 1238,3015 1239,2982 1158,2984 1109,2999 1044,2983 941,3003"/>
+                <Baseline points="955,3024 1224,3026"/>
+                <TextEquiv>
+                    <Unicode>NIGRINO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531945565_1061" custom="readingOrder {index:2;}">
+                <Coords points="877,3081 922,3063 1027,3058 1084,3073 1162,3054 1180,3069 1282,3058 1297,3073 1339,3070 1338,3001 1239,3002 1206,3026 1011,3034 876,2994"/>
+                <Baseline points="893,3062 1324,3057"/>
+                <TextEquiv>
+                    <Unicode>PROC•FABRORVM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531948405_1066" custom="readingOrder {index:3;}">
+                <Coords points="902,3116 930,3113 959,3135 986,3123 1344,3121 1345,3070 1279,3060 1177,3067 1162,3055 1113,3078 1051,3061 904,3062"/>
+                <Baseline points="919,3098 1330,3106"/>
+                <TextEquiv>
+                    <Unicode>VIXI•ANN•X̄X̄ĪV•M•V̄ĪĪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l50" custom="readingOrder {index:4;}">
+                <Coords points="1375,2996 1567,3001 1696,2984 1762,2993 1814,3028 1812,2881 1374,2882"/>
+                <Baseline points="1390,2988 1470,2986 1497,2986 1524,2984 1551,2984 1578,2984 1605,2984 1632,2984 1659,2982 1686,2982 1713,2982 1799,2986"/>
+                <TextEquiv>
+                    <Unicode>FVRANIAE•FLO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531952081_1071" custom="readingOrder {index:5;}">
+                <Coords points="1369,3040 1402,3034 1417,3046 1429,3034 1447,3046 1471,3025 1519,3037 1564,3022 1624,3055 1657,3028 1684,3046 1723,3028 1738,3043 1777,3028 1777,2992 1696,2983 1369,2992"/>
+                <Baseline points="1383,3026 1763,3026"/>
+                <TextEquiv>
+                    <Unicode>RAE•CONIVGI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531954837_1076" custom="readingOrder {index:6;}">
+                <Coords points="1371,3078 1452,3061 1476,3076 1683,3058 1765,3075 1819,3068 1818,3032 1773,3009 1749,3033 1665,3034 1647,3020 1587,3042 1566,3024 1518,3040 1479,3025 1371,3039"/>
+                <Baseline points="1385,3066 1803,3060"/>
+                <TextEquiv>
+                    <Unicode>SANCTISSIMAE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650531957310_1081" custom="readingOrder {index:7;}">
+                <Coords points="1373,3123 1427,3132 1466,3119 1499,3134 1544,3119 1613,3137 1631,3122 1716,3133 1769,3118 1824,3136 1823,3070 1646,3056 1625,3071 1520,3062 1478,3077 1454,3060 1373,3060"/>
+                <Baseline points="1389,3106 1809,3104"/>
+                <TextEquiv>
+                    <Unicode>VIX•ANII•XX̄ĪĪĪ•M•ĪĪĪ•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650532099720_1135" custom="readingOrder {index:8;}">
+                <Coords points="944,3201 1769,3187 1747,3118 943,3135"/>
+                <Baseline points="960,3184 962,3184 1005,3184 1049,3184 1092,3184 1136,3184 1179,3184 1222,3184 1266,3183 1309,3182 1353,3182 1396,3182 1439,3180 1483,3180 1526,3180 1570,3178 1613,3178 1656,3178 1700,3178 1743,3176 1754,3176"/>
+                <TextEquiv>
+                    <Unicode>SEX•FVRFANIVS•TYRANNVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l59" custom="readingOrder {index:9;}">
+                <Coords points="970,3241 1828,3241 1801,3184 970,3190"/>
+                <Baseline points="986,3227 1027,3225 1068,3223 1110,3223 1151,3222 1193,3221 1234,3221 1275,3221 1317,3221 1358,3221 1400,3222 1441,3223 1482,3223 1524,3223 1565,3223 1607,3223 1648,3223 1689,3223 1731,3223 1772,3223 1814,3223"/>
+                <TextEquiv>
+                    <Unicode>HER•FVNER•ET•AR•FECIT•III•IDVS•APRIL•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l62" custom="readingOrder {index:10;}">
+                <Coords points="893,3284 1769,3281 1796,3278 1796,3236 1288,3222 1045,3249 892,3188"/>
+                <Baseline points="907,3276 950,3278 994,3278 1038,3278 1081,3276 1125,3276 1169,3276 1212,3275 1256,3274 1300,3274 1344,3273 1387,3272 1431,3272 1475,3270 1518,3270 1562,3270 1606,3269 1649,3268 1693,3268 1737,3268 1781,3270"/>
+                <TextEquiv>
+                    <Unicode>M•AIMILIO•LEPIDO•ĪĪ•ET•MVNATIO•PLANCO•COS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Q•FVRFANIO•C•F
+NIGRINO
+PROC•FABRORVM
+VIXI•ANN•X̄X̄ĪV•M•V̄ĪĪ
+FVRANIAE•FLO
+RAE•CONIVGI
+SANCTISSIMAE
+VIX•ANII•XX̄ĪĪĪ•M•ĪĪĪ•
+SEX•FVRFANIVS•TYRANNVS
+HER•FVNER•ET•AR•FECIT•III•IDVS•APRIL•
+M•AIMILIO•LEPIDO•ĪĪ•ET•MVNATIO•PLANCO•COS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.760+01:00</Created>
+        <LastChange>2024-06-25T19:28:58.390+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902873" pageNr="60" tsid="174124681" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=NHKNRYNYOWNTBQFCMEKVUTEA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCYCVGGTWIUKGNFUECJGKPZS" imageId="17873928"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_030b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337501974" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643803621695_1337"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643803621695_1336"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643803621695_1337" custom="readingOrder {index:0;}">
+            <Coords points="2940,219 3340,218 3339,464 2940,470"/>
+            <TextEquiv>
+                <Unicode>RHEGIO, è città di Italia nella Magna Grecia, da Greci scritta, ΡΗΓΙΟΝ, e da latini Regium.&#13;
+Fu pria colonia greca, e poscia de latini dal grande Augusto la quale chiamo RHEGIO IVLIA AV¬&#13;
+GVSTA COLONIA LATINA, ove pose soldati veterani. e Fu pria appellata Rhigion dall'esser posta&#13;
+sul freto tra la Sicilia e l'Italia, cio è dal spartire e Rhere, onde gli habitatori sono detti Rhe¬&#13;
+gini, e il cittadino Rhegino, come nel greco ΡΗΓΙΝΟΣ, e ΡΗΓΙΝΗ, cio è Rhegine ò Rhegi¬&#13;
+na la femina. Si come piace à Sthephano Byzantio. Fanne menzione Antigono nelle Olympia¬&#13;
+di inquesto breve senso, che nella prima Olympiade secondo scrive Timaeo le cycale in&#13;
+Rhegio furono fatte mute e non cant avano: per cio che egli nella historia de sicoli, ovo¬&#13;
+gliamo dire siciliani, fece memoria, che in Rhegio al fiume Hellece chel paese de Locri,&#13;
+e di Rhegini destingue, è cosa maravigliosa, che le cycale cantano nella parte di Locri,&#13;
+e in quella di Rhegini sono mute. et non vi e se non uno brevissimo spatio. Dele quali si di&#13;
+cono cose favolose, l'una che nella olympiade prima come dice Diodoro Hercole le fece mute per¬&#13;
+che lo destavano dal somno e riposo che prendea sotto gliarbori conl'Armenti tolti à Gerione.&#13;
+e nellaltra regione, aducono nella seconda Olympiade questo. Essendo addunque venuto da&#13;
+Delpho à Rhegio duoi coloni, ò habitatori, da Delpho Aristone, e à Locro Eunomo Cytharedi,&#13;
+et questi sendo poi venuti à gara nel cantare, e suonare: Eunomo Locrense per segno di Vit&#13;
+toria gli volo una Cycala sula Lyra, il che sendo veduto con gran'chela morte, et vociferatione&#13;
+fu gridato vincitore, e cosi rimasto Aristone Rhegino perditore, lo fingono dalla natura delle&#13;
+Cycale mute, ch'esse inlo paese Rhegino non visi sentono: Ma quelliche non piacque di dire,&#13;
+che in una parte non vi cantano perla grossezza dell'aere, e nell'altra cantano per megliore&#13;
+aria, attibuiscono la mutezza loro alli prieghi d'Hercole, che quivi non potendo quietare&#13;
+perlo strepito, domandando à Iove ò alla natura gratia, diventarono mute. per sempre. Hor dunque,&#13;
+i locrensi nella Moneta loro da un lato fecero la lyra d'Eurono conla cycala per rovescio della&#13;
+testa di Iove, e quando à quella di Apolline, ò di Hercole con la cycala. e li Rhegini fanno&#13;
+il medesimo, per che alcuni dicono che perla isolenza d'Aristone e suoi partiali. Eunomo heb¬&#13;
+be la corona, per che una cycala delle Mute canto sula sua cythera. Di piu fanno i Rhegini&#13;
+Arione Cytharedo sul Delphino affiso, nel rovescio della testa di Neptuno, per che costui appo di loro&#13;
+s'arrichi. d'indi ritorno à Mitymna sua patria, come è detto nelle Medaglie di Rhegio. Et fa&#13;
+cevano, la Nave d'Vlysse assaltata da Carybdi è scilla, nelli rovesci dell'imperadori Roma¬&#13;
+ni perlo antico significato del valore e prudentia d'Vlysse, quando passo il freto periglioso, che al¬&#13;
+lhora i naviganti grandemente temevano di passarlo. Hora per tornar' anchora alla natura de¬&#13;
+le cycale, si trova questo che in niuno luogo dove è l'aere grave si sentono. Nell'attica che è bonissi&#13;
+ma l'aria, vi sono piu grosse e piu cantarine, che non sono inaltra parte di Grecia, e gli Athenie¬&#13;
+si portavano le cycale legate ne capelli per mostrarsi endigeni, cio è nati quivi e non d'altronde&#13;
+venuti, per mostrar l'antica loro nobilta, sicome dicono Plutarcho, e Thucydide. Narra di piu&#13;
+Antigono, che nella terza olympiade, in Cephallenia isola advenne; essendo quella divisa dal&#13;
+phiume Cephallenio indue parti, da una le cycale non vi cantano et dall'altra parte si. Hora&#13;
+di Rhegio famenzione Ovidio nel quarto delle trasformationi. RHEGION, INGREDITVR, FERVENTESQVE&#13;
+AESTIBVS VNDAS. &#13;
+RHEBA, ò vero ΡΗΒΑΣ, è nome di Fiume del ponto e Regione, come scrive Stephano, da cui il nome&#13;
+gentile degli habitatori dice Rhebaei. Cosi, ΡΗΒΑΙΟΙ. con duoi diphtonghi. Cosi anchora li nomino&#13;
+Artemidoro: e ΡΗΒΑΝ la Regione istessa secondo contiene il fiume nella pontica cosi gli habitan&#13;
+ti sono detti Rhebaei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643803621695_1336" custom="readingOrder {index:1;}">
+            <Coords points="288,230 2940,219 2940,470 3339,464 3330,4557 302,4532"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:64; length:6;}">
+                <Coords points="374,429 495,433 616,437 737,439 859,441 980,443 1101,445 1223,445 1344,447 1465,447 1587,447 1708,449 1829,449 1950,449 2072,449 2193,451 2314,451 2436,451 2557,453 2678,455 2800,455 2800,397 2678,397 2557,395 2436,393 2314,393 2193,393 2072,391 1950,391 1829,391 1708,391 1587,389 1465,389 1344,389 1223,387 1101,387 980,385 859,383 737,381 616,379 495,375 374,371"/>
+                <Baseline points="374,410 495,414 616,418 737,420 859,422 980,424 1101,426 1223,426 1344,428 1465,428 1587,428 1708,430 1829,430 1950,430 2072,430 2193,432 2314,432 2436,432 2557,434 2678,436 2800,436"/>
+                <TextEquiv>
+                    <Unicode>RHEGIO, è città di Italia nella Magna Grecia, da Greci scritta, ΡΗΓΙΟΝ, et da latini Regium.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="416,521 534,524 653,525 772,527 891,528 1010,529 1128,529 1247,529 1366,529 1485,529 1604,529 1722,529 1841,529 1960,529 2079,531 2198,531 2316,532 2435,533 2554,535 2673,537 2792,539 2792,481 2673,479 2554,477 2435,475 2316,474 2198,473 2079,473 1960,471 1841,471 1722,471 1604,471 1485,471 1366,471 1247,471 1128,471 1010,471 891,470 772,469 653,467 534,466 416,463"/>
+                <Baseline points="416,502 534,505 653,506 772,508 891,509 1010,510 1128,510 1247,510 1366,510 1485,510 1604,510 1722,510 1841,510 1960,510 2079,512 2198,512 2316,513 2435,514 2554,516 2673,518 2792,520"/>
+                <TextEquiv>
+                    <Unicode>Fu pria colonia greca, et poscia de latini dal grande Augusto la quale chiamo RHEGIO IVLIA AV¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} unclear {offset:70; length:7;}">
+                <Coords points="410,633 530,637 651,637 772,639 893,639 1014,637 1135,637 1256,635 1377,635 1498,633 1619,631 1739,629 1860,629 1981,627 2102,627 2223,627 2344,627 2465,629 2586,631 2707,633 2828,637 2828,573 2707,569 2586,567 2465,565 2344,563 2223,563 2102,563 1981,563 1860,565 1739,565 1619,567 1498,569 1377,571 1256,571 1135,573 1014,573 893,575 772,575 651,573 530,573 410,569"/>
+                <Baseline points="410,612 530,616 651,616 772,618 893,618 1014,616 1135,616 1256,614 1377,614 1498,612 1619,610 1739,608 1860,608 1981,606 2102,606 2223,606 2344,606 2465,608 2586,610 2707,612 2828,616"/>
+                <TextEquiv>
+                    <Unicode>GVSTA COLONIA LATINA, ove pose soldati veterani. et Fu pria appellata Rhigion dall'esser posta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} unclear {offset:60; length:5;}">
+                <Coords points="400,729 522,729 644,729 766,729 888,727 1011,727 1133,725 1255,725 1377,723 1499,723 1622,723 1744,723 1866,723 1988,723 2110,723 2233,725 2355,727 2477,729 2599,732 2721,736 2844,741 2844,677 2721,672 2599,668 2477,665 2355,663 2233,661 2110,659 1988,659 1866,659 1744,659 1622,659 1499,659 1377,659 1255,661 1133,661 1011,663 888,663 766,665 644,665 522,665 400,665"/>
+                <Baseline points="400,708 522,708 644,708 766,708 888,706 1011,706 1133,704 1255,704 1377,702 1499,702 1622,702 1744,702 1866,702 1988,702 2110,702 2233,704 2355,706 2477,708 2599,711 2721,715 2844,720"/>
+                <TextEquiv>
+                    <Unicode>sul freto tra la Sicilia et l'Italia, cio è dal spartire et Rhere, onde gli habitatori sono detti Rhe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} Greek {offset:46; length:7;} Greek {offset:58; length:6;}">
+                <Coords points="406,832 526,831 647,830 767,830 888,828 1008,828 1129,826 1249,826 1370,825 1490,824 1611,824 1731,824 1852,824 1972,824 2093,824 2213,824 2334,824 2454,824 2575,826 2695,826 2816,828 2816,762 2695,760 2575,760 2454,758 2334,758 2213,758 2093,758 1972,758 1852,758 1731,758 1611,758 1490,758 1370,759 1249,760 1129,760 1008,762 888,762 767,764 647,764 526,765 406,766"/>
+                <Baseline points="406,810 526,809 647,808 767,808 888,806 1008,806 1129,804 1249,804 1370,803 1490,802 1611,802 1731,802 1852,802 1972,802 2093,802 2213,802 2334,802 2454,802 2575,804 2695,804 2816,806"/>
+                <TextEquiv>
+                    <Unicode>gini, et il cittadino Rhegino, come nel greco ΡΗΓΙΝΟΣ, et ΡΗΓΙΝΗ, cio è Rhegine ò Rhegi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="410,920 531,920 653,922 774,922 896,922 1017,922 1139,922 1260,922 1382,922 1503,921 1625,920 1746,920 1868,920 1989,920 2111,920 2232,920 2354,920 2475,920 2597,920 2718,918 2840,918 2840,852 2718,852 2597,854 2475,854 2354,854 2232,854 2111,854 1989,854 1868,854 1746,854 1625,854 1503,855 1382,856 1260,856 1139,856 1017,856 896,856 774,856 653,856 531,854 410,854"/>
+                <Baseline points="410,898 531,898 653,900 774,900 896,900 1017,900 1139,900 1260,900 1382,900 1503,899 1625,898 1746,898 1868,898 1989,898 2111,898 2232,898 2354,898 2475,898 2597,898 2718,896 2840,896"/>
+                <TextEquiv>
+                    <Unicode>na la femina. Si come piace à Sthephano Byzantio. Fanne menzione Antigono nelle Olympia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="406,1028 526,1028 647,1026 768,1026 889,1026 1010,1026 1131,1026 1252,1026 1373,1024 1494,1024 1615,1024 1735,1024 1856,1024 1977,1024 2098,1024 2219,1024 2340,1024 2461,1024 2582,1024 2703,1024 2824,1024 2824,958 2703,958 2582,958 2461,958 2340,958 2219,958 2098,958 1977,958 1856,958 1735,958 1615,958 1494,958 1373,958 1252,960 1131,960 1010,960 889,960 768,960 647,960 526,962 406,962"/>
+                <Baseline points="406,1006 526,1006 647,1004 768,1004 889,1004 1010,1004 1131,1004 1252,1004 1373,1002 1494,1002 1615,1002 1735,1002 1856,1002 1977,1002 2098,1002 2219,1002 2340,1002 2461,1002 2582,1002 2703,1002 2824,1002"/>
+                <TextEquiv>
+                    <Unicode>di in questo breve senso, che nella prima Olympiade secondo scrive Timaeo le cycale in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="406,1123 528,1123 650,1123 772,1122 894,1121 1016,1121 1138,1121 1260,1119 1382,1119 1504,1117 1627,1117 1749,1117 1871,1115 1993,1115 2115,1115 2237,1113 2359,1113 2481,1113 2603,1113 2725,1113 2848,1113 2848,1049 2725,1049 2603,1049 2481,1049 2359,1049 2237,1049 2115,1051 1993,1051 1871,1051 1749,1053 1627,1053 1504,1053 1382,1055 1260,1055 1138,1057 1016,1057 894,1057 772,1058 650,1059 528,1059 406,1059"/>
+                <Baseline points="406,1102 528,1102 650,1102 772,1101 894,1100 1016,1100 1138,1100 1260,1098 1382,1098 1504,1096 1627,1096 1749,1096 1871,1094 1993,1094 2115,1094 2237,1092 2359,1092 2481,1092 2603,1092 2725,1092 2848,1092"/>
+                <TextEquiv>
+                    <Unicode>Rhegio furono fatte mute et non cant avano: per cio che egli nella historia de sicoli, o' vo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="406,1211 526,1211 647,1211 768,1211 889,1211 1010,1211 1130,1211 1251,1210 1372,1209 1493,1209 1614,1209 1734,1207 1855,1207 1976,1207 2097,1207 2218,1207 2338,1209 2459,1209 2580,1211 2701,1213 2822,1215 2822,1151 2701,1149 2580,1147 2459,1145 2338,1145 2218,1143 2097,1143 1976,1143 1855,1143 1734,1143 1614,1145 1493,1145 1372,1145 1251,1146 1130,1147 1010,1147 889,1147 768,1147 647,1147 526,1147 406,1147"/>
+                <Baseline points="406,1190 526,1190 647,1190 768,1190 889,1190 1010,1190 1130,1190 1251,1189 1372,1188 1493,1188 1614,1188 1734,1186 1855,1186 1976,1186 2097,1186 2218,1186 2338,1188 2459,1188 2580,1190 2701,1192 2822,1194"/>
+                <TextEquiv>
+                    <Unicode>gliamo dire siciliani, fece memoria, che in Rhegio al fiume Hellece chel paese de Locri,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="414,1306 534,1308 654,1310 775,1311 895,1312 1016,1312 1136,1312 1256,1312 1377,1312 1497,1312 1618,1312 1738,1312 1858,1312 1979,1312 2099,1312 2220,1312 2340,1312 2460,1314 2581,1316 2701,1316 2822,1320 2822,1254 2701,1250 2581,1250 2460,1248 2340,1246 2220,1246 2099,1246 1979,1246 1858,1246 1738,1246 1618,1246 1497,1246 1377,1246 1256,1246 1136,1246 1016,1246 895,1246 775,1245 654,1244 534,1242 414,1240"/>
+                <Baseline points="414,1284 534,1286 654,1288 775,1289 895,1290 1016,1290 1136,1290 1256,1290 1377,1290 1497,1290 1618,1290 1738,1290 1858,1290 1979,1290 2099,1290 2220,1290 2340,1290 2460,1292 2581,1294 2701,1294 2822,1298"/>
+                <TextEquiv>
+                    <Unicode>et di Rhegini destingue, è cosa maravigliosa, che le cycale cantano nella parte di Locri,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} unclear {offset:16; length:7;}">
+                <Coords points="398,1402 519,1402 641,1404 763,1404 885,1404 1007,1404 1129,1404 1251,1404 1373,1404 1495,1404 1617,1404 1738,1404 1860,1404 1982,1404 2104,1406 2226,1406 2348,1406 2470,1408 2592,1408 2714,1410 2836,1412 2836,1346 2714,1344 2592,1342 2470,1342 2348,1340 2226,1340 2104,1340 1982,1338 1860,1338 1738,1338 1617,1338 1495,1338 1373,1338 1251,1338 1129,1338 1007,1338 885,1338 763,1338 641,1338 519,1336 398,1336"/>
+                <Baseline points="398,1380 519,1380 641,1382 763,1382 885,1382 1007,1382 1129,1382 1251,1382 1373,1382 1495,1382 1617,1382 1738,1382 1860,1382 1982,1382 2104,1384 2226,1384 2348,1384 2470,1386 2592,1386 2714,1388 2836,1390"/>
+                <TextEquiv>
+                    <Unicode>et in quella di Rhegini sono mute. et non vi e se non uno brevissimo spatio. Dele quali si di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="398,1502 521,1504 645,1506 768,1506 892,1506 1016,1506 1139,1506 1263,1506 1386,1506 1510,1506 1634,1504 1757,1504 1881,1504 2004,1504 2128,1504 2252,1504 2375,1506 2499,1506 2622,1508 2746,1510 2870,1514 2870,1448 2746,1444 2622,1442 2499,1440 2375,1440 2252,1438 2128,1438 2004,1438 1881,1438 1757,1438 1634,1438 1510,1440 1386,1440 1263,1440 1139,1440 1016,1440 892,1440 768,1440 645,1440 521,1438 398,1436"/>
+                <Baseline points="398,1480 521,1482 645,1484 768,1484 892,1484 1016,1484 1139,1484 1263,1484 1386,1484 1510,1484 1634,1482 1757,1482 1881,1482 2004,1482 2128,1482 2252,1482 2375,1484 2499,1484 2622,1486 2746,1488 2870,1492"/>
+                <TextEquiv>
+                    <Unicode>cono cose favolose, l'una che nella olympiade prima come dice Diodoro Hercole le fece mute per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="394,1610 516,1610 639,1610 762,1610 885,1608 1008,1608 1131,1608 1254,1606 1377,1606 1500,1606 1623,1604 1745,1604 1868,1604 1991,1604 2114,1604 2237,1606 2360,1606 2483,1608 2606,1610 2729,1612 2852,1616 2852,1550 2729,1546 2606,1544 2483,1542 2360,1540 2237,1540 2114,1538 1991,1538 1868,1538 1745,1538 1623,1538 1500,1540 1377,1540 1254,1540 1131,1542 1008,1542 885,1542 762,1544 639,1544 516,1544 394,1544"/>
+                <Baseline points="394,1588 516,1588 639,1588 762,1588 885,1586 1008,1586 1131,1586 1254,1584 1377,1584 1500,1584 1623,1582 1745,1582 1868,1582 1991,1582 2114,1582 2237,1584 2360,1584 2483,1586 2606,1588 2729,1590 2852,1594"/>
+                <TextEquiv>
+                    <Unicode>che lo destavano dal somno et riposo che prendea sotto gliarbori conl'Armenti tolti à Gerione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="386,1710 509,1712 633,1714 757,1714 880,1714 1004,1714 1128,1712 1251,1712 1375,1710 1499,1710 1623,1708 1746,1707 1870,1706 1994,1706 2117,1706 2241,1706 2365,1706 2488,1708 2612,1710 2736,1714 2860,1718 2860,1652 2736,1648 2612,1644 2488,1642 2365,1640 2241,1640 2117,1640 1994,1640 1870,1640 1746,1641 1623,1642 1499,1644 1375,1644 1251,1646 1128,1646 1004,1648 880,1648 757,1648 633,1648 509,1646 386,1644"/>
+                <Baseline points="386,1688 509,1690 633,1692 757,1692 880,1692 1004,1692 1128,1690 1251,1690 1375,1688 1499,1688 1623,1686 1746,1685 1870,1684 1994,1684 2117,1684 2241,1684 2365,1684 2488,1686 2612,1688 2736,1692 2860,1696"/>
+                <TextEquiv>
+                    <Unicode>et nellaltra regione, aducono nella seconda Olympiade questo. Essendo addunque venuto da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="390,1812 512,1814 634,1814 757,1816 879,1816 1002,1816 1124,1816 1246,1816 1369,1814 1491,1814 1614,1814 1736,1812 1858,1812 1981,1812 2103,1812 2226,1812 2348,1812 2470,1812 2593,1814 2715,1816 2838,1818 2838,1752 2715,1750 2593,1748 2470,1746 2348,1746 2226,1746 2103,1746 1981,1746 1858,1746 1736,1746 1614,1748 1491,1748 1369,1748 1246,1750 1124,1750 1002,1750 879,1750 757,1750 634,1748 512,1748 390,1746"/>
+                <Baseline points="390,1790 512,1792 634,1792 757,1794 879,1794 1002,1794 1124,1794 1246,1794 1369,1792 1491,1792 1614,1792 1736,1790 1858,1790 1981,1790 2103,1790 2226,1790 2348,1790 2470,1790 2593,1792 2715,1794 2838,1796"/>
+                <TextEquiv>
+                    <Unicode>Delpho à Rhegio duoi coloni, ò habitatori, da Delpho Aristone, et à Locro Eunomo Cytharedi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="390,1918 512,1918 634,1918 756,1918 878,1918 1001,1918 1123,1917 1245,1916 1367,1916 1489,1914 1612,1914 1734,1914 1856,1914 1978,1914 2100,1914 2223,1914 2345,1916 2467,1918 2589,1920 2711,1924 2834,1928 2834,1862 2711,1858 2589,1854 2467,1852 2345,1850 2223,1848 2100,1848 1978,1848 1856,1848 1734,1848 1612,1848 1489,1848 1367,1850 1245,1850 1123,1851 1001,1852 878,1852 756,1852 634,1852 512,1852 390,1852"/>
+                <Baseline points="390,1896 512,1896 634,1896 756,1896 878,1896 1001,1896 1123,1895 1245,1894 1367,1894 1489,1892 1612,1892 1734,1892 1856,1892 1978,1892 2100,1892 2223,1892 2345,1894 2467,1896 2589,1898 2711,1902 2834,1906"/>
+                <TextEquiv>
+                    <Unicode>et questi sendo poi venuti à gara nel cantare, et suonare: Eunomo Locrense per segno di Vit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="398,2008 519,2009 641,2010 763,2012 885,2014 1007,2014 1129,2014 1251,2016 1373,2016 1495,2016 1617,2016 1738,2016 1860,2016 1982,2016 2104,2016 2226,2016 2348,2016 2470,2016 2592,2016 2714,2016 2836,2018 2836,1952 2714,1950 2592,1950 2470,1950 2348,1950 2226,1950 2104,1950 1982,1950 1860,1950 1738,1950 1617,1950 1495,1950 1373,1950 1251,1950 1129,1948 1007,1948 885,1948 763,1946 641,1944 519,1943 398,1942"/>
+                <Baseline points="398,1986 519,1987 641,1988 763,1990 885,1992 1007,1992 1129,1992 1251,1994 1373,1994 1495,1994 1617,1994 1738,1994 1860,1994 1982,1994 2104,1994 2226,1994 2348,1994 2470,1994 2592,1994 2714,1994 2836,1996"/>
+                <TextEquiv>
+                    <Unicode>toria gli volo una cycala sula Lyra, il che sendo veduto con gran'chlamore, et vociferatione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="368,2106 491,2108 614,2108 737,2108 860,2108 983,2108 1106,2108 1229,2108 1352,2108 1475,2108 1598,2108 1721,2108 1844,2108 1967,2110 2090,2110 2213,2110 2336,2112 2459,2112 2582,2114 2705,2115 2828,2116 2828,2050 2705,2049 2582,2048 2459,2046 2336,2046 2213,2044 2090,2044 1967,2044 1844,2042 1721,2042 1598,2042 1475,2042 1352,2042 1229,2042 1106,2042 983,2042 860,2042 737,2042 614,2042 491,2042 368,2040"/>
+                <Baseline points="368,2084 491,2086 614,2086 737,2086 860,2086 983,2086 1106,2086 1229,2086 1352,2086 1475,2086 1598,2086 1721,2086 1844,2086 1967,2088 2090,2088 2213,2088 2336,2090 2459,2090 2582,2092 2705,2093 2828,2094"/>
+                <TextEquiv>
+                    <Unicode>fu gridato vincitore, et cosi rimasto Aristone Rhegino perditore, lo fingono dalla natura delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} unclear {offset:49; length:7;}">
+                <Coords points="388,2214 510,2216 632,2218 754,2220 876,2220 999,2220 1121,2220 1243,2218 1365,2218 1487,2216 1610,2216 1732,2214 1854,2214 1976,2212 2098,2212 2221,2210 2343,2210 2465,2210 2587,2212 2709,2212 2832,2214 2832,2148 2709,2146 2587,2146 2465,2144 2343,2144 2221,2144 2098,2146 1976,2146 1854,2148 1732,2148 1610,2150 1487,2150 1365,2152 1243,2152 1121,2154 999,2154 876,2154 754,2154 632,2152 510,2150 388,2148"/>
+                <Baseline points="388,2192 510,2194 632,2196 754,2198 876,2198 999,2198 1121,2198 1243,2196 1365,2196 1487,2194 1610,2194 1732,2192 1854,2192 1976,2190 2098,2190 2221,2188 2343,2188 2465,2188 2587,2190 2709,2190 2832,2192"/>
+                <TextEquiv>
+                    <Unicode>cycale mute, ch'esse inlo paese Rhegino non visi sentono: Ma quelli che non piacque di dire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} unclear {offset:67; length:5;}">
+                <Coords points="392,2312 513,2314 635,2316 757,2318 879,2318 1001,2318 1122,2320 1244,2320 1366,2320 1488,2318 1610,2318 1731,2318 1853,2318 1975,2318 2097,2318 2219,2318 2340,2318 2462,2318 2584,2318 2706,2320 2828,2322 2828,2256 2706,2254 2584,2252 2462,2252 2340,2252 2219,2252 2097,2252 1975,2252 1853,2252 1731,2252 1610,2252 1488,2252 1366,2254 1244,2254 1122,2254 1001,2252 879,2252 757,2252 635,2250 513,2248 392,2246"/>
+                <Baseline points="392,2290 513,2292 635,2294 757,2296 879,2296 1001,2296 1122,2298 1244,2298 1366,2298 1488,2296 1610,2296 1731,2296 1853,2296 1975,2296 2097,2296 2219,2296 2340,2296 2462,2296 2584,2296 2706,2298 2828,2300"/>
+                <TextEquiv>
+                    <Unicode>che in una parte non vi cantano perla grossezza dell'aere, et nell'altra cantano per megliore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="378,2406 500,2406 622,2408 744,2408 866,2408 989,2408 1111,2408 1233,2410 1355,2410 1477,2410 1600,2412 1722,2412 1844,2412 1966,2412 2088,2414 2211,2414 2333,2414 2455,2414 2577,2414 2699,2414 2822,2416 2822,2350 2699,2348 2577,2348 2455,2348 2333,2348 2211,2348 2088,2348 1966,2346 1844,2346 1722,2346 1600,2346 1477,2344 1355,2344 1233,2344 1111,2342 989,2342 866,2342 744,2342 622,2342 500,2340 378,2340"/>
+                <Baseline points="378,2384 500,2384 622,2386 744,2386 866,2386 989,2386 1111,2386 1233,2388 1355,2388 1477,2388 1600,2390 1722,2390 1844,2390 1966,2390 2088,2392 2211,2392 2333,2392 2455,2392 2577,2392 2699,2392 2822,2394"/>
+                <TextEquiv>
+                    <Unicode>aria, attibuiscono la mutezza loro alli prieghi d'Hercole, che quivi non potendo quietare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="390,2508 513,2506 637,2504 760,2504 884,2502 1007,2502 1131,2502 1254,2500 1378,2500 1501,2502 1625,2502 1748,2502 1872,2503 1995,2504 2119,2504 2242,2506 2366,2506 2489,2508 2613,2508 2736,2508 2860,2508 2860,2442 2736,2442 2613,2442 2489,2442 2366,2440 2242,2440 2119,2438 1995,2438 1872,2437 1748,2436 1625,2436 1501,2436 1378,2434 1254,2434 1131,2436 1007,2436 884,2436 760,2438 637,2438 513,2440 390,2442"/>
+                <Baseline points="390,2486 513,2484 637,2482 760,2482 884,2480 1007,2480 1131,2480 1254,2478 1378,2478 1501,2480 1625,2480 1748,2480 1872,2481 1995,2482 2119,2482 2242,2484 2366,2484 2489,2486 2613,2486 2736,2486 2860,2486"/>
+                <TextEquiv>
+                    <Unicode>perlo strepito, domandando à Iove ò alla natura gratia, diventarono mute per sempre. Hor dunque,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="384,2598 506,2596 628,2596 751,2594 873,2594 996,2594 1118,2594 1240,2594 1363,2596 1485,2598 1608,2598 1730,2600 1852,2602 1975,2604 2097,2606 2220,2607 2342,2609 2464,2610 2587,2612 2709,2612 2832,2614 2832,2548 2709,2546 2587,2546 2464,2544 2342,2543 2220,2541 2097,2540 1975,2538 1852,2536 1730,2534 1608,2532 1485,2532 1363,2530 1240,2528 1118,2528 996,2528 873,2528 751,2528 628,2530 506,2530 384,2532"/>
+                <Baseline points="384,2576 506,2574 628,2574 751,2572 873,2572 996,2572 1118,2572 1240,2572 1363,2574 1485,2576 1608,2576 1730,2578 1852,2580 1975,2582 2097,2584 2220,2585 2342,2587 2464,2588 2587,2590 2709,2590 2832,2592"/>
+                <TextEquiv>
+                    <Unicode>i locrensi nella Moneta loro da un lato fecero la lyra d'Eunomo conla cycala per rovescio della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="386,2698 508,2696 630,2696 752,2694 874,2694 996,2694 1118,2694 1240,2696 1362,2696 1484,2696 1606,2698 1728,2698 1850,2700 1972,2701 2094,2702 2216,2702 2338,2704 2460,2704 2582,2704 2704,2704 2826,2706 2826,2645 2704,2643 2582,2643 2460,2643 2338,2643 2216,2641 2094,2641 1972,2640 1850,2639 1728,2637 1606,2637 1484,2635 1362,2635 1240,2635 1118,2633 996,2633 874,2633 752,2633 630,2635 508,2635 386,2637"/>
+                <Baseline points="386,2678 508,2676 630,2676 752,2674 874,2674 996,2674 1118,2674 1240,2676 1362,2676 1484,2676 1606,2678 1728,2678 1850,2680 1972,2681 2094,2682 2216,2682 2338,2684 2460,2684 2582,2684 2704,2684 2826,2686"/>
+                <TextEquiv>
+                    <Unicode>Testa di Iove, et quando à quella di Apolline, ò di Hercole con la cycala. et li Rhegini fanno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="384,2782 506,2784 629,2788 751,2788 874,2790 997,2791 1119,2792 1242,2792 1364,2792 1487,2790 1610,2790 1732,2790 1855,2790 1977,2788 2100,2788 2223,2788 2345,2788 2468,2788 2590,2790 2713,2791 2836,2792 2836,2731 2713,2730 2590,2729 2468,2727 2345,2727 2223,2727 2100,2727 1977,2727 1855,2729 1732,2729 1610,2729 1487,2729 1364,2731 1242,2731 1119,2731 997,2730 874,2729 751,2727 629,2727 506,2723 384,2721"/>
+                <Baseline points="384,2762 506,2764 629,2768 751,2768 874,2770 997,2771 1119,2772 1242,2772 1364,2772 1487,2770 1610,2770 1732,2770 1855,2770 1977,2768 2100,2768 2223,2768 2345,2768 2468,2768 2590,2770 2713,2771 2836,2772"/>
+                <TextEquiv>
+                    <Unicode>il medesimo, per che alcuni dicono che perla Isolenza d'Aristone et suoi partiali. Eunomo heb¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="376,2880 498,2880 621,2882 743,2882 866,2882 989,2884 1111,2884 1234,2886 1356,2888 1479,2890 1602,2890 1724,2892 1847,2894 1969,2896 2092,2898 2215,2900 2337,2902 2460,2904 2582,2906 2705,2908 2828,2910 2828,2844 2705,2842 2582,2840 2460,2838 2337,2836 2215,2834 2092,2832 1969,2830 1847,2828 1724,2826 1602,2824 1479,2824 1356,2822 1234,2820 1111,2818 989,2818 866,2816 743,2816 621,2816 498,2814 376,2814"/>
+                <Baseline points="376,2858 498,2858 621,2860 743,2860 866,2860 989,2862 1111,2862 1234,2864 1356,2866 1479,2868 1602,2868 1724,2870 1847,2872 1969,2874 2092,2876 2215,2878 2337,2880 2460,2882 2582,2884 2705,2886 2828,2888"/>
+                <TextEquiv>
+                    <Unicode>be la corona, per che una cycala delle Mute canto sula sua cythera, Di piu fanno i Rhegini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="376,2972 498,2972 620,2974 742,2974 864,2974 986,2976 1108,2978 1230,2978 1352,2980 1474,2982 1597,2984 1719,2985 1841,2987 1963,2988 2085,2990 2207,2992 2329,2994 2451,2996 2573,2998 2695,3000 2818,3002 2818,2936 2695,2934 2573,2932 2451,2930 2329,2928 2207,2926 2085,2924 1963,2922 1841,2921 1719,2919 1597,2918 1474,2916 1352,2914 1230,2912 1108,2912 986,2910 864,2908 742,2908 620,2908 498,2906 376,2906"/>
+                <Baseline points="376,2950 498,2950 620,2952 742,2952 864,2952 986,2954 1108,2956 1230,2956 1352,2958 1474,2960 1597,2962 1719,2963 1841,2965 1963,2966 2085,2968 2207,2970 2329,2972 2451,2974 2573,2976 2695,2978 2818,2980"/>
+                <TextEquiv>
+                    <Unicode>Arione Cytharedo sul Delphino affiso, nel rovescio della testa di Neptuno, per che costui appo di loro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="374,3067 496,3069 619,3071 742,3073 865,3073 988,3075 1111,3077 1234,3079 1357,3079 1480,3081 1603,3083 1725,3085 1848,3085 1971,3087 2094,3089 2217,3091 2340,3093 2463,3095 2586,3097 2709,3100 2832,3103 2832,3039 2709,3036 2586,3033 2463,3031 2340,3029 2217,3027 2094,3025 1971,3023 1848,3021 1725,3021 1603,3019 1480,3017 1357,3015 1234,3015 1111,3013 988,3011 865,3009 742,3009 619,3007 496,3005 374,3003"/>
+                <Baseline points="374,3046 496,3048 619,3050 742,3052 865,3052 988,3054 1111,3056 1234,3058 1357,3058 1480,3060 1603,3062 1725,3064 1848,3064 1971,3066 2094,3068 2217,3070 2340,3072 2463,3074 2586,3076 2709,3079 2832,3082"/>
+                <TextEquiv>
+                    <Unicode>s'arrichi. et d'indi ritornò à Mitymna sua patria, come è detto nelle Medaglie di Rhegio. Et fa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="376,3155 500,3159 625,3161 749,3163 874,3166 999,3169 1123,3171 1248,3175 1372,3177 1497,3179 1622,3183 1746,3185 1871,3189 1995,3191 2120,3195 2245,3197 2369,3199 2494,3203 2618,3205 2743,3209 2868,3211 2868,3147 2743,3145 2618,3141 2494,3139 2369,3135 2245,3133 2120,3131 1995,3127 1871,3125 1746,3121 1622,3119 1497,3115 1372,3113 1248,3111 1123,3107 999,3105 874,3102 749,3099 625,3097 500,3095 376,3091"/>
+                <Baseline points="376,3134 500,3138 625,3140 749,3142 874,3145 999,3148 1123,3150 1248,3154 1372,3156 1497,3158 1622,3162 1746,3164 1871,3168 1995,3170 2120,3174 2245,3176 2369,3178 2494,3182 2618,3184 2743,3188 2868,3190"/>
+                <TextEquiv>
+                    <Unicode>cevano, la Nave d'Ulysse assaltata da Carybdi et Scilla, nelli rovesci dell'imperadori Roma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="374,3252 498,3257 623,3262 747,3266 872,3270 996,3274 1121,3276 1245,3280 1370,3282 1494,3284 1619,3286 1743,3290 1868,3292 1992,3294 2117,3296 2241,3299 2366,3301 2490,3304 2615,3308 2739,3310 2864,3314 2864,3248 2739,3244 2615,3242 2490,3238 2366,3235 2241,3233 2117,3230 1992,3228 1868,3226 1743,3224 1619,3220 1494,3218 1370,3216 1245,3214 1121,3210 996,3208 872,3204 747,3200 623,3196 498,3191 374,3186"/>
+                <Baseline points="374,3230 498,3235 623,3240 747,3244 872,3248 996,3252 1121,3254 1245,3258 1370,3260 1494,3262 1619,3264 1743,3268 1868,3270 1992,3272 2117,3274 2241,3277 2366,3279 2490,3282 2615,3286 2739,3288 2864,3292"/>
+                <TextEquiv>
+                    <Unicode>ni perlo antico significato del valore et prudentia d'Ulysse, quando passo il freto periglioso, che al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="376,3368 499,3370 623,3374 747,3376 871,3378 995,3380 1119,3382 1243,3384 1367,3386 1491,3388 1615,3390 1738,3392 1862,3394 1986,3396 2110,3400 2234,3404 2358,3408 2482,3415 2606,3421 2730,3428 2854,3438 2854,3372 2730,3362 2606,3355 2482,3349 2358,3342 2234,3338 2110,3334 1986,3330 1862,3328 1738,3326 1615,3324 1491,3322 1367,3320 1243,3318 1119,3316 995,3314 871,3312 747,3310 623,3308 499,3304 376,3302"/>
+                <Baseline points="376,3346 499,3348 623,3352 747,3354 871,3356 995,3358 1119,3360 1243,3362 1367,3364 1491,3366 1615,3368 1738,3370 1862,3372 1986,3374 2110,3378 2234,3382 2358,3386 2482,3393 2606,3399 2730,3406 2854,3416"/>
+                <TextEquiv>
+                    <Unicode>lhora i naviganti grandemente temevano di passarlo. Hora per tornar' anchora alla natura de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="350,3472 473,3472 596,3472 719,3472 843,3472 966,3474 1089,3474 1213,3476 1336,3478 1459,3480 1583,3482 1706,3486 1829,3488 1952,3492 2076,3496 2199,3500 2322,3504 2446,3508 2569,3512 2692,3516 2816,3520 2816,3454 2692,3450 2569,3446 2446,3442 2322,3438 2199,3434 2076,3430 1952,3426 1829,3422 1706,3420 1583,3416 1459,3414 1336,3412 1213,3410 1089,3408 966,3408 843,3406 719,3406 596,3406 473,3406 350,3406"/>
+                <Baseline points="350,3450 473,3450 596,3450 719,3450 843,3450 966,3452 1089,3452 1213,3454 1336,3456 1459,3458 1583,3460 1706,3464 1829,3466 1952,3470 2076,3474 2199,3478 2322,3482 2446,3486 2569,3490 2692,3494 2816,3498"/>
+                <TextEquiv>
+                    <Unicode>le cycale, si trova questo che in niuno luogo dove è l'aere grave si sentono. Nell'attica che è bonissi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="364,3546 487,3549 611,3552 735,3556 859,3560 983,3563 1106,3567 1230,3571 1354,3575 1478,3580 1602,3584 1725,3588 1849,3592 1973,3598 2097,3602 2221,3606 2344,3612 2468,3616 2592,3622 2716,3628 2840,3632 2840,3578 2716,3574 2592,3568 2468,3562 2344,3558 2221,3552 2097,3548 1973,3544 1849,3538 1725,3534 1602,3530 1478,3526 1354,3521 1230,3517 1106,3513 983,3509 859,3506 735,3502 611,3498 487,3495 364,3492"/>
+                <Baseline points="364,3528 487,3531 611,3534 735,3538 859,3542 983,3545 1106,3549 1230,3553 1354,3557 1478,3562 1602,3566 1725,3570 1849,3574 1973,3580 2097,3584 2221,3588 2344,3594 2468,3598 2592,3604 2716,3610 2840,3614"/>
+                <TextEquiv>
+                    <Unicode>ma l'aria, vi sono piu grosse et piu cantarine, che non sono inaltra parte di Grecia, et gli Athenie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="358,3646 481,3648 605,3650 729,3652 853,3656 977,3659 1100,3662 1224,3666 1348,3670 1472,3674 1596,3678 1719,3682 1843,3684 1967,3688 2091,3692 2215,3695 2338,3698 2462,3700 2586,3702 2710,3704 2834,3704 2834,3650 2710,3650 2586,3648 2462,3646 2338,3644 2215,3641 2091,3638 1967,3634 1843,3630 1719,3628 1596,3624 1472,3620 1348,3616 1224,3612 1100,3608 977,3605 853,3602 729,3598 605,3596 481,3594 358,3592"/>
+                <Baseline points="358,3628 481,3630 605,3632 729,3634 853,3638 977,3641 1100,3644 1224,3648 1348,3652 1472,3656 1596,3660 1719,3664 1843,3666 1967,3670 2091,3674 2215,3677 2338,3680 2462,3682 2586,3684 2710,3686 2834,3686"/>
+                <TextEquiv>
+                    <Unicode>si portavano le cycale legate ne capelli per mostrarsi endigeni, cio è nati quivi et non d'altronde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="356,3740 479,3742 602,3745 725,3748 848,3750 971,3754 1094,3757 1217,3761 1340,3764 1463,3768 1587,3772 1710,3776 1833,3778 1956,3782 2079,3786 2202,3789 2325,3792 2448,3795 2571,3798 2694,3800 2818,3802 2818,3736 2694,3734 2571,3732 2448,3729 2325,3726 2202,3723 2079,3720 1956,3716 1833,3712 1710,3710 1587,3706 1463,3702 1340,3698 1217,3695 1094,3691 971,3688 848,3684 725,3682 602,3679 479,3676 356,3674"/>
+                <Baseline points="356,3718 479,3720 602,3723 725,3726 848,3728 971,3732 1094,3735 1217,3739 1340,3742 1463,3746 1587,3750 1710,3754 1833,3756 1956,3760 2079,3764 2202,3767 2325,3770 2448,3773 2571,3776 2694,3778 2818,3780"/>
+                <TextEquiv>
+                    <Unicode>venuti, per mostrar l'antica loro nobilta, sicome dicono Plutarcho, et Thucydide. Narra di piu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="348,3842 471,3842 595,3844 719,3845 843,3848 967,3850 1091,3852 1215,3856 1339,3860 1463,3864 1587,3868 1710,3872 1834,3876 1958,3880 2082,3883 2206,3888 2330,3890 2454,3894 2578,3896 2702,3898 2826,3898 2826,3832 2702,3832 2578,3830 2454,3828 2330,3824 2206,3822 2082,3817 1958,3814 1834,3810 1710,3806 1587,3802 1463,3798 1339,3794 1215,3790 1091,3786 967,3784 843,3782 719,3779 595,3778 471,3776 348,3776"/>
+                <Baseline points="348,3820 471,3820 595,3822 719,3823 843,3826 967,3828 1091,3830 1215,3834 1339,3838 1463,3842 1587,3846 1710,3850 1834,3854 1958,3858 2082,3861 2206,3866 2330,3868 2454,3872 2578,3874 2702,3876 2826,3876"/>
+                <TextEquiv>
+                    <Unicode>Antigono, che nella terza olympiade, in Cephallenia isola advenne; essendo quella divisa dal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="360,3924 482,3928 605,3934 727,3938 850,3942 972,3946 1095,3950 1217,3953 1340,3956 1462,3960 1585,3962 1707,3965 1830,3968 1952,3972 2075,3976 2197,3979 2320,3983 2442,3988 2565,3992 2687,3998 2810,4004 2810,3943 2687,3937 2565,3931 2442,3927 2320,3922 2197,3918 2075,3915 1952,3911 1830,3907 1707,3904 1585,3901 1462,3899 1340,3895 1217,3892 1095,3889 972,3885 850,3881 727,3877 605,3873 482,3867 360,3863"/>
+                <Baseline points="360,3904 482,3908 605,3914 727,3918 850,3922 972,3926 1095,3930 1217,3933 1340,3936 1462,3940 1585,3942 1707,3945 1830,3948 1952,3952 2075,3956 2197,3959 2320,3963 2442,3968 2565,3972 2687,3978 2810,3984"/>
+                <TextEquiv>
+                    <Unicode>phiume Cephallenio indue parti, da una le cycale non vi cantano et dall'altra parte si. Hora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="354,4017 477,4022 600,4027 723,4031 846,4036 969,4039 1092,4043 1215,4046 1338,4049 1461,4052 1584,4055 1707,4057 1830,4060 1953,4063 2076,4065 2199,4069 2322,4071 2445,4075 2568,4079 2691,4083 2814,4087 2814,4029 2691,4025 2568,4021 2445,4017 2322,4013 2199,4011 2076,4007 1953,4005 1830,4002 1707,3999 1584,3997 1461,3994 1338,3991 1215,3988 1092,3985 969,3981 846,3978 723,3973 600,3969 477,3964 354,3959"/>
+                <Baseline points="354,3998 477,4003 600,4008 723,4012 846,4017 969,4020 1092,4024 1215,4027 1338,4030 1461,4033 1584,4036 1707,4038 1830,4041 1953,4044 2076,4046 2199,4050 2322,4052 2445,4056 2568,4060 2691,4064 2814,4068"/>
+                <TextEquiv>
+                    <Unicode>di Rhegio fa menzione Ovidio nel quarto delle trasformationi. RHEGION, INGREDITVR, FERVENTESQVE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:38;}">
+                <Coords points="346,4095 372,4097 399,4100 425,4103 452,4105 478,4107 505,4108 531,4111 558,4111 584,4113 611,4113 637,4115 664,4115 690,4116 717,4117 743,4118 770,4119 770,4061 743,4060 717,4059 690,4058 664,4057 637,4057 611,4055 584,4055 558,4053 531,4053 505,4050 478,4049 452,4047 425,4045 399,4042 372,4039 346,4037"/>
+                <Baseline points="345,4083 373,4086 399,4088 425,4084 452,4086 478,4088 505,4089 531,4092 558,4092 584,4094 611,4094 637,4096 664,4096 690,4097 717,4098 743,4099 793,4102"/>
+                <TextEquiv>
+                    <Unicode>AESTIBVS VNDAS. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:39;} Greek {offset:14; length:5;}">
+                <Coords points="298,4204 424,4214 551,4222 677,4228 804,4234 931,4238 1057,4242 1184,4244 1310,4246 1437,4248 1564,4248 1690,4248 1817,4248 1943,4250 2070,4250 2197,4250 2323,4251 2450,4252 2576,4254 2703,4258 2830,4262 2830,4196 2703,4192 2576,4188 2450,4186 2323,4185 2197,4184 2070,4184 1943,4184 1817,4182 1690,4182 1564,4182 1437,4182 1310,4180 1184,4178 1057,4176 931,4172 804,4168 677,4162 551,4156 424,4148 298,4138"/>
+                <Baseline points="298,4182 424,4192 551,4200 677,4206 804,4212 931,4216 1057,4220 1184,4222 1310,4224 1437,4226 1564,4226 1690,4226 1817,4226 1943,4228 2070,4228 2197,4228 2323,4229 2450,4230 2576,4232 2703,4236 2830,4240"/>
+                <TextEquiv>
+                    <Unicode>RHEBA, ò vero ΡΗΒΑΣ, è nome di Fiume del ponto et Regione, come scrive Stephano, da cui il nome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:40;} Greek {offset:45; length:7;}">
+                <Coords points="358,4309 482,4317 606,4323 730,4329 854,4333 978,4335 1102,4337 1226,4339 1350,4339 1474,4339 1598,4339 1722,4339 1846,4339 1970,4339 2094,4339 2218,4341 2342,4343 2466,4345 2590,4347 2714,4352 2838,4357 2838,4294 2714,4289 2590,4284 2466,4282 2342,4280 2218,4278 2094,4276 1970,4276 1846,4276 1722,4276 1598,4276 1474,4276 1350,4276 1226,4276 1102,4274 978,4272 854,4270 730,4266 606,4260 482,4254 358,4246"/>
+                <Baseline points="358,4288 482,4296 606,4302 730,4308 854,4312 978,4314 1102,4316 1226,4318 1350,4318 1474,4318 1598,4318 1722,4318 1846,4318 1970,4318 2094,4318 2218,4320 2342,4322 2466,4324 2590,4326 2714,4331 2838,4336"/>
+                <TextEquiv>
+                    <Unicode>gentile degli habitatori dice Rhebaei. Cosi, ΡΗΒΑΙΟΙ. con duoi diphtonghi. Cosi anchora li nomino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:41;} Greek {offset:15; length:5;} unclear {offset:72; length:7;}">
+                <Coords points="346,4412 472,4414 599,4416 726,4418 852,4418 979,4420 1106,4420 1232,4422 1359,4422 1486,4424 1613,4424 1739,4426 1866,4426 1993,4428 2119,4430 2246,4432 2373,4434 2499,4436 2626,4440 2753,4444 2880,4448 2880,4393 2753,4389 2626,4385 2499,4381 2373,4379 2246,4377 2119,4375 1993,4373 1866,4371 1739,4371 1613,4369 1486,4369 1359,4367 1232,4367 1106,4365 979,4365 852,4363 726,4363 599,4361 472,4359 346,4357"/>
+                <Baseline points="346,4394 472,4396 599,4398 726,4400 852,4400 979,4402 1106,4402 1232,4404 1359,4404 1486,4406 1613,4406 1739,4408 1866,4408 1993,4410 2119,4412 2246,4414 2373,4416 2499,4418 2626,4422 2753,4426 2880,4430"/>
+                <TextEquiv>
+                    <Unicode>Artemidoro: et ΡΗΒΑΝ la Regione istessa secondo contiene il fiume nella pontica cosi gli habitan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:42;} unclear {offset:14; length:8;}">
+                <Coords points="354,4494 381,4496 409,4496 436,4496 464,4496 491,4496 519,4496 546,4494 574,4494 601,4494 629,4493 656,4492 684,4492 711,4491 739,4490 766,4490 794,4490 821,4492 849,4493 876,4494 904,4496 904,4441 876,4439 849,4438 821,4437 794,4435 766,4435 739,4435 711,4436 684,4437 656,4437 629,4438 601,4439 574,4439 546,4439 519,4441 491,4441 464,4441 436,4441 409,4441 381,4441 354,4439"/>
+                <Baseline points="354,4476 381,4478 409,4478 436,4478 464,4478 491,4478 519,4478 546,4476 574,4476 601,4476 629,4475 656,4474 684,4474 711,4473 739,4472 766,4472 794,4472 821,4474 849,4475 876,4476 904,4478"/>
+                <TextEquiv>
+                    <Unicode>ti sono detti Rhebaei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RHEGIO, è città di Italia nella Magna Grecia, da Greci scritta, ΡΗΓΙΟΝ, et da latini Regium.
+Fu pria colonia greca, et poscia de latini dal grande Augusto la quale chiamo RHEGIO IVLIA AV¬
+GVSTA COLONIA LATINA, ove pose soldati veterani. et Fu pria appellata Rhigion dall'esser posta
+sul freto tra la Sicilia et l'Italia, cio è dal spartire et Rhere, onde gli habitatori sono detti Rhe¬
+gini, et il cittadino Rhegino, come nel greco ΡΗΓΙΝΟΣ, et ΡΗΓΙΝΗ, cio è Rhegine ò Rhegi¬
+na la femina. Si come piace à Sthephano Byzantio. Fanne menzione Antigono nelle Olympia¬
+di in questo breve senso, che nella prima Olympiade secondo scrive Timaeo le cycale in
+Rhegio furono fatte mute et non cant avano: per cio che egli nella historia de sicoli, o' vo¬
+gliamo dire siciliani, fece memoria, che in Rhegio al fiume Hellece chel paese de Locri,
+et di Rhegini destingue, è cosa maravigliosa, che le cycale cantano nella parte di Locri,
+et in quella di Rhegini sono mute. et non vi e se non uno brevissimo spatio. Dele quali si di
+cono cose favolose, l'una che nella olympiade prima come dice Diodoro Hercole le fece mute per¬
+che lo destavano dal somno et riposo che prendea sotto gliarbori conl'Armenti tolti à Gerione.
+et nellaltra regione, aducono nella seconda Olympiade questo. Essendo addunque venuto da
+Delpho à Rhegio duoi coloni, ò habitatori, da Delpho Aristone, et à Locro Eunomo Cytharedi,
+et questi sendo poi venuti à gara nel cantare, et suonare: Eunomo Locrense per segno di Vit
+toria gli volo una cycala sula Lyra, il che sendo veduto con gran'chlamore, et vociferatione
+fu gridato vincitore, et cosi rimasto Aristone Rhegino perditore, lo fingono dalla natura delle
+cycale mute, ch'esse inlo paese Rhegino non visi sentono: Ma quelli che non piacque di dire,
+che in una parte non vi cantano perla grossezza dell'aere, et nell'altra cantano per megliore
+aria, attibuiscono la mutezza loro alli prieghi d'Hercole, che quivi non potendo quietare
+perlo strepito, domandando à Iove ò alla natura gratia, diventarono mute per sempre. Hor dunque,
+i locrensi nella Moneta loro da un lato fecero la lyra d'Eunomo conla cycala per rovescio della
+Testa di Iove, et quando à quella di Apolline, ò di Hercole con la cycala. et li Rhegini fanno
+il medesimo, per che alcuni dicono che perla Isolenza d'Aristone et suoi partiali. Eunomo heb¬
+be la corona, per che una cycala delle Mute canto sula sua cythera, Di piu fanno i Rhegini
+Arione Cytharedo sul Delphino affiso, nel rovescio della testa di Neptuno, per che costui appo di loro
+s'arrichi. et d'indi ritornò à Mitymna sua patria, come è detto nelle Medaglie di Rhegio. Et fa
+cevano, la Nave d'Ulysse assaltata da Carybdi et Scilla, nelli rovesci dell'imperadori Roma¬
+ni perlo antico significato del valore et prudentia d'Ulysse, quando passo il freto periglioso, che al¬
+lhora i naviganti grandemente temevano di passarlo. Hora per tornar' anchora alla natura de¬
+le cycale, si trova questo che in niuno luogo dove è l'aere grave si sentono. Nell'attica che è bonissi
+ma l'aria, vi sono piu grosse et piu cantarine, che non sono inaltra parte di Grecia, et gli Athenie¬
+si portavano le cycale legate ne capelli per mostrarsi endigeni, cio è nati quivi et non d'altronde
+venuti, per mostrar l'antica loro nobilta, sicome dicono Plutarcho, et Thucydide. Narra di piu
+Antigono, che nella terza olympiade, in Cephallenia isola advenne; essendo quella divisa dal
+phiume Cephallenio indue parti, da una le cycale non vi cantano et dall'altra parte si. Hora
+di Rhegio fa menzione Ovidio nel quarto delle trasformationi. RHEGION, INGREDITVR, FERVENTESQVE
+AESTIBVS VNDAS. 
+RHEBA, ò vero ΡΗΒΑΣ, è nome di Fiume del ponto et Regione, come scrive Stephano, da cui il nome
+gentile degli habitatori dice Rhebaei. Cosi, ΡΗΒΑΙΟΙ. con duoi diphtonghi. Cosi anchora li nomino
+Artemidoro: et ΡΗΒΑΝ la Regione istessa secondo contiene il fiume nella pontica cosi gli habitan
+ti sono detti Rhebaei.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

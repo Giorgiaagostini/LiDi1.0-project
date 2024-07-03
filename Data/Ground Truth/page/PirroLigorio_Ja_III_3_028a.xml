@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.504+01:00</Created>
+        <LastChange>2024-06-25T19:28:23.267+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902865" pageNr="55" tsid="174124673" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=TXBZTOVJFKUFKRLNJVFNOOIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOUEZIIYOFDZIKXCCCKFQBRJ" imageId="17873923"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_028a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337501098" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="884,328 808,5054 3636,5108 3676,333"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="926,521 1057,515 1188,509 1319,505 1450,501 1582,499 1713,499 1844,499 1975,499 2106,501 2238,502 2369,505 2500,507 2631,510 2762,513 2893,517 3025,519 3156,523 3287,525 3418,529 3550,531 3550,468 3418,466 3287,462 3156,460 3025,456 2893,454 2762,450 2631,447 2500,444 2369,442 2238,439 2106,438 1975,436 1844,436 1713,436 1582,436 1450,438 1319,442 1188,446 1057,452 926,458"/>
+                <Baseline points="926,500 1057,494 1188,488 1319,484 1450,480 1582,478 1713,478 1844,478 1975,478 2106,480 2238,481 2369,484 2500,486 2631,489 2762,492 2893,496 3025,498 3156,502 3287,504 3418,508 3550,510"/>
+                <TextEquiv>
+                    <Unicode>REIMS, è citta nella Francia, ò vogliamo dire della Gallia principale di campagna, che gli antichi chiama¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="978,596 1103,592 1229,590 1355,588 1481,586 1607,586 1732,586 1858,586 1984,586 2110,586 2236,588 2361,588 2487,590 2613,592 2739,594 2865,596 2990,598 3116,600 3242,602 3368,604 3494,606 3494,546 3368,544 3242,542 3116,540 2990,538 2865,536 2739,534 2613,532 2487,530 2361,528 2236,528 2110,526 1984,526 1858,526 1732,526 1607,526 1481,526 1355,528 1229,530 1103,532 978,536"/>
+                <Baseline points="978,576 1103,572 1229,570 1355,568 1481,566 1607,566 1732,566 1858,566 1984,566 2110,566 2236,568 2361,568 2487,570 2613,572 2739,574 2865,576 2990,578 3116,580 3242,582 3368,584 3494,586"/>
+                <TextEquiv>
+                    <Unicode>vano Duro cottoro, et Duricortora, de populi Rhemiori. nella quale i Re della Francia si ungono del'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="964,677 989,675 1015,675 1040,675 1066,677 1091,677 1117,677 1142,677 1168,677 1193,675 1219,675 1244,673 1270,671 1270,595 1244,597 1219,599 1193,599 1168,601 1142,601 1117,601 1091,601 1066,601 1040,599 1015,599 989,599 964,601"/>
+                <Baseline points="964,652 989,650 1015,650 1040,650 1066,652 1091,652 1117,652 1142,652 1168,652 1193,650 1219,650 1244,648 1270,646"/>
+                <TextEquiv>
+                    <Unicode>sacro Oleo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="930,1191 1044,1193 1159,1194 1274,1195 1388,1193 1503,1193 1618,1191 1732,1191 1847,1189 1962,1187 2077,1185 2191,1183 2306,1181 2421,1179 2535,1179 2650,1178 2765,1177 2879,1179 2994,1179 3109,1181 3224,1183 3224,1107 3109,1105 2994,1103 2879,1103 2765,1101 2650,1102 2535,1103 2421,1103 2306,1105 2191,1107 2077,1109 1962,1111 1847,1113 1732,1115 1618,1115 1503,1117 1388,1117 1274,1119 1159,1118 1044,1117 930,1115"/>
+                <Baseline points="930,1166 1044,1168 1159,1169 1274,1170 1388,1168 1503,1168 1618,1166 1732,1166 1847,1164 1962,1162 2077,1160 2191,1158 2306,1156 2421,1154 2535,1154 2650,1153 2765,1152 2879,1154 2994,1154 3109,1156 3224,1158"/>
+                <TextEquiv>
+                    <Unicode>RENES, è città nella Britannia nella Francia edificata da Brittanici Rhodoni, ò Rholones.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="954,1375 1082,1375 1211,1373 1340,1373 1469,1371 1598,1371 1726,1369 1855,1367 1984,1365 2113,1365 2242,1363 2370,1361 2499,1361 2628,1361 2757,1359 2886,1359 3014,1359 3143,1361 3272,1361 3401,1363 3530,1365 3530,1289 3401,1287 3272,1285 3143,1285 3014,1283 2886,1283 2757,1283 2628,1285 2499,1285 2370,1285 2242,1287 2113,1289 1984,1289 1855,1291 1726,1293 1598,1295 1469,1295 1340,1297 1211,1297 1082,1299 954,1299"/>
+                <Baseline points="954,1350 1082,1350 1211,1348 1340,1348 1469,1346 1598,1346 1726,1344 1855,1342 1984,1340 2113,1340 2242,1338 2370,1336 2499,1336 2628,1336 2757,1334 2886,1334 3014,1334 3143,1336 3272,1336 3401,1338 3530,1340"/>
+                <TextEquiv>
+                    <Unicode>RERONE, è fiume nella Marca Trivisana, che gia si chiamava dall'antichi Eretino, ò Eretinus fluivius.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="972,1644 1099,1642 1227,1642 1355,1640 1483,1639 1611,1638 1738,1636 1866,1634 1994,1634 2122,1632 2250,1630 2377,1628 2505,1628 2633,1626 2761,1624 2889,1624 3016,1622 3144,1621 3272,1620 3400,1620 3528,1618 3528,1552 3400,1554 3272,1554 3144,1555 3016,1556 2889,1558 2761,1558 2633,1560 2505,1562 2377,1562 2250,1564 2122,1566 1994,1568 1866,1568 1738,1570 1611,1572 1483,1573 1355,1574 1227,1576 1099,1576 972,1578"/>
+                <Baseline points="972,1622 1099,1620 1227,1620 1355,1618 1483,1617 1611,1616 1738,1614 1866,1612 1994,1612 2122,1610 2250,1608 2377,1606 2505,1606 2633,1604 2761,1602 2889,1602 3016,1600 3144,1599 3272,1598 3400,1598 3528,1596"/>
+                <TextEquiv>
+                    <Unicode>RETIMO, è porto nell'Isola di Crete, che si diceva dall'antichi Rhytimno, dalla città Rhytimna, ò pure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="996,1738 1021,1737 1046,1736 1071,1736 1096,1735 1122,1734 1147,1734 1172,1734 1197,1732 1223,1732 1248,1731 1273,1730 1298,1728 1324,1726 1324,1660 1298,1662 1273,1664 1248,1665 1223,1666 1197,1666 1172,1668 1147,1668 1122,1668 1096,1669 1071,1670 1046,1670 1021,1671 996,1672"/>
+                <Baseline points="996,1716 1021,1715 1046,1714 1071,1714 1096,1713 1122,1712 1147,1712 1172,1712 1197,1710 1223,1710 1248,1709 1273,1708 1298,1706 1324,1704"/>
+                <TextEquiv>
+                    <Unicode>Rhetymnia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="968,2019 1052,2017 1136,2016 1220,2015 1305,2015 1389,2013 1473,2013 1558,2013 1642,2011 1726,2011 1811,2011 1895,2011 1979,2009 2063,2009 2148,2009 2232,2007 2316,2007 2401,2005 2485,2003 2569,2001 2654,1999 2654,1923 2569,1925 2485,1927 2401,1929 2316,1931 2232,1931 2148,1933 2063,1933 1979,1933 1895,1935 1811,1935 1726,1935 1642,1935 1558,1937 1473,1937 1389,1937 1305,1939 1220,1939 1136,1940 1052,1941 968,1943"/>
+                <Baseline points="968,1994 1052,1992 1136,1991 1220,1990 1305,1990 1389,1988 1473,1988 1558,1988 1642,1986 1726,1986 1811,1986 1895,1986 1979,1984 2063,1984 2148,1984 2232,1982 2316,1982 2401,1980 2485,1978 2569,1976 2654,1974"/>
+                <TextEquiv>
+                    <Unicode>REGNO detto hora di Murcia, si deceva della Regione Turdetania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="982,2197 1086,2197 1191,2197 1295,2197 1400,2195 1505,2193 1609,2192 1714,2190 1818,2187 1923,2185 2028,2183 2132,2181 2237,2177 2341,2175 2446,2173 2551,2169 2655,2165 2760,2163 2864,2160 2969,2157 3074,2153 3074,2077 2969,2081 2864,2084 2760,2087 2655,2089 2551,2093 2446,2097 2341,2099 2237,2101 2132,2105 2028,2107 1923,2109 1818,2111 1714,2114 1609,2116 1505,2117 1400,2119 1295,2121 1191,2121 1086,2121 982,2121"/>
+                <Baseline points="982,2172 1086,2172 1191,2172 1295,2172 1400,2170 1505,2168 1609,2167 1714,2165 1818,2162 1923,2160 2028,2158 2132,2156 2237,2152 2341,2150 2446,2148 2551,2144 2655,2140 2760,2138 2864,2135 2969,2132 3074,2128"/>
+                <TextEquiv>
+                    <Unicode>REGNO, di Toledo, cosi detto dal vulgo, fu dall'antichi nominato della Carpetania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="984,2383 1079,2381 1174,2379 1269,2379 1365,2377 1460,2376 1555,2375 1651,2375 1746,2375 1841,2373 1937,2373 2032,2373 2127,2373 2222,2373 2318,2371 2413,2371 2508,2371 2604,2371 2699,2369 2794,2369 2890,2367 2890,2291 2794,2293 2699,2293 2604,2295 2508,2295 2413,2295 2318,2295 2222,2297 2127,2297 2032,2297 1937,2297 1841,2297 1746,2299 1651,2299 1555,2299 1460,2300 1365,2301 1269,2303 1174,2303 1079,2305 984,2307"/>
+                <Baseline points="984,2358 1079,2356 1174,2354 1269,2354 1365,2352 1460,2351 1555,2350 1651,2350 1746,2350 1841,2348 1937,2348 2032,2348 2127,2348 2222,2348 2318,2346 2413,2346 2508,2346 2604,2346 2699,2344 2794,2344 2890,2342"/>
+                <TextEquiv>
+                    <Unicode>REGNO, di Tunisi, fu detto di Tunetani nell'Africa minore, ò in Numidia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="968,3279 1100,3278 1232,3276 1365,3273 1497,3269 1630,3265 1762,3261 1894,3255 2027,3251 2159,3247 2292,3242 2424,3239 2556,3235 2689,3233 2821,3231 2954,3230 3086,3231 3218,3232 3351,3235 3483,3239 3616,3245 3616,3194 3483,3188 3351,3184 3218,3181 3086,3180 2954,3179 2821,3180 2689,3182 2556,3184 2424,3188 2292,3191 2159,3196 2027,3200 1894,3204 1762,3210 1630,3214 1497,3218 1365,3222 1232,3225 1100,3227 968,3228"/>
+                <Baseline points="968,3262 1100,3261 1232,3259 1365,3256 1497,3252 1630,3248 1762,3244 1894,3238 2027,3234 2159,3230 2292,3225 2424,3222 2556,3218 2689,3216 2821,3214 2954,3213 3086,3214 3218,3215 3351,3218 3483,3222 3616,3228"/>
+                <TextEquiv>
+                    <Unicode>RESAPHA, et RESA, è città nella Palmyrene Regione della Syria, secondo Ptolemaeo, da cui Resaphaeo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1012,3355 1037,3355 1063,3355 1089,3355 1115,3353 1141,3353 1167,3353 1193,3351 1219,3351 1244,3351 1270,3349 1296,3347 1322,3345 1348,3343 1374,3341 1400,3338 1426,3335 1426,3284 1400,3287 1374,3290 1348,3292 1322,3294 1296,3296 1270,3298 1244,3300 1219,3300 1193,3300 1167,3302 1141,3302 1115,3302 1089,3304 1063,3304 1037,3304 1012,3304"/>
+                <Baseline points="1012,3338 1037,3338 1063,3338 1089,3338 1115,3336 1141,3336 1167,3336 1193,3334 1219,3334 1244,3334 1270,3332 1296,3330 1322,3328 1348,3326 1374,3324 1400,3321 1426,3318"/>
+                <TextEquiv>
+                    <Unicode>et Resaphanite.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} Greek {offset:11; length:6;} Greek {offset:76; length:13;} Greek {offset:91; length:2;}">
+                <Coords points="992,3937 1118,3933 1245,3931 1372,3927 1499,3925 1626,3921 1752,3917 1879,3913 2006,3909 2133,3903 2260,3900 2386,3897 2513,3893 2640,3891 2767,3889 2894,3889 3020,3887 3147,3889 3274,3890 3401,3893 3528,3897 3528,3834 3401,3830 3274,3827 3147,3826 3020,3824 2894,3826 2767,3826 2640,3828 2513,3830 2386,3834 2260,3837 2133,3840 2006,3846 1879,3850 1752,3854 1626,3858 1499,3862 1372,3864 1245,3868 1118,3870 992,3874"/>
+                <Baseline points="992,3916 1118,3912 1245,3910 1372,3906 1499,3904 1626,3900 1752,3896 1879,3892 2006,3888 2133,3882 2260,3879 2386,3876 2513,3872 2640,3870 2767,3868 2894,3868 3020,3866 3147,3868 3274,3869 3401,3872 3528,3876"/>
+                <TextEquiv>
+                    <Unicode>RESALA, et ΡΕΣΑΛΑ, è citta nell'Umbria, molto antica, nominata da Hecataeo, ΡΑΣΑΛΗ, ΠΟΛΙΣ. ΟΜ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} Greek {offset:0; length:6;} unclear {offset:30; length:4;} Greek {offset:48; length:9;} Greek {offset:62; length:10;}">
+                <Coords points="1030,4027 1155,4027 1280,4024 1405,4021 1530,4019 1655,4016 1780,4013 1905,4009 2030,4006 2155,4003 2280,3999 2405,3995 2530,3993 2655,3990 2780,3987 2905,3985 3030,3983 3155,3981 3280,3981 3405,3981 3530,3981 3530,3918 3405,3918 3280,3918 3155,3918 3030,3920 2905,3922 2780,3924 2655,3927 2530,3930 2405,3932 2280,3936 2155,3940 2030,3943 1905,3946 1780,3950 1655,3953 1530,3956 1405,3958 1280,3961 1155,3964 1030,3964"/>
+                <Baseline points="1030,4006 1155,4006 1280,4003 1405,4000 1530,3998 1655,3995 1780,3992 1905,3988 2030,3985 2155,3982 2280,3978 2405,3974 2530,3972 2655,3969 2780,3966 2905,3964 3030,3962 3155,3960 3280,3960 3405,3960 3530,3960"/>
+                <TextEquiv>
+                    <Unicode>ΒΡΙΚΩΝ, et da questa Stephano dice Resaleno, ò, ΡΕΣΑΛΗΝΟΣ, et ΡΕΣΑΛΕΙΤΟΙ. quelli della Regio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1046,4118 1072,4118 1098,4118 1124,4118 1150,4116 1176,4116 1202,4118 1228,4116 1255,4118 1281,4118 1307,4118 1333,4118 1359,4118 1385,4118 1411,4118 1438,4118 1438,4052 1411,4052 1385,4052 1359,4052 1333,4052 1307,4052 1281,4052 1255,4052 1228,4050 1202,4052 1176,4050 1150,4050 1124,4052 1098,4052 1072,4052 1046,4052"/>
+                <Baseline points="1046,4096 1072,4096 1098,4096 1124,4096 1150,4094 1176,4094 1202,4096 1228,4094 1255,4096 1281,4096 1307,4096 1333,4096 1359,4096 1385,4096 1411,4096 1438,4096"/>
+                <TextEquiv>
+                    <Unicode>ne della città</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} unclear {offset:67; length:9;}">
+                <Coords points="998,4213 1120,4213 1243,4213 1366,4213 1489,4213 1612,4211 1734,4209 1857,4207 1980,4205 2103,4203 2226,4199 2348,4197 2471,4193 2594,4191 2717,4188 2840,4185 2962,4183 3085,4181 3208,4179 3331,4177 3454,4177 3454,4108 3331,4108 3208,4110 3085,4112 2962,4114 2840,4116 2717,4119 2594,4122 2471,4124 2348,4128 2226,4130 2103,4134 1980,4136 1857,4138 1734,4140 1612,4142 1489,4144 1366,4144 1243,4144 1120,4144 998,4144"/>
+                <Baseline points="998,4196 1120,4196 1243,4196 1366,4196 1489,4196 1612,4194 1734,4192 1857,4190 1980,4188 2103,4186 2226,4182 2348,4180 2471,4176 2594,4174 2717,4171 2840,4168 2962,4166 3085,4164 3208,4162 3331,4160 3454,4160"/>
+                <TextEquiv>
+                    <Unicode>RESINA fu città di Picenti Campani sullitto del seno Cratere, poco sliscosto à Portici città. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} Greek {offset:64; length:15;}">
+                <Coords points="1038,4307 1160,4307 1282,4309 1404,4307 1526,4307 1648,4306 1770,4305 1892,4303 2014,4300 2136,4297 2259,4295 2381,4292 2503,4289 2625,4287 2747,4283 2869,4281 2991,4279 3113,4277 3235,4275 3357,4273 3480,4273 3480,4210 3357,4210 3235,4212 3113,4214 2991,4216 2869,4218 2747,4220 2625,4224 2503,4226 2381,4229 2259,4232 2136,4234 2014,4237 1892,4240 1770,4242 1648,4243 1526,4244 1404,4244 1282,4246 1160,4244 1038,4244"/>
+                <Baseline points="1038,4286 1160,4286 1282,4288 1404,4286 1526,4286 1648,4285 1770,4284 1892,4282 2014,4279 2136,4276 2259,4274 2381,4271 2503,4268 2625,4266 2747,4262 2869,4260 2991,4258 3113,4256 3235,4254 3357,4252 3480,4252"/>
+                <TextEquiv>
+                    <Unicode>Resina anchora è Vico, ò città d'Aegina sul fiume Hebro, overo, ΑΒΟΡΟΝ, ΠΟΤΑΜΟΝ, donde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} Greek {offset:25; length:9;}">
+                <Coords points="1038,4393 1162,4395 1287,4397 1412,4399 1537,4399 1662,4398 1786,4397 1911,4395 2036,4393 2161,4391 2286,4387 2410,4385 2535,4382 2660,4379 2785,4377 2910,4375 3034,4373 3159,4373 3284,4373 3409,4373 3534,4375 3534,4312 3409,4310 3284,4310 3159,4310 3034,4310 2910,4312 2785,4314 2660,4316 2535,4319 2410,4322 2286,4324 2161,4328 2036,4330 1911,4332 1786,4334 1662,4335 1537,4336 1412,4336 1287,4334 1162,4332 1038,4330"/>
+                <Baseline points="1038,4372 1162,4374 1287,4376 1412,4378 1537,4378 1662,4377 1786,4376 1911,4374 2036,4372 2161,4370 2286,4366 2410,4364 2535,4361 2660,4358 2785,4356 2910,4354 3034,4352 3159,4352 3284,4352 3409,4352 3534,4354"/>
+                <TextEquiv>
+                    <Unicode>dovemo dire Resinate, ò, ΡΕΣΙΝΑΤΗΕ, come da Terina Terinati et Terinei, cosi anchora Resi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} Greek {offset:20; length:9;}">
+                <Coords points="1040,4507 1163,4507 1287,4507 1411,4507 1534,4505 1658,4503 1782,4503 1905,4501 2029,4499 2153,4497 2277,4493 2400,4491 2524,4488 2648,4485 2771,4483 2895,4479 3019,4477 3142,4473 3266,4471 3390,4467 3514,4465 3514,4396 3390,4398 3266,4402 3142,4404 3019,4408 2895,4410 2771,4414 2648,4416 2524,4419 2400,4422 2277,4424 2153,4428 2029,4430 1905,4432 1782,4434 1658,4434 1534,4436 1411,4438 1287,4438 1163,4438 1040,4438"/>
+                <Baseline points="1040,4484 1163,4484 1287,4484 1411,4484 1534,4482 1658,4480 1782,4480 1905,4478 2029,4476 2153,4474 2277,4470 2400,4468 2524,4465 2648,4462 2771,4460 2895,4456 3019,4454 3142,4450 3266,4448 3390,4444 3514,4442"/>
+                <TextEquiv>
+                    <Unicode>nei, ò Resinaei, et ΡΕΣΙΝΑΙΟΣ. et scrivesi senza spiratione, al contrario di quelli che scrivo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="1032,4597 1142,4595 1252,4593 1362,4591 1472,4591 1583,4591 1693,4591 1803,4593 1913,4593 2023,4593 2134,4595 2244,4595 2354,4595 2464,4595 2574,4593 2685,4591 2795,4589 2905,4585 3015,4581 3125,4575 3236,4569 3236,4512 3125,4518 3015,4524 2905,4528 2795,4532 2685,4534 2574,4536 2464,4538 2354,4538 2244,4538 2134,4538 2023,4536 1913,4536 1803,4536 1693,4534 1583,4534 1472,4534 1362,4534 1252,4536 1142,4538 1032,4540"/>
+                <Baseline points="1032,4578 1142,4576 1252,4574 1362,4572 1472,4572 1583,4572 1693,4572 1803,4574 1913,4574 2023,4574 2134,4576 2244,4576 2354,4576 2464,4576 2574,4574 2685,4572 2795,4570 2905,4566 3015,4562 3125,4556 3236,4550"/>
+                <TextEquiv>
+                    <Unicode>no la citta Rhesina, come è detto piu oltre nell'altro uso che alcuni la scrivono. ⁓</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1004,4670 1094,4668 1185,4666 1276,4666 1367,4666 1458,4666 1548,4666 1639,4667 1730,4668 1821,4670 1912,4670 2002,4672 2093,4672 2184,4674 2275,4674 2366,4674 2456,4674 2547,4674 2638,4674 2729,4672 2820,4670 2820,4615 2729,4617 2638,4619 2547,4619 2456,4619 2366,4619 2275,4619 2184,4619 2093,4617 2002,4617 1912,4615 1821,4615 1730,4613 1639,4612 1548,4611 1458,4611 1367,4611 1276,4611 1185,4611 1094,4613 1004,4615"/>
+                <Baseline points="1004,4652 1094,4650 1185,4648 1276,4648 1367,4648 1458,4648 1548,4648 1639,4649 1730,4650 1821,4652 1912,4652 2002,4654 2093,4654 2184,4656 2275,4656 2366,4656 2456,4656 2547,4656 2638,4656 2729,4654 2820,4652"/>
+                <TextEquiv>
+                    <Unicode>RESI, sono stati populi latini, secondo Strabone proprio dove è Roma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="992,4737 1118,4739 1245,4743 1371,4745 1498,4749 1624,4750 1751,4751 1877,4753 2004,4755 2130,4755 2257,4757 2383,4758 2510,4759 2636,4761 2763,4761 2889,4763 3016,4765 3142,4767 3269,4769 3395,4773 3522,4775 3522,4718 3395,4716 3269,4712 3142,4710 3016,4708 2889,4706 2763,4704 2636,4704 2510,4702 2383,4701 2257,4700 2130,4698 2004,4698 1877,4696 1751,4694 1624,4693 1498,4692 1371,4688 1245,4686 1118,4682 992,4680"/>
+                <Baseline points="992,4718 1118,4720 1245,4724 1371,4726 1498,4730 1624,4731 1751,4732 1877,4734 2004,4736 2130,4736 2257,4738 2383,4739 2510,4740 2636,4742 2763,4742 2889,4744 3016,4746 3142,4748 3269,4750 3395,4754 3522,4756"/>
+                <TextEquiv>
+                    <Unicode>RESISTO, Resistos, nel greco et latino, è citta della Propontide nel chersoneso, come dice Plinio nellibro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="1056,4807 1081,4807 1106,4804 1132,4802 1157,4800 1182,4801 1208,4803 1208,4745 1182,4743 1157,4742 1132,4744 1106,4746 1081,4749 1056,4749"/>
+                <Baseline points="1056,4788 1081,4788 1106,4785 1132,4783 1157,4781 1182,4782 1208,4784"/>
+                <TextEquiv>
+                    <Unicode>quarto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="1006,4886 1132,4880 1258,4878 1384,4875 1510,4874 1636,4872 1762,4872 1888,4874 2014,4875 2140,4876 2267,4879 2393,4882 2519,4884 2645,4886 2771,4888 2897,4892 3023,4894 3149,4894 3275,4896 3401,4896 3528,4896 3528,4841 3401,4841 3275,4841 3149,4839 3023,4839 2897,4837 2771,4833 2645,4831 2519,4829 2393,4827 2267,4824 2140,4821 2014,4820 1888,4819 1762,4817 1636,4817 1510,4819 1384,4820 1258,4823 1132,4825 1006,4831"/>
+                <Baseline points="1006,4868 1132,4862 1258,4860 1384,4857 1510,4856 1636,4854 1762,4854 1888,4856 2014,4857 2140,4858 2267,4861 2393,4864 2519,4866 2645,4868 2771,4870 2897,4874 3023,4876 3149,4876 3275,4878 3401,4878 3528,4878"/>
+                <TextEquiv>
+                    <Unicode>RETIGONIO, Retigonium, Retigonia, è città nella Britannia Isola, secondo scrive Ptolemaeo. da cui Reti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="1038,4956 1118,4956 1198,4958 1278,4958 1359,4958 1439,4958 1519,4958 1600,4958 1680,4956 1760,4956 1841,4956 1921,4956 2001,4956 2081,4956 2162,4956 2242,4956 2322,4956 2403,4956 2483,4958 2563,4958 2644,4960 2644,4905 2563,4903 2483,4903 2403,4901 2322,4901 2242,4901 2162,4901 2081,4901 2001,4901 1921,4901 1841,4901 1760,4901 1680,4901 1600,4903 1519,4903 1439,4903 1359,4903 1278,4903 1198,4903 1118,4901 1038,4901"/>
+                <Baseline points="1038,4938 1118,4938 1198,4940 1278,4940 1359,4940 1439,4940 1519,4940 1600,4940 1680,4938 1760,4938 1841,4938 1921,4938 2001,4938 2081,4938 2162,4938 2242,4938 2322,4938 2403,4938 2483,4940 2563,4940 2644,4942"/>
+                <TextEquiv>
+                    <Unicode>gonio il seno, et Retigonensio l'huomo della città, altri Retigonense.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>REIMS, è citta nella Francia, ò vogliamo dire della Gallia principale di campagna, che gli antichi chiama¬
+vano Duro cottoro, et Duricortora, de populi Rhemiori. nella quale i Re della Francia si ungono del'
+sacro Oleo.
+RENES, è città nella Britannia nella Francia edificata da Brittanici Rhodoni, ò Rholones.
+RERONE, è fiume nella Marca Trivisana, che gia si chiamava dall'antichi Eretino, ò Eretinus fluivius.
+RETIMO, è porto nell'Isola di Crete, che si diceva dall'antichi Rhytimno, dalla città Rhytimna, ò pure
+Rhetymnia.
+REGNO detto hora di Murcia, si deceva della Regione Turdetania.
+REGNO, di Toledo, cosi detto dal vulgo, fu dall'antichi nominato della Carpetania.
+REGNO, di Tunisi, fu detto di Tunetani nell'Africa minore, ò in Numidia.
+RESAPHA, et RESA, è città nella Palmyrene Regione della Syria, secondo Ptolemaeo, da cui Resaphaeo,
+et Resaphanite.
+RESALA, et ΡΕΣΑΛΑ, è citta nell'Umbria, molto antica, nominata da Hecataeo, ΡΑΣΑΛΗ, ΠΟΛΙΣ. ΟΜ¬
+ΒΡΙΚΩΝ, et da questa Stephano dice Resaleno, ò, ΡΕΣΑΛΗΝΟΣ, et ΡΕΣΑΛΕΙΤΟΙ. quelli della Regio¬
+ne della città
+RESINA fu città di Picenti Campani sullitto del seno Cratere, poco sliscosto à Portici città. et
+Resina anchora è Vico, ò città d'Aegina sul fiume Hebro, overo, ΑΒΟΡΟΝ, ΠΟΤΑΜΟΝ, donde
+dovemo dire Resinate, ò, ΡΕΣΙΝΑΤΗΕ, come da Terina Terinati et Terinei, cosi anchora Resi¬
+nei, ò Resinaei, et ΡΕΣΙΝΑΙΟΣ. et scrivesi senza spiratione, al contrario di quelli che scrivo
+no la citta Rhesina, come è detto piu oltre nell'altro uso che alcuni la scrivono. ⁓
+RESI, sono stati populi latini, secondo Strabone proprio dove è Roma.
+RESISTO, Resistos, nel greco et latino, è citta della Propontide nel chersoneso, come dice Plinio nellibro
+quarto
+RETIGONIO, Retigonium, Retigonia, è città nella Britannia Isola, secondo scrive Ptolemaeo. da cui Reti
+gonio il seno, et Retigonensio l'huomo della città, altri Retigonense.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

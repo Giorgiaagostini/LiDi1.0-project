@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_028a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:01.157+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="4780" WIDTH="2868" VPOS="328" HPOS="808">
+               <Shape>
+                  <Polygon POINTS="884,328 808,5054 3636,5108 3676,333"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="926,500 1057,494 1188,488 1319,484 1450,480 1582,478 1713,478 1844,478 1975,478 2106,480 2238,481 2369,484 2500,486 2631,489 2762,492 2893,496 3025,498 3156,502 3287,504 3418,508 3550,510"
+                         HEIGHT="95"
+                         WIDTH="2624"
+                         VPOS="436"
+                         HPOS="926">
+                  <String ID="string_r1l1"
+                          HEIGHT="95"
+                          WIDTH="2624"
+                          VPOS="436"
+                          HPOS="926"
+                          CONTENT="REIMS, è citta nella Francia, ò vogliamo dire della Gallia principale di campagna, che gli antichi chiama¬"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="978,576 1103,572 1229,570 1355,568 1481,566 1607,566 1732,566 1858,566 1984,566 2110,566 2236,568 2361,568 2487,570 2613,572 2739,574 2865,576 2990,578 3116,580 3242,582 3368,584 3494,586"
+                         HEIGHT="80"
+                         WIDTH="2516"
+                         VPOS="526"
+                         HPOS="978">
+                  <String ID="string_r1l2"
+                          HEIGHT="80"
+                          WIDTH="2516"
+                          VPOS="526"
+                          HPOS="978"
+                          CONTENT="vano Duro cottoro, et Duricortora, de populi Rhemiori. nella quale i Re della Francia si ungono del'"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="964,652 989,650 1015,650 1040,650 1066,652 1091,652 1117,652 1142,652 1168,652 1193,650 1219,650 1244,648 1270,646"
+                         HEIGHT="82"
+                         WIDTH="306"
+                         VPOS="595"
+                         HPOS="964">
+                  <String ID="string_r1l3"
+                          HEIGHT="82"
+                          WIDTH="306"
+                          VPOS="595"
+                          HPOS="964"
+                          CONTENT="sacro Oleo."/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="930,1166 1044,1168 1159,1169 1274,1170 1388,1168 1503,1168 1618,1166 1732,1166 1847,1164 1962,1162 2077,1160 2191,1158 2306,1156 2421,1154 2535,1154 2650,1153 2765,1152 2879,1154 2994,1154 3109,1156 3224,1158"
+                         HEIGHT="94"
+                         WIDTH="2294"
+                         VPOS="1101"
+                         HPOS="930">
+                  <String ID="string_r1l4"
+                          HEIGHT="94"
+                          WIDTH="2294"
+                          VPOS="1101"
+                          HPOS="930"
+                          CONTENT="RENES, è città nella Britannia nella Francia edificata da Brittanici Rhodoni, ò Rholones."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="954,1350 1082,1350 1211,1348 1340,1348 1469,1346 1598,1346 1726,1344 1855,1342 1984,1340 2113,1340 2242,1338 2370,1336 2499,1336 2628,1336 2757,1334 2886,1334 3014,1334 3143,1336 3272,1336 3401,1338 3530,1340"
+                         HEIGHT="92"
+                         WIDTH="2576"
+                         VPOS="1283"
+                         HPOS="954">
+                  <String ID="string_r1l5"
+                          HEIGHT="92"
+                          WIDTH="2576"
+                          VPOS="1283"
+                          HPOS="954"
+                          CONTENT="RERONE, è fiume nella Marca Trivisana, che gia si chiamava dall'antichi Eretino, ò Eretinus fluivius."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="972,1622 1099,1620 1227,1620 1355,1618 1483,1617 1611,1616 1738,1614 1866,1612 1994,1612 2122,1610 2250,1608 2377,1606 2505,1606 2633,1604 2761,1602 2889,1602 3016,1600 3144,1599 3272,1598 3400,1598 3528,1596"
+                         HEIGHT="92"
+                         WIDTH="2556"
+                         VPOS="1552"
+                         HPOS="972">
+                  <String ID="string_r1l6"
+                          HEIGHT="92"
+                          WIDTH="2556"
+                          VPOS="1552"
+                          HPOS="972"
+                          CONTENT="RETIMO, è porto nell'Isola di Crete, che si diceva dall'antichi Rhytimno, dalla città Rhytimna, ò pure"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="996,1716 1021,1715 1046,1714 1071,1714 1096,1713 1122,1712 1147,1712 1172,1712 1197,1710 1223,1710 1248,1709 1273,1708 1298,1706 1324,1704"
+                         HEIGHT="78"
+                         WIDTH="328"
+                         VPOS="1660"
+                         HPOS="996">
+                  <String ID="string_r1l7"
+                          HEIGHT="78"
+                          WIDTH="328"
+                          VPOS="1660"
+                          HPOS="996"
+                          CONTENT="Rhetymnia."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="968,1994 1052,1992 1136,1991 1220,1990 1305,1990 1389,1988 1473,1988 1558,1988 1642,1986 1726,1986 1811,1986 1895,1986 1979,1984 2063,1984 2148,1984 2232,1982 2316,1982 2401,1980 2485,1978 2569,1976 2654,1974"
+                         HEIGHT="96"
+                         WIDTH="1686"
+                         VPOS="1923"
+                         HPOS="968">
+                  <String ID="string_r1l8"
+                          HEIGHT="96"
+                          WIDTH="1686"
+                          VPOS="1923"
+                          HPOS="968"
+                          CONTENT="REGNO detto hora di Murcia, si deceva della Regione Turdetania."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="982,2172 1086,2172 1191,2172 1295,2172 1400,2170 1505,2168 1609,2167 1714,2165 1818,2162 1923,2160 2028,2158 2132,2156 2237,2152 2341,2150 2446,2148 2551,2144 2655,2140 2760,2138 2864,2135 2969,2132 3074,2128"
+                         HEIGHT="120"
+                         WIDTH="2092"
+                         VPOS="2077"
+                         HPOS="982">
+                  <String ID="string_r1l9"
+                          HEIGHT="120"
+                          WIDTH="2092"
+                          VPOS="2077"
+                          HPOS="982"
+                          CONTENT="REGNO, di Toledo, cosi detto dal vulgo, fu dall'antichi nominato della Carpetania."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="984,2358 1079,2356 1174,2354 1269,2354 1365,2352 1460,2351 1555,2350 1651,2350 1746,2350 1841,2348 1937,2348 2032,2348 2127,2348 2222,2348 2318,2346 2413,2346 2508,2346 2604,2346 2699,2344 2794,2344 2890,2342"
+                         HEIGHT="92"
+                         WIDTH="1906"
+                         VPOS="2291"
+                         HPOS="984">
+                  <String ID="string_r1l10"
+                          HEIGHT="92"
+                          WIDTH="1906"
+                          VPOS="2291"
+                          HPOS="984"
+                          CONTENT="REGNO, di Tunisi, fu detto di Tunetani nell'Africa minore, ò in Numidia."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="968,3262 1100,3261 1232,3259 1365,3256 1497,3252 1630,3248 1762,3244 1894,3238 2027,3234 2159,3230 2292,3225 2424,3222 2556,3218 2689,3216 2821,3214 2954,3213 3086,3214 3218,3215 3351,3218 3483,3222 3616,3228"
+                         HEIGHT="100"
+                         WIDTH="2648"
+                         VPOS="3179"
+                         HPOS="968">
+                  <String ID="string_r1l11"
+                          HEIGHT="100"
+                          WIDTH="2648"
+                          VPOS="3179"
+                          HPOS="968"
+                          CONTENT="RESAPHA, et RESA, è città nella Palmyrene Regione della Syria, secondo Ptolemaeo, da cui Resaphaeo,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="1012,3338 1037,3338 1063,3338 1089,3338 1115,3336 1141,3336 1167,3336 1193,3334 1219,3334 1244,3334 1270,3332 1296,3330 1322,3328 1348,3326 1374,3324 1400,3321 1426,3318"
+                         HEIGHT="71"
+                         WIDTH="414"
+                         VPOS="3284"
+                         HPOS="1012">
+                  <String ID="string_r1l12"
+                          HEIGHT="71"
+                          WIDTH="414"
+                          VPOS="3284"
+                          HPOS="1012"
+                          CONTENT="et Resaphanite."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="992,3916 1118,3912 1245,3910 1372,3906 1499,3904 1626,3900 1752,3896 1879,3892 2006,3888 2133,3882 2260,3879 2386,3876 2513,3872 2640,3870 2767,3868 2894,3868 3020,3866 3147,3868 3274,3869 3401,3872 3528,3876"
+                         HEIGHT="113"
+                         WIDTH="2536"
+                         VPOS="3824"
+                         HPOS="992">
+                  <String ID="string_r1l13"
+                          HEIGHT="113"
+                          WIDTH="2536"
+                          VPOS="3824"
+                          HPOS="992"
+                          CONTENT="RESALA, et ΡΕΣΑΛΑ, è citta nell'Umbria, molto antica, nominata da Hecataeo, ΡΑΣΑΛΗ, ΠΟΛΙΣ. ΟΜ¬"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="1030,4006 1155,4006 1280,4003 1405,4000 1530,3998 1655,3995 1780,3992 1905,3988 2030,3985 2155,3982 2280,3978 2405,3974 2530,3972 2655,3969 2780,3966 2905,3964 3030,3962 3155,3960 3280,3960 3405,3960 3530,3960"
+                         HEIGHT="109"
+                         WIDTH="2500"
+                         VPOS="3918"
+                         HPOS="1030">
+                  <String ID="string_r1l14"
+                          HEIGHT="109"
+                          WIDTH="2500"
+                          VPOS="3918"
+                          HPOS="1030"
+                          CONTENT="ΒΡΙΚΩΝ, et da questa Stephano dice Resaleno, ò, ΡΕΣΑΛΗΝΟΣ, et ΡΕΣΑΛΕΙΤΟΙ. quelli della Regio¬"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1046,4096 1072,4096 1098,4096 1124,4096 1150,4094 1176,4094 1202,4096 1228,4094 1255,4096 1281,4096 1307,4096 1333,4096 1359,4096 1385,4096 1411,4096 1438,4096"
+                         HEIGHT="68"
+                         WIDTH="392"
+                         VPOS="4050"
+                         HPOS="1046">
+                  <String ID="string_r1l15"
+                          HEIGHT="68"
+                          WIDTH="392"
+                          VPOS="4050"
+                          HPOS="1046"
+                          CONTENT="ne della città"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="998,4196 1120,4196 1243,4196 1366,4196 1489,4196 1612,4194 1734,4192 1857,4190 1980,4188 2103,4186 2226,4182 2348,4180 2471,4176 2594,4174 2717,4171 2840,4168 2962,4166 3085,4164 3208,4162 3331,4160 3454,4160"
+                         HEIGHT="105"
+                         WIDTH="2456"
+                         VPOS="4108"
+                         HPOS="998">
+                  <String ID="string_r1l16"
+                          HEIGHT="105"
+                          WIDTH="2456"
+                          VPOS="4108"
+                          HPOS="998"
+                          CONTENT="RESINA fu città di Picenti Campani sullitto del seno Cratere, poco sliscosto à Portici città. et"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="1038,4286 1160,4286 1282,4288 1404,4286 1526,4286 1648,4285 1770,4284 1892,4282 2014,4279 2136,4276 2259,4274 2381,4271 2503,4268 2625,4266 2747,4262 2869,4260 2991,4258 3113,4256 3235,4254 3357,4252 3480,4252"
+                         HEIGHT="99"
+                         WIDTH="2442"
+                         VPOS="4210"
+                         HPOS="1038">
+                  <String ID="string_r1l17"
+                          HEIGHT="99"
+                          WIDTH="2442"
+                          VPOS="4210"
+                          HPOS="1038"
+                          CONTENT="Resina anchora è Vico, ò città d'Aegina sul fiume Hebro, overo, ΑΒΟΡΟΝ, ΠΟΤΑΜΟΝ, donde"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1038,4372 1162,4374 1287,4376 1412,4378 1537,4378 1662,4377 1786,4376 1911,4374 2036,4372 2161,4370 2286,4366 2410,4364 2535,4361 2660,4358 2785,4356 2910,4354 3034,4352 3159,4352 3284,4352 3409,4352 3534,4354"
+                         HEIGHT="89"
+                         WIDTH="2496"
+                         VPOS="4310"
+                         HPOS="1038">
+                  <String ID="string_r1l18"
+                          HEIGHT="89"
+                          WIDTH="2496"
+                          VPOS="4310"
+                          HPOS="1038"
+                          CONTENT="dovemo dire Resinate, ò, ΡΕΣΙΝΑΤΗΕ, come da Terina Terinati et Terinei, cosi anchora Resi¬"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="1040,4484 1163,4484 1287,4484 1411,4484 1534,4482 1658,4480 1782,4480 1905,4478 2029,4476 2153,4474 2277,4470 2400,4468 2524,4465 2648,4462 2771,4460 2895,4456 3019,4454 3142,4450 3266,4448 3390,4444 3514,4442"
+                         HEIGHT="111"
+                         WIDTH="2474"
+                         VPOS="4396"
+                         HPOS="1040">
+                  <String ID="string_r1l19"
+                          HEIGHT="111"
+                          WIDTH="2474"
+                          VPOS="4396"
+                          HPOS="1040"
+                          CONTENT="nei, ò Resinaei, et ΡΕΣΙΝΑΙΟΣ. et scrivesi senza spiratione, al contrario di quelli che scrivo"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="1032,4578 1142,4576 1252,4574 1362,4572 1472,4572 1583,4572 1693,4572 1803,4574 1913,4574 2023,4574 2134,4576 2244,4576 2354,4576 2464,4576 2574,4574 2685,4572 2795,4570 2905,4566 3015,4562 3125,4556 3236,4550"
+                         HEIGHT="85"
+                         WIDTH="2204"
+                         VPOS="4512"
+                         HPOS="1032">
+                  <String ID="string_r1l20"
+                          HEIGHT="85"
+                          WIDTH="2204"
+                          VPOS="4512"
+                          HPOS="1032"
+                          CONTENT="no la citta Rhesina, come è detto piu oltre nell'altro uso che alcuni la scrivono. ⁓"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="1004,4652 1094,4650 1185,4648 1276,4648 1367,4648 1458,4648 1548,4648 1639,4649 1730,4650 1821,4652 1912,4652 2002,4654 2093,4654 2184,4656 2275,4656 2366,4656 2456,4656 2547,4656 2638,4656 2729,4654 2820,4652"
+                         HEIGHT="63"
+                         WIDTH="1816"
+                         VPOS="4611"
+                         HPOS="1004">
+                  <String ID="string_r1l21"
+                          HEIGHT="63"
+                          WIDTH="1816"
+                          VPOS="4611"
+                          HPOS="1004"
+                          CONTENT="RESI, sono stati populi latini, secondo Strabone proprio dove è Roma."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="992,4718 1118,4720 1245,4724 1371,4726 1498,4730 1624,4731 1751,4732 1877,4734 2004,4736 2130,4736 2257,4738 2383,4739 2510,4740 2636,4742 2763,4742 2889,4744 3016,4746 3142,4748 3269,4750 3395,4754 3522,4756"
+                         HEIGHT="95"
+                         WIDTH="2530"
+                         VPOS="4680"
+                         HPOS="992">
+                  <String ID="string_r1l22"
+                          HEIGHT="95"
+                          WIDTH="2530"
+                          VPOS="4680"
+                          HPOS="992"
+                          CONTENT="RESISTO, Resistos, nel greco et latino, è citta della Propontide nel chersoneso, come dice Plinio nellibro"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="1056,4788 1081,4788 1106,4785 1132,4783 1157,4781 1182,4782 1208,4784"
+                         HEIGHT="65"
+                         WIDTH="152"
+                         VPOS="4742"
+                         HPOS="1056">
+                  <String ID="string_r1l23"
+                          HEIGHT="65"
+                          WIDTH="152"
+                          VPOS="4742"
+                          HPOS="1056"
+                          CONTENT="quarto"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="1006,4868 1132,4862 1258,4860 1384,4857 1510,4856 1636,4854 1762,4854 1888,4856 2014,4857 2140,4858 2267,4861 2393,4864 2519,4866 2645,4868 2771,4870 2897,4874 3023,4876 3149,4876 3275,4878 3401,4878 3528,4878"
+                         HEIGHT="79"
+                         WIDTH="2522"
+                         VPOS="4817"
+                         HPOS="1006">
+                  <String ID="string_r1l24"
+                          HEIGHT="79"
+                          WIDTH="2522"
+                          VPOS="4817"
+                          HPOS="1006"
+                          CONTENT="RETIGONIO, Retigonium, Retigonia, è città nella Britannia Isola, secondo scrive Ptolemaeo. da cui Reti"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="1038,4938 1118,4938 1198,4940 1278,4940 1359,4940 1439,4940 1519,4940 1600,4940 1680,4938 1760,4938 1841,4938 1921,4938 2001,4938 2081,4938 2162,4938 2242,4938 2322,4938 2403,4938 2483,4940 2563,4940 2644,4942"
+                         HEIGHT="59"
+                         WIDTH="1606"
+                         VPOS="4901"
+                         HPOS="1038">
+                  <String ID="string_r1l25"
+                          HEIGHT="59"
+                          WIDTH="1606"
+                          VPOS="4901"
+                          HPOS="1038"
+                          CONTENT="gonio il seno, et Retigonensio l'huomo della città, altri Retigonense."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

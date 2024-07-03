@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:33.853+01:00</Created>
+        <LastChange>2022-05-18T23:36:00.573+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902800" pageNr="9" tsid="82570113" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=DSVAXCKFWRXFYAFCOUIWSASY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZUGFVSBCVWZUOMCPHMSZTSGE" imageId="17873877"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_005a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337491321" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="661,252 687,2027 3610,2001 3557,209"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="808,394 941,390 1075,388 1208,386 1342,384 1475,382 1609,380 1742,378 1876,376 2009,375 2143,374 2276,372 2410,370 2543,368 2677,368 2810,366 2944,364 3077,362 3211,362 3344,360 3478,358 3478,304 3344,306 3211,308 3077,308 2944,310 2810,312 2677,314 2543,314 2410,316 2276,318 2143,320 2009,321 1876,322 1742,324 1609,326 1475,328 1342,330 1208,332 1075,334 941,336 808,340"/>
+                <Baseline points="808,376 941,372 1075,370 1208,368 1342,366 1475,364 1609,362 1742,360 1876,358 2009,357 2143,356 2276,354 2410,352 2543,350 2677,350 2810,348 2944,346 3077,344 3211,344 3344,342 3478,340"/>
+                <TextEquiv>
+                    <Unicode>insino allyco fiume verso levante, confina essa Raetia conla Vindelica, et da essa divisa dal Danuvio, dallato del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="808,468 940,468 1073,468 1205,468 1338,466 1471,466 1603,464 1736,462 1868,460 2001,459 2134,457 2266,454 2399,452 2531,450 2664,448 2797,446 2929,444 3062,441 3194,439 3327,438 3460,436 3460,382 3327,384 3194,385 3062,387 2929,390 2797,392 2664,394 2531,396 2399,398 2266,400 2134,403 2001,405 1868,406 1736,408 1603,410 1471,412 1338,412 1205,414 1073,414 940,414 808,414"/>
+                <Baseline points="808,450 940,450 1073,450 1205,450 1338,448 1471,448 1603,446 1736,444 1868,442 2001,441 2134,439 2266,436 2399,434 2531,432 2664,430 2797,428 2929,426 3062,423 3194,421 3327,420 3460,418"/>
+                <TextEquiv>
+                    <Unicode>settentrione. et verso Meridie, tiene i termini conl'Alpi oltre alla Gallia Cisalpina. et la medesimo Raetia, verso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} blackening {offset:71; length:3;} unclear {offset:71; length:3;}">
+                <Coords points="798,558 931,558 1064,558 1197,556 1331,555 1464,554 1597,552 1731,550 1864,548 1997,546 2131,542 2264,540 2397,538 2530,534 2664,532 2797,528 2930,526 3064,522 3197,520 3330,518 3464,514 3464,459 3330,463 3197,465 3064,467 2930,471 2797,473 2664,477 2530,479 2397,483 2264,485 2131,487 1997,491 1864,493 1731,495 1597,497 1464,499 1331,500 1197,501 1064,503 931,503 798,503"/>
+                <Baseline points="798,540 931,540 1064,540 1197,538 1331,537 1464,536 1597,534 1731,532 1864,530 1997,528 2131,524 2264,522 2397,520 2530,516 2664,514 2797,510 2930,508 3064,504 3197,502 3330,500 3464,496"/>
+                <TextEquiv>
+                    <Unicode>l'oriente, hala vendelica, et la Norica dishnta da esse dal fiume Aeno per per unlato la circunda, et la parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="794,648 926,644 1059,641 1192,638 1325,634 1458,632 1591,628 1724,626 1857,624 1990,622 2123,618 2255,616 2388,614 2521,612 2654,610 2787,606 2920,604 3053,601 3186,598 3319,594 3452,590 3452,535 3319,539 3186,543 3053,546 2920,549 2787,551 2654,555 2521,557 2388,559 2255,561 2123,563 1990,567 1857,569 1724,571 1591,573 1458,577 1325,579 1192,583 1059,586 926,589 794,593"/>
+                <Baseline points="794,630 926,626 1059,623 1192,620 1325,616 1458,614 1591,610 1724,608 1857,606 1990,604 2123,600 2255,598 2388,596 2521,594 2654,592 2787,588 2920,586 3053,583 3186,580 3319,576 3452,572"/>
+                <TextEquiv>
+                    <Unicode>Raetica detta superiore hali Helvetij et partedella Gallia Cisalpina insino allago Lario comprende, et le cuigenti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} unclear {offset:7; length:5;}">
+                <Coords points="806,731 937,730 1069,727 1201,725 1333,722 1465,719 1597,715 1729,711 1861,708 1993,705 2125,701 2256,697 2388,695 2520,691 2652,689 2784,687 2916,685 3048,685 3180,685 3312,685 3444,685 3444,628 3312,628 3180,628 3048,628 2916,628 2784,630 2652,632 2520,634 2388,638 2256,640 2125,644 1993,648 1861,651 1729,654 1597,658 1465,662 1333,665 1201,668 1069,670 937,673 806,674"/>
+                <Baseline points="806,712 937,711 1069,708 1201,706 1333,703 1465,700 1597,696 1729,692 1861,689 1993,686 2125,682 2256,678 2388,676 2520,672 2652,670 2784,668 2916,666 3048,666 3180,666 3312,666 3444,666"/>
+                <TextEquiv>
+                    <Unicode>hogidi verso questa parte sono chiamati Griscioni ò Grisones, et la parte inferiore, verso il fiume Lyco insino al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="796,824 929,822 1063,820 1196,816 1330,812 1464,810 1597,806 1731,802 1864,798 1998,795 2132,792 2265,788 2399,785 2532,782 2666,778 2800,776 2933,774 3067,772 3200,770 3334,768 3468,768 3468,708 3334,708 3200,710 3067,712 2933,714 2800,716 2666,718 2532,722 2399,725 2265,728 2132,732 1998,735 1864,738 1731,742 1597,746 1464,750 1330,752 1196,756 1063,760 929,762 796,764"/>
+                <Baseline points="796,804 929,802 1063,800 1196,796 1330,792 1464,790 1597,786 1731,782 1864,778 1998,775 2132,772 2265,768 2399,765 2532,762 2666,758 2800,756 2933,754 3067,752 3200,750 3334,748 3468,748"/>
+                <TextEquiv>
+                    <Unicode>fiume Aeno, sono altre nationi, che con Norici et Raeti confinano, chiamate, Boioarij, et Rhetij Thusci, per cioche, come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="816,909 947,906 1079,903 1211,901 1343,899 1475,895 1607,893 1739,889 1871,887 2003,883 2135,881 2266,878 2398,875 2530,873 2662,870 2794,867 2926,865 3058,863 3190,861 3322,861 3454,859 3454,807 3322,809 3190,809 3058,811 2926,813 2794,815 2662,818 2530,821 2398,823 2266,826 2135,829 2003,831 1871,835 1739,837 1607,841 1475,843 1343,847 1211,849 1079,851 947,854 816,857"/>
+                <Baseline points="816,892 947,889 1079,886 1211,884 1343,882 1475,878 1607,876 1739,872 1871,870 2003,866 2135,864 2266,861 2398,858 2530,856 2662,853 2794,850 2926,848 3058,846 3190,844 3322,844 3454,842"/>
+                <TextEquiv>
+                    <Unicode>è sudetto credevano havere havuta dalli Thusci, la origine. Hanno i Raeti nobilissimo vino, et confinano dalla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="808,983 940,979 1072,977 1205,974 1337,971 1470,969 1602,965 1734,963 1867,959 1999,957 2132,955 2264,953 2396,951 2529,949 2661,947 2794,945 2926,943 3058,941 3191,941 3323,939 3456,939 3456,887 3323,887 3191,889 3058,889 2926,891 2794,893 2661,895 2529,897 2396,899 2264,901 2132,903 1999,905 1867,907 1734,911 1602,913 1470,917 1337,919 1205,922 1072,925 940,927 808,931"/>
+                <Baseline points="808,966 940,962 1072,960 1205,957 1337,954 1470,952 1602,948 1734,946 1867,942 1999,940 2132,938 2264,936 2396,934 2529,932 2661,930 2794,928 2926,926 3058,924 3191,924 3323,922 3456,922"/>
+                <TextEquiv>
+                    <Unicode>parte di Italia, con Verona, et con Como, situate all'Alpinee radici. Della qual Raetia parla Virgilio laudando il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="816,1072 909,1070 1002,1069 1096,1067 1189,1064 1283,1062 1376,1061 1469,1060 1563,1058 1656,1056 1750,1056 1843,1054 1936,1052 2030,1052 2123,1050 2217,1050 2310,1050 2403,1048 2497,1048 2590,1048 2684,1046 2684,986 2590,988 2497,988 2403,988 2310,990 2217,990 2123,990 2030,992 1936,992 1843,994 1750,996 1656,996 1563,998 1469,1000 1376,1001 1283,1002 1189,1004 1096,1007 1002,1009 909,1010 816,1012"/>
+                <Baseline points="816,1052 909,1050 1002,1049 1096,1047 1189,1044 1283,1042 1376,1041 1469,1040 1563,1038 1656,1036 1750,1036 1843,1034 1936,1032 2030,1032 2123,1030 2217,1030 2310,1030 2403,1028 2497,1028 2590,1028 2684,1026"/>
+                <TextEquiv>
+                    <Unicode>Vino, col Falerno, nel secondo dela Georgica — ET QVO TE CARMINE DICAM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1114,1158 1230,1159 1346,1160 1462,1160 1578,1160 1694,1159 1810,1158 1926,1158 2042,1156 2158,1155 2274,1154 2390,1151 2506,1149 2622,1146 2738,1144 2854,1140 2970,1138 3086,1134 3202,1130 3318,1126 3434,1120 3434,1060 3318,1066 3202,1070 3086,1074 2970,1078 2854,1080 2738,1084 2622,1086 2506,1089 2390,1091 2274,1094 2158,1095 2042,1096 1926,1098 1810,1098 1694,1099 1578,1100 1462,1100 1346,1100 1230,1099 1114,1098"/>
+                <Baseline points="1114,1138 1230,1139 1346,1140 1462,1140 1578,1140 1694,1139 1810,1138 1926,1138 2042,1136 2158,1135 2274,1134 2390,1131 2506,1129 2622,1126 2738,1124 2854,1120 2970,1118 3086,1114 3202,1110 3318,1106 3434,1100"/>
+                <TextEquiv>
+                    <Unicode>RAETICA.⁓ NE CELLIS IDEO CONTENDE FALERNIS. Percio che esso poeta, compara il Vino delle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="816,1248 948,1246 1081,1246 1214,1246 1347,1244 1480,1244 1613,1242 1746,1242 1879,1240 2012,1238 2145,1236 2277,1235 2410,1232 2543,1230 2676,1226 2809,1223 2942,1218 3075,1214 3208,1210 3341,1203 3474,1198 3474,1138 3341,1143 3208,1150 3075,1154 2942,1158 2809,1163 2676,1166 2543,1170 2410,1172 2277,1175 2145,1176 2012,1178 1879,1180 1746,1182 1613,1182 1480,1184 1347,1184 1214,1186 1081,1186 948,1186 816,1188"/>
+                <Baseline points="816,1228 948,1226 1081,1226 1214,1226 1347,1224 1480,1224 1613,1222 1746,1222 1879,1220 2012,1218 2145,1216 2277,1215 2410,1212 2543,1210 2676,1206 2809,1203 2942,1198 3075,1194 3208,1190 3341,1183 3474,1178"/>
+                <TextEquiv>
+                    <Unicode>Raetiche cantine,non meno ch'è il Falerno vino rosso de campani, nobile et buono, et celebrato, et da poeti, et da Ga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="802,1332 936,1334 1071,1336 1205,1338 1340,1338 1475,1340 1609,1340 1744,1338 1878,1338 2013,1336 2148,1334 2282,1332 2417,1330 2551,1326 2686,1324 2821,1320 2955,1316 3090,1312 3224,1306 3359,1302 3494,1296 3494,1236 3359,1242 3224,1246 3090,1252 2955,1256 2821,1260 2686,1264 2551,1266 2417,1270 2282,1272 2148,1274 2013,1276 1878,1278 1744,1278 1609,1280 1475,1280 1340,1278 1205,1278 1071,1276 936,1274 802,1272"/>
+                <Baseline points="802,1312 936,1314 1071,1316 1205,1318 1340,1318 1475,1320 1609,1320 1744,1318 1878,1318 2013,1316 2148,1314 2282,1312 2417,1310 2551,1306 2686,1304 2821,1300 2955,1296 3090,1292 3224,1286 3359,1282 3494,1276"/>
+                <TextEquiv>
+                    <Unicode>leno, et da Atheneo. Ora quella Raetia che confina col fonte del Rheno, et col Lyco fiume è quella chel vulgo appel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} unclear {offset:109; length:5;}">
+                <Coords points="830,1427 961,1429 1092,1431 1223,1433 1354,1433 1486,1433 1617,1433 1748,1433 1879,1431 2010,1431 2142,1429 2273,1426 2404,1423 2535,1421 2666,1417 2797,1412 2929,1408 3060,1403 3191,1397 3322,1391 3454,1385 3454,1327 3322,1333 3191,1339 3060,1345 2929,1350 2797,1354 2666,1359 2535,1363 2404,1365 2273,1368 2142,1371 2010,1373 1879,1373 1748,1375 1617,1375 1486,1375 1354,1375 1223,1375 1092,1373 961,1371 830,1369"/>
+                <Baseline points="830,1408 961,1410 1092,1412 1223,1414 1354,1414 1486,1414 1617,1414 1748,1414 1879,1412 2010,1412 2142,1410 2273,1407 2404,1404 2535,1402 2666,1398 2797,1393 2929,1389 3060,1384 3191,1378 3322,1372 3454,1366"/>
+                <TextEquiv>
+                    <Unicode>la Svevia. et quella inferiore, infra il Fonte del Danuvio et allyco, etparte della Bavaria dove sono l'Hyle Alpi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="824,1525 929,1522 1035,1519 1140,1517 1246,1517 1352,1515 1457,1515 1563,1515 1668,1513 1774,1513 1880,1513 1985,1513 2091,1513 2196,1511 2302,1509 2408,1507 2513,1505 2619,1501 2724,1498 2830,1493 2936,1487 2936,1429 2830,1435 2724,1440 2619,1443 2513,1447 2408,1449 2302,1451 2196,1453 2091,1455 1985,1455 1880,1455 1774,1455 1668,1455 1563,1457 1457,1457 1352,1457 1246,1459 1140,1459 1035,1461 929,1464 824,1467"/>
+                <Baseline points="824,1506 929,1503 1035,1500 1140,1498 1246,1498 1352,1496 1457,1496 1563,1496 1668,1494 1774,1494 1880,1494 1985,1494 2091,1494 2196,1492 2302,1490 2408,1488 2513,1486 2619,1482 2724,1479 2830,1474 2936,1468"/>
+                <TextEquiv>
+                    <Unicode>ricentate dal Danuvio. et la parteche col stato di Venetia confina si dicono Grisoni Raetei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="782,1598 915,1598 1049,1600 1182,1600 1316,1600 1450,1600 1583,1600 1717,1600 1850,1600 1984,1600 2118,1598 2251,1598 2385,1596 2518,1594 2652,1594 2786,1592 2919,1590 3053,1588 3186,1584 3320,1582 3454,1578 3454,1518 3320,1522 3186,1524 3053,1528 2919,1530 2786,1532 2652,1534 2518,1534 2385,1536 2251,1538 2118,1538 1984,1540 1850,1540 1717,1540 1583,1540 1450,1540 1316,1540 1182,1540 1049,1540 915,1538 782,1538"/>
+                <Baseline points="782,1578 915,1578 1049,1580 1182,1580 1316,1580 1450,1580 1583,1580 1717,1580 1850,1580 1984,1580 2118,1578 2251,1578 2385,1576 2518,1574 2652,1574 2786,1572 2919,1570 3053,1568 3186,1564 3320,1562 3454,1558"/>
+                <TextEquiv>
+                    <Unicode>Raetico, et Raetionis, è nome di Monte, nella sudetta Raetia habitato da Raetij. et Rhetico si dice l'exercito, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="824,1686 954,1686 1085,1684 1216,1684 1347,1684 1478,1684 1609,1684 1740,1684 1871,1684 2002,1684 2133,1684 2263,1684 2394,1684 2525,1682 2656,1682 2787,1680 2918,1678 3049,1676 3180,1674 3311,1670 3442,1666 3442,1606 3311,1610 3180,1614 3049,1616 2918,1618 2787,1620 2656,1622 2525,1622 2394,1624 2263,1624 2133,1624 2002,1624 1871,1624 1740,1624 1609,1624 1478,1624 1347,1624 1216,1624 1085,1624 954,1626 824,1626"/>
+                <Baseline points="824,1666 954,1666 1085,1664 1216,1664 1347,1664 1478,1664 1609,1664 1740,1664 1871,1664 2002,1664 2133,1664 2263,1664 2394,1664 2525,1662 2656,1662 2787,1660 2918,1658 3049,1656 3180,1654 3311,1650 3442,1646"/>
+                <TextEquiv>
+                    <Unicode>Raetica ognicosa appartenente alla Raetia. et Raetico è nome di Gigante, et si scrive anchora per .H. Rhetico.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="820,1782 952,1782 1085,1780 1218,1779 1351,1778 1484,1776 1617,1776 1750,1774 1883,1772 2016,1772 2149,1770 2281,1768 2414,1766 2547,1766 2680,1764 2813,1763 2946,1762 3079,1760 3212,1759 3345,1758 3478,1756 3478,1696 3345,1698 3212,1699 3079,1700 2946,1702 2813,1703 2680,1704 2547,1706 2414,1706 2281,1708 2149,1710 2016,1712 1883,1712 1750,1714 1617,1716 1484,1716 1351,1718 1218,1719 1085,1720 952,1722 820,1722"/>
+                <Baseline points="820,1762 952,1762 1085,1760 1218,1759 1351,1758 1484,1756 1617,1756 1750,1754 1883,1752 2016,1752 2149,1750 2281,1748 2414,1746 2547,1746 2680,1744 2813,1743 2946,1742 3079,1740 3212,1739 3345,1738 3478,1736"/>
+                <TextEquiv>
+                    <Unicode>Loquale si converse in leone combattendo fuucciso come dice Diodoro Syracosano et si scrive come Rheto Centauro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="822,1878 954,1876 1086,1874 1218,1870 1350,1869 1482,1866 1614,1866 1746,1864 1878,1862 2010,1860 2142,1858 2274,1858 2406,1856 2538,1854 2670,1852 2802,1850 2934,1848 3066,1846 3198,1844 3330,1840 3462,1838 3462,1778 3330,1780 3198,1784 3066,1786 2934,1788 2802,1790 2670,1792 2538,1794 2406,1796 2274,1798 2142,1798 2010,1800 1878,1802 1746,1804 1614,1806 1482,1806 1350,1809 1218,1810 1086,1814 954,1816 822,1818"/>
+                <Baseline points="822,1858 954,1856 1086,1854 1218,1850 1350,1849 1482,1846 1614,1846 1746,1844 1878,1842 2010,1840 2142,1838 2274,1838 2406,1836 2538,1834 2670,1832 2802,1830 2934,1828 3066,1826 3198,1824 3330,1820 3462,1818"/>
+                <TextEquiv>
+                    <Unicode>figliuolo di Ixione come scrive Lucano. ma questo non è aquesto proposito per altro detto se non perdire come si scri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="816,1960 888,1958 961,1956 1033,1954 1106,1952 1179,1952 1251,1952 1324,1952 1396,1952 1469,1952 1542,1952 1614,1952 1687,1952 1759,1952 1832,1952 1905,1952 1977,1952 2050,1952 2122,1950 2195,1950 2268,1948 2268,1888 2195,1890 2122,1890 2050,1892 1977,1892 1905,1892 1832,1892 1759,1892 1687,1892 1614,1892 1542,1892 1469,1892 1396,1892 1324,1892 1251,1892 1179,1892 1106,1892 1033,1894 961,1896 888,1898 816,1900"/>
+                <Baseline points="816,1940 888,1938 961,1936 1033,1934 1106,1932 1179,1932 1251,1932 1324,1932 1396,1932 1469,1932 1542,1932 1614,1932 1687,1932 1759,1932 1832,1932 1905,1932 1977,1932 2050,1932 2122,1930 2195,1930 2268,1928"/>
+                <TextEquiv>
+                    <Unicode>vono indifferentemente, i detti nomi che sono simiglevoli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>insino allyco fiume verso levante, confina essa Raetia conla Vindelica, et da essa divisa dal Danuvio, dallato del
+settentrione. et verso Meridie, tiene i termini conl'Alpi oltre alla Gallia Cisalpina. et la medesimo Raetia, verso
+l'oriente, hala vendelica, et la Norica dishnta da esse dal fiume Aeno per per unlato la circunda, et la parte
+Raetica detta superiore hali Helvetij et partedella Gallia Cisalpina insino allago Lario comprende, et le cuigenti
+hogidi verso questa parte sono chiamati Griscioni ò Grisones, et la parte inferiore, verso il fiume Lyco insino al
+fiume Aeno, sono altre nationi, che con Norici et Raeti confinano, chiamate, Boioarij, et Rhetij Thusci, per cioche, come
+è sudetto credevano havere havuta dalli Thusci, la origine. Hanno i Raeti nobilissimo vino, et confinano dalla
+parte di Italia, con Verona, et con Como, situate all'Alpinee radici. Della qual Raetia parla Virgilio laudando il
+Vino, col Falerno, nel secondo dela Georgica — ET QVO TE CARMINE DICAM
+RAETICA.⁓ NE CELLIS IDEO CONTENDE FALERNIS. Percio che esso poeta, compara il Vino delle
+Raetiche cantine,non meno ch'è il Falerno vino rosso de campani, nobile et buono, et celebrato, et da poeti, et da Ga
+leno, et da Atheneo. Ora quella Raetia che confina col fonte del Rheno, et col Lyco fiume è quella chel vulgo appel¬
+la Svevia. et quella inferiore, infra il Fonte del Danuvio et allyco, etparte della Bavaria dove sono l'Hyle Alpi,
+ricentate dal Danuvio. et la parteche col stato di Venetia confina si dicono Grisoni Raetei.
+Raetico, et Raetionis, è nome di Monte, nella sudetta Raetia habitato da Raetij. et Rhetico si dice l'exercito, et
+Raetica ognicosa appartenente alla Raetia. et Raetico è nome di Gigante, et si scrive anchora per .H. Rhetico.
+Loquale si converse in leone combattendo fuucciso come dice Diodoro Syracosano et si scrive come Rheto Centauro
+figliuolo di Ixione come scrive Lucano. ma questo non è aquesto proposito per altro detto se non perdire come si scri
+vono indifferentemente, i detti nomi che sono simiglevoli.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

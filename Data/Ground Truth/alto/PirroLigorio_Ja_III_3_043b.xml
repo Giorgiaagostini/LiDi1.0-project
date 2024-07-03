@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_043b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:07.003+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643725254752_758"
+                       HEIGHT="213"
+                       WIDTH="311"
+                       VPOS="192"
+                       HPOS="3017">
+               <Shape>
+                  <Polygon POINTS="3017,196 3328,192 3328,404 3018,405"/>
+               </Shape>
+               <TextLine ID="line_1643211050979_308"
+                         BASELINE="3047,283 3241,280"
+                         HEIGHT="53"
+                         WIDTH="195"
+                         VPOS="235"
+                         HPOS="3046">
+                  <String ID="string_line_1643211050979_308"
+                          HEIGHT="53"
+                          WIDTH="195"
+                          VPOS="235"
+                          HPOS="3046"
+                          CONTENT="46"/>
+               </TextLine>
+               <TextLine ID="line_1643211053581_313"
+                         BASELINE="3148,388 3246,385"
+                         HEIGHT="53"
+                         WIDTH="99"
+                         VPOS="340"
+                         HPOS="3147">
+                  <String ID="string_line_1643211053581_313"
+                          HEIGHT="53"
+                          WIDTH="99"
+                          VPOS="340"
+                          HPOS="3147"
+                          CONTENT="43"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643725254752_757"
+                       HEIGHT="4296"
+                       WIDTH="2973"
+                       VPOS="196"
+                       HPOS="355">
+               <Shape>
+                  <Polygon POINTS="362,231 3017,196 3018,405 3328,404 3328,4466 355,4492"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="506,434 625,436 745,438 864,440 984,440 1104,440 1223,438 1343,438 1462,436 1582,434 1702,432 1821,430 1941,428 2060,426 2180,426 2300,424 2419,424 2539,424 2658,424 2778,426 2937,448"
+                         HEIGHT="83"
+                         WIDTH="2392"
+                         VPOS="379"
+                         HPOS="506">
+                  <String ID="string_r1l1"
+                          HEIGHT="83"
+                          WIDTH="2392"
+                          VPOS="379"
+                          HPOS="506"
+                          CONTENT="che vive le sepellivano. Altri dicono, che fu il Geniodi quelluogo; et come cosa d'opera divina, dimo¬"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="512,530 631,534 750,536 869,538 988,538 1107,538 1226,538 1345,536 1464,534 1583,532 1702,530 1821,527 1940,524 2059,522 2178,520 2297,520 2416,518 2535,518 2654,519 2773,520 2892,524"
+                         HEIGHT="87"
+                         WIDTH="2380"
+                         VPOS="473"
+                         HPOS="512">
+                  <String ID="string_r1l2"
+                          HEIGHT="87"
+                          WIDTH="2380"
+                          VPOS="473"
+                          HPOS="512"
+                          CONTENT="stravano la sua gravidanza. Alcuni davano questo à qualche ordine di Marte. Alcuni con piu fa¬"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="492,618 612,624 732,630 852,633 972,635 1093,636 1213,638 1333,638 1453,636 1573,635 1694,633 1814,630 1934,628 2054,626 2174,624 2295,622 2415,620 2535,618 2655,616 2775,616 2896,616"
+                         HEIGHT="89"
+                         WIDTH="2404"
+                         VPOS="571"
+                         HPOS="492">
+                  <String ID="string_r1l3"
+                          HEIGHT="89"
+                          WIDTH="2404"
+                          VPOS="571"
+                          HPOS="492"
+                          CONTENT="volosa narratione dissero, che inquel stupro, si vidde il sole con una Nebia oscura nell'aria la"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="504,722 624,726 744,728 864,728 984,730 1105,730 1225,732 1345,732 1465,732 1585,730 1706,730 1826,728 1946,726 2066,724 2186,722 2307,720 2427,718 2547,714 2667,712 2787,708 2915,714"
+                         HEIGHT="95"
+                         WIDTH="2404"
+                         VPOS="659"
+                         HPOS="504">
+                  <String ID="string_r1l4"
+                          HEIGHT="95"
+                          WIDTH="2404"
+                          VPOS="659"
+                          HPOS="504"
+                          CONTENT="quale haveauna grande imagine, et piu che humana di bellezza et di splendore, et quellali venis¬"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="508,830 628,830 748,832 868,832 989,832 1109,832 1229,832 1350,832 1470,832 1590,830 1711,830 1831,828 1951,826 2071,824 2192,824 2312,822 2432,820 2553,818 2673,816 2793,814 2930,817"
+                         HEIGHT="81"
+                         WIDTH="2406"
+                         VPOS="771"
+                         HPOS="508">
+                  <String ID="string_r1l5"
+                          HEIGHT="81"
+                          WIDTH="2406"
+                          VPOS="771"
+                          HPOS="508"
+                          CONTENT="se addosso, mentre ella apie del fonte dormiva stanca et lassa dal caldo estivo affaticata: et con questo"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="504,914 623,920 743,924 862,929 982,932 1102,934 1221,936 1341,936 1460,936 1580,936 1700,934 1819,932 1939,931 2058,930 2178,928 2298,926 2417,924 2537,922 2656,920 2776,920 2896,918"
+                         HEIGHT="83"
+                         WIDTH="2392"
+                         VPOS="873"
+                         HPOS="504">
+                  <String ID="string_r1l6"
+                          HEIGHT="83"
+                          WIDTH="2392"
+                          VPOS="873"
+                          HPOS="504"
+                          CONTENT="finsero che fusse uno Iddio et di un voler divino fatta gravida. Et affermarono anchora che quello Dio"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="492,1010 612,1019 733,1023 854,1030 975,1034 1096,1038 1216,1040 1337,1042 1458,1042 1579,1042 1700,1042 1820,1040 1941,1038 2062,1036 2183,1032 2304,1030 2424,1027 2545,1024 2666,1022 2787,1020 2910,1040"
+                         HEIGHT="100"
+                         WIDTH="2416"
+                         VPOS="963"
+                         HPOS="492">
+                  <String ID="string_r1l7"
+                          HEIGHT="100"
+                          WIDTH="2416"
+                          VPOS="963"
+                          HPOS="492"
+                          CONTENT="gli dicesse, che havea à partorire due lumi chiarissimi di guerra: et cosi detto fu da una nube solleva"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="498,1104 620,1102 740,1111 860,1118 980,1124 1101,1130 1221,1134 1341,1136 1461,1138 1581,1140 1702,1140 1822,1140 1942,1138 2062,1138 2182,1136 2303,1133 2423,1130 2543,1128 2663,1124 2783,1121 2904,1118"
+                         HEIGHT="106"
+                         WIDTH="2404"
+                         VPOS="1054"
+                         HPOS="500">
+                  <String ID="string_r1l8"
+                          HEIGHT="106"
+                          WIDTH="2404"
+                          VPOS="1054"
+                          HPOS="500"
+                          CONTENT="to nell'aria et cosi involto esser stato portato. Talche con questa favola predicarono al vulgo, come fù"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="492,1174 612,1184 732,1191 852,1198 972,1204 1093,1210 1213,1214 1333,1218 1453,1220 1573,1222 1694,1224 1814,1226 1934,1228 2054,1228 2174,1228 2295,1230 2415,1230 2535,1230 2655,1232 2775,1232 2934,1248"
+                         HEIGHT="120"
+                         WIDTH="2404"
+                         VPOS="1134"
+                         HPOS="492">
+                  <String ID="string_r1l9"
+                          HEIGHT="120"
+                          WIDTH="2404"
+                          VPOS="1134"
+                          HPOS="492"
+                          CONTENT="fatto da greci degli loto Heroi, che sono tutti bastardi: et concio demostravano, che iddio haveste fatta"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="497,1269 616,1271 737,1279 858,1286 978,1292 1099,1296 1220,1299 1340,1302 1461,1304 1582,1306 1703,1306 1823,1308 1944,1308 2065,1308 2185,1308 2306,1308 2427,1308 2547,1310 2668,1310 2789,1312 2910,1316"
+                         HEIGHT="114"
+                         WIDTH="2414"
+                         VPOS="1221"
+                         HPOS="496">
+                  <String ID="string_r1l10"
+                          HEIGHT="114"
+                          WIDTH="2414"
+                          VPOS="1221"
+                          HPOS="496"
+                          CONTENT="una terza natura, in parte che potesse porsi quagiu nelle partiterrene sifatte nativita: et generar"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="484,1338 606,1349 729,1358 851,1366 974,1373 1160,1373 1219,1381 1342,1384 1464,1386 1587,1388 1710,1388 1832,1390 1955,1390 2077,1390 2200,1390 2323,1390 2445,1390 2568,1390 2690,1392 2813,1394 2942,1413"
+                         HEIGHT="116"
+                         WIDTH="2452"
+                         VPOS="1299"
+                         HPOS="484">
+                  <String ID="string_r1l11"
+                          HEIGHT="116"
+                          WIDTH="2452"
+                          VPOS="1299"
+                          HPOS="484"
+                          CONTENT="una terza stirpe di huomini valorosi, d'alto coraggio, come dicono di Romolo, et di Remo in unven"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="484,1432 606,1442 728,1449 850,1456 972,1462 1095,1466 1217,1470 1339,1472 1461,1472 1583,1474 1706,1474 1828,1474 1950,1474 2072,1472 2194,1472 2317,1472 2439,1472 2561,1472 2683,1474 2805,1476 2928,1478"
+                         HEIGHT="107"
+                         WIDTH="2444"
+                         VPOS="1391"
+                         HPOS="484">
+                  <String ID="string_r1l12"
+                          HEIGHT="107"
+                          WIDTH="2444"
+                          VPOS="1391"
+                          HPOS="484"
+                          CONTENT="tre generati da costei. Cosi addunque dicono di piu chela Madre di Rhea Silvia, vi teneste mano, al"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="496,1534 617,1543 739,1549 861,1557 982,1562 1104,1566 1226,1570 1347,1572 1469,1575 1591,1576 1713,1578 1834,1578 1956,1578 2078,1576 2199,1576 2321,1574 2443,1574 2564,1572 2686,1572 2808,1570 2930,1570"
+                         HEIGHT="111"
+                         WIDTH="2434"
+                         VPOS="1489"
+                         HPOS="496">
+                  <String ID="string_r1l13"
+                          HEIGHT="111"
+                          WIDTH="2434"
+                          VPOS="1489"
+                          HPOS="496"
+                          CONTENT="tri dicono che cio fu finto dal suo amatore, et quello haverla ammaestrata. Ella sendo gravida, non"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="474,1632 596,1639 718,1647 840,1654 962,1659 1084,1664 1206,1668 1328,1672 1450,1674 1572,1676 1695,1678 1817,1678 1939,1680 2061,1680 2183,1680 2305,1680 2427,1680 2549,1680 2671,1680 2793,1680 2916,1682"
+                         HEIGHT="117"
+                         WIDTH="2442"
+                         VPOS="1587"
+                         HPOS="474">
+                  <String ID="string_r1l14"
+                          HEIGHT="117"
+                          WIDTH="2442"
+                          VPOS="1587"
+                          HPOS="474"
+                          CONTENT="attendeva alle sacre cerimonie, et quelle faceva fare all'altre Vergini, tenne la cosa ascosa quanto"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="482,1730 602,1736 722,1744 842,1750 962,1754 1083,1758 1203,1762 1323,1766 1443,1768 1563,1770 1684,1770 1804,1772 1924,1772 2044,1772 2164,1774 2285,1772 2405,1772 2525,1772 2645,1772 2765,1772 2886,1772"
+                         HEIGHT="99"
+                         WIDTH="2404"
+                         VPOS="1693"
+                         HPOS="482">
+                  <String ID="string_r1l15"
+                          HEIGHT="99"
+                          WIDTH="2404"
+                          VPOS="1693"
+                          HPOS="482"
+                          CONTENT="possette, fingendose ammalata. Ma Amulio traditore, tenendola molto bene osservata, che si"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="476,1822 597,1828 718,1832 839,1836 960,1839 1081,1842 1202,1844 1323,1846 1444,1846 1565,1848 1686,1848 1807,1848 1928,1850 2049,1850 2170,1850 2291,1850 2412,1852 2533,1852 2654,1854 2775,1854 2896,1856"
+                         HEIGHT="89"
+                         WIDTH="2420"
+                         VPOS="1785"
+                         HPOS="476">
+                  <String ID="string_r1l16"
+                          HEIGHT="89"
+                          WIDTH="2420"
+                          VPOS="1785"
+                          HPOS="476"
+                          CONTENT="havisava qualche cosa, dala lunga demora del male, vi mando il Medico, et curatori, tanto che"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="478,1922 600,1924 722,1924 844,1926 966,1926 1088,1926 1210,1926 1332,1926 1454,1924 1576,1924 1698,1924 1820,1924 1942,1924 2064,1924 2186,1924 2308,1926 2430,1928 2552,1930 2674,1932 2796,1935 2918,1938"
+                         HEIGHT="74"
+                         WIDTH="2440"
+                         VPOS="1883"
+                         HPOS="478">
+                  <String ID="string_r1l17"
+                          HEIGHT="74"
+                          WIDTH="2440"
+                          VPOS="1883"
+                          HPOS="478"
+                          CONTENT="pur scoperse il male, ch'era: saputo la cosa pose guardia d'huomini armati, ditlovessero veder"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="484,2026 604,2028 724,2028 844,2030 964,2028 1084,2028 1204,2027 1324,2026 1444,2024 1564,2022 1685,2020 1805,2017 1925,2014 2045,2012 2165,2011 2285,2010 2405,2008 2525,2008 2645,2008 2765,2008 2906,2009"
+                         HEIGHT="89"
+                         WIDTH="2402"
+                         VPOS="1963"
+                         HPOS="484">
+                  <String ID="string_r1l18"
+                          HEIGHT="89"
+                          WIDTH="2402"
+                          VPOS="1963"
+                          HPOS="484"
+                          CONTENT="sela fanciulla partoriva. Fu chiamato da Amulio anchora Numitore à vedere la sua vergogna;"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="488,2128 608,2130 729,2130 850,2130 971,2130 1092,2130 1213,2129 1334,2128 1455,2126 1576,2124 1697,2122 1817,2120 1938,2118 2059,2116 2180,2114 2301,2112 2422,2112 2543,2110 2664,2110 2785,2110 2906,2110"
+                         HEIGHT="87"
+                         WIDTH="2418"
+                         VPOS="2065"
+                         HPOS="488">
+                  <String ID="string_r1l19"
+                          HEIGHT="87"
+                          WIDTH="2418"
+                          VPOS="2065"
+                          HPOS="488"
+                          CONTENT="et fattone concilio grandissimo: et inteso per inquisitione dalla figliuola essere stata ingravidata"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="476,2230 598,2232 720,2234 842,2236 964,2236 1087,2236 1209,2236 1331,2236 1453,2234 1575,2233 1698,2232 1820,2230 1942,2228 2064,2226 2186,2224 2309,2222 2431,2222 2553,2220 2675,2220 2797,2220 2920,2220"
+                         HEIGHT="83"
+                         WIDTH="2444"
+                         VPOS="2175"
+                         HPOS="476">
+                  <String ID="string_r1l20"
+                          HEIGHT="83"
+                          WIDTH="2444"
+                          VPOS="2175"
+                          HPOS="476"
+                          CONTENT="da uno iddio. La onde Numitore non consentiva, che essa patisse pena alcuna. Ma Amulio ne piune"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="470,2324 592,2329 715,2332 837,2336 960,2338 1082,2340 1205,2342 1327,2342 1450,2344 1572,2344 1695,2344 1817,2342 1940,2342 2062,2340 2185,2338 2307,2338 2430,2336 2552,2333 2675,2330 2797,2328 2920,2326"
+                         HEIGHT="87"
+                         WIDTH="2450"
+                         VPOS="2279"
+                         HPOS="470">
+                  <String ID="string_r1l21"
+                          HEIGHT="87"
+                          WIDTH="2450"
+                          VPOS="2279"
+                          HPOS="470"
+                          CONTENT="meno, volle che essa morisse, et che i fanciulli secondo s'usava fussero come prudigiosi buttati nei"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="466,2432 588,2435 710,2438 832,2440 954,2442 1076,2442 1198,2444 1320,2444 1442,2444 1564,2443 1686,2442 1808,2442 1930,2440 2052,2440 2174,2438 2296,2436 2418,2436 2540,2434 2662,2434 2784,2432 2906,2432"
+                         HEIGHT="79"
+                         WIDTH="2440"
+                         VPOS="2387"
+                         HPOS="466">
+                  <String ID="string_r1l22"
+                          HEIGHT="79"
+                          WIDTH="2440"
+                          VPOS="2387"
+                          HPOS="466"
+                          CONTENT="gorghi del fiume: et essa buttata dalla dignita et sepulta viva. Furono i bambini gittati nelle lagu"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="490,2540 610,2544 731,2550 852,2552 973,2554 1094,2556 1215,2556 1336,2556 1457,2556 1578,2554 1699,2554 1819,2552 1940,2550 2061,2548 2182,2546 2303,2544 2424,2542 2545,2542 2666,2540 2787,2540 2908,2542"
+                         HEIGHT="83"
+                         WIDTH="2418"
+                         VPOS="2495"
+                         HPOS="490">
+                  <String ID="string_r1l23"
+                          HEIGHT="83"
+                          WIDTH="2418"
+                          VPOS="2495"
+                          HPOS="490"
+                          CONTENT="me del Tibere fiume. Alcuni variando dicono anchora, che cosi fusse fatto, altri che li fanciulli"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="490,2660 610,2660 730,2660 850,2660 971,2660 1091,2660 1211,2658 1332,2658 1452,2656 1572,2656 1693,2656 1813,2654 1933,2654 2053,2653 2174,2652 2294,2652 2414,2652 2535,2654 2655,2654 2775,2656 2896,2658"
+                         HEIGHT="75"
+                         WIDTH="2406"
+                         VPOS="2607"
+                         HPOS="490">
+                  <String ID="string_r1l24"
+                          HEIGHT="75"
+                          WIDTH="2406"
+                          VPOS="2607"
+                          HPOS="490"
+                          CONTENT="incontenente con essa furono uccisi. ò pure guardati in una priggionia, lasciando il vulgo popo"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="478,2754 598,2754 719,2754 840,2754 960,2754 1081,2754 1202,2754 1322,2754 1443,2754 1564,2754 1685,2756 1805,2756 1926,2756 2047,2756 2167,2756 2288,2756 2409,2756 2529,2754 2650,2754 2771,2754 2892,2752"
+                         HEIGHT="71"
+                         WIDTH="2414"
+                         VPOS="2707"
+                         HPOS="478">
+                  <String ID="string_r1l25"
+                          HEIGHT="71"
+                          WIDTH="2414"
+                          VPOS="2707"
+                          HPOS="478"
+                          CONTENT="lare in dubbio della loro vita. il che fece Amulio perli prieghi dela sua figliuola, la quale era"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="486,2846 605,2850 725,2854 845,2858 964,2860 1084,2860 1204,2862 1323,2862 1443,2864 1563,2864 1683,2864 1802,2864 1922,2862 2042,2862 2161,2862 2281,2864 2401,2864 2520,2864 2640,2866 2760,2868 2880,2870"
+                         HEIGHT="91"
+                         WIDTH="2394"
+                         VPOS="2801"
+                         HPOS="486">
+                  <String ID="string_r1l26"
+                          HEIGHT="91"
+                          WIDTH="2394"
+                          VPOS="2801"
+                          HPOS="486"
+                          CONTENT="allevata insieme con Rhea, et come compagna et congionta del sangue grandemente l'amava."/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="488,2958 607,2963 726,2968 845,2970 964,2973 1083,2974 1202,2974 1321,2974 1440,2974 1559,2972 1679,2972 1798,2970 1917,2968 2036,2966 2155,2964 2274,2964 2393,2962 2512,2962 2631,2962 2750,2964 2870,2966"
+                         HEIGHT="83"
+                         WIDTH="2382"
+                         VPOS="2913"
+                         HPOS="488">
+                  <String ID="string_r1l27"
+                          HEIGHT="83"
+                          WIDTH="2382"
+                          VPOS="2913"
+                          HPOS="488"
+                          CONTENT="Ma de figliuoli, eglie ben vero, che tutti duoi furono condannati à morte: ma per pietà dicolui il"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="478,3060 597,3067 717,3078 837,3082 957,3079 1077,3080 1196,3080 1316,3080 1436,3078 1556,3076 1676,3074 1795,3071 1915,3068 2035,3065 2155,3062 2275,3060 2394,3058 2514,3058 2634,3058 2754,3058 2874,3060"
+                         HEIGHT="89"
+                         WIDTH="2396"
+                         VPOS="3013"
+                         HPOS="478">
+                  <String ID="string_r1l28"
+                          HEIGHT="89"
+                          WIDTH="2396"
+                          VPOS="3013"
+                          HPOS="478"
+                          CONTENT="quale lhavea da affonnare furono salvati: ò pure per opera occulta di Numitore loro Avo, che"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="488,3170 607,3179 727,3184 847,3189 966,3192 1086,3194 1206,3194 1325,3194 1445,3192 1565,3190 1685,3186 1804,3182 1924,3178 2044,3174 2163,3170 2283,3166 2403,3162 2522,3158 2642,3154 2762,3152 2882,3150"
+                         HEIGHT="111"
+                         WIDTH="2394"
+                         VPOS="3105"
+                         HPOS="488">
+                  <String ID="string_r1l29"
+                          HEIGHT="111"
+                          WIDTH="2394"
+                          VPOS="3105"
+                          HPOS="488"
+                          CONTENT="corruppe, colui, et lifece allevare segretamente, et si salvarono. Perlo che Fabio Pittore, il"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="488,3280 607,3289 727,3294 846,3298 966,3300 1086,3302 1205,3300 1325,3300 1444,3296 1564,3294 1684,3288 1803,3285 1923,3280 2042,3276 2162,3272 2282,3267 2401,3264 2521,3261 2640,3260 2760,3258 2880,3260"
+                         HEIGHT="111"
+                         WIDTH="2392"
+                         VPOS="3213"
+                         HPOS="488">
+                  <String ID="string_r1l30"
+                          HEIGHT="111"
+                          WIDTH="2392"
+                          VPOS="3213"
+                          HPOS="488"
+                          CONTENT="quale Lucio Cincio, et Porcio Catone et Calpurnio pisone citano, disse che quei duoi fanciulli"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="488,3388 609,3396 730,3402 851,3406 972,3408 1094,3408 1215,3408 1336,3406 1457,3404 1578,3402 1700,3398 1821,3394 1942,3390 2063,3388 2184,3384 2306,3381 2427,3378 2548,3378 2669,3378 2790,3378 2912,3380"
+                         HEIGHT="97"
+                         WIDTH="2424"
+                         VPOS="3333"
+                         HPOS="488">
+                  <String ID="string_r1l31"
+                          HEIGHT="97"
+                          WIDTH="2424"
+                          VPOS="3333"
+                          HPOS="488"
+                          CONTENT="nella culla furono buttati quindici miglia lontano d'Alba Longa nella ripa del Tevere, et"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="466,3480 587,3488 709,3495 831,3500 953,3504 1075,3505 1197,3506 1319,3504 1441,3504 1563,3502 1685,3500 1806,3496 1928,3494 2050,3492 2172,3490 2294,3488 2416,3488 2538,3488 2660,3490 2782,3494 2904,3498"
+                         HEIGHT="93"
+                         WIDTH="2438"
+                         VPOS="3435"
+                         HPOS="466">
+                  <String ID="string_r1l32"
+                          HEIGHT="93"
+                          WIDTH="2438"
+                          VPOS="3435"
+                          HPOS="466"
+                          CONTENT="cosi gittati, da certi famegli del Re Amulio, et che nel cui tempo il Tibere era uscito fuori delle sue"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="462,3592 582,3598 702,3604 822,3607 942,3610 1063,3612 1183,3612 1303,3612 1423,3612 1543,3612 1664,3610 1784,3608 1904,3608 2024,3606 2144,3606 2265,3604 2385,3604 2505,3604 2625,3606 2745,3608 2866,3612"
+                         HEIGHT="87"
+                         WIDTH="2404"
+                         VPOS="3547"
+                         HPOS="462">
+                  <String ID="string_r1l33"
+                          HEIGHT="87"
+                          WIDTH="2404"
+                          VPOS="3547"
+                          HPOS="462"
+                          CONTENT="sponde, et havea inundato tuttol paese, et ritornando l'acque nel suoletto rimasero i fanciulli in"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="454,3700 574,3706 694,3710 815,3713 935,3716 1056,3716 1176,3718 1296,3718 1417,3716 1537,3716 1658,3714 1778,3712 1898,3711 2019,3710 2139,3708 2260,3708 2380,3706 2500,3706 2621,3708 2741,3708 2862,3712"
+                         HEIGHT="85"
+                         WIDTH="2408"
+                         VPOS="3655"
+                         HPOS="454">
+                  <String ID="string_r1l34"
+                          HEIGHT="85"
+                          WIDTH="2408"
+                          VPOS="3655"
+                          HPOS="454"
+                          CONTENT="secco sotto le radici del colle Palatino, et urtando la culla in un sasso li rovescio interra nel"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="462,3808 584,3814 706,3820 828,3824 950,3828 1072,3830 1194,3830 1316,3830 1438,3830 1560,3828 1683,3826 1805,3825 1927,3822 2049,3820 2171,3818 2293,3816 2415,3816 2537,3814 2659,3814 2781,3814 2904,3816"
+                         HEIGHT="89"
+                         WIDTH="2442"
+                         VPOS="3763"
+                         HPOS="462">
+                  <String ID="string_r1l35"
+                          HEIGHT="89"
+                          WIDTH="2442"
+                          VPOS="3763"
+                          HPOS="462"
+                          CONTENT="retirarsi dell'acque sula belletta infangati furono trovati da Marco Fostolo pastore, et dati ad'"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="474,3926 594,3930 715,3934 835,3936 956,3938 1077,3940 1197,3940 1318,3940 1438,3940 1559,3938 1680,3938 1800,3936 1921,3935 2041,3934 2162,3932 2283,3932 2403,3932 2524,3932 2644,3932 2765,3933 2886,3936"
+                         HEIGHT="81"
+                         WIDTH="2412"
+                         VPOS="3881"
+                         HPOS="474">
+                  <String ID="string_r1l36"
+                          HEIGHT="81"
+                          WIDTH="2412"
+                          VPOS="3881"
+                          HPOS="474"
+                          CONTENT="Acca Larentia sua mogliere à nudricare. Altri dicono che una lupa, che poco prima havea partorito"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="454,4024 576,4032 699,4038 821,4044 944,4048 1066,4052 1189,4054 1311,4056 1434,4058 1556,4058 1679,4058 1801,4058 1924,4058 2046,4058 2169,4058 2291,4058 2414,4060 2536,4060 2659,4062 2781,4066 2904,4068"
+                         HEIGHT="111"
+                         WIDTH="2450"
+                         VPOS="3979"
+                         HPOS="454">
+                  <String ID="string_r1l37"
+                          HEIGHT="111"
+                          WIDTH="2450"
+                          VPOS="3979"
+                          HPOS="454"
+                          CONTENT="gli diede ancho il latte. Altri fingono questa lupo essere Accalarentia, che accommodava la sua perso"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="462,4120 583,4129 705,4138 826,4144 948,4149 1069,4154 1191,4158 1312,4160 1434,4162 1555,4162 1677,4164 1798,4164 1920,4164 2041,4164 2163,4164 2284,4164 2406,4164 2527,4164 2649,4166 2770,4168 2892,4170"
+                         HEIGHT="116"
+                         WIDTH="2430"
+                         VPOS="4076"
+                         HPOS="462">
+                  <String ID="string_r1l38"
+                          HEIGHT="116"
+                          WIDTH="2430"
+                          VPOS="4076"
+                          HPOS="462"
+                          CONTENT="na a i pastori, onde ne fu detta lupa, per che cosi chiamavano nella lingua opica latina la concu"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="462,4226 582,4230 702,4235 823,4238 943,4241 1064,4244 1184,4246 1304,4248 1425,4250 1545,4252 1666,4252 1786,4254 1906,4256 2027,4257 2147,4258 2268,4260 2388,4262 2508,4264 2629,4268 2749,4270 2870,4274"
+                         HEIGHT="112"
+                         WIDTH="2408"
+                         VPOS="4183"
+                         HPOS="462">
+                  <String ID="string_r1l39"
+                          HEIGHT="112"
+                          WIDTH="2408"
+                          VPOS="4183"
+                          HPOS="462"
+                          CONTENT="bina. Referiscono anchora che quei Pastori, che viddero la lupa darle le poppe e nettarle conla"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="454,4312 573,4318 693,4323 812,4328 932,4332 1052,4338 1171,4342 1291,4345 1410,4348 1530,4352 1650,4354 1769,4358 1889,4360 2008,4362 2128,4364 2248,4366 2367,4368 2487,4368 2606,4370 2726,4370 2846,4372"
+                         HEIGHT="123"
+                         WIDTH="2392"
+                         VPOS="4270"
+                         HPOS="454">
+                  <String ID="string_r1l40"
+                          HEIGHT="123"
+                          WIDTH="2392"
+                          VPOS="4270"
+                          HPOS="454"
+                          CONTENT="lingua il fango, et abbracciarli, parve loro cosa divina, li presero come figliuoli di qualche Genio"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="454,4400 573,4408 692,4413 812,4419 931,4422 1051,4427 1170,4430 1289,4434 1409,4436 1528,4439 1648,4441 1767,4444 1886,4445 2006,4448 2125,4449 2245,4450 2364,4452 2483,4454 2603,4456 2722,4460 2842,4462"
+                         HEIGHT="125"
+                         WIDTH="2388"
+                         VPOS="4358"
+                         HPOS="454">
+                  <String ID="string_r1l41"
+                          HEIGHT="125"
+                          WIDTH="2388"
+                          VPOS="4358"
+                          HPOS="454"
+                          CONTENT="Havendo dato il grido alla lupa, quella senza timor mostrando pian piano si parti dall'impituosa"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

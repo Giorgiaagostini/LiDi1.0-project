@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:42.405+01:00</Created>
+        <LastChange>2024-06-25T19:34:19.397+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903062" pageNr="185" tsid="174128178" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=MBSYRCMCLKALQGNVBPNINKOO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XZHRCYHKMHMCLISFGVHMYSAE" imageId="17874053"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_093a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337519060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1650469571725_1806"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1650469587839_1817"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1650469600365_1829"/>
+                <RegionRefIndexed index="3" regionRef="region_1650469614970_1842"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1650469639734_1856"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1650469639734_1855"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1650469638265_1851"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1650469571725_1806" custom="readingOrder {index:0;}">
+            <Coords points="992,170 3620,209 3620,2262 1011,2262"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2006,267 2032,267 2058,269 2084,269 2110,271 2136,271 2162,271 2188,272 2215,273 2241,273 2267,273 2293,275 2319,275 2345,275 2371,275 2398,275 2398,217 2371,217 2345,217 2319,217 2293,217 2267,215 2241,215 2215,215 2188,214 2162,213 2136,213 2110,213 2084,211 2058,211 2032,209 2006,209"/>
+                <Baseline points="2006,248 2032,248 2058,250 2084,250 2110,252 2136,252 2162,252 2188,253 2215,254 2241,254 2267,254 2293,256 2319,256 2345,256 2371,256 2398,256"/>
+                <TextEquiv>
+                    <Unicode>DI ROMA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1036,385 1152,387 1268,390 1385,393 1501,396 1618,399 1734,403 1850,407 1967,411 2083,415 2200,419 2316,422 2432,426 2549,429 2665,433 2782,437 2898,441 3014,445 3131,449 3247,453 3364,457 3364,399 3247,395 3131,391 3014,387 2898,383 2782,379 2665,375 2549,371 2432,368 2316,364 2200,361 2083,357 1967,353 1850,349 1734,345 1618,341 1501,338 1385,335 1268,332 1152,329 1036,327"/>
+                <Baseline points="1015,377 1152,368 1268,371 1385,374 1501,377 1618,380 1734,384 1850,388 1967,392 2083,396 2200,400 2316,403 2432,407 2549,410 2665,414 2782,418 2898,422 3014,426 3131,430 3247,434 3377,439"/>
+                <TextEquiv>
+                    <Unicode>Cavandosi nel Bagno Daphnide, nella quarta Regione dela citta intitulata Templum pacis, nel lato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1096,473 1210,481 1324,486 1438,492 1552,497 1667,502 1781,507 1895,510 2009,514 2123,517 2238,521 2352,525 2466,529 2580,533 2694,537 2809,542 2923,547 3037,553 3151,558 3265,567 3380,573 3380,515 3265,509 3151,500 3037,495 2923,489 2809,484 2694,479 2580,475 2466,471 2352,467 2238,463 2123,459 2009,456 1895,452 1781,449 1667,444 1552,439 1438,434 1324,428 1210,423 1096,415"/>
+                <Baseline points="1096,454 1210,462 1324,467 1438,473 1552,478 1667,483 1781,488 1895,491 2009,495 2123,498 2238,502 2352,506 2466,510 2580,514 2694,518 2809,523 2923,528 3037,534 3151,539 3265,548 3380,554"/>
+                <TextEquiv>
+                    <Unicode>chel Foro palladio Transitorio ò di Nerva, verso mezzo giorno, furono trovate molte reliquie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1102,587 1217,593 1332,598 1447,603 1562,607 1677,612 1792,615 1907,619 2022,623 2137,627 2252,631 2367,635 2482,638 2597,643 2712,646 2827,651 2942,656 3057,662 3172,669 3287,675 3402,683 3402,625 3287,617 3172,611 3057,604 2942,598 2827,593 2712,588 2597,585 2482,580 2367,577 2252,573 2137,569 2022,565 1907,561 1792,557 1677,554 1562,549 1447,545 1332,540 1217,535 1102,529"/>
+                <Baseline points="1102,568 1217,574 1332,579 1447,584 1562,588 1677,593 1792,596 1907,600 2022,604 2137,608 2252,612 2367,616 2482,619 2597,624 2712,627 2827,632 2942,637 3057,643 3172,650 3287,656 3402,664"/>
+                <TextEquiv>
+                    <Unicode>di ornamenti antichi, fra li quali viera un bellissimo Torso di un Giovanetto di molta dilicatura,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1104,681 1219,688 1335,694 1450,700 1566,705 1682,710 1797,715 1913,719 2028,723 2144,727 2260,731 2375,735 2491,741 2606,744 2722,750 2838,755 2953,761 3069,769 3184,776 3300,784 3416,793 3416,735 3300,726 3184,718 3069,711 2953,703 2838,697 2722,692 2606,686 2491,683 2375,677 2260,673 2144,669 2028,665 1913,661 1797,657 1682,652 1566,647 1450,642 1335,636 1219,630 1104,623"/>
+                <Baseline points="1104,662 1219,669 1335,675 1450,681 1566,686 1682,691 1797,696 1913,700 2028,704 2144,708 2260,712 2375,716 2491,722 2606,725 2722,731 2838,736 2953,742 3069,750 3184,757 3300,765 3433,777"/>
+                <TextEquiv>
+                    <Unicode>preso da un'Aquila, lo quale secondo le parole ch'erano scritte nella sua base come è qui sotto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1096,795 1210,802 1325,809 1440,813 1554,817 1669,821 1784,823 1898,826 2013,829 2128,831 2243,833 2357,836 2472,839 2587,843 2701,848 2816,854 2931,861 3045,869 3160,879 3275,891 3390,903 3390,845 3275,833 3160,821 3045,811 2931,803 2816,796 2701,790 2587,785 2472,781 2357,778 2243,775 2128,773 2013,771 1898,768 1784,765 1669,763 1554,759 1440,755 1325,751 1210,744 1096,737"/>
+                <Baseline points="1096,776 1210,783 1325,790 1440,794 1554,798 1669,802 1784,804 1898,807 2013,810 2128,812 2243,814 2357,817 2472,820 2587,824 2701,829 2816,835 2931,842 3045,850 3160,860 3275,872 3390,884"/>
+                <TextEquiv>
+                    <Unicode>posto fu il Ganimede opera di Leocharo Atheniese scultore eccellentissimo. Ora perche Gani,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1102,903 1218,909 1335,913 1451,917 1568,921 1685,923 1801,926 1918,927 2034,930 2151,931 2268,935 2384,937 2501,939 2617,943 2734,947 2851,952 2967,958 3084,965 3200,975 3317,984 3434,995 3434,937 3317,926 3200,917 3084,907 2967,900 2851,894 2734,889 2617,885 2501,881 2384,879 2268,877 2151,873 2034,872 1918,869 1801,868 1685,865 1568,863 1451,859 1335,855 1218,851 1102,845"/>
+                <Baseline points="1102,884 1218,890 1335,894 1451,898 1568,902 1685,904 1801,907 1918,908 2034,911 2151,912 2268,916 2384,918 2501,920 2617,924 2734,928 2851,933 2967,939 3084,946 3200,956 3317,965 3434,976"/>
+                <TextEquiv>
+                    <Unicode>mede sia stato sculpito come fusse stato rapito da Iove in forma di Aquila trasformato, ci dimostra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1106,997 1220,1001 1334,1005 1448,1009 1562,1012 1676,1015 1790,1019 1904,1023 2018,1025 2132,1029 2246,1033 2360,1037 2474,1042 2588,1047 2702,1051 2816,1057 2930,1063 3044,1068 3158,1076 3272,1083 3386,1093 3386,1035 3272,1025 3158,1018 3044,1010 2930,1005 2816,999 2702,993 2588,989 2474,984 2360,979 2246,975 2132,971 2018,967 1904,965 1790,961 1676,957 1562,954 1448,951 1334,947 1220,943 1106,939"/>
+                <Baseline points="1106,978 1220,982 1334,986 1448,990 1562,993 1676,996 1790,1000 1904,1004 2018,1006 2132,1010 2246,1014 2360,1018 2474,1023 2588,1028 2702,1032 2816,1038 2930,1044 3044,1049 3158,1057 3272,1064 3386,1074"/>
+                <TextEquiv>
+                    <Unicode>cio, come cosa poetica ritrovato per farlo immortale. Costui dicono Fu figliuolo di Troilo, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1094,1097 1208,1102 1323,1107 1438,1111 1553,1115 1668,1117 1783,1119 1898,1122 2013,1125 2128,1127 2243,1129 2357,1131 2472,1133 2587,1137 2702,1141 2817,1145 2932,1151 3047,1159 3162,1166 3277,1174 3392,1185 3392,1127 3277,1116 3162,1108 3047,1101 2932,1093 2817,1087 2702,1083 2587,1079 2472,1075 2357,1073 2243,1071 2128,1069 2013,1067 1898,1064 1783,1061 1668,1059 1553,1057 1438,1053 1323,1049 1208,1044 1094,1039"/>
+                <Baseline points="1094,1078 1208,1083 1323,1088 1438,1092 1553,1096 1668,1098 1783,1100 1898,1103 2013,1106 2128,1108 2243,1110 2357,1112 2472,1114 2587,1118 2702,1122 2817,1126 2932,1132 3047,1140 3162,1147 3277,1155 3392,1166"/>
+                <TextEquiv>
+                    <Unicode>Giovanetto fortissimo. et di singular bellezza, lo quale mentre andava cacciando conli cani sul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1078,1199 1193,1202 1309,1205 1425,1207 1540,1209 1656,1212 1772,1215 1887,1217 2003,1221 2119,1224 2235,1227 2350,1231 2466,1235 2582,1241 2697,1247 2813,1253 2929,1259 3044,1266 3160,1274 3276,1284 3392,1293 3392,1235 3276,1226 3160,1216 3044,1208 2929,1201 2813,1195 2697,1189 2582,1183 2466,1177 2350,1173 2235,1169 2119,1166 2003,1163 1887,1159 1772,1157 1656,1154 1540,1151 1425,1149 1309,1147 1193,1144 1078,1141"/>
+                <Baseline points="1078,1180 1193,1183 1309,1186 1425,1188 1540,1190 1656,1193 1772,1196 1887,1198 2003,1202 2119,1205 2235,1208 2350,1212 2466,1216 2582,1222 2697,1228 2813,1234 2929,1240 3044,1247 3160,1255 3276,1265 3392,1274"/>
+                <TextEquiv>
+                    <Unicode>Monte Ida dela phrigia fu rapito da Iove informa d'Aquila, et fattolo incielo suo coppiere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1094,1299 1209,1303 1324,1307 1439,1309 1554,1312 1669,1315 1784,1317 1899,1320 2014,1323 2129,1327 2244,1330 2359,1334 2474,1339 2589,1344 2704,1350 2819,1357 2934,1365 3049,1375 3164,1384 3279,1395 3394,1409 3394,1351 3279,1337 3164,1326 3049,1317 2934,1307 2819,1299 2704,1292 2589,1286 2474,1281 2359,1276 2244,1272 2129,1269 2014,1265 1899,1262 1784,1259 1669,1257 1554,1254 1439,1251 1324,1249 1209,1245 1094,1241"/>
+                <Baseline points="1094,1280 1209,1284 1324,1288 1439,1290 1554,1293 1669,1296 1784,1298 1899,1301 2014,1304 2129,1308 2244,1311 2359,1315 2474,1320 2589,1325 2704,1331 2819,1338 2934,1346 3049,1356 3164,1365 3279,1376 3394,1390"/>
+                <TextEquiv>
+                    <Unicode>et ministro del bere: et questo è secondo i poeti come particolarmente il dice Ovidio nelle trasmu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="1080,1391 1196,1396 1313,1399 1430,1403 1547,1407 1664,1410 1781,1413 1898,1417 2015,1421 2132,1423 2249,1427 2365,1432 2482,1437 2599,1441 2716,1447 2833,1453 2950,1459 3067,1467 3184,1475 3301,1484 3418,1495 3418,1437 3301,1426 3184,1417 3067,1409 2950,1401 2833,1395 2716,1389 2599,1383 2482,1379 2365,1374 2249,1369 2132,1365 2015,1363 1898,1359 1781,1355 1664,1352 1547,1349 1430,1345 1313,1341 1196,1338 1080,1333"/>
+                <Baseline points="1080,1372 1196,1377 1313,1380 1430,1384 1547,1388 1664,1391 1781,1394 1898,1398 2015,1402 2132,1404 2249,1408 2365,1413 2482,1418 2599,1422 2716,1428 2833,1434 2950,1440 3067,1448 3184,1456 3301,1465 3418,1476"/>
+                <TextEquiv>
+                    <Unicode>tationi. et gli Astrologi lo poneno trale sydera et lo chiamano Aquario, uno deli segni del celeste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1086,1485 1201,1492 1317,1500 1433,1506 1549,1511 1665,1515 1780,1519 1896,1523 2012,1525 2128,1529 2244,1532 2359,1535 2475,1539 2591,1543 2707,1547 2823,1552 2938,1557 3054,1565 3170,1574 3286,1583 3402,1595 3402,1537 3286,1525 3170,1516 3054,1507 2938,1499 2823,1494 2707,1489 2591,1485 2475,1481 2359,1477 2244,1474 2128,1471 2012,1467 1896,1465 1780,1461 1665,1457 1549,1453 1433,1448 1317,1442 1201,1434 1086,1427"/>
+                <Baseline points="1086,1466 1201,1473 1317,1481 1433,1487 1549,1492 1665,1496 1780,1500 1896,1504 2012,1506 2128,1510 2244,1513 2359,1516 2475,1520 2591,1524 2707,1528 2823,1533 2938,1538 3054,1546 3170,1555 3286,1564 3402,1576"/>
+                <TextEquiv>
+                    <Unicode>Zodiaco, come dice Hygino, di cui anchora favola Virgilio nel primo dell'Aeneide: et per que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1082,1585 1197,1592 1312,1599 1427,1603 1542,1608 1657,1612 1772,1615 1887,1619 2002,1622 2117,1625 2233,1627 2348,1631 2463,1635 2578,1639 2693,1643 2808,1647 2923,1653 3038,1661 3153,1669 3268,1679 3384,1689 3384,1631 3268,1621 3153,1611 3038,1603 2923,1595 2808,1589 2693,1585 2578,1581 2463,1577 2348,1573 2233,1569 2117,1567 2002,1564 1887,1561 1772,1557 1657,1554 1542,1550 1427,1545 1312,1541 1197,1534 1082,1527"/>
+                <Baseline points="1082,1566 1197,1573 1312,1580 1427,1584 1542,1589 1657,1593 1772,1596 1887,1600 2002,1603 2117,1606 2233,1608 2348,1612 2463,1616 2578,1620 2693,1624 2808,1628 2923,1634 3038,1642 3153,1650 3268,1660 3401,1675"/>
+                <TextEquiv>
+                    <Unicode>sto ratto Iunone hebbe inodio i Troiani et favoriva i Greci nell'assedio d'Ilio. Ma nel vero tutto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1092,1699 1208,1703 1324,1706 1441,1709 1557,1711 1674,1713 1790,1716 1906,1718 2023,1721 2139,1723 2256,1725 2372,1727 2488,1729 2605,1733 2721,1735 2838,1739 2954,1744 3070,1749 3187,1754 3303,1761 3420,1769 3420,1711 3303,1703 3187,1696 3070,1691 2954,1686 2838,1681 2721,1677 2605,1675 2488,1671 2372,1669 2256,1667 2139,1665 2023,1663 1906,1660 1790,1658 1674,1655 1557,1653 1441,1651 1324,1648 1208,1645 1092,1641"/>
+                <Baseline points="1092,1680 1208,1684 1324,1687 1441,1690 1557,1692 1674,1694 1790,1697 1906,1699 2023,1702 2139,1704 2256,1706 2372,1708 2488,1710 2605,1714 2721,1716 2838,1720 2954,1725 3070,1730 3187,1735 3303,1742 3420,1750"/>
+                <TextEquiv>
+                    <Unicode>questo è Favola: percio che la verita come scrive Herodiano è che Ganimede combattendo con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1108,1793 1222,1797 1336,1801 1450,1805 1564,1808 1678,1811 1792,1813 1906,1816 2020,1819 2134,1821 2249,1823 2363,1825 2477,1829 2591,1831 2705,1834 2819,1838 2933,1841 3047,1846 3161,1849 3275,1855 3390,1861 3390,1803 3275,1797 3161,1791 3047,1788 2933,1783 2819,1780 2705,1776 2591,1773 2477,1771 2363,1767 2249,1765 2134,1763 2020,1761 1906,1758 1792,1755 1678,1753 1564,1750 1450,1747 1336,1743 1222,1739 1108,1735"/>
+                <Baseline points="1101,1777 1222,1778 1336,1782 1450,1786 1564,1789 1678,1792 1792,1794 1906,1797 2020,1800 2134,1802 2249,1804 2363,1806 2477,1810 2591,1812 2705,1815 2819,1819 2933,1822 3047,1827 3161,1830 3275,1836 3390,1842"/>
+                <TextEquiv>
+                    <Unicode>tra Hylo anchor'esso giovanetto per causa di confini, tenendo Ganymede la parte dell'lliesi, et Hy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1094,1895 1208,1897 1322,1899 1436,1901 1550,1903 1665,1905 1779,1907 1893,1909 2007,1911 2121,1913 2236,1915 2350,1917 2464,1920 2578,1923 2692,1925 2807,1929 2921,1933 3035,1936 3149,1941 3263,1945 3378,1949 3378,1891 3263,1887 3149,1883 3035,1878 2921,1875 2807,1871 2692,1867 2578,1865 2464,1862 2350,1859 2236,1857 2121,1855 2007,1853 1893,1851 1779,1849 1665,1847 1550,1845 1436,1843 1322,1841 1208,1839 1094,1837"/>
+                <Baseline points="1094,1876 1208,1878 1322,1880 1436,1882 1550,1884 1665,1886 1779,1888 1893,1890 2007,1892 2121,1894 2236,1896 2350,1898 2464,1901 2578,1904 2692,1906 2807,1910 2921,1914 3035,1917 3149,1922 3263,1926 3378,1930"/>
+                <TextEquiv>
+                    <Unicode>lo quella deli phrygijdli Lydia; fu ucciso Ganymede nelluogo chiamato Pesinonte, dal cadere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="1102,1993 1217,1995 1333,1998 1448,2001 1564,2004 1679,2007 1795,2011 1910,2013 2026,2017 2141,2019 2257,2023 2372,2027 2488,2031 2603,2034 2719,2037 2834,2041 2950,2045 3065,2049 3181,2051 3296,2055 3412,2059 3412,2001 3296,1997 3181,1993 3065,1991 2950,1987 2834,1983 2719,1979 2603,1976 2488,1973 2372,1969 2257,1965 2141,1961 2026,1959 1910,1955 1795,1953 1679,1949 1564,1946 1448,1943 1333,1940 1217,1937 1102,1935"/>
+                <Baseline points="1102,1974 1217,1976 1333,1979 1448,1982 1564,1985 1679,1988 1795,1992 1910,1994 2026,1998 2141,2000 2257,2004 2372,2008 2488,2012 2603,2015 2719,2018 2834,2022 2950,2026 3065,2030 3181,2032 3296,2036 3412,2040"/>
+                <TextEquiv>
+                    <Unicode>morti quivi molti. Cosi sendo quivi sepolto: per consolare i parenti fu detto essere stato fura¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="1100,2093 1214,2095 1329,2099 1444,2101 1559,2103 1674,2103 1788,2105 1903,2107 2018,2109 2133,2111 2248,2113 2362,2115 2477,2117 2592,2121 2707,2123 2822,2126 2936,2130 3051,2133 3166,2138 3281,2143 3396,2149 3396,2091 3281,2085 3166,2080 3051,2075 2936,2072 2822,2068 2707,2065 2592,2063 2477,2059 2362,2057 2248,2055 2133,2053 2018,2051 1903,2049 1788,2047 1674,2045 1559,2045 1444,2043 1329,2041 1214,2037 1100,2035"/>
+                <Baseline points="1100,2074 1214,2076 1329,2080 1444,2082 1559,2084 1674,2084 1788,2086 1903,2088 2018,2090 2133,2092 2248,2094 2362,2096 2477,2098 2592,2102 2707,2104 2822,2107 2936,2111 3051,2114 3166,2119 3281,2124 3396,2130"/>
+                <TextEquiv>
+                    <Unicode>to da Iove nella caccia: et questa è la causa che fu sculpito afferrato dall'Aquila, ucello</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="1126,2197 1180,2197 1234,2199 1288,2199 1342,2199 1396,2201 1450,2201 1504,2203 1558,2203 1612,2205 1666,2205 1720,2207 1774,2207 1828,2209 1882,2209 1936,2211 1990,2211 2044,2213 2098,2213 2152,2215 2206,2215 2206,2157 2152,2157 2098,2155 2044,2155 1990,2153 1936,2153 1882,2151 1828,2151 1774,2149 1720,2149 1666,2147 1612,2147 1558,2145 1504,2145 1450,2143 1396,2143 1342,2141 1288,2141 1234,2141 1180,2139 1126,2139"/>
+                <Baseline points="1107,2174 1180,2178 1234,2180 1288,2180 1342,2180 1396,2182 1450,2182 1504,2184 1558,2184 1612,2186 1666,2186 1720,2188 1774,2188 1828,2190 1882,2190 1936,2192 1990,2192 2044,2194 2098,2194 2152,2196 2206,2196"/>
+                <TextEquiv>
+                    <Unicode>per significato dell'anima assunta in cielo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DI ROMA
+Cavandosi nel Bagno Daphnide, nella quarta Regione dela citta intitulata Templum pacis, nel lato
+chel Foro palladio Transitorio ò di Nerva, verso mezzo giorno, furono trovate molte reliquie
+di ornamenti antichi, fra li quali viera un bellissimo Torso di un Giovanetto di molta dilicatura,
+preso da un'Aquila, lo quale secondo le parole ch'erano scritte nella sua base come è qui sotto
+posto fu il Ganimede opera di Leocharo Atheniese scultore eccellentissimo. Ora perche Gani,
+mede sia stato sculpito come fusse stato rapito da Iove in forma di Aquila trasformato, ci dimostra
+cio, come cosa poetica ritrovato per farlo immortale. Costui dicono Fu figliuolo di Troilo, et
+Giovanetto fortissimo. et di singular bellezza, lo quale mentre andava cacciando conli cani sul
+Monte Ida dela phrigia fu rapito da Iove informa d'Aquila, et fattolo incielo suo coppiere
+et ministro del bere: et questo è secondo i poeti come particolarmente il dice Ovidio nelle trasmu¬
+tationi. et gli Astrologi lo poneno trale sydera et lo chiamano Aquario, uno deli segni del celeste
+Zodiaco, come dice Hygino, di cui anchora favola Virgilio nel primo dell'Aeneide: et per que
+sto ratto Iunone hebbe inodio i Troiani et favoriva i Greci nell'assedio d'Ilio. Ma nel vero tutto
+questo è Favola: percio che la verita come scrive Herodiano è che Ganimede combattendo con
+tra Hylo anchor'esso giovanetto per causa di confini, tenendo Ganymede la parte dell'lliesi, et Hy
+lo quella deli phrygijdli Lydia; fu ucciso Ganymede nelluogo chiamato Pesinonte, dal cadere
+morti quivi molti. Cosi sendo quivi sepolto: per consolare i parenti fu detto essere stato fura¬
+to da Iove nella caccia: et questa è la causa che fu sculpito afferrato dall'Aquila, ucello
+per significato dell'anima assunta in cielo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650469587839_1817" custom="readingOrder {index:1;}">
+            <Coords points="1011,2262 2193,2262 2193,3005 1017,3005"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;} Greek {offset:0; length:10; continued:true;}">
+                <Coords points="1190,2605 1233,2606 1277,2608 1320,2610 1364,2611 1408,2611 1451,2613 1495,2613 1538,2613 1582,2613 1626,2615 1669,2615 1713,2615 1756,2615 1800,2617 1844,2617 1887,2619 1931,2619 1974,2622 2018,2624 2062,2627 2062,2569 2018,2566 1974,2564 1931,2561 1887,2561 1844,2559 1800,2559 1756,2557 1713,2557 1669,2557 1626,2557 1582,2555 1538,2555 1495,2555 1451,2555 1408,2553 1364,2553 1320,2552 1277,2550 1233,2548 1190,2547"/>
+                <Baseline points="1190,2586 1233,2587 1277,2589 1320,2591 1364,2592 1408,2592 1451,2594 1495,2594 1538,2594 1582,2594 1626,2596 1669,2596 1713,2596 1756,2596 1800,2598 1844,2598 1887,2600 1931,2600 1974,2603 2018,2605 2062,2608"/>
+                <TextEquiv>
+                    <Unicode>ΓΑΝΥ ΜΗΔΗϹ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;} Greek {offset:0; length:9; continued:true;}">
+                <Coords points="1174,2769 1217,2773 1260,2774 1304,2777 1347,2779 1391,2779 1434,2779 1477,2781 1521,2779 1564,2779 1608,2779 1651,2779 1694,2777 1738,2777 1781,2775 1825,2775 1868,2775 1911,2775 1955,2775 1998,2775 2042,2777 2042,2719 1998,2717 1955,2717 1911,2717 1868,2717 1825,2717 1781,2717 1738,2719 1694,2719 1651,2721 1608,2721 1564,2721 1521,2721 1477,2723 1434,2721 1391,2721 1347,2721 1304,2719 1260,2716 1217,2715 1174,2711"/>
+                <Baseline points="1184,2753 1227,2757 1270,2758 1314,2761 1357,2763 1401,2763 1444,2763 1487,2765 1531,2763 1574,2763 1618,2763 1661,2763 1704,2761 1748,2761 1791,2759 1835,2759 1878,2759 1921,2759 1965,2759 2008,2759 2052,2761"/>
+                <TextEquiv>
+                    <Unicode>ΛΕωΧΑΡΟΥϹ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:2;} Greek {offset:0; length:8; continued:true;}">
+                <Coords points="1204,2965 1242,2967 1281,2968 1320,2969 1359,2970 1398,2971 1437,2972 1476,2973 1515,2973 1554,2973 1593,2975 1631,2975 1670,2973 1709,2973 1748,2973 1787,2971 1826,2970 1865,2969 1904,2965 1943,2963 1982,2961 1982,2903 1943,2905 1904,2907 1865,2911 1826,2912 1787,2913 1748,2915 1709,2915 1670,2915 1631,2917 1593,2917 1554,2915 1515,2915 1476,2915 1437,2914 1398,2913 1359,2912 1320,2911 1281,2910 1242,2909 1204,2907"/>
+                <Baseline points="1204,2946 1242,2948 1281,2949 1320,2950 1359,2951 1398,2952 1437,2953 1476,2954 1515,2954 1554,2954 1593,2956 1631,2956 1670,2954 1709,2954 1748,2954 1787,2952 1826,2951 1866,2954 1905,2950 1947,2953 1997,2957"/>
+                <TextEquiv>
+                    <Unicode>ΑΘΗΝΑΙΟΥ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ΓΑΝΥ ΜΗΔΗϹ
+ΛΕωΧΑΡΟΥϹ
+ΑΘΗΝΑΙΟΥ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650469600365_1829" custom="readingOrder {index:2;}">
+            <Coords points="1021,3469 1731,3469 1731,3787 1024,3787"/>
+            <TextLine id="r1l31" custom="readingOrder {index:0;}">
+                <Coords points="1332,3597 1358,3605 1384,3607 1410,3607 1437,3605 1463,3606 1489,3609 1516,3617 1516,3559 1489,3551 1463,3548 1437,3547 1410,3549 1384,3549 1358,3547 1332,3539"/>
+                <Baseline points="1332,3594 1359,3592 1385,3594 1411,3594 1438,3592 1464,3593 1503,3615 1541,3614"/>
+                <TextEquiv>
+                    <Unicode>Pal: 3 ¾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pal: 3 ¾</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1650469614970_1842" custom="readingOrder {index:3;}">
+            <Coords points="2035,3278 2148,3278 2148,3582 2035,3582"/>
+            <TextLine id="line_1650469622057_1845" custom="readingOrder {index:0;}">
+                <Coords points="2079,3508 2082,3290 2132,3291 2129,3509"/>
+                <Baseline points="2124,3509 2127,3291"/>
+                <TextEquiv>
+                    <Unicode>Pal: 6÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pal: 6÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650469639734_1856" custom="readingOrder {index:4;}">
+            <Coords points="2188,2991 3660,2986 3667,3834 2188,3840"/>
+            <TextLine id="line_1650469581420_1813" custom="readingOrder {index:0;}">
+                <Coords points="2193,3135 2334,3135 2405,3133 3188,3133 3260,3131 3544,3131 3616,3129 3616,3187 3544,3189 3260,3189 3188,3191 2405,3191 2334,3193 2193,3193"/>
+                <Baseline points="2193,3174 2263,3174 2334,3174 2405,3172 2476,3172 2548,3172 2619,3172 2690,3172 2761,3172 2832,3172 2904,3172 2975,3172 3046,3172 3117,3172 3188,3172 3260,3170 3331,3170 3402,3170 3473,3170 3544,3170 3616,3168"/>
+                <TextEquiv>
+                    <Unicode>Al fonte di Trievi in casa di Monsignore Agnelo Colotio si trova raccolta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:1;}">
+                <Coords points="2264,3281 2330,3280 2397,3279 2463,3277 2530,3276 2597,3275 2663,3274 2730,3273 2796,3273 2863,3271 2930,3271 2996,3271 3063,3271 3129,3271 3196,3269 3262,3269 3329,3269 3396,3269 3462,3268 3529,3267 3596,3267 3596,3209 3529,3209 3462,3210 3396,3211 3329,3211 3262,3211 3196,3211 3129,3213 3063,3213 2996,3213 2930,3213 2863,3213 2796,3215 2730,3215 2663,3216 2597,3217 2530,3218 2463,3219 2397,3221 2330,3222 2264,3223"/>
+                <Baseline points="2264,3262 2330,3261 2397,3260 2463,3258 2530,3257 2597,3256 2663,3255 2730,3254 2796,3254 2863,3252 2930,3252 2996,3252 3063,3252 3129,3252 3196,3250 3262,3250 3329,3250 3396,3250 3462,3249 3529,3248 3596,3248"/>
+                <TextEquiv>
+                    <Unicode>questa sottoscritta memoria: ove è sculpito il simulachro di un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:2;} unclear {offset:45; length:8;}">
+                <Coords points="2256,3361 2322,3359 2388,3356 2454,3354 2520,3353 2587,3351 2653,3349 2719,3349 2785,3349 2851,3349 2918,3349 2984,3349 3050,3349 3116,3349 3182,3349 3249,3347 3315,3347 3381,3347 3447,3347 3513,3345 3580,3343 3580,3291 3513,3293 3447,3295 3381,3295 3315,3295 3249,3295 3182,3297 3116,3297 3050,3297 2984,3297 2918,3297 2851,3297 2785,3297 2719,3297 2653,3297 2587,3299 2520,3301 2454,3302 2388,3304 2322,3307 2256,3309"/>
+                <Baseline points="2256,3344 2322,3342 2388,3339 2454,3337 2520,3336 2587,3334 2653,3332 2719,3332 2785,3332 2851,3332 2918,3332 2984,3332 3050,3332 3116,3332 3182,3332 3249,3330 3315,3330 3381,3330 3447,3330 3513,3328 3580,3326"/>
+                <TextEquiv>
+                    <Unicode>giovane, che la le mani et ele punte depiedi troncati, il che non è per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:3;}">
+                <Coords points="2256,3435 2324,3431 2392,3427 2460,3423 2528,3421 2596,3419 2664,3417 2732,3415 2800,3413 2868,3413 2936,3413 3004,3411 3072,3411 3140,3412 3208,3413 3276,3413 3344,3413 3412,3415 3480,3415 3548,3417 3616,3419 3616,3373 3548,3371 3480,3369 3412,3369 3344,3367 3276,3367 3208,3367 3140,3366 3072,3365 3004,3365 2936,3367 2868,3367 2800,3367 2732,3369 2664,3371 2596,3373 2528,3375 2460,3377 2392,3381 2324,3385 2256,3389"/>
+                <Baseline points="2256,3420 2324,3416 2392,3412 2460,3408 2528,3406 2596,3404 2664,3402 2732,3400 2800,3398 2868,3398 2936,3398 3004,3396 3072,3396 3140,3397 3208,3398 3276,3398 3344,3398 3412,3400 3480,3400 3548,3402 3616,3404"/>
+                <TextEquiv>
+                    <Unicode>difetto di rottura del marmo, ma fatti apposta cosi sulletto giacente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:4;}">
+                <Coords points="2266,3497 2333,3497 2401,3495 2468,3495 2536,3493 2603,3491 2671,3489 2738,3487 2806,3485 2873,3483 2941,3481 3008,3479 3076,3477 3143,3477 3211,3475 3278,3475 3346,3475 3413,3477 3481,3478 3548,3481 3616,3485 3616,3439 3548,3435 3481,3432 3413,3431 3346,3429 3278,3429 3211,3429 3143,3431 3076,3431 3008,3433 2941,3435 2873,3437 2806,3439 2738,3441 2671,3443 2603,3445 2536,3447 2468,3449 2401,3449 2333,3451 2266,3451"/>
+                <Baseline points="2253,3486 2320,3486 2388,3484 2455,3484 2523,3482 2590,3480 2658,3478 2725,3476 2793,3474 2860,3472 2928,3470 2995,3468 3063,3466 3130,3466 3198,3464 3265,3464 3333,3464 3400,3466 3468,3467 3535,3470 3627,3474"/>
+                <TextEquiv>
+                    <Unicode>con quel Ramo d'Hellera pianta di Baccho. et nella sua inscrittione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:5;}">
+                <Coords points="2236,3567 2303,3569 2370,3571 2438,3573 2505,3573 2573,3573 2640,3573 2707,3572 2775,3571 2842,3569 2910,3567 2977,3565 3044,3563 3112,3562 3179,3559 3247,3559 3314,3557 3381,3555 3449,3555 3516,3555 3584,3557 3584,3499 3516,3497 3449,3497 3381,3497 3314,3499 3247,3501 3179,3501 3112,3504 3044,3505 2977,3507 2910,3509 2842,3511 2775,3513 2707,3514 2640,3515 2573,3515 2505,3515 2438,3515 2370,3513 2303,3511 2236,3509"/>
+                <Baseline points="2236,3548 2303,3550 2370,3552 2438,3554 2505,3554 2573,3554 2640,3554 2707,3553 2775,3552 2842,3550 2910,3548 2977,3546 3044,3544 3112,3543 3179,3540 3247,3540 3314,3538 3381,3536 3449,3536 3516,3536 3584,3538"/>
+                <TextEquiv>
+                    <Unicode>non se fa menzione alcuna del storpio: Ma si bene dice che vi è se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:6;}">
+                <Coords points="2256,3650 2323,3650 2390,3650 2458,3650 2525,3650 2593,3648 2660,3648 2727,3648 2795,3648 2862,3648 2930,3646 2997,3646 3064,3646 3132,3644 3199,3644 3267,3643 3334,3642 3401,3640 3469,3638 3536,3637 3604,3634 3604,3579 3536,3582 3469,3583 3401,3585 3334,3587 3267,3588 3199,3589 3132,3589 3064,3591 2997,3591 2930,3591 2862,3593 2795,3593 2727,3593 2660,3593 2593,3593 2525,3595 2458,3595 2390,3595 2323,3595 2256,3595"/>
+                <Baseline points="2244,3631 2323,3632 2390,3632 2458,3632 2525,3632 2593,3630 2660,3630 2727,3630 2795,3630 2862,3630 2930,3628 2997,3628 3064,3628 3132,3626 3199,3626 3267,3625 3334,3624 3401,3622 3469,3620 3536,3619 3623,3619"/>
+                <TextEquiv>
+                    <Unicode>polto Petro Corvo, il quale fù gratiosissimo, bono ami, bone sententie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:7;}">
+                <Coords points="2264,3726 2331,3726 2399,3725 2467,3724 2535,3724 2603,3724 2670,3723 2738,3722 2806,3722 2874,3722 2942,3720 3009,3720 3077,3720 3145,3720 3213,3720 3281,3720 3348,3721 3416,3722 3484,3723 3552,3724 3620,3726 3620,3671 3552,3669 3484,3668 3416,3667 3348,3666 3281,3665 3213,3665 3145,3665 3077,3665 3009,3665 2942,3665 2874,3667 2806,3667 2738,3667 2670,3668 2603,3669 2535,3669 2467,3669 2399,3670 2331,3671 2264,3671"/>
+                <Baseline points="2264,3708 2331,3708 2399,3707 2467,3706 2535,3706 2603,3706 2670,3705 2738,3704 2806,3704 2874,3704 2942,3702 3009,3702 3077,3702 3145,3702 3213,3702 3281,3702 3348,3703 3416,3704 3484,3705 3552,3706 3620,3708"/>
+                <TextEquiv>
+                    <Unicode>simplice, et perla dotta causa il fratello le dedica l'Urna ò memo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:8;}">
+                <Coords points="2256,3802 2285,3802 2314,3802 2343,3802 2372,3802 2372,3747 2343,3747 2314,3747 2285,3747 2256,3747"/>
+                <Baseline points="2256,3784 2285,3784 2314,3784 2343,3784 2372,3784"/>
+                <TextEquiv>
+                    <Unicode>ria.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Al fonte di Trievi in casa di Monsignore Agnelo Colotio si trova raccolta
+questa sottoscritta memoria: ove è sculpito il simulachro di un
+giovane, che la le mani et ele punte depiedi troncati, il che non è per
+difetto di rottura del marmo, ma fatti apposta cosi sulletto giacente
+con quel Ramo d'Hellera pianta di Baccho. et nella sua inscrittione
+non se fa menzione alcuna del storpio: Ma si bene dice che vi è se
+polto Petro Corvo, il quale fù gratiosissimo, bono ami, bone sententie
+simplice, et perla dotta causa il fratello le dedica l'Urna ò memo¬
+ria.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650469639734_1855" custom="readingOrder {index:5;}">
+            <Coords points="2193,3830 3620,3830 3620,5030 2193,5030"/>
+            <TextLine id="line_1650469693705_1901" custom="readingOrder {index:0;} Greek {offset:0; length:16;}">
+                <Coords points="2459,4213 2472,4214 2523,4214 2574,4216 3035,4216 3086,4218 3138,4219 3163,4219 3163,4249 3138,4249 3086,4248 3035,4246 2574,4246 2523,4244 2472,4244 2459,4243"/>
+                <Baseline points="2468,4235 2481,4236 2532,4236 2583,4238 2635,4238 2686,4238 2737,4238 2788,4238 2839,4238 2891,4238 2942,4238 2993,4238 3044,4238 3095,4240 3147,4241 3172,4241"/>
+                <TextEquiv>
+                    <Unicode>ΓΕΜΙΝΑΝ•ΕΚΑΛΕϹΑΝ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:1;} Greek {offset:0; length:37; continued:true;} unclear {offset:15; length:4;}">
+                <Coords points="2294,4306 2349,4306 2404,4306 2459,4306 2514,4304 2570,4304 2625,4304 2680,4302 2735,4302 2790,4300 2846,4300 2901,4300 2956,4298 3011,4298 3066,4298 3122,4298 3177,4298 3232,4300 3287,4301 3342,4303 3398,4306 3398,4275 3342,4272 3287,4270 3232,4269 3177,4267 3122,4267 3066,4267 3011,4267 2956,4267 2901,4269 2846,4269 2790,4269 2735,4271 2680,4271 2625,4273 2570,4273 2514,4273 2459,4275 2404,4275 2349,4275 2294,4275"/>
+                <Baseline points="2289,4298 2344,4298 2399,4298 2454,4298 2509,4296 2565,4296 2620,4296 2675,4294 2730,4294 2785,4292 2841,4292 2896,4292 2951,4290 3006,4290 3061,4290 3117,4290 3172,4290 3227,4292 3282,4293 3337,4295 3426,4301"/>
+                <TextEquiv>
+                    <Unicode>ΕϹΧΕΙΔΕ•ΚΑΙ•ΑΛ•ΟΝΜΑ•ΧΑΡΙΕϹΤΑΤΟΝ•ΟΝΠΟΘ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:2;} Greek {offset:0; length:37; continued:true;}">
+                <Coords points="2292,4362 2348,4362 2405,4362 2461,4362 2518,4362 2575,4360 2631,4360 2688,4358 2744,4358 2801,4358 2858,4356 2914,4356 2971,4354 3027,4354 3084,4354 3141,4354 3197,4354 3254,4355 3310,4356 3367,4358 3424,4358 3424,4321 3367,4321 3310,4319 3254,4318 3197,4317 3141,4317 3084,4317 3027,4317 2971,4317 2914,4319 2858,4319 2801,4321 2744,4321 2688,4321 2631,4323 2575,4323 2518,4325 2461,4325 2405,4325 2348,4325 2292,4325"/>
+                <Baseline points="2292,4352 2348,4352 2405,4352 2461,4352 2518,4352 2575,4350 2631,4350 2688,4348 2744,4348 2801,4348 2858,4346 2914,4346 2971,4344 3027,4344 3084,4344 3141,4344 3197,4344 3254,4345 3310,4346 3367,4348 3424,4348"/>
+                <TextEquiv>
+                    <Unicode>ΕΤΑΙΡΟΙ•ΠΕΤΡΟΚΟΡΑΚΑ•ΝΕΚΗ•ΖΟΝΟΝ•ΤΑΧΥΒΡ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:3;} Greek {offset:0; length:38;} unclear {offset:17; length:14;}">
+                <Coords points="2300,4414 2355,4414 2411,4414 2466,4414 2522,4414 2578,4414 2633,4412 2689,4412 2744,4412 2800,4410 2856,4410 2911,4410 2967,4408 3022,4408 3078,4408 3134,4406 3189,4406 3245,4406 3300,4406 3356,4406 3412,4406 3412,4370 3356,4370 3300,4370 3245,4370 3189,4370 3134,4370 3078,4372 3022,4372 2967,4372 2911,4374 2856,4374 2800,4374 2744,4376 2689,4376 2633,4376 2578,4378 2522,4378 2466,4378 2411,4378 2355,4378 2300,4378"/>
+                <Baseline points="2292,4404 2347,4404 2403,4404 2458,4404 2514,4404 2570,4404 2625,4402 2681,4402 2736,4402 2792,4400 2848,4400 2903,4400 2959,4398 3014,4398 3070,4398 3126,4396 3181,4396 3237,4396 3292,4396 3348,4396 3404,4396"/>
+                <TextEquiv>
+                    <Unicode>ΟΤΟΝ•ΟϹΤΙϹ•ΤΟΙΑΝ ΕΚΤΗϹΑΤΟΓΝωΜΗΝ•ΗϹΚΙΤΗ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:4;} Greek {offset:0; length:40;} unclear {offset:32; length:8;}">
+                <Coords points="2304,4466 2358,4464 2412,4464 2466,4464 2521,4462 2575,4462 2629,4462 2684,4462 2738,4462 2792,4460 2847,4460 2901,4460 2955,4460 3009,4459 3064,4458 3118,4458 3172,4456 3227,4456 3281,4454 3335,4452 3390,4450 3390,4419 3335,4421 3281,4423 3227,4425 3172,4425 3118,4427 3064,4427 3009,4428 2955,4429 2901,4429 2847,4429 2792,4429 2738,4431 2684,4431 2629,4431 2575,4431 2521,4431 2466,4433 2412,4433 2358,4433 2304,4435"/>
+                <Baseline points="2304,4456 2358,4454 2412,4454 2466,4454 2521,4452 2575,4452 2629,4452 2684,4452 2738,4452 2792,4450 2847,4450 2901,4450 2955,4450 3009,4449 3064,4448 3118,4448 3172,4446 3227,4446 3281,4444 3361,4449 3416,4447"/>
+                <TextEquiv>
+                    <Unicode>ΝΑΠΛΟΤΗΤΑ•ΦΙΛΟΥϹ•ΥΠΕΡΑΤΟΝ•ΕΤΙΜΑ•ΔΙΑΤΟΥΤΟ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:5;} Greek {offset:0; length:46;}">
+                <Coords points="2292,4512 2349,4512 2407,4512 2465,4512 2522,4512 2580,4512 2638,4510 2695,4510 2753,4510 2811,4510 2869,4509 2926,4508 2984,4508 3042,4506 3099,4505 3157,4504 3215,4502 3272,4500 3330,4498 3388,4494 3446,4492 3446,4461 3388,4463 3330,4467 3272,4469 3215,4471 3157,4473 3099,4474 3042,4475 2984,4477 2926,4477 2869,4478 2811,4479 2753,4479 2695,4479 2638,4479 2580,4481 2522,4481 2465,4481 2407,4481 2349,4481 2292,4481"/>
+                <Baseline points="2292,4502 2349,4502 2407,4502 2465,4502 2522,4502 2580,4502 2638,4500 2695,4500 2753,4500 2811,4500 2869,4499 2926,4498 2984,4498 3042,4496 3099,4495 3157,4494 3215,4492 3272,4490 3332,4495 3390,4491 3468,4488"/>
+                <TextEquiv>
+                    <Unicode>ΜΝΗΜΗϹ ΕΝΕΚΕΝ•ΧΑΡΙΤΟϹ•ΔΕ•ΑΠΑϹΗϹ•ΟΙϹ•ΟΙ•ΑΔΕΛΦΟΙ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:6;} Greek {offset:0; length:39;}">
+                <Coords points="2300,4567 2348,4566 2397,4565 2446,4563 2495,4563 2544,4561 2593,4561 2642,4561 2691,4559 2740,4559 2789,4559 2837,4557 2886,4557 2935,4557 2984,4555 3033,4555 3082,4553 3131,4553 3180,4551 3229,4549 3278,4547 3278,4514 3229,4516 3180,4518 3131,4520 3082,4520 3033,4522 2984,4522 2935,4524 2886,4524 2837,4524 2789,4526 2740,4526 2691,4526 2642,4528 2593,4528 2544,4528 2495,4530 2446,4530 2397,4532 2348,4533 2300,4534"/>
+                <Baseline points="2300,4562 2348,4561 2397,4560 2446,4558 2495,4558 2544,4556 2593,4556 2642,4556 2691,4554 2740,4554 2789,4554 2837,4552 2886,4552 2935,4552 2984,4550 3033,4550 3082,4548 3131,4548 3180,4546 3229,4544 3278,4542"/>
+                <TextEquiv>
+                    <Unicode>ΕΘΗΚΑΝ•ΓΝωϹΤΟΝ•ΠΟΛΛΟΙϹΟΙ•ΒΡΟ•ΤΟΙ•ϹΙ ΙΝΑ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:7;} Greek {offset:0; length:40;}">
+                <Coords points="2332,4624 2387,4623 2442,4621 2497,4620 2552,4618 2607,4616 2662,4614 2717,4612 2772,4612 2827,4610 2882,4608 2937,4607 2992,4606 3047,4606 3102,4604 3157,4604 3212,4602 3267,4602 3322,4602 3377,4602 3432,4602 3432,4566 3377,4566 3322,4566 3267,4566 3212,4566 3157,4568 3102,4568 3047,4570 2992,4570 2937,4571 2882,4572 2827,4574 2772,4576 2717,4576 2662,4578 2607,4580 2552,4582 2497,4584 2442,4585 2387,4587 2332,4588"/>
+                <Baseline points="2332,4612 2387,4611 2442,4609 2497,4608 2552,4606 2607,4604 2662,4602 2717,4600 2772,4600 2827,4598 2882,4596 2937,4595 2992,4594 3047,4594 3102,4592 3157,4592 3212,4590 3267,4590 3322,4590 3377,4590 3432,4590"/>
+                <TextEquiv>
+                    <Unicode>ϹΕ•ΠΑϹ•ΠΑΡΑ•ΤωΝ ΟΝΟΜΑΖΗ•ΑΓΑΘΕ•ΠΕΓΡΟΚΟΡΑΣ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l53" custom="readingOrder {index:8;} Greek {offset:0; length:12;}">
+                <Coords points="2620,4674 2646,4674 2672,4674 2699,4674 2725,4674 2752,4674 2778,4674 2804,4674 2831,4674 2857,4674 2884,4674 2910,4674 2936,4674 2963,4674 2989,4674 3016,4674 3016,4631 2989,4631 2963,4631 2936,4631 2910,4631 2884,4631 2857,4631 2831,4631 2804,4631 2778,4631 2752,4631 2725,4631 2699,4631 2672,4631 2646,4631 2620,4631"/>
+                <Baseline points="2614,4666 2640,4666 2666,4666 2693,4666 2719,4666 2746,4666 2772,4666 2798,4666 2825,4666 2851,4663 2878,4663 2904,4666 2930,4668 2957,4668 2983,4666 3040,4668"/>
+                <TextEquiv>
+                    <Unicode>ΕΖΗ ΕΤΗ ΧΧΧ•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:9;}">
+                <Coords points="2686,4969 2711,4969 2736,4969 2761,4969 2786,4969 2811,4967 2836,4967 2861,4967 2886,4965 2911,4963 2936,4961 2961,4959 2986,4957 2986,4899 2961,4901 2936,4903 2911,4905 2886,4907 2861,4909 2836,4909 2811,4909 2786,4911 2761,4911 2736,4911 2711,4911 2686,4911"/>
+                <Baseline points="2690,4953 2715,4953 2740,4953 2765,4953 2790,4953 2815,4951 2840,4951 2865,4951 2890,4949 2915,4947 2940,4945 2965,4943 2990,4941"/>
+                <TextEquiv>
+                    <Unicode>incasa del Colotio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ΓΕΜΙΝΑΝ•ΕΚΑΛΕϹΑΝ
+ΕϹΧΕΙΔΕ•ΚΑΙ•ΑΛ•ΟΝΜΑ•ΧΑΡΙΕϹΤΑΤΟΝ•ΟΝΠΟΘ
+ΕΤΑΙΡΟΙ•ΠΕΤΡΟΚΟΡΑΚΑ•ΝΕΚΗ•ΖΟΝΟΝ•ΤΑΧΥΒΡ¬
+ΟΤΟΝ•ΟϹΤΙϹ•ΤΟΙΑΝ ΕΚΤΗϹΑΤΟΓΝωΜΗΝ•ΗϹΚΙΤΗ
+ΝΑΠΛΟΤΗΤΑ•ΦΙΛΟΥϹ•ΥΠΕΡΑΤΟΝ•ΕΤΙΜΑ•ΔΙΑΤΟΥΤΟ
+ΜΝΗΜΗϹ ΕΝΕΚΕΝ•ΧΑΡΙΤΟϹ•ΔΕ•ΑΠΑϹΗϹ•ΟΙϹ•ΟΙ•ΑΔΕΛΦΟΙ
+ΕΘΗΚΑΝ•ΓΝωϹΤΟΝ•ΠΟΛΛΟΙϹΟΙ•ΒΡΟ•ΤΟΙ•ϹΙ ΙΝΑ
+ϹΕ•ΠΑϹ•ΠΑΡΑ•ΤωΝ ΟΝΟΜΑΖΗ•ΑΓΑΘΕ•ΠΕΓΡΟΚΟΡΑΣ
+ΕΖΗ ΕΤΗ ΧΧΧ•
+incasa del Colotio.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1650469638265_1851" custom="readingOrder {index:6;}">
+            <Coords points="2193,5030 3620,5030 3620,5688 2193,5688"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

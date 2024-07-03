@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.335+01:00</Created>
+        <LastChange>2024-06-25T19:27:04.587+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902861" pageNr="51" tsid="174123644" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=VLRNCYQGKFXXWBZDYZDASUPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDNOTPOOEZLMBRMIXTJPUSDR" imageId="17873919"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_026a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337500687" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="751,370 744,1913 3628,1913 3589,357"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="780,530 919,527 1058,524 1198,520 1337,516 1477,513 1616,510 1755,506 1895,502 2034,499 2174,496 2313,492 2452,490 2592,486 2731,482 2871,478 3010,475 3149,472 3289,468 3428,464 3568,460 3568,405 3428,409 3289,413 3149,417 3010,420 2871,423 2731,427 2592,431 2452,435 2313,437 2174,441 2034,444 1895,447 1755,451 1616,455 1477,458 1337,461 1198,465 1058,469 919,472 780,475"/>
+                <Baseline points="780,512 919,509 1058,506 1198,502 1337,498 1477,495 1616,492 1755,488 1895,484 2034,481 2174,478 2313,474 2452,472 2592,468 2731,464 2871,460 3010,457 3149,454 3289,450 3428,446 3568,442"/>
+                <TextEquiv>
+                    <Unicode>REGIENSI, sono populi della Gallia Togata, come le nomina plinio Regienses nel buono testo, i quali hanno perla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="862,614 931,612 1000,607 1070,604 1139,602 1209,598 1278,596 1347,594 1417,592 1486,590 1556,588 1625,586 1694,584 1764,582 1833,581 1903,580 1972,578 2041,576 2111,573 2180,570 2250,568 2250,513 2180,515 2111,518 2041,521 1972,523 1903,525 1833,526 1764,527 1694,529 1625,531 1556,533 1486,535 1417,537 1347,539 1278,541 1209,543 1139,547 1070,549 1000,552 931,557 862,559"/>
+                <Baseline points="862,596 931,594 1000,589 1070,586 1139,584 1209,580 1278,578 1347,576 1417,574 1486,572 1556,570 1625,568 1694,566 1764,564 1833,563 1903,562 1972,560 2041,558 2111,555 2180,552 2250,550"/>
+                <TextEquiv>
+                    <Unicode>sua citta Regio Iepida. de cui fa menzione Cicerone.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} Greek {offset:15; length:6;}">
+                <Coords points="794,1095 897,1099 1000,1101 1104,1103 1207,1103 1311,1103 1414,1103 1517,1101 1621,1099 1724,1097 1828,1095 1931,1093 2034,1089 2138,1087 2241,1085 2345,1083 2448,1081 2551,1079 2655,1078 2758,1077 2862,1079 2862,1016 2758,1014 2655,1015 2551,1016 2448,1018 2345,1020 2241,1022 2138,1024 2034,1026 1931,1030 1828,1032 1724,1034 1621,1036 1517,1038 1414,1040 1311,1040 1207,1040 1104,1040 1000,1038 897,1036 794,1032"/>
+                <Baseline points="794,1074 897,1078 1000,1080 1104,1082 1207,1082 1311,1082 1414,1082 1517,1080 1621,1078 1724,1076 1828,1074 1931,1072 2034,1068 2138,1066 2241,1064 2345,1062 2448,1060 2551,1058 2655,1057 2758,1056 2862,1058"/>
+                <TextEquiv>
+                    <Unicode>REGIO, Regius, ΡΗΤΙΟΣ, è fiume della Mesopotamia, secondo Ptolemaeo scrive.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="800,1515 938,1515 1076,1513 1214,1512 1352,1509 1491,1507 1629,1505 1767,1503 1905,1499 2043,1497 2182,1493 2320,1489 2458,1485 2596,1481 2734,1477 2873,1473 3011,1469 3149,1465 3287,1461 3425,1456 3564,1451 3564,1388 3425,1393 3287,1398 3149,1402 3011,1406 2873,1410 2734,1414 2596,1418 2458,1422 2320,1426 2182,1430 2043,1434 1905,1436 1767,1440 1629,1442 1491,1444 1352,1446 1214,1449 1076,1450 938,1452 800,1452"/>
+                <Baseline points="800,1494 938,1494 1076,1492 1214,1491 1352,1488 1491,1486 1629,1484 1767,1482 1905,1478 2043,1476 2182,1472 2320,1468 2458,1464 2596,1460 2734,1456 2873,1452 3011,1448 3149,1444 3287,1440 3425,1435 3564,1430"/>
+                <TextEquiv>
+                    <Unicode>REGIO LEPIDA, è citta insigne colonia Romana dedutta da Aemilio Lepido situata nella Via Aemilia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="856,1601 990,1599 1125,1597 1260,1595 1395,1593 1530,1591 1664,1589 1799,1587 1934,1585 2069,1583 2204,1581 2338,1579 2473,1579 2608,1577 2743,1575 2878,1573 3012,1571 3147,1569 3282,1567 3417,1563 3552,1561 3552,1498 3417,1500 3282,1504 3147,1506 3012,1508 2878,1510 2743,1512 2608,1514 2473,1516 2338,1516 2204,1518 2069,1520 1934,1522 1799,1524 1664,1526 1530,1528 1395,1530 1260,1532 1125,1534 990,1536 856,1538"/>
+                <Baseline points="856,1580 990,1578 1125,1576 1260,1574 1395,1572 1530,1570 1664,1568 1799,1566 1934,1564 2069,1562 2204,1560 2338,1558 2473,1558 2608,1556 2743,1554 2878,1552 3012,1550 3147,1548 3282,1546 3417,1542 3552,1540"/>
+                <TextEquiv>
+                    <Unicode>dove hodiernamente è celebrata la divotissima chiesa di Santa Eulalia figliuola di pasyphyle di natione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="840,1691 976,1687 1113,1685 1249,1683 1386,1681 1523,1679 1659,1679 1796,1677 1932,1677 2069,1675 2206,1675 2342,1675 2479,1675 2615,1673 2752,1673 2889,1671 3025,1669 3162,1668 3298,1665 3435,1663 3572,1659 3572,1596 3435,1600 3298,1602 3162,1605 3025,1606 2889,1608 2752,1610 2615,1610 2479,1612 2342,1612 2206,1612 2069,1612 1932,1614 1796,1614 1659,1616 1523,1616 1386,1618 1249,1620 1113,1622 976,1624 840,1628"/>
+                <Baseline points="840,1670 976,1666 1113,1664 1249,1662 1386,1660 1523,1658 1659,1658 1796,1656 1932,1656 2069,1654 2206,1654 2342,1654 2479,1654 2615,1652 2752,1652 2889,1650 3025,1648 3162,1647 3298,1644 3435,1642 3572,1638"/>
+                <TextEquiv>
+                    <Unicode>di Hispania gloriosa Martyre, che fu Vergine posta in croce come fù fatto à Santo Andrea Apostolo, da paga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="856,1789 992,1787 1128,1785 1264,1783 1400,1781 1536,1779 1672,1779 1808,1777 1944,1775 2080,1775 2216,1773 2352,1773 2488,1771 2624,1771 2760,1771 2896,1771 3032,1771 3168,1773 3304,1773 3440,1775 3576,1775 3576,1712 3440,1712 3304,1710 3168,1710 3032,1708 2896,1708 2760,1708 2624,1708 2488,1708 2352,1710 2216,1710 2080,1712 1944,1712 1808,1714 1672,1716 1536,1716 1400,1718 1264,1720 1128,1722 992,1724 856,1726"/>
+                <Baseline points="856,1768 992,1766 1128,1764 1264,1762 1400,1760 1536,1758 1672,1758 1808,1756 1944,1754 2080,1754 2216,1752 2352,1752 2488,1750 2624,1750 2760,1750 2896,1750 3032,1750 3168,1752 3304,1752 3440,1754 3576,1754"/>
+                <TextEquiv>
+                    <Unicode>ni martizata. il cui nome significa, illustre, et chiara nel ben parlare, eccelente. La quale fu humilissima, di fer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="834,1867 920,1871 1006,1873 1092,1875 1179,1877 1265,1877 1351,1875 1438,1875 1524,1873 1610,1872 1697,1870 1783,1867 1869,1865 1955,1864 2042,1861 2128,1859 2214,1859 2301,1857 2387,1857 2473,1858 2560,1859 2560,1796 2473,1795 2387,1794 2301,1794 2214,1796 2128,1796 2042,1798 1955,1801 1869,1802 1783,1804 1697,1807 1610,1809 1524,1810 1438,1812 1351,1812 1265,1814 1179,1814 1092,1812 1006,1810 920,1808 834,1804"/>
+                <Baseline points="834,1846 920,1850 1006,1852 1092,1854 1179,1856 1265,1856 1351,1854 1438,1854 1524,1852 1610,1851 1697,1849 1783,1846 1869,1844 1955,1843 2042,1840 2128,1838 2214,1838 2301,1836 2387,1836 2473,1837 2560,1838"/>
+                <TextEquiv>
+                    <Unicode>missima Fede et di somma charitate. dedita al sommo et aeterno bene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>REGIENSI, sono populi della Gallia Togata, come le nomina plinio Regienses nel buono testo, i quali hanno perla
+sua citta Regio Iepida. de cui fa menzione Cicerone.
+REGIO, Regius, ΡΗΤΙΟΣ, è fiume della Mesopotamia, secondo Ptolemaeo scrive.
+REGIO LEPIDA, è citta insigne colonia Romana dedutta da Aemilio Lepido situata nella Via Aemilia,
+dove hodiernamente è celebrata la divotissima chiesa di Santa Eulalia figliuola di pasyphyle di natione
+di Hispania gloriosa Martyre, che fu Vergine posta in croce come fù fatto à Santo Andrea Apostolo, da paga¬
+ni martizata. il cui nome significa, illustre, et chiara nel ben parlare, eccelente. La quale fu humilissima, di fer
+missima Fede et di somma charitate. dedita al sommo et aeterno bene.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

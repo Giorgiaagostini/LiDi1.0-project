@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_002b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:50.504+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643801059301_826"
+                       HEIGHT="189"
+                       WIDTH="303"
+                       VPOS="115"
+                       HPOS="3039">
+               <Shape>
+                  <Polygon POINTS="3039,119 3342,115 3340,304 3054,300"/>
+               </Shape>
+               <TextLine ID="line_1641287717097_1504"
+                         BASELINE="3094,166 3165,166"
+                         HEIGHT="50"
+                         WIDTH="71"
+                         VPOS="121"
+                         HPOS="3094">
+                  <String ID="string_line_1641287717097_1504"
+                          HEIGHT="50"
+                          WIDTH="71"
+                          VPOS="121"
+                          HPOS="3094"
+                          CONTENT="5"/>
+               </TextLine>
+               <TextLine ID="line_1641287729838_1509"
+                         BASELINE="3185,255 3278,253"
+                         HEIGHT="52"
+                         WIDTH="94"
+                         VPOS="208"
+                         HPOS="3184">
+                  <String ID="string_line_1641287729838_1509"
+                          HEIGHT="52"
+                          WIDTH="94"
+                          VPOS="208"
+                          HPOS="3184"
+                          CONTENT="2"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643801059301_825"
+                       HEIGHT="1807"
+                       WIDTH="3075"
+                       VPOS="119"
+                       HPOS="265">
+               <Shape>
+                  <Polygon POINTS="265,158 3039,119 3054,300 3340,304 3330,1890 275,1926"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="438,286 566,286 694,286 823,284 951,284 1080,282 1208,282 1336,280 1465,278 1593,276 1722,274 1850,274 1978,272 2107,270 2235,268 2364,266 2492,264 2620,262 2749,262 2877,260 3006,258"
+                         HEIGHT="94"
+                         WIDTH="2568"
+                         VPOS="214"
+                         HPOS="438">
+                  <String ID="string_r1l1"
+                          HEIGHT="94"
+                          WIDTH="2568"
+                          VPOS="214"
+                          HPOS="438"
+                          CONTENT="RABICHA., ΡΑΒΙΧΑ, è celebrato luogo posto fuori della città di Sparta, il lustrissimo perli ornamenti di"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="482,392 606,388 731,386 856,384 981,380 1106,378 1230,376 1355,373 1480,371 1605,368 1730,366 1854,364 1979,362 2104,360 2229,357 2354,354 2478,352 2603,350 2728,348 2853,344 2978,342"
+                         HEIGHT="116"
+                         WIDTH="2496"
+                         VPOS="298"
+                         HPOS="482">
+                  <String ID="string_r1l2"
+                          HEIGHT="116"
+                          WIDTH="2496"
+                          VPOS="298"
+                          HPOS="482"
+                          CONTENT="pittura et delle statue che havea in memoria delli fatti degli huomini illustri, posto sul fiume chiamato"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="488,488 615,484 743,480 870,478 998,474 1125,470 1253,468 1380,466 1508,462 1635,460 1763,458 1890,456 2018,454 2145,452 2273,450 2400,450 2528,448 2655,446 2783,444 2910,442 3038,442"
+                         HEIGHT="115"
+                         WIDTH="2550"
+                         VPOS="396"
+                         HPOS="488">
+                  <String ID="string_r1l3"
+                          HEIGHT="115"
+                          WIDTH="2550"
+                          VPOS="396"
+                          HPOS="488"
+                          CONTENT="Gnation, come scrisse Ephoro presso Epaphrodito, lo quale come dice Plutarcho si chiamava il Rabicha"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="470,594 597,592 724,590 851,588 978,584 1105,582 1232,579 1359,576 1486,573 1613,570 1740,568 1867,564 1994,561 2121,558 2248,556 2375,552 2502,548 2629,546 2756,542 2883,540 3010,536"
+                         HEIGHT="127"
+                         WIDTH="2540"
+                         VPOS="490"
+                         HPOS="470">
+                  <String ID="string_r1l4"
+                          HEIGHT="127"
+                          WIDTH="2540"
+                          VPOS="490"
+                          HPOS="470"
+                          CONTENT="dal fiume Gnation, et poscia fù detto Ovathe, et dipoi Rabicha. et d'esso fa menzione Aristotele: dove"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="482,706 609,702 736,698 863,693 991,688 1118,684 1245,680 1373,676 1500,672 1627,668 1755,664 1882,661 2009,656 2136,654 2264,650 2391,646 2518,644 2646,641 2773,638 2900,636 3028,632"
+                         HEIGHT="143"
+                         WIDTH="2546"
+                         VPOS="586"
+                         HPOS="482">
+                  <String ID="string_r1l5"
+                          HEIGHT="143"
+                          WIDTH="2546"
+                          VPOS="586"
+                          HPOS="482"
+                          CONTENT="pria Lycurgo elesse quelli ventiotto Seniori Lacedemonij, accio che tenessero la parte della libertà,"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="488,800 615,796 742,792 869,788 996,784 1123,780 1250,776 1377,772 1504,769 1631,766 1759,762 1886,759 2013,756 2140,754 2267,750 2394,748 2521,746 2648,743 2775,740 2902,738 3030,736"
+                         HEIGHT="130"
+                         WIDTH="2542"
+                         VPOS="692"
+                         HPOS="488">
+                  <String ID="string_r1l6"
+                          HEIGHT="130"
+                          WIDTH="2542"
+                          VPOS="692"
+                          HPOS="488"
+                          CONTENT="della Republica, per moderare l'appetiti delli giovani, et gli appolazion'che tenivano quelli della parte Rea¬"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="488,890 615,888 742,884 869,882 996,878 1124,876 1251,872 1378,869 1505,866 1632,864 1760,860 1887,857 2014,854 2141,852 2268,849 2396,846 2523,844 2650,842 2777,840 2904,838 3032,836"
+                         HEIGHT="120"
+                         WIDTH="2544"
+                         VPOS="792"
+                         HPOS="488">
+                  <String ID="string_r1l7"
+                          HEIGHT="120"
+                          WIDTH="2544"
+                          VPOS="792"
+                          HPOS="488"
+                          CONTENT="le del Re, et piegavano alla Tyrannide, il che fece Lycrugo, per riformare nelle leggi la repubblica nel"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="492,990 618,988 745,986 872,984 998,982 1125,978 1252,976 1378,972 1505,970 1632,966 1759,962 1885,958 2012,954 2139,951 2265,948 2392,944 2519,941 2645,938 2772,935 2899,932 3026,930"
+                         HEIGHT="129"
+                         WIDTH="2534"
+                         VPOS="884"
+                         HPOS="492">
+                  <String ID="string_r1l8"
+                          HEIGHT="129"
+                          WIDTH="2534"
+                          VPOS="884"
+                          HPOS="492"
+                          CONTENT="tempo poco innanzi alla prinia olympiade, quando fu mestiero di rafformare il superbo vicere, et per le"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="488,1100 615,1095 742,1090 869,1086 996,1082 1123,1078 1250,1074 1377,1072 1504,1068 1631,1066 1759,1062 1886,1060 2013,1058 2140,1054 2267,1052 2394,1050 2521,1046 2648,1044 2775,1040 2902,1036 3030,1032"
+                         HEIGHT="137"
+                         WIDTH="2542"
+                         VPOS="986"
+                         HPOS="488">
+                  <String ID="string_r1l9"
+                          HEIGHT="137"
+                          WIDTH="2542"
+                          VPOS="986"
+                          HPOS="488"
+                          CONTENT="vare il strano uso, che recano le contenszioni, et le repulse della plebe con li nobili contrastandosi con ambi"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="488,1200 515,1200 542,1200 569,1200 597,1198 624,1198 651,1197 678,1196 706,1194"
+                         HEIGHT="75"
+                         WIDTH="218"
+                         VPOS="1148"
+                         HPOS="488">
+                  <String ID="string_r1l10"
+                          HEIGHT="75"
+                          WIDTH="218"
+                          VPOS="1148"
+                          HPOS="488"
+                          CONTENT="le parti."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="476,1312 604,1305 733,1299 861,1294 990,1288 1118,1282 1247,1278 1375,1272 1504,1269 1632,1264 1761,1261 1889,1258 2018,1254 2146,1250 2275,1246 2403,1244 2532,1240 2660,1238 2789,1236 2917,1233 3046,1230"
+                         HEIGHT="151"
+                         WIDTH="2570"
+                         VPOS="1184"
+                         HPOS="476">
+                  <String ID="string_r1l11"
+                          HEIGHT="151"
+                          WIDTH="2570"
+                          VPOS="1184"
+                          HPOS="476"
+                          CONTENT="RABILIANA, fu Villa di Sexto Rabilio Planciano: ch'era nel paese di Bauli, presso del Miseno Promontorio"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="484,1412 611,1406 738,1402 866,1396 993,1392 1121,1386 1248,1382 1375,1377 1503,1372 1630,1366 1758,1363 1885,1358 2012,1352 2140,1348 2267,1344 2395,1340 2522,1336 2649,1332 2777,1327 2904,1322 3032,1318"
+                         HEIGHT="161"
+                         WIDTH="2548"
+                         VPOS="1273"
+                         HPOS="484">
+                  <String ID="string_r1l12"
+                          HEIGHT="161"
+                          WIDTH="2548"
+                          VPOS="1273"
+                          HPOS="484"
+                          CONTENT="dell'opici Campani populi. ove egli oltre alli giardini, et alli Vivari de pesci et d'ostreghe, vi fece portichi,"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="492,1502 619,1497 747,1492 875,1486 1003,1482 1131,1478 1258,1472 1386,1468 1514,1463 1642,1459 1770,1454 1897,1450 2025,1448 2153,1443 2281,1440 2409,1436 2536,1434 2664,1430 2792,1428 2920,1426 3048,1424"
+                         HEIGHT="145"
+                         WIDTH="2556"
+                         VPOS="1379"
+                         HPOS="492">
+                  <String ID="string_r1l13"
+                          HEIGHT="145"
+                          WIDTH="2556"
+                          VPOS="1379"
+                          HPOS="492"
+                          CONTENT="et Bagni, secondo mostravano le parole scritte trovate in uno fragmento in esso luogo, con alcune imagini"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="488,1606 615,1601 742,1595 869,1590 996,1585 1123,1580 1250,1576 1377,1570 1504,1566 1631,1562 1759,1556 1886,1552 2013,1548 2140,1544 2267,1540 2394,1537 2521,1534 2648,1530 2775,1528 2902,1524 3030,1522"
+                         HEIGHT="153"
+                         WIDTH="2542"
+                         VPOS="1476"
+                         HPOS="488">
+                  <String ID="string_r1l14"
+                          HEIGHT="153"
+                          WIDTH="2542"
+                          VPOS="1476"
+                          HPOS="488"
+                          CONTENT="di Apolline, et di Hercole, et delle Muse, et di Cerere, con infiniti belli ornamenti di marmi, i quali adino¬"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="496,1704 623,1698 751,1692 879,1688 1006,1682 1134,1678 1262,1673 1389,1668 1517,1663 1645,1658 1773,1654 1900,1650 2028,1646 2156,1641 2283,1637 2411,1633 2539,1630 2666,1626 2794,1622 2922,1619 3050,1616"
+                         HEIGHT="157"
+                         WIDTH="2554"
+                         VPOS="1570"
+                         HPOS="496">
+                  <String ID="string_r1l15"
+                          HEIGHT="157"
+                          WIDTH="2554"
+                          VPOS="1570"
+                          HPOS="496"
+                          CONTENT="stri havemo veduti calcificare, et portar via delle imagini in paesi lontani et alieni. Fu di questa fame¬"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="496,1810 623,1802 750,1797 877,1790 1004,1784 1132,1778 1259,1774 1386,1769 1513,1764 1640,1760 1768,1756 1895,1752 2022,1748 2149,1744 2276,1740 2404,1738 2531,1734 2658,1732 2785,1728 2912,1726 3040,1724"
+                         HEIGHT="153"
+                         WIDTH="2544"
+                         VPOS="1679"
+                         HPOS="496">
+                  <String ID="string_r1l16"
+                          HEIGHT="153"
+                          WIDTH="2544"
+                          VPOS="1679"
+                          HPOS="496"
+                          CONTENT="glia Rabirio Poeta, che vivea nel tempo di Augusto et d'Ovidio: et quel Rabirio che difese Cicerone"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="488,1896 522,1894 556,1894 591,1893 625,1892 660,1892 694,1891 728,1890 763,1888 797,1888 832,1887 866,1886 900,1885 935,1884 969,1882 1004,1880 1038,1878 1072,1876 1107,1874 1141,1871 1176,1868"
+                         HEIGHT="95"
+                         WIDTH="688"
+                         VPOS="1823"
+                         HPOS="488">
+                  <String ID="string_r1l17"
+                          HEIGHT="95"
+                          WIDTH="688"
+                          VPOS="1823"
+                          HPOS="488"
+                          CONTENT="contra di Tito Labieno."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

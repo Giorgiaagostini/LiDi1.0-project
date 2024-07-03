@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_047b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:08.55+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r2" HEIGHT="251" WIDTH="200" VPOS="182" HPOS="3050">
+               <Shape>
+                  <Polygon POINTS="3050,182 3050,433 3250,433 3250,182"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="3052,232 3078,231 3104,228 3130,223 3156,220"
+                         HEIGHT="117"
+                         WIDTH="104"
+                         VPOS="150"
+                         HPOS="3052">
+                  <String ID="string_r2l1"
+                          HEIGHT="117"
+                          WIDTH="104"
+                          VPOS="150"
+                          HPOS="3052"
+                          CONTENT="50"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="3130,366 3160,363 3191,364 3221,363 3252,360"
+                         HEIGHT="111"
+                         WIDTH="122"
+                         VPOS="290"
+                         HPOS="3130">
+                  <String ID="string_r2l2"
+                          HEIGHT="111"
+                          WIDTH="122"
+                          VPOS="290"
+                          HPOS="3130"
+                          CONTENT="47"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r1" HEIGHT="3938" WIDTH="3073" VPOS="269" HPOS="299">
+               <Shape>
+                  <Polygon POINTS="299,269 346,4207 3298,4207 3372,2965 2978,2968 2999,284"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="352,390 482,388 613,388 743,386 874,385 1005,384 1135,382 1266,382 1396,380 1527,380 1658,380 1788,378 1919,378 2049,378 2180,378 2311,378 2441,378 2572,378 2702,378 2833,380 2964,380"
+                         HEIGHT="75"
+                         WIDTH="2612"
+                         VPOS="336"
+                         HPOS="352">
+                  <String ID="string_r1l1"
+                          HEIGHT="75"
+                          WIDTH="2612"
+                          VPOS="336"
+                          HPOS="352"
+                          CONTENT="ROGANE, ò, ΡΩΓΑΝΗ, è citta dell'indi, secondo Eratosthene, donde disse Roganete, ò vero ΡΩΓΑΝΗ¬"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="362,476 432,476 503,478 574,478 645,478 716,477 787,476 858,476 929,474 1000,474 1071,473 1141,472 1212,471 1283,470 1354,470 1425,470 1496,468 1567,470 1638,470 1709,470 1842,476"
+                         HEIGHT="73"
+                         WIDTH="1418"
+                         VPOS="426"
+                         HPOS="362">
+                  <String ID="string_r1l2"
+                          HEIGHT="73"
+                          WIDTH="1418"
+                          VPOS="426"
+                          HPOS="362"
+                          CONTENT="ΤΗΣ, fanne menzione Stephano nel buono testo, et Arriano."/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="376,956 502,954 629,954 756,952 883,952 1010,950 1137,948 1264,948 1391,946 1518,946 1645,944 1771,944 1898,944 2025,942 2152,942 2279,942 2406,942 2533,942 2660,942 2787,942 2914,942"
+                         HEIGHT="77"
+                         WIDTH="2538"
+                         VPOS="900"
+                         HPOS="376">
+                  <String ID="string_r1l3"
+                          HEIGHT="77"
+                          WIDTH="2538"
+                          VPOS="900"
+                          HPOS="376"
+                          CONTENT="ROGE, ò vero ΡΩΓΗ, è nome di Isola nella Lycia, habitata, et il suo albergatore si dice gentilmente Rogaeo,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="400,1052 448,1048 496,1047 544,1045 593,1044 641,1042 689,1042 738,1042 786,1040 834,1040 883,1040 931,1040 979,1040 1027,1040 1076,1038 1124,1038 1172,1037 1221,1036 1269,1034 1317,1033 1366,1030"
+                         HEIGHT="85"
+                         WIDTH="966"
+                         VPOS="988"
+                         HPOS="400">
+                  <String ID="string_r1l4"
+                          HEIGHT="85"
+                          WIDTH="966"
+                          VPOS="988"
+                          HPOS="400"
+                          CONTENT="ò pure, ΡΩΓΑΙΟΣ, come piace à Stephano."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="352,1582 480,1582 608,1580 736,1580 865,1580 993,1579 1121,1578 1250,1578 1378,1578 1506,1578 1635,1576 1763,1576 1891,1576 2019,1576 2148,1576 2276,1576 2404,1576 2533,1578 2661,1578 2789,1579 2918,1580"
+                         HEIGHT="66"
+                         WIDTH="2566"
+                         VPOS="1536"
+                         HPOS="352">
+                  <String ID="string_r1l5"
+                          HEIGHT="66"
+                          WIDTH="2566"
+                          VPOS="1536"
+                          HPOS="352"
+                          CONTENT="ROGMI, ò vero Rogmei, et, ΡΩΓΜΟΙ, è Albergo della Cilicia, donde si dice Rogmerte, ò vero ΡΩΓΜΙΤΗΣ,"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="396,1672 477,1670 558,1668 639,1668 721,1666 802,1666 883,1666 965,1664 1046,1664 1127,1664 1209,1664 1290,1662 1371,1662 1452,1662 1534,1662 1615,1660 1696,1660 1778,1660 1859,1658 1940,1658 2022,1656"
+                         HEIGHT="76"
+                         WIDTH="1626"
+                         VPOS="1616"
+                         HPOS="396">
+                  <String ID="string_r1l6"
+                          HEIGHT="76"
+                          WIDTH="1626"
+                          VPOS="1616"
+                          HPOS="396"
+                          CONTENT="come vuole il Grammatico Byzantio. È paese herboso et fruttifero."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="362,2388 490,2390 618,2392 746,2394 874,2396 1002,2396 1130,2398 1258,2398 1386,2400 1514,2400 1642,2400 1770,2402 1898,2402 2026,2402 2154,2404 2282,2404 2410,2406 2538,2406 2666,2408 2794,2410 2922,2412"
+                         HEIGHT="87"
+                         WIDTH="2560"
+                         VPOS="2346"
+                         HPOS="362">
+                  <String ID="string_r1l7"
+                          HEIGHT="87"
+                          WIDTH="2560"
+                          VPOS="2346"
+                          HPOS="362"
+                          CONTENT="ROMILIA, ò vero RoMylia, è citta di Italia nelli Sanniti, di donde Stephano dice Romiliate"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="398,2490 524,2492 650,2492 776,2494 902,2494 1029,2496 1155,2496 1281,2498 1407,2498 1533,2500 1660,2500 1786,2500 1912,2502 2038,2502 2164,2504 2291,2504 2417,2506 2543,2506 2669,2508 2795,2508 2922,2510"
+                         HEIGHT="83"
+                         WIDTH="2524"
+                         VPOS="2448"
+                         HPOS="398">
+                  <String ID="string_r1l8"
+                          HEIGHT="83"
+                          WIDTH="2524"
+                          VPOS="2448"
+                          HPOS="398"
+                          CONTENT="ò vero ΡΩΜΥΛΙΑΤΗΣ, Fu poi fatta Municipio di Romani, onde esso Municipale nome fu detto Romano."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="390,2602 516,2602 642,2602 768,2602 895,2602 1021,2604 1147,2604 1274,2604 1400,2606 1526,2606 1653,2608 1779,2608 1905,2608 2031,2610 2158,2610 2284,2612 2410,2612 2537,2613 2663,2614 2789,2614 2916,2614"
+                         HEIGHT="70"
+                         WIDTH="2526"
+                         VPOS="2563"
+                         HPOS="390">
+                  <String ID="string_r1l9"
+                          HEIGHT="70"
+                          WIDTH="2526"
+                          VPOS="2563"
+                          HPOS="390"
+                          CONTENT="come si trova nella Medaglia, con la Testa di Hercole giovane, et col rovescio della Lupa che allatta"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="382,2698 464,2700 547,2700 629,2700 712,2698 795,2698 877,2698 960,2698 1042,2698 1125,2696 1208,2696 1290,2696 1373,2694 1455,2694 1538,2694 1621,2693 1703,2692 1786,2692 1868,2692 1951,2690 2034,2690"
+                         HEIGHT="70"
+                         WIDTH="1652"
+                         VPOS="2650"
+                         HPOS="382">
+                  <String ID="string_r1l10"
+                          HEIGHT="70"
+                          WIDTH="1652"
+                          VPOS="2650"
+                          HPOS="382"
+                          CONTENT="Romolo et Remo si come si soleva presso di Romani fignere."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="354,2788 481,2789 609,2790 736,2790 864,2792 991,2792 1119,2792 1246,2792 1374,2792 1501,2790 1629,2790 1756,2790 1884,2790 2011,2790 2139,2788 2266,2788 2394,2788 2521,2788 2649,2788 2776,2788 2904,2788"
+                         HEIGHT="59"
+                         WIDTH="2550"
+                         VPOS="2751"
+                         HPOS="354">
+                  <String ID="string_r1l11"
+                          HEIGHT="59"
+                          WIDTH="2550"
+                          VPOS="2751"
+                          HPOS="354"
+                          CONTENT="ROMILIA, anchora è nome di una delle quattro prima Tribu de Romani constituita da Romolo,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="412,2876 536,2876 661,2876 786,2874 911,2874 1036,2874 1161,2874 1286,2874 1411,2872 1536,2872 1661,2872 1785,2872 1910,2870 2035,2870 2160,2870 2285,2868 2410,2867 2535,2866 2660,2864 2785,2864 2910,2862"
+                         HEIGHT="69"
+                         WIDTH="2498"
+                         VPOS="2825"
+                         HPOS="412">
+                  <String ID="string_r1l12"
+                          HEIGHT="69"
+                          WIDTH="2498"
+                          VPOS="2825"
+                          HPOS="412"
+                          CONTENT="et secondo alcuni gli fudato ultimamente il Municipale luogho superati i Samniti. La quale Tribu"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="402,2958 527,2958 652,2958 777,2960 902,2960 1027,2961 1152,2962 1277,2962 1402,2964 1527,2964 1652,2966 1777,2966 1902,2966 2027,2968 2152,2968 2277,2968 2402,2968 2527,2968 2652,2970 2777,2970 2902,2968"
+                         HEIGHT="69"
+                         WIDTH="2500"
+                         VPOS="2920"
+                         HPOS="402">
+                  <String ID="string_r1l13"
+                          HEIGHT="69"
+                          WIDTH="2500"
+                          VPOS="2920"
+                          HPOS="402"
+                          CONTENT="i greci scrivono per .Ω. cosi, ΡΩΜΙΛΙΑ. Ma Stephano chiama per .Ε. la Tribu inquesto modo.⁓"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="358,3052 485,3054 613,3054 741,3054 869,3056 997,3056 1124,3056 1252,3054 1380,3054 1508,3054 1636,3054 1763,3052 1891,3052 2019,3050 2147,3050 2275,3050 2402,3050 2530,3048 2658,3048 2786,3050 2914,3050"
+                         HEIGHT="66"
+                         WIDTH="2556"
+                         VPOS="3009"
+                         HPOS="358">
+                  <String ID="string_r1l14"
+                          HEIGHT="66"
+                          WIDTH="2556"
+                          VPOS="3009"
+                          HPOS="358"
+                          CONTENT="Remuuria: ma è luogho guasto. havea essa Tribu per Tutelare Dea Duellona, ò vero Bellona, cosi chiamata"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="398,3144 542,3146 687,3146 832,3148 977,3148 1122,3148 1267,3146 1412,3146 1557,3144 1702,3142 1847,3142 1991,3140 2136,3140 2281,3140 2426,3140 2571,3140 2716,3140 2861,3142 3006,3144 3151,3148 3316,3163"
+                         HEIGHT="60"
+                         WIDTH="2898"
+                         VPOS="3108"
+                         HPOS="398">
+                  <String ID="string_r1l15"
+                          HEIGHT="60"
+                          WIDTH="2898"
+                          VPOS="3108"
+                          HPOS="398"
+                          CONTENT="dal bello, et dal Duello. Sicome havemo veduto in una antichissima dedicatione. DVELLONAE SACRVM. et di essa fa menzione Varrone"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="3030,3200 3056,3201 3083,3202 3110,3204 3137,3204 3164,3206 3190,3208 3217,3209 3244,3211 3271,3214 3339,3224"
+                         HEIGHT="62"
+                         WIDTH="268"
+                         VPOS="3169"
+                         HPOS="3030">
+                  <String ID="string_r1l16"
+                          HEIGHT="62"
+                          WIDTH="268"
+                          VPOS="3169"
+                          HPOS="3030"
+                          CONTENT="nel quarto libro."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="358,3246 485,3246 613,3246 741,3246 868,3246 996,3246 1124,3246 1251,3246 1379,3244 1507,3244 1635,3244 1762,3242 1890,3242 2018,3242 2145,3240 2273,3240 2401,3240 2528,3240 2656,3240 2784,3240 2932,3253"
+                         HEIGHT="69"
+                         WIDTH="2554"
+                         VPOS="3198"
+                         HPOS="358">
+                  <String ID="string_r1l17"
+                          HEIGHT="69"
+                          WIDTH="2554"
+                          VPOS="3198"
+                          HPOS="358"
+                          CONTENT="ROM', cosi etiandio i greci ΡΩΜ, è citta della Scythia trali Gandarice nationi, donde il citta"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="388,3342 515,3342 643,3342 771,3342 899,3342 1027,3340 1155,3340 1283,3338 1411,3338 1539,3337 1667,3336 1794,3335 1922,3334 2050,3334 2178,3332 2306,3332 2434,3331 2562,3330 2690,3330 2818,3330 2946,3330"
+                         HEIGHT="75"
+                         WIDTH="2558"
+                         VPOS="3288"
+                         HPOS="388">
+                  <String ID="string_r1l18"
+                          HEIGHT="75"
+                          WIDTH="2558"
+                          VPOS="3288"
+                          HPOS="388"
+                          CONTENT="dino si dice Romio, ò vero, ΡΩΜΙΟΣ, altri la scrivono, ΡΩΝ, per, Ν, e il cittadino ΡΩΝΙΟΣ, ma"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="408,3440 518,3438 628,3436 739,3434 849,3432 960,3432 1070,3430 1180,3430 1291,3428 1401,3428 1512,3428 1622,3426 1732,3426 1843,3426 1953,3424 2064,3424 2174,3422 2284,3422 2395,3420 2505,3418 2616,3416"
+                         HEIGHT="87"
+                         WIDTH="2208"
+                         VPOS="3374"
+                         HPOS="408">
+                  <String ID="string_r1l19"
+                          HEIGHT="87"
+                          WIDTH="2208"
+                          VPOS="3374"
+                          HPOS="408"
+                          CONTENT="come si voglia sia, si ha da scrivere. et nell'uno et nell'altro caso Romio et Ronio."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="346,3694 477,3696 609,3698 741,3698 873,3698 1005,3700 1137,3700 1269,3700 1401,3700 1533,3700 1665,3702 1796,3702 1928,3702 2060,3702 2192,3702 2324,3702 2456,3702 2588,3704 2720,3704 2896,3708 3010,3722"
+                         HEIGHT="75"
+                         WIDTH="2638"
+                         VPOS="3652"
+                         HPOS="346">
+                  <String ID="string_r1l20"
+                          HEIGHT="75"
+                          WIDTH="2638"
+                          VPOS="3652"
+                          HPOS="346"
+                          CONTENT="Rosos, ò vero ΡΩΣΟΣ, è nome di citta ò vero oppido nel Monte Casio, di cui scrive Plinio nel quin¬"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="386,3784 512,3786 639,3788 765,3792 892,3793 1019,3795 1145,3796 1272,3798 1398,3799 1525,3800 1652,3800 1778,3802 1905,3802 2031,3802 2158,3802 2285,3802 2411,3804 2538,3804 2664,3804 2791,3804 2918,3804"
+                         HEIGHT="83"
+                         WIDTH="2532"
+                         VPOS="3742"
+                         HPOS="386">
+                  <String ID="string_r1l21"
+                          HEIGHT="83"
+                          WIDTH="2532"
+                          VPOS="3742"
+                          HPOS="386"
+                          CONTENT="to libro al capo ventesimo secondo nelle cose del detto Monte, posto davante alla Syria. et Stephano"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="390,3882 518,3884 646,3886 774,3888 902,3890 1030,3890 1158,3890 1286,3890 1414,3890 1542,3890 1671,3890 1799,3888 1927,3888 2055,3888 2183,3886 2311,3886 2439,3886 2567,3886 2695,3886 2823,3888 2961,3896"
+                         HEIGHT="71"
+                         WIDTH="2562"
+                         VPOS="3840"
+                         HPOS="390">
+                  <String ID="string_r1l22"
+                          HEIGHT="71"
+                          WIDTH="2562"
+                          VPOS="3840"
+                          HPOS="390"
+                          CONTENT="scrive della sua gente, et dice chel gentile si debba scrivere Rosio et Rosiense. Cosi dicendo. ΡΩ¬"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="394,3986 521,3986 649,3988 777,3988 905,3988 1033,3988 1160,3988 1288,3988 1416,3988 1544,3988 1672,3988 1799,3988 1927,3988 2055,3988 2183,3990 2311,3990 2438,3990 2566,3992 2694,3992 2822,3994 2950,3996"
+                         HEIGHT="73"
+                         WIDTH="2556"
+                         VPOS="3944"
+                         HPOS="394">
+                  <String ID="string_r1l23"
+                          HEIGHT="73"
+                          WIDTH="2556"
+                          VPOS="3944"
+                          HPOS="394"
+                          CONTENT="ΣΟΣ. ΤΟ ΕΘΝΙΚΟΝ, ΡΩΣΙΟΣ. ΑΛΛΑ ΚΑΙ ΡΩΣΙΕΥΣ, ΩΣ ΑΠΟ ΤΟΥ ΤΑΡΣΟΣ, ΤΑΡΣΕΥΣ, ΚΑΙ ΤΟ ΚΤΗ¬"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="398,4072 523,4076 649,4078 774,4080 900,4082 1026,4082 1151,4084 1277,4084 1402,4084 1528,4084 1654,4084 1779,4082 1905,4082 2030,4082 2156,4080 2282,4080 2407,4080 2533,4080 2658,4080 2784,4080 2910,4080"
+                         HEIGHT="75"
+                         WIDTH="2512"
+                         VPOS="4030"
+                         HPOS="398">
+                  <String ID="string_r1l24"
+                          HEIGHT="75"
+                          WIDTH="2512"
+                          VPOS="4030"
+                          HPOS="398"
+                          CONTENT="ΤΙΚΟΝ, ΡΩΣΙΚΟΣ, ΡΟΣΙΚΟΣ ΣΚΟΠΕΛΟΣ. Cio è dice egli che da Roso si dice Rosio et Rosiense, come da"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="408,4164 513,4164 618,4164 723,4166 828,4166 934,4168 1039,4168 1144,4170 1249,4172 1354,4174 1460,4175 1565,4176 1670,4178 1775,4180 1880,4182 1986,4182 2091,4184 2196,4184 2301,4186 2406,4186 2512,4186"
+                         HEIGHT="85"
+                         WIDTH="2104"
+                         VPOS="4122"
+                         HPOS="408">
+                  <String ID="string_r1l25"
+                          HEIGHT="85"
+                          WIDTH="2104"
+                          VPOS="4122"
+                          HPOS="408"
+                          CONTENT="Tarso Tarsio et Tarsienese et il suo caso possessivamente Rosico, et Rosico il scoglio."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

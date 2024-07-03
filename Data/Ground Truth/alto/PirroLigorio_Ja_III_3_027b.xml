@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_027b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:01.039+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643803551075_1301"
+                       HEIGHT="225"
+                       WIDTH="379"
+                       VPOS="210"
+                       HPOS="2926">
+               <Shape>
+                  <Polygon POINTS="2926,216 3304,210 3305,435 2926,435"/>
+               </Shape>
+               <TextLine ID="line_1642408895726_482"
+                         BASELINE="2950,286 3179,279"
+                         HEIGHT="57"
+                         WIDTH="230"
+                         VPOS="234"
+                         HPOS="2949">
+                  <String ID="string_line_1642408895726_482"
+                          HEIGHT="57"
+                          WIDTH="230"
+                          VPOS="234"
+                          HPOS="2949"
+                          CONTENT="30"/>
+               </TextLine>
+               <TextLine ID="line_1642408899767_487"
+                         BASELINE="3102,399 3222,402"
+                         HEIGHT="53"
+                         WIDTH="121"
+                         VPOS="354"
+                         HPOS="3102">
+                  <String ID="string_line_1642408899767_487"
+                          HEIGHT="53"
+                          WIDTH="121"
+                          VPOS="354"
+                          HPOS="3102"
+                          CONTENT="27"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1644922112702_1221"
+                       HEIGHT="3199"
+                       WIDTH="2987"
+                       VPOS="381"
+                       HPOS="332">
+               <Shape>
+                  <Polygon POINTS="332,381 2926,417 2926,435 3305,435 3319,3580 332,3542"/>
+               </Shape>
+               <TextLine ID="r1l2"
+                         BASELINE="346,474 472,475 598,476 724,478 851,480 977,482 1103,484 1230,486 1356,488 1482,490 1609,490 1735,492 1861,494 1987,494 2114,496 2240,496 2366,496 2493,498 2619,498 2745,496 2872,496"
+                         HEIGHT="91"
+                         WIDTH="2526"
+                         VPOS="429"
+                         HPOS="346">
+                  <String ID="string_r1l2"
+                          HEIGHT="91"
+                          WIDTH="2526"
+                          VPOS="429"
+                          HPOS="346"
+                          CONTENT="REGMA, è citta et pago, et nome di Golfo et di litto al persico Golfo, donde si dice il gentile"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="398,572 522,572 646,574 770,574 895,574 1019,574 1143,576 1268,576 1392,576 1516,578 1641,578 1765,578 1889,580 2013,580 2138,580 2262,580 2386,580 2511,580 2635,580 2759,579 2884,578"
+                         HEIGHT="74"
+                         WIDTH="2486"
+                         VPOS="528"
+                         HPOS="398">
+                  <String ID="string_r1l3"
+                          HEIGHT="74"
+                          WIDTH="2486"
+                          VPOS="528"
+                          HPOS="398"
+                          CONTENT="Regmatite, ò ΡΗΓΜΑΤΙΤΗΣ, come si ritrahe da Stephano, ove dice. ΡΗΓΜΑ, ΠΟΛΙΣ, ΩΣ ΑΡΜΑ,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="402,664 527,664 653,664 778,664 904,664 1029,664 1155,666 1280,666 1406,668 1531,668 1657,670 1782,670 1908,672 2033,672 2159,674 2284,674 2410,676 2535,676 2661,678 2786,678 2912,678"
+                         HEIGHT="71"
+                         WIDTH="2510"
+                         VPOS="626"
+                         HPOS="402">
+                  <String ID="string_r1l4"
+                          HEIGHT="71"
+                          WIDTH="2510"
+                          VPOS="626"
+                          HPOS="402"
+                          CONTENT="ΚΑΙ ΚΟΛΠΟΣ, ΡΗΜΑ ΠΕΡΙΤΟΝ ΠΕΡΣΙΚΟΝ ΚΟΛΠΟΝ. τΟ Ε ΟΝΙΚΟΝ, ΡΗΙΜΑΤΙΤΗΣ: et perche alcuni vogliono,"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="408,742 493,742 578,740 663,741 748,742 834,742 919,744 1004,746 1089,748 1174,750 1260,752 1345,756 1430,758 1515,760 1600,762 1686,764 1771,766 1856,766 1941,768 2026,768 2112,768"
+                         HEIGHT="85"
+                         WIDTH="1704"
+                         VPOS="702"
+                         HPOS="408">
+                  <String ID="string_r1l5"
+                          HEIGHT="85"
+                          WIDTH="1704"
+                          VPOS="702"
+                          HPOS="408"
+                          CONTENT="che si scriva Rhegma con la spiratione della . H. nehavemo scritto più oltre."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="346,1138 472,1136 599,1134 725,1132 852,1132 978,1132 1105,1132 1231,1132 1358,1134 1484,1134 1611,1136 1737,1138 1864,1140 1990,1142 2117,1146 2243,1148 2370,1150 2496,1152 2623,1154 2749,1155 2876,1156"
+                         HEIGHT="91"
+                         WIDTH="2530"
+                         VPOS="1087"
+                         HPOS="346">
+                  <String ID="string_r1l6"
+                          HEIGHT="91"
+                          WIDTH="2530"
+                          VPOS="1087"
+                          HPOS="346"
+                          CONTENT="RENE, ΡΗΝΗ, ΝΗΣΟΣ. è picciola Isola presso à Delo, et leggesi Renis, ò ΡΗΝΙΣ, et ΡΗΝΑΙΑ,"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="394,1236 518,1234 642,1232 766,1230 890,1228 1015,1228 1139,1228 1263,1230 1387,1230 1511,1232 1636,1234 1760,1235 1884,1236 2008,1238 2132,1240 2257,1242 2381,1244 2505,1245 2629,1246 2753,1246 2878,1248"
+                         HEIGHT="86"
+                         WIDTH="2484"
+                         VPOS="1184"
+                         HPOS="394">
+                  <String ID="string_r1l7"
+                          HEIGHT="86"
+                          WIDTH="2484"
+                          VPOS="1184"
+                          HPOS="394"
+                          CONTENT="et si legge non solo Renaea, ma Renaeense, et Renio, ò ΡΗΝΙΟΣ, ΡΗΝΑΙΕΥΣ, alcuni per .H."/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="396,1326 524,1323 652,1320 780,1319 908,1318 1036,1318 1164,1318 1292,1318 1420,1320 1548,1320 1676,1322 1804,1324 1932,1326 2060,1328 2188,1330 2316,1332 2444,1334 2572,1338 2700,1338 2828,1340 2956,1342"
+                         HEIGHT="84"
+                         WIDTH="2560"
+                         VPOS="1278"
+                         HPOS="396">
+                  <String ID="string_r1l8"
+                          HEIGHT="84"
+                          WIDTH="2560"
+                          VPOS="1278"
+                          HPOS="396"
+                          CONTENT="la scrivono latinimente Rhene, et Rhenaea. Et viene annumerata tralecycladi del Mare Aegeo, et ilvul¬"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="384,1412 414,1410 444,1408 475,1406 505,1406 536,1405 566,1404 596,1404 627,1402 657,1402 688,1402 718,1400 748,1400 779,1400 809,1400 840,1400 870,1401 900,1402 931,1402 961,1403 992,1404"
+                         HEIGHT="72"
+                         WIDTH="608"
+                         VPOS="1360"
+                         HPOS="384">
+                  <String ID="string_r1l9"
+                          HEIGHT="72"
+                          WIDTH="608"
+                          VPOS="1360"
+                          HPOS="384"
+                          CONTENT="go l'appella Fermenia."/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="352,1734 481,1740 611,1744 740,1748 870,1752 999,1754 1129,1758 1258,1761 1388,1764 1517,1767 1647,1770 1776,1773 1906,1776 2035,1780 2165,1784 2294,1788 2424,1793 2553,1798 2683,1804 2812,1810 2942,1818"
+                         HEIGHT="151"
+                         WIDTH="2590"
+                         VPOS="1689"
+                         HPOS="352">
+                  <String ID="string_r1l10"
+                          HEIGHT="151"
+                          WIDTH="2590"
+                          VPOS="1689"
+                          HPOS="352"
+                          CONTENT="RENEI, et Rhenai, ΡΗΝΟΙ, sono popoli ò gente nella Persia sul fiume Reno, ò ΡΗΝΩ. come"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="390,1836 448,1839 506,1840 564,1842 622,1844 681,1846 739,1846 797,1848 855,1848 913,1850 972,1850 1030,1852 1088,1852 1146,1854 1204,1854 1263,1856 1321,1858 1379,1859 1437,1861 1495,1862 1554,1866"
+                         HEIGHT="97"
+                         WIDTH="1164"
+                         VPOS="1791"
+                         HPOS="390">
+                  <String ID="string_r1l11"
+                          HEIGHT="97"
+                          WIDTH="1164"
+                          VPOS="1791"
+                          HPOS="390"
+                          CONTENT="disse Uranio. et Fanne menzione Stephano."/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="356,2402 480,2404 605,2406 730,2408 855,2410 980,2414 1105,2416 1230,2419 1355,2422 1480,2425 1605,2428 1729,2432 1854,2436 1979,2439 2104,2442 2229,2446 2354,2450 2479,2452 2604,2456 2729,2460 2854,2464"
+                         HEIGHT="129"
+                         WIDTH="2498"
+                         VPOS="2357"
+                         HPOS="356">
+                  <String ID="string_r1l12"
+                          HEIGHT="129"
+                          WIDTH="2498"
+                          VPOS="2357"
+                          HPOS="356"
+                          CONTENT="REGILIO, et Regillas, Regillus, è nome di citta di sabini presso à Stephano. ma si gabba."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="368,2498 492,2499 617,2500 741,2503 866,2506 991,2508 1115,2510 1240,2514 1364,2518 1489,2521 1614,2524 1738,2528 1863,2532 1987,2536 2112,2540 2237,2544 2361,2548 2486,2551 2610,2556 2735,2558 2860,2562"
+                         HEIGHT="131"
+                         WIDTH="2492"
+                         VPOS="2453"
+                         HPOS="368">
+                  <String ID="string_r1l13"
+                          HEIGHT="131"
+                          WIDTH="2492"
+                          VPOS="2453"
+                          HPOS="368"
+                          CONTENT="per che Regillo fu in latio à quattordicimiglia discosto da Roma lo quale luoghi hoggidi, è"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="386,2590 509,2592 633,2593 756,2596 880,2598 1003,2600 1127,2604 1250,2608 1374,2612 1497,2617 1621,2622 1744,2628 1868,2632 1991,2636 2115,2642 2238,2647 2362,2652 2485,2656 2609,2661 2732,2666 2856,2668"
+                         HEIGHT="145"
+                         WIDTH="2470"
+                         VPOS="2545"
+                         HPOS="386">
+                  <String ID="string_r1l14"
+                          HEIGHT="145"
+                          WIDTH="2470"
+                          VPOS="2545"
+                          HPOS="386"
+                          CONTENT="dessolato, ove è illago Regillo, ove fu la rotta di latini datagli da Aulo postumio, come scri"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="376,2686 499,2688 622,2692 745,2694 869,2698 992,2702 1115,2706 1239,2708 1362,2712 1485,2717 1609,2721 1732,2724 1855,2730 1978,2735 2102,2739 2225,2744 2348,2749 2472,2754 2595,2760 2718,2765 2842,2772"
+                         HEIGHT="153"
+                         WIDTH="2466"
+                         VPOS="2641"
+                         HPOS="376">
+                  <String ID="string_r1l15"
+                          HEIGHT="153"
+                          WIDTH="2466"
+                          VPOS="2641"
+                          HPOS="376"
+                          CONTENT="vono Livio, et Dionysio Alicarnasseo. Chiamasi hodiernamente Santa presete, posta sulla"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="358,2786 482,2786 607,2788 731,2790 856,2793 980,2796 1105,2800 1229,2804 1354,2810 1478,2814 1603,2820 1727,2825 1852,2830 1976,2836 2101,2841 2225,2846 2350,2851 2474,2856 2599,2861 2723,2864 2848,2868"
+                         HEIGHT="149"
+                         WIDTH="2490"
+                         VPOS="2741"
+                         HPOS="358">
+                  <String ID="string_r1l16"
+                          HEIGHT="149"
+                          WIDTH="2490"
+                          VPOS="2741"
+                          HPOS="358"
+                          CONTENT="go, dove fu il Tempio di Diana. Regillense sula Via Gabinia altramente detta Praenestina."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="332,2894 458,2894 585,2894 712,2896 839,2898 966,2900 1092,2904 1219,2908 1346,2913 1473,2917 1600,2923 1726,2928 1853,2932 1980,2938 2107,2942 2234,2947 2360,2952 2487,2956 2614,2958 2741,2962 2868,2962"
+                         HEIGHT="135"
+                         WIDTH="2536"
+                         VPOS="2849"
+                         HPOS="332">
+                  <String ID="string_r1l17"
+                          HEIGHT="135"
+                          WIDTH="2536"
+                          VPOS="2849"
+                          HPOS="332"
+                          CONTENT="REGILLI Regillis, è la città di sabini patria di Appio Claudio Sabino, da cui fu detta la Tribu Claudia"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="376,2980 500,2987 624,2992 748,2998 872,3002 997,3006 1121,3010 1245,3014 1369,3018 1493,3022 1618,3025 1742,3028 1866,3032 1990,3034 2114,3038 2239,3041 2363,3044 2487,3048 2611,3050 2735,3054 2860,3058"
+                         HEIGHT="145"
+                         WIDTH="2484"
+                         VPOS="2935"
+                         HPOS="376">
+                  <String ID="string_r1l18"
+                          HEIGHT="145"
+                          WIDTH="2484"
+                          VPOS="2935"
+                          HPOS="376"
+                          CONTENT="sendo posto da Romani tra li senatori, et honorati li suoi nella Tribù detta da lui Claudia, che havea"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="382,3086 507,3092 632,3098 757,3104 882,3108 1007,3113 1132,3116 1257,3120 1382,3122 1507,3124 1633,3126 1758,3128 1883,3130 2008,3132 2133,3134 2258,3136 2383,3138 2508,3140 2633,3143 2758,3146 2884,3150"
+                         HEIGHT="131"
+                         WIDTH="2502"
+                         VPOS="3041"
+                         HPOS="382">
+                  <String ID="string_r1l19"
+                          HEIGHT="131"
+                          WIDTH="2502"
+                          VPOS="3041"
+                          HPOS="382"
+                          CONTENT="il Territorio dila del fiume Aniene, che hora si dice Teverone: et fù questo regilli rovinata"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="370,3174 495,3180 620,3188 745,3195 870,3200 996,3206 1121,3209 1246,3214 1371,3216 1496,3220 1622,3222 1747,3224 1872,3226 1997,3230 2122,3232 2248,3234 2373,3236 2498,3240 2623,3244 2748,3248 2874,3252"
+                         HEIGHT="144"
+                         WIDTH="2504"
+                         VPOS="3130"
+                         HPOS="370">
+                  <String ID="string_r1l20"
+                          HEIGHT="144"
+                          WIDTH="2504"
+                          VPOS="3130"
+                          HPOS="370"
+                          CONTENT="et da questa patria Svetonio chiama Appio Claudio Regillano lo quale diede la origine alla Claudia"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="366,3270 490,3278 614,3284 739,3288 863,3294 988,3298 1112,3302 1236,3306 1361,3309 1485,3312 1610,3314 1734,3318 1858,3320 1983,3323 2107,3326 2232,3328 2356,3332 2480,3334 2605,3338 2729,3342 2854,3346"
+                         HEIGHT="143"
+                         WIDTH="2488"
+                         VPOS="3225"
+                         HPOS="366">
+                  <String ID="string_r1l21"
+                          HEIGHT="143"
+                          WIDTH="2488"
+                          VPOS="3225"
+                          HPOS="366"
+                          CONTENT="fameglia. Cosi addunque il nome di Regillo mascolinamente se intende perlo laco et Vico ch'era"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="378,3374 503,3380 629,3386 755,3390 880,3394 1006,3398 1132,3402 1257,3406 1383,3408 1509,3411 1635,3414 1760,3416 1886,3418 2012,3420 2137,3422 2263,3424 2389,3428 2514,3430 2640,3434 2766,3438 2892,3442"
+                         HEIGHT="135"
+                         WIDTH="2514"
+                         VPOS="3329"
+                         HPOS="378">
+                  <String ID="string_r1l22"
+                          HEIGHT="135"
+                          WIDTH="2514"
+                          VPOS="3329"
+                          HPOS="378"
+                          CONTENT="nei latini Volsci invia prenestina in contro al Tusculano. di parla plinio nellibro trentesimo"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="370,3484 457,3484 545,3486 633,3486 721,3488 809,3490 896,3492 984,3494 1072,3496 1160,3500 1248,3502 1335,3505 1423,3507 1511,3510 1599,3512 1687,3514 1774,3516 1862,3518 1950,3520 2038,3520 2126,3520"
+                         HEIGHT="103"
+                         WIDTH="1756"
+                         VPOS="3439"
+                         HPOS="370">
+                  <String ID="string_r1l23"
+                          HEIGHT="103"
+                          WIDTH="1756"
+                          VPOS="3439"
+                          HPOS="370"
+                          CONTENT="terzo alcapo secundo chel vulgo l'appella il lago di Santa Presede."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

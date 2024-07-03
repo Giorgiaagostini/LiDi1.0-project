@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_052a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:10.089+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="145" WIDTH="414" VPOS="1058" HPOS="468">
+               <Shape>
+                  <Polygon POINTS="468,1067 486,1202 878,1203 882,1058"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="486,1114 511,1116 536,1116 561,1116 586,1116 612,1116 637,1116 662,1115 687,1114 712,1113 738,1112 763,1112 788,1110 813,1110 838,1110 864,1108"
+                         HEIGHT="57"
+                         WIDTH="378"
+                         VPOS="1075"
+                         HPOS="486">
+                  <String ID="string_r1l1"
+                          HEIGHT="57"
+                          WIDTH="378"
+                          VPOS="1075"
+                          HPOS="486"
+                          CONTENT="Talento aegypao è di"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="498,1186 523,1186 548,1185 573,1184 598,1184 623,1182 648,1182 673,1182 698,1180 723,1180 748,1180 827,1180"
+                         HEIGHT="57"
+                         WIDTH="276"
+                         VPOS="1145"
+                         HPOS="498">
+                  <String ID="string_r1l2"
+                          HEIGHT="57"
+                          WIDTH="276"
+                          VPOS="1145"
+                          HPOS="498"
+                          CONTENT="1400 scudi."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="4015" WIDTH="2549" VPOS="327" HPOS="886">
+               <Shape>
+                  <Polygon POINTS="886,327 922,4342 3434,4342 3435,339"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="922,434 1042,434 1163,436 1284,436 1405,436 1526,434 1646,434 1767,432 1888,432 2009,430 2130,430 2250,430 2371,430 2492,430 2613,430 2734,430 2854,432 2975,436 3096,438 3217,442 3338,448"
+                         HEIGHT="90"
+                         WIDTH="2416"
+                         VPOS="382"
+                         HPOS="922">
+                  <String ID="string_r2l1"
+                          HEIGHT="90"
+                          WIDTH="2416"
+                          VPOS="382"
+                          HPOS="922"
+                          CONTENT="che ai tempi nostri, nel presente Principato d'Aadriano Imperadore nelli stipendij suoi sono dugento mila"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="952,540 1071,542 1191,544 1310,545 1430,546 1550,544 1669,544 1789,542 1908,542 2028,540 2148,538 2267,536 2387,536 2506,534 2626,534 2746,534 2865,536 2985,538 3104,540 3224,544 3344,548"
+                         HEIGHT="86"
+                         WIDTH="2392"
+                         VPOS="486"
+                         HPOS="952">
+                  <String ID="string_r2l2"
+                          HEIGHT="86"
+                          WIDTH="2392"
+                          VPOS="486"
+                          HPOS="952"
+                          CONTENT="pedoni. Humini d'armi cinquantamillia. Tremila carri per l'uso dela guerra, ha per monitione trecen"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="954,644 1072,646 1191,648 1310,650 1428,650 1547,650 1666,648 1784,648 1903,648 2022,646 2141,646 2259,644 2378,644 2497,644 2615,644 2734,646 2853,648 2971,650 3090,652 3209,657 3328,662"
+                         HEIGHT="90"
+                         WIDTH="2374"
+                         VPOS="596"
+                         HPOS="954">
+                  <String ID="string_r2l3"
+                          HEIGHT="90"
+                          WIDTH="2374"
+                          VPOS="596"
+                          HPOS="954"
+                          CONTENT="to mila armature d'ogni sorte. Hanna armata di seicento navi grosse da munitione,et da mille et quat"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="962,774 1079,774 1196,772 1313,772 1431,770 1548,768 1665,766 1783,763 1900,760 2017,758 2135,756 2252,754 2369,752 2486,750 2604,750 2721,750 2838,750 2956,750 3073,752 3190,756 3308,760"
+                         HEIGHT="96"
+                         WIDTH="2346"
+                         VPOS="702"
+                         HPOS="962">
+                  <String ID="string_r2l4"
+                          HEIGHT="96"
+                          WIDTH="2346"
+                          VPOS="702"
+                          HPOS="962"
+                          CONTENT="tro cento Galere da Remi espedite et agili al combattere etall'andare. et da altretanti navi di piu sorte,"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="984,876 1100,877 1217,876 1333,876 1450,876 1567,876 1683,874 1800,874 1916,872 2033,872 2150,870 2266,870 2383,868 2499,868 2616,868 2733,868 2849,868 2966,868 3082,869 3199,870 3316,872"
+                         HEIGHT="81"
+                         WIDTH="2332"
+                         VPOS="820"
+                         HPOS="984">
+                  <String ID="string_r2l5"
+                          HEIGHT="81"
+                          WIDTH="2332"
+                          VPOS="820"
+                          HPOS="984"
+                          CONTENT="con un numero grandissimo di instrumenti Navali. Oltre à queste ha ottanta Navi apompa dell'ar"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="974,976 1091,976 1209,976 1326,976 1444,976 1562,976 1679,974 1797,974 1914,974 2032,972 2150,972 2267,972 2385,970 2502,970 2620,970 2738,970 2855,970 2973,970 3090,970 3208,970 3326,970"
+                         HEIGHT="75"
+                         WIDTH="2352"
+                         VPOS="924"
+                         HPOS="974">
+                  <String ID="string_r2l6"
+                          HEIGHT="75"
+                          WIDTH="2352"
+                          VPOS="924"
+                          HPOS="974"
+                          CONTENT="mata colla prora et poppa d'oro ornatissime. Le quali solo erano per pompa dela Guerra. Finalmen¬"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="982,1082 1099,1084 1216,1084 1333,1084 1450,1082 1568,1082 1685,1082 1802,1082 1919,1080 2036,1080 2154,1078 2271,1076 2388,1076 2505,1074 2622,1072 2740,1072 2857,1070 2974,1068 3091,1068 3208,1066 3326,1064"
+                         HEIGHT="89"
+                         WIDTH="2344"
+                         VPOS="1018"
+                         HPOS="982">
+                  <String ID="string_r2l7"
+                          HEIGHT="89"
+                          WIDTH="2344"
+                          VPOS="1018"
+                          HPOS="982"
+                          CONTENT="te la camera Imperiale per munitione ha cento cinquanta Migliaia di Thalenti Aegyptij, tanta grandezza"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="986,1188 1101,1188 1217,1188 1333,1188 1449,1188 1565,1188 1681,1186 1797,1184 1913,1184 2029,1182 2145,1180 2260,1180 2376,1178 2492,1178 2608,1176 2724,1176 2840,1176 2956,1176 3072,1178 3188,1180 3304,1182"
+                         HEIGHT="84"
+                         WIDTH="2318"
+                         VPOS="1128"
+                         HPOS="986">
+                  <String ID="string_r2l8"
+                          HEIGHT="84"
+                          WIDTH="2318"
+                          VPOS="1128"
+                          HPOS="986"
+                          CONTENT="et felicita de Romani è nata principalmente dalla maturità del consiglio, et dala virtù et dala potentia"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="978,1306 1094,1302 1210,1298 1327,1295 1443,1293 1560,1290 1676,1290 1792,1288 1909,1288 2025,1286 2142,1286 2258,1286 2374,1286 2491,1286 2607,1286 2724,1286 2840,1286 2956,1286 3073,1284 3189,1284 3306,1284"
+                         HEIGHT="94"
+                         WIDTH="2328"
+                         VPOS="1236"
+                         HPOS="978">
+                  <String ID="string_r2l9"
+                          HEIGHT="94"
+                          WIDTH="2328"
+                          VPOS="1236"
+                          HPOS="978"
+                          CONTENT="in tutte le cose, nella fortuna prospera gia non mai insuperbiti, ne inviliti nelli casi adversi. Sinqui"/>
+               </TextLine>
+               <TextLine ID="r2l10"
+                         BASELINE="978,1414 1095,1412 1213,1408 1331,1404 1448,1402 1566,1400 1684,1398 1801,1396 1919,1396 2037,1394 2155,1394 2272,1392 2390,1392 2508,1392 2625,1390 2743,1390 2861,1390 2978,1388 3096,1387 3214,1386 3332,1384"
+                         HEIGHT="102"
+                         WIDTH="2354"
+                         VPOS="1336"
+                         HPOS="978">
+                  <String ID="string_r2l10"
+                          HEIGHT="102"
+                          WIDTH="2354"
+                          VPOS="1336"
+                          HPOS="978"
+                          CONTENT="l'auttore ci dimostra quanta potentia era congionta insieme per acquetare ogni guerra et sottomette"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="978,1514 1094,1512 1211,1510 1327,1507 1444,1505 1560,1504 1677,1502 1793,1500 1910,1499 2026,1498 2143,1496 2259,1496 2376,1496 2492,1494 2609,1494 2725,1492 2842,1492 2958,1490 3075,1490 3191,1488 3308,1488"
+                         HEIGHT="98"
+                         WIDTH="2330"
+                         VPOS="1440"
+                         HPOS="978">
+                  <String ID="string_r2l11"
+                          HEIGHT="98"
+                          WIDTH="2330"
+                          VPOS="1440"
+                          HPOS="978"
+                          CONTENT="re ogni regno. Et queste grandezza nelle cose del mare, duoi luoghi ne erano capaci in due porti, sendo"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="1000,1620 1115,1618 1231,1616 1346,1614 1462,1614 1577,1612 1693,1610 1808,1608 1924,1606 2039,1604 2155,1603 2270,1602 2386,1600 2501,1598 2617,1598 2732,1596 2848,1596 2963,1594 3079,1594 3194,1594 3310,1594"
+                         HEIGHT="98"
+                         WIDTH="2310"
+                         VPOS="1546"
+                         HPOS="1000">
+                  <String ID="string_r2l12"
+                          HEIGHT="98"
+                          WIDTH="2310"
+                          VPOS="1546"
+                          HPOS="1000"
+                          CONTENT="divisa l'armata in duoi corpi, l'uno chiamato Misenatium, dal Miseno porto, che era nelli campani nel"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="1004,1728 1119,1724 1234,1722 1349,1720 1464,1717 1579,1715 1694,1714 1809,1712 1924,1710 2039,1710 2155,1708 2270,1706 2385,1706 2500,1706 2615,1704 2730,1704 2845,1704 2960,1704 3075,1704 3190,1702 3306,1702"
+                         HEIGHT="98"
+                         WIDTH="2302"
+                         VPOS="1654"
+                         HPOS="1004">
+                  <String ID="string_r2l13"
+                          HEIGHT="98"
+                          WIDTH="2302"
+                          VPOS="1654"
+                          HPOS="1004"
+                          CONTENT="Tyrrheno lito perle cose dell'Africa et dell'Europa. et l'altra parte era Ravennatium, che stava"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="988,1828 1104,1826 1220,1826 1337,1824 1453,1824 1570,1822 1686,1822 1802,1820 1919,1820 2035,1818 2152,1818 2268,1816 2384,1816 2501,1814 2617,1814 2734,1812 2850,1812 2966,1810 3083,1810 3199,1808 3316,1808"
+                         HEIGHT="90"
+                         WIDTH="2328"
+                         VPOS="1761"
+                         HPOS="988">
+                  <String ID="string_r2l14"
+                          HEIGHT="90"
+                          WIDTH="2328"
+                          VPOS="1761"
+                          HPOS="988"
+                          CONTENT="nel Ravennate porto, nell'Hadriatico Mare, ove era pronta alle cose dell'Asiatiche occorentie."/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="990,1926 1105,1924 1221,1922 1337,1922 1453,1920 1569,1918 1684,1918 1800,1918 1916,1918 2032,1916 2148,1916 2263,1916 2379,1916 2495,1916 2611,1916 2727,1914 2842,1914 2958,1914 3074,1912 3190,1910 3306,1908"
+                         HEIGHT="88"
+                         WIDTH="2316"
+                         VPOS="1861"
+                         HPOS="990">
+                  <String ID="string_r2l15"
+                          HEIGHT="88"
+                          WIDTH="2316"
+                          VPOS="1861"
+                          HPOS="990"
+                          CONTENT="Lo quale Navale era la dove hora si chiama Classis. Ora per non mancare atutte le parti delle"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="992,2034 1109,2031 1226,2028 1343,2025 1460,2024 1577,2022 1694,2022 1811,2020 1928,2020 2045,2020 2163,2020 2280,2020 2397,2020 2514,2018 2631,2018 2748,2016 2865,2014 2982,2012 3099,2008 3216,2004 3334,1998"
+                         HEIGHT="108"
+                         WIDTH="2342"
+                         VPOS="1950"
+                         HPOS="992">
+                  <String ID="string_r2l16"
+                          HEIGHT="108"
+                          WIDTH="2342"
+                          VPOS="1950"
+                          HPOS="992"
+                          CONTENT="cose legionarie dirremo questo. Come la legione chiamata Prima Adiutrice fu fatta da Ha"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="990,2136 1106,2136 1223,2136 1339,2136 1456,2134 1572,2134 1689,2132 1805,2132 1922,2130 2038,2128 2155,2126 2271,2126 2388,2124 2504,2122 2621,2122 2737,2120 2854,2120 2970,2120 3087,2120 3203,2120 3320,2120"
+                         HEIGHT="88"
+                         WIDTH="2330"
+                         VPOS="2072"
+                         HPOS="990">
+                  <String ID="string_r2l17"
+                          HEIGHT="88"
+                          WIDTH="2330"
+                          VPOS="2072"
+                          HPOS="990"
+                          CONTENT="driano: perlo che si trova nella medaglia di esso imperadore come institui la Discipulina de"/>
+               </TextLine>
+               <TextLine ID="r2l18"
+                         BASELINE="998,2234 1114,2236 1231,2236 1347,2236 1464,2236 1581,2236 1697,2236 1814,2234 1930,2234 2047,2233 2164,2232 2280,2231 2397,2230 2513,2228 2630,2226 2747,2226 2863,2224 2980,2222 3096,2220 3213,2218 3330,2216"
+                         HEIGHT="90"
+                         WIDTH="2332"
+                         VPOS="2169"
+                         HPOS="998">
+                  <String ID="string_r2l18"
+                          HEIGHT="90"
+                          WIDTH="2332"
+                          VPOS="2169"
+                          HPOS="998"
+                          CONTENT="soldati, et pose le leggioni in molti luoghi dove potessero commodamente difendere lo imperio"/>
+               </TextLine>
+               <TextLine ID="r2l19"
+                         BASELINE="1008,2326 1124,2330 1241,2332 1357,2332 1474,2334 1591,2334 1707,2334 1824,2334 1940,2332 2057,2332 2174,2330 2290,2330 2407,2328 2523,2326 2640,2326 2757,2326 2873,2326 2990,2326 3106,2326 3223,2328 3340,2330"
+                         HEIGHT="77"
+                         WIDTH="2332"
+                         VPOS="2280"
+                         HPOS="1008">
+                  <String ID="string_r2l19"
+                          HEIGHT="77"
+                          WIDTH="2332"
+                          VPOS="2280"
+                          HPOS="1008"
+                          CONTENT="et quella legione che havea di mestiero di Aiuto la adiutrice suppliva. dela quale fu Tribu"/>
+               </TextLine>
+               <TextLine ID="r2l20"
+                         BASELINE="996,2444 1113,2442 1231,2442 1348,2442 1466,2440 1583,2440 1701,2440 1818,2438 1936,2438 2053,2438 2171,2436 2288,2436 2406,2434 2523,2434 2641,2432 2758,2432 2876,2430 2993,2428 3111,2428 3228,2426 3346,2424"
+                         HEIGHT="90"
+                         WIDTH="2350"
+                         VPOS="2377"
+                         HPOS="996">
+                  <String ID="string_r2l20"
+                          HEIGHT="90"
+                          WIDTH="2350"
+                          VPOS="2377"
+                          HPOS="996"
+                          CONTENT="no et capitano Antonino pio che poi fu Imperatore. Marco Aurelio Antonino fu quello che"/>
+               </TextLine>
+               <TextLine ID="r2l21"
+                         BASELINE="1002,2558 1119,2558 1236,2558 1353,2556 1470,2555 1588,2554 1705,2552 1822,2550 1939,2548 2056,2546 2174,2544 2291,2542 2408,2540 2525,2538 2642,2538 2760,2536 2877,2536 2994,2536 3111,2536 3228,2538 3346,2538"
+                         HEIGHT="94"
+                         WIDTH="2344"
+                         VPOS="2488"
+                         HPOS="1002">
+                  <String ID="string_r2l21"
+                          HEIGHT="94"
+                          WIDTH="2344"
+                          VPOS="2488"
+                          HPOS="1002"
+                          CONTENT="nuto il nome alla legione duodecima Augusta et la chiamo Fulminifera. percio che militando"/>
+               </TextLine>
+               <TextLine ID="r2l22"
+                         BASELINE="1016,2668 1133,2668 1251,2666 1368,2664 1486,2664 1603,2662 1721,2660 1838,2657 1956,2654 2073,2652 2191,2650 2308,2648 2426,2646 2543,2644 2661,2642 2778,2642 2896,2642 3013,2642 3131,2642 3248,2644 3366,2646"
+                         HEIGHT="98"
+                         WIDTH="2350"
+                         VPOS="2594"
+                         HPOS="1016">
+                  <String ID="string_r2l22"
+                          HEIGHT="98"
+                          WIDTH="2350"
+                          VPOS="2594"
+                          HPOS="1016"
+                          CONTENT="egli contra Marcomanni fu assediato l'essercito Romano, et muovendo di disascio et principal¬"/>
+               </TextLine>
+               <TextLine ID="r2l23"
+                         BASELINE="1008,2772 1125,2770 1242,2768 1359,2766 1477,2764 1594,2764 1711,2762 1829,2760 1946,2758 2063,2756 2181,2756 2298,2754 2415,2752 2532,2751 2650,2750 2767,2748 2884,2748 3002,2746 3119,2746 3236,2744 3354,2744"
+                         HEIGHT="98"
+                         WIDTH="2346"
+                         VPOS="2697"
+                         HPOS="1008">
+                  <String ID="string_r2l23"
+                          HEIGHT="98"
+                          WIDTH="2346"
+                          VPOS="2697"
+                          HPOS="1008"
+                          CONTENT="mente dela sete, per che non pioveva, et stando in luogo arido et inacessibile, si rivolsealli prie¬"/>
+               </TextLine>
+               <TextLine ID="r2l24"
+                         BASELINE="1004,2876 1121,2875 1238,2874 1355,2873 1473,2872 1590,2872 1707,2870 1825,2870 1942,2870 2059,2868 2177,2868 2294,2866 2411,2864 2528,2862 2646,2860 2763,2858 2880,2856 2998,2852 3115,2848 3232,2845 3350,2840"
+                         HEIGHT="106"
+                         WIDTH="2346"
+                         VPOS="2793"
+                         HPOS="1004">
+                  <String ID="string_r2l24"
+                          HEIGHT="106"
+                          WIDTH="2346"
+                          VPOS="2793"
+                          HPOS="1004"
+                          CONTENT="glio verso gli Iddij, che li volessero soccorrere, à tanto pericolo. Onde non potendo havere gratia"/>
+               </TextLine>
+               <TextLine ID="r2l25"
+                         BASELINE="1004,2992 1122,2988 1241,2986 1359,2984 1478,2981 1596,2980 1715,2978 1833,2976 1952,2974 2070,2974 2189,2972 2307,2972 2426,2970 2544,2970 2663,2968 2781,2966 2900,2964 3018,2962 3137,2960 3255,2957 3374,2954"
+                         HEIGHT="110"
+                         WIDTH="2370"
+                         VPOS="2906"
+                         HPOS="1004">
+                  <String ID="string_r2l25"
+                          HEIGHT="110"
+                          WIDTH="2370"
+                          VPOS="2906"
+                          HPOS="1004"
+                          CONTENT="come desideravano erano disperati et colli iddij et conl'altri rimedij, cercavano per via di Vaticinij"/>
+               </TextLine>
+               <TextLine ID="r2l26"
+                         BASELINE="1020,3092 1139,3090 1258,3090 1377,3088 1496,3086 1615,3086 1734,3084 1853,3082 1972,3080 2091,3078 2211,3076 2330,3075 2449,3074 2568,3072 2687,3070 2806,3068 2925,3066 3044,3065 3163,3064 3282,3062 3402,3062"
+                         HEIGHT="99"
+                         WIDTH="2382"
+                         VPOS="3016"
+                         HPOS="1020">
+                  <String ID="string_r2l26"
+                          HEIGHT="99"
+                          WIDTH="2382"
+                          VPOS="3016"
+                          HPOS="1020"
+                          CONTENT="intendere che havessi da essere di loro fine: iddi ispiro all'Auguri che si dovessero raccomandare"/>
+               </TextLine>
+               <TextLine ID="r2l27"
+                         BASELINE="1040,3194 1157,3194 1274,3192 1391,3190 1508,3188 1626,3186 1743,3184 1860,3182 1977,3179 2094,3176 2212,3174 2329,3172 2446,3169 2563,3166 2680,3164 2798,3162 2915,3160 3032,3158 3149,3158 3266,3156 3384,3156"
+                         HEIGHT="107"
+                         WIDTH="2344"
+                         VPOS="3110"
+                         HPOS="1040">
+                  <String ID="string_r2l27"
+                          HEIGHT="107"
+                          WIDTH="2344"
+                          VPOS="3110"
+                          HPOS="1040"
+                          CONTENT="allo Iddio de christiani, et prenuntiarono che dovessero provare perli prieghi loro ad' accatare la"/>
+               </TextLine>
+               <TextLine ID="r2l28"
+                         BASELINE="1030,3298 1148,3298 1266,3298 1384,3296 1502,3296 1621,3294 1739,3292 1857,3290 1975,3286 2093,3284 2212,3282 2330,3278 2448,3276 2566,3272 2684,3270 2803,3267 2921,3264 3039,3262 3157,3260 3275,3258 3394,3256"
+                         HEIGHT="114"
+                         WIDTH="2364"
+                         VPOS="3208"
+                         HPOS="1030">
+                  <String ID="string_r2l28"
+                          HEIGHT="114"
+                          WIDTH="2364"
+                          VPOS="3208"
+                          HPOS="1030"
+                          CONTENT="salute, impero che allato à loro erano molti christiani, che venivano da gentili perseguitati, i qua"/>
+               </TextLine>
+               <TextLine ID="r2l29"
+                         BASELINE="1024,3402 1142,3400 1260,3398 1378,3396 1496,3394 1614,3392 1732,3390 1850,3388 1968,3386 2086,3384 2205,3382 2323,3380 2441,3378 2559,3376 2677,3373 2795,3370 2913,3366 3031,3364 3149,3360 3267,3356 3386,3352"
+                         HEIGHT="120"
+                         WIDTH="2362"
+                         VPOS="3305"
+                         HPOS="1024">
+                  <String ID="string_r2l29"
+                          HEIGHT="120"
+                          WIDTH="2362"
+                          VPOS="3305"
+                          HPOS="1024"
+                          CONTENT="li adimandati, che volessero colli loro prieghi supplicare à Dio, con prometterli la loro liberta"/>
+               </TextLine>
+               <TextLine ID="r2l30"
+                         BASELINE="1032,3510 1149,3508 1266,3506 1383,3504 1501,3502 1618,3500 1735,3498 1853,3496 1970,3494 2087,3492 2205,3490 2322,3488 2439,3486 2556,3482 2674,3480 2791,3476 2908,3472 3026,3468 3143,3464 3260,3459 3378,3452"
+                         HEIGHT="130"
+                         WIDTH="2346"
+                         VPOS="3404"
+                         HPOS="1032">
+                  <String ID="string_r2l30"
+                          HEIGHT="130"
+                          WIDTH="2346"
+                          VPOS="3404"
+                          HPOS="1032"
+                          CONTENT="et salute dj potere viver in Roma liberamente et sicuramente. Cosi volente Iddio salvatore"/>
+               </TextLine>
+               <TextLine ID="r2l31"
+                         BASELINE="1024,3620 1144,3616 1265,3614 1385,3612 1506,3609 1626,3607 1747,3606 1867,3604 1988,3602 2108,3600 2229,3598 2349,3596 2470,3594 2590,3592 2711,3590 2831,3588 2952,3586 3072,3582 3193,3580 3313,3576 3434,3572"
+                         HEIGHT="120"
+                         WIDTH="2410"
+                         VPOS="3524"
+                         HPOS="1024">
+                  <String ID="string_r2l31"
+                          HEIGHT="120"
+                          WIDTH="2410"
+                          VPOS="3524"
+                          HPOS="1024"
+                          CONTENT="sendo tutti pieghevoli et prostrati interra fecero le supplicationi. et incontenente venne un turbine"/>
+               </TextLine>
+               <TextLine ID="r2l32"
+                         BASELINE="1032,3726 1151,3722 1271,3718 1391,3716 1511,3712 1631,3710 1751,3708 1871,3706 1991,3704 2111,3702 2231,3700 2350,3700 2470,3698 2590,3698 2710,3696 2830,3694 2950,3694 3070,3692 3190,3691 3310,3690 3430,3688"
+                         HEIGHT="110"
+                         WIDTH="2398"
+                         VPOS="3640"
+                         HPOS="1032">
+                  <String ID="string_r2l32"
+                          HEIGHT="110"
+                          WIDTH="2398"
+                          VPOS="3640"
+                          HPOS="1032"
+                          CONTENT="nell'aere, et li Marcomanni visto che i Romani erano per esser socorsi dala pioggia inconteven"/>
+               </TextLine>
+               <TextLine ID="r2l33"
+                         BASELINE="1020,3826 1139,3822 1258,3818 1377,3815 1497,3812 1616,3808 1735,3806 1855,3804 1974,3802 2093,3800 2213,3798 2332,3796 2451,3794 2570,3794 2690,3792 2809,3791 2928,3790 3048,3788 3167,3786 3286,3784 3406,3782"
+                         HEIGHT="116"
+                         WIDTH="2386"
+                         VPOS="3734"
+                         HPOS="1020">
+                  <String ID="string_r2l33"
+                          HEIGHT="116"
+                          WIDTH="2386"
+                          VPOS="3734"
+                          HPOS="1020"
+                          CONTENT="te corsero à volere espugnare il Romano Castro. per forza, la onde in quell'instante apertele"/>
+               </TextLine>
+               <TextLine ID="r2l34"
+                         BASELINE="1012,3938 1131,3932 1251,3928 1371,3924 1490,3920 1610,3916 1730,3914 1849,3912 1969,3910 2089,3908 2209,3907 2328,3906 2448,3906 2568,3906 2687,3906 2807,3906 2927,3908 3046,3908 3166,3908 3286,3910 3406,3912"
+                         HEIGHT="96"
+                         WIDTH="2394"
+                         VPOS="3863"
+                         HPOS="1012">
+                  <String ID="string_r2l34"
+                          HEIGHT="96"
+                          WIDTH="2394"
+                          VPOS="3863"
+                          HPOS="1012"
+                          CONTENT="catharatte dele nube venne giu acqua come un dilluvio, accompagnata contanta copia di fulmi"/>
+               </TextLine>
+               <TextLine ID="r2l35"
+                         BASELINE="1020,4024 1138,4022 1257,4022 1376,4020 1495,4018 1614,4018 1732,4016 1851,4014 1970,4014 2089,4012 2208,4012 2326,4010 2445,4010 2564,4008 2683,4008 2802,4006 2920,4006 3039,4006 3158,4006 3277,4006 3396,4006"
+                         HEIGHT="82"
+                         WIDTH="2376"
+                         VPOS="3963"
+                         HPOS="1020">
+                  <String ID="string_r2l35"
+                          HEIGHT="82"
+                          WIDTH="2376"
+                          VPOS="3963"
+                          HPOS="1020"
+                          CONTENT="che davano infaccia à Marcomani inmaniera che essi barbari furono, et dall'arme romane"/>
+               </TextLine>
+               <TextLine ID="r2l36"
+                         BASELINE="1032,4120 1149,4118 1267,4116 1385,4114 1503,4112 1621,4110 1738,4110 1856,4108 1974,4108 2092,4108 2210,4108 2327,4106 2445,4106 2563,4106 2681,4106 2799,4106 2916,4106 3034,4104 3152,4104 3270,4102 3388,4102"
+                         HEIGHT="87"
+                         WIDTH="2356"
+                         VPOS="4056"
+                         HPOS="1032">
+                  <String ID="string_r2l36"
+                          HEIGHT="87"
+                          WIDTH="2356"
+                          VPOS="4056"
+                          HPOS="1032"
+                          CONTENT="et dalli fulmini dissippati, et pareva che la terra con ungrandissimo nembo di acqua s'alzase"/>
+               </TextLine>
+               <TextLine ID="r2l37"
+                         BASELINE="1036,4220 1153,4220 1271,4220 1389,4220 1507,4220 1625,4220 1743,4220 1861,4218 1979,4218 2097,4216 2215,4214 2332,4214 2450,4212 2568,4210 2686,4210 2804,4208 2922,4206 3040,4204 3158,4202 3276,4200 3394,4200"
+                         HEIGHT="87"
+                         WIDTH="2358"
+                         VPOS="4155"
+                         HPOS="1036">
+                  <String ID="string_r2l37"
+                          HEIGHT="87"
+                          WIDTH="2358"
+                          VPOS="4155"
+                          HPOS="1036"
+                          CONTENT="perla salute Romana. et da questa Vittoria aiutatada Fulmini la legione prese il nome di Fulmi"/>
+               </TextLine>
+               <TextLine ID="r2l38"
+                         BASELINE="1044,4320 1162,4318 1280,4316 1398,4314 1516,4314 1634,4312 1752,4310 1870,4310 1988,4310 2106,4308 2225,4308 2343,4306 2461,4304 2579,4304 2697,4302 2815,4300 2933,4298 3051,4295 3169,4292 3287,4288 3406,4284"
+                         HEIGHT="102"
+                         WIDTH="2362"
+                         VPOS="4240"
+                         HPOS="1044">
+                  <String ID="string_r2l38"
+                          HEIGHT="102"
+                          WIDTH="2362"
+                          VPOS="4240"
+                          HPOS="1044"
+                          CONTENT="nifera et di Fulminatrice. Come scrive Pamphilo Cesarense. et questo Nembo et dilluione"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

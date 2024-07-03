@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_067b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:12.766+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r2" HEIGHT="257" WIDTH="258" VPOS="185" HPOS="3041">
+               <Shape>
+                  <Polygon POINTS="3041,200 3054,442 3261,432 3299,185"/>
+               </Shape>
+               <TextLine ID="line_1648632841558_1444"
+                         BASELINE="3162,263 3271,250"
+                         HEIGHT="109"
+                         WIDTH="152"
+                         VPOS="186"
+                         HPOS="3138">
+                  <String ID="string_line_1648632841558_1444"
+                          HEIGHT="109"
+                          WIDTH="152"
+                          VPOS="186"
+                          HPOS="3138"
+                          CONTENT="70"/>
+               </TextLine>
+               <TextLine ID="r2l1"
+                         BASELINE="3078,386 3104,388 3131,385 3157,383 3184,384"
+                         HEIGHT="164"
+                         WIDTH="142"
+                         VPOS="260"
+                         HPOS="3059">
+                  <String ID="string_r2l1"
+                          HEIGHT="164"
+                          WIDTH="142"
+                          VPOS="260"
+                          HPOS="3059"
+                          CONTENT="67"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r1" HEIGHT="4019" WIDTH="2552" VPOS="340" HPOS="268">
+               <Shape>
+                  <Polygon POINTS="268,346 268,4341 2820,4359 2789,340"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="342,434 458,440 575,444 692,448 809,450 926,452 1042,452 1159,452 1276,452 1393,450 1510,449 1626,448 1743,445 1860,442 1977,440 2094,438 2210,435 2327,432 2444,430 2561,428 2678,426"
+                         HEIGHT="166"
+                         WIDTH="2369"
+                         VPOS="326"
+                         HPOS="325">
+                  <String ID="string_r1l1"
+                          HEIGHT="166"
+                          WIDTH="2369"
+                          VPOS="326"
+                          HPOS="325"
+                          CONTENT="istesso, et vegghi le cose honeste che ha da dire, et quelle che ha da tacere et nemer'ascose, et quelle"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="344,546 460,548 576,549 692,550 808,550 924,551 1040,552 1156,552 1272,550 1388,550 1505,550 1621,548 1737,547 1853,546 1969,544 2085,542 2201,540 2317,538 2433,536 2549,533 2666,530"
+                         HEIGHT="111"
+                         WIDTH="2351"
+                         VPOS="463"
+                         HPOS="329">
+                  <String ID="string_r1l2"
+                          HEIGHT="111"
+                          WIDTH="2351"
+                          VPOS="463"
+                          HPOS="329"
+                          CONTENT="che ha comprese colla bellezza dell'animo le quali escono à perfettione solo dagli huomini felici è di"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="354,628 468,632 583,636 698,640 813,642 928,644 1043,646 1158,646 1273,648 1388,648 1503,648 1617,646 1732,646 1847,644 1962,642 2077,640 2192,637 2307,634 2422,631 2537,628 2652,624"
+                         HEIGHT="147"
+                         WIDTH="2327"
+                         VPOS="555"
+                         HPOS="339">
+                  <String ID="string_r1l3"
+                          HEIGHT="147"
+                          WIDTH="2327"
+                          VPOS="555"
+                          HPOS="339"
+                          CONTENT="spregiatori dela fragilita humane. Come si legge dela fortuna di Romulo, di Numa Pompilio, di Ser¬"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="346,718 462,724 578,728 694,732 810,734 926,736 1042,736 1158,738 1274,738 1390,738 1507,736 1623,736 1739,734 1855,734 1971,732 2087,730 2203,728 2319,727 2435,726 2551,724 2668,722"
+                         HEIGHT="119"
+                         WIDTH="2353"
+                         VPOS="658"
+                         HPOS="330">
+                  <String ID="string_r1l4"
+                          HEIGHT="119"
+                          WIDTH="2353"
+                          VPOS="658"
+                          HPOS="330"
+                          CONTENT="vio Tullio, è quella di Anco Martio, et di Augusto: benche siano stati molti altri imperatori et gre"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="350,816 464,818 579,820 694,822 809,822 924,822 1039,824 1154,824 1269,823 1384,822 1499,822 1613,822 1728,821 1843,820 1958,820 2073,819 2188,818 2303,818 2418,818 2533,818 2648,818"
+                         HEIGHT="133"
+                         WIDTH="2326"
+                         VPOS="745"
+                         HPOS="336">
+                  <String ID="string_r1l5"
+                          HEIGHT="133"
+                          WIDTH="2326"
+                          VPOS="745"
+                          HPOS="336"
+                          CONTENT="ci et latini, fortunati, et daloro principij se veduto, che per voler divino siano stati inalzati: ma se"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="354,922 469,922 584,920 700,920 815,919 931,918 1046,918 1161,918 1277,918 1392,918 1508,920 1623,920 1738,920 1854,920 1969,920 2085,920 2200,920 2315,920 2431,920 2546,920 2662,920"
+                         HEIGHT="106"
+                         WIDTH="2336"
+                         VPOS="859"
+                         HPOS="340">
+                  <String ID="string_r1l6"
+                          HEIGHT="106"
+                          WIDTH="2336"
+                          VPOS="859"
+                          HPOS="340"
+                          CONTENT="questi furono tutti fortunati non furono gia felici. ò che fusse la pigritia loro, ò la tristitia di popoli"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="348,1026 463,1028 579,1028 695,1028 810,1028 926,1028 1042,1026 1157,1026 1273,1026 1389,1024 1505,1024 1620,1024 1736,1022 1852,1022 1967,1020 2083,1020 2139,1022 2254,1020 2430,1018 2546,1018 2662,1016"
+                         HEIGHT="127"
+                         WIDTH="2342"
+                         VPOS="939"
+                         HPOS="334">
+                  <String ID="string_r1l7"
+                          HEIGHT="127"
+                          WIDTH="2342"
+                          VPOS="939"
+                          HPOS="334"
+                          CONTENT="ò altra malitia, hebbero il fine difficile, come appresso de Greci Solone, Miltiade, Socrate, pelo"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="360,1140 475,1141 590,1142 705,1142 820,1142 935,1142 1050,1140 1165,1138 1280,1137 1395,1136 1511,1134 1626,1132 1741,1130 1856,1126 1971,1124 2086,1122 2201,1121 2316,1120 2431,1118 2546,1118 2662,1116"
+                         HEIGHT="131"
+                         WIDTH="2331"
+                         VPOS="1049"
+                         HPOS="346">
+                  <String ID="string_r1l8"
+                          HEIGHT="131"
+                          WIDTH="2331"
+                          VPOS="1049"
+                          HPOS="346"
+                          CONTENT="pida, Leonida et glialtri, come appo di Romani Galba, Caio Calligola, Nerone, Galba dunque il"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="346,1250 462,1250 579,1249 695,1248 812,1248 929,1246 1045,1244 1162,1242 1278,1242 1395,1240 1512,1238 1628,1236 1745,1234 1861,1234 1978,1232 2095,1232 2211,1230 2328,1230 2444,1230 2561,1230 2678,1230"
+                         HEIGHT="150"
+                         WIDTH="2362"
+                         VPOS="1137"
+                         HPOS="330">
+                  <String ID="string_r1l9"
+                          HEIGHT="150"
+                          WIDTH="2362"
+                          VPOS="1137"
+                          HPOS="330"
+                          CONTENT="quale libero la patria dale mani Neroniane, fu poscia da Othone maltrattato, per essersi troppo refre"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="368,1344 484,1350 601,1352 718,1354 835,1356 952,1356 1068,1354 1185,1354 1302,1352 1419,1350 1536,1348 1652,1346 1769,1344 1886,1342 2003,1340 2120,1340 2236,1340 2353,1342 2470,1344 2587,1347 2723,1365"
+                         HEIGHT="113"
+                         WIDTH="2386"
+                         VPOS="1262"
+                         HPOS="352">
+                  <String ID="string_r1l10"
+                          HEIGHT="113"
+                          WIDTH="2386"
+                          VPOS="1262"
+                          HPOS="352"
+                          CONTENT="dato nell'Imperare suo. Havengha, che questi facessero tutti tristo fine, parve che la fortuna li inalzas"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="368,1466 484,1468 600,1468 716,1468 832,1466 949,1466 1065,1466 1181,1464 1297,1464 1413,1464 1530,1462 1646,1462 1762,1462 1878,1462 1994,1462 2111,1462 2227,1462 2343,1464 2459,1466 2575,1468 2692,1470"
+                         HEIGHT="151"
+                         WIDTH="2353"
+                         VPOS="1382"
+                         HPOS="354">
+                  <String ID="string_r1l11"
+                          HEIGHT="151"
+                          WIDTH="2353"
+                          VPOS="1382"
+                          HPOS="354"
+                          CONTENT="se come per loro felicita et la Fortuna aversa fece l'opposito, come fece in Caio Calligola, in Caesare,"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="364,1564 481,1568 599,1571 716,1572 834,1574 952,1576 1069,1576 1187,1576 1304,1576 1422,1576 1540,1576 1657,1578 1775,1578 1892,1578 2010,1580 2128,1582 2245,1584 2363,1587 2480,1592 2598,1597 2731,1625"
+                         HEIGHT="174"
+                         WIDTH="2396"
+                         VPOS="1479"
+                         HPOS="350">
+                  <String ID="string_r1l12"
+                          HEIGHT="174"
+                          WIDTH="2396"
+                          VPOS="1479"
+                          HPOS="350"
+                          CONTENT="in Pompeio, et nei tempi piu bassi in pertinace, in Septimio Severo infelicissimo nei figliuoli quan"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="368,1686 483,1686 599,1686 715,1688 831,1686 947,1686 1062,1686 1178,1686 1294,1686 1410,1686 1526,1686 1641,1686 1757,1686 1873,1687 1989,1688 2105,1688 2220,1690 2336,1690 2452,1692 2568,1694 2693,1710"
+                         HEIGHT="128"
+                         WIDTH="2354"
+                         VPOS="1602"
+                         HPOS="354">
+                  <String ID="string_r1l13"
+                          HEIGHT="128"
+                          WIDTH="2354"
+                          VPOS="1602"
+                          HPOS="354"
+                          CONTENT="tunque esso fusse volorosissimo et celerissimo in ogni prestantia, il medesimo, al buon Marco Aurelio"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="362,1788 478,1790 594,1791 710,1792 827,1794 943,1794 1059,1796 1176,1796 1292,1796 1408,1796 1525,1796 1641,1798 1757,1796 1873,1796 1990,1796 2106,1796 2222,1796 2339,1796 2455,1796 2571,1796 2702,1808"
+                         HEIGHT="118"
+                         WIDTH="2372"
+                         VPOS="1728"
+                         HPOS="346">
+                  <String ID="string_r1l14"
+                          HEIGHT="118"
+                          WIDTH="2372"
+                          VPOS="1728"
+                          HPOS="346"
+                          CONTENT="Antonino, acui nella philosophia nealtro valore, il fece contento de Figliuoli. Oh' quanti di poi hebbe"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="346,1898 462,1901 579,1904 695,1906 812,1906 928,1908 1045,1908 1161,1908 1278,1908 1394,1910 1511,1910 1627,1910 1744,1910 1860,1910 1977,1912 2093,1912 2210,1914 2326,1916 2443,1919 2559,1922 2676,1936"
+                         HEIGHT="162"
+                         WIDTH="2362"
+                         VPOS="1809"
+                         HPOS="330">
+                  <String ID="string_r1l15"
+                          HEIGHT="162"
+                          WIDTH="2362"
+                          VPOS="1809"
+                          HPOS="330"
+                          CONTENT="ro lo imperio, che furono uccise nel fiorire, dello loro stato: come avenne all'Antonino Helagabalo,"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="356,2018 472,2021 588,2022 705,2024 821,2026 938,2026 1054,2028 1170,2028 1287,2030 1403,2030 1520,2030 1636,2030 1752,2032 1869,2032 1985,2032 2102,2032 2218,2034 2334,2034 2451,2036 2567,2036 2684,2038"
+                         HEIGHT="137"
+                         WIDTH="2357"
+                         VPOS="1953"
+                         HPOS="341">
+                  <String ID="string_r1l16"
+                          HEIGHT="137"
+                          WIDTH="2357"
+                          VPOS="1953"
+                          HPOS="341"
+                          CONTENT="a'd'Alexandro Severo, à Philippo et suo figliuolo à Decio et li figliuoli, à Maximino et suo figliu¬"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="346,2134 460,2136 574,2136 689,2136 803,2136 918,2136 1032,2136 1146,2134 1261,2134 1375,2134 1490,2134 1604,2133 1718,2132 1833,2132 1947,2132 2062,2130 2176,2130 2290,2130 2405,2130 2519,2130 2646,2132"
+                         HEIGHT="124"
+                         WIDTH="2330"
+                         VPOS="2056"
+                         HPOS="332">
+                  <String ID="string_r1l17"
+                          HEIGHT="124"
+                          WIDTH="2330"
+                          VPOS="2056"
+                          HPOS="332"
+                          CONTENT="lo come andarono, questi giunsero sul fastigio dell'Imperio, et ne pricipitarono dalla più alta cima,"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="344,2226 458,2228 573,2230 688,2232 803,2232 918,2234 1033,2234 1148,2235 1263,2236 1378,2236 1493,2236 1607,2236 1722,2236 1837,2238 1952,2238 2067,2238 2182,2240 2297,2242 2412,2244 2527,2246 2672,2256"
+                         HEIGHT="164"
+                         WIDTH="2360"
+                         VPOS="2145"
+                         HPOS="329">
+                  <String ID="string_r1l18"
+                          HEIGHT="164"
+                          WIDTH="2360"
+                          VPOS="2145"
+                          HPOS="329"
+                          CONTENT="come ne precipito Valeriano et Gallieno, et tanti altri che per via licita et inlicita, sono andati à filo di"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="334,2334 450,2336 566,2336 682,2336 798,2336 914,2336 1030,2336 1146,2336 1262,2336 1378,2336 1495,2336 1611,2336 1727,2336 1843,2336 1959,2337 2075,2338 2191,2339 2307,2340 2423,2342 2539,2344 2656,2348"
+                         HEIGHT="134"
+                         WIDTH="2353"
+                         VPOS="2244"
+                         HPOS="318">
+                  <String ID="string_r1l19"
+                          HEIGHT="134"
+                          WIDTH="2353"
+                          VPOS="2244"
+                          HPOS="318"
+                          CONTENT="spada. Ordunque tutti gli imperadori fanno nella medaglie loro la Felice Fortuna et l'altre per mo¬"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="346,2436 460,2436 575,2436 690,2436 805,2436 920,2436 1035,2436 1150,2436 1265,2436 1380,2436 1495,2438 1609,2438 1724,2440 1839,2442 1954,2443 2069,2444 2184,2448 2299,2450 2414,2453 2529,2456 2644,2460"
+                         HEIGHT="131"
+                         WIDTH="2330"
+                         VPOS="2362"
+                         HPOS="330">
+                  <String ID="string_r1l20"
+                          HEIGHT="131"
+                          WIDTH="2330"
+                          VPOS="2362"
+                          HPOS="330"
+                          CONTENT="strare quel che volevano, et non quel ch'erano, visi rappresento gia non mai. La stata Fortuna di"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="344,2536 457,2538 571,2540 685,2542 799,2542 913,2544 1026,2544 1140,2546 1254,2546 1368,2546 1482,2548 1595,2548 1709,2548 1823,2548 1937,2550 2051,2550 2164,2550 2278,2552 2392,2552 2506,2554 2644,2565"
+                         HEIGHT="145"
+                         WIDTH="2330"
+                         VPOS="2471"
+                         HPOS="330">
+                  <String ID="string_r1l21"
+                          HEIGHT="145"
+                          WIDTH="2330"
+                          VPOS="2471"
+                          HPOS="330"
+                          CONTENT="Flavio Vespasiano, hebbe pria molte fortune varie, molto faticose, et perse istesso colla Fortuna"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="352,2650 467,2652 582,2652 697,2652 812,2652 927,2652 1042,2652 1157,2654 1272,2654 1387,2654 1502,2654 1617,2656 1732,2656 1847,2658 1962,2658 2077,2660 2192,2662 2307,2665 2422,2668 2537,2671 2678,2689"
+                         HEIGHT="138"
+                         WIDTH="2357"
+                         VPOS="2570"
+                         HPOS="338">
+                  <String ID="string_r1l22"
+                          HEIGHT="138"
+                          WIDTH="2357"
+                          VPOS="2570"
+                          HPOS="338"
+                          CONTENT="tollerante si giovò assai, ma non hebbe egualita ne figliuoli: ma glie benvero che la sua sollicitu¬"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="352,2742 466,2744 581,2744 696,2746 811,2748 926,2748 1040,2748 1155,2750 1270,2750 1385,2750 1500,2750 1614,2750 1729,2752 1844,2752 1959,2752 2074,2754 2188,2754 2303,2756 2418,2758 2533,2759 2661,2764"
+                         HEIGHT="129"
+                         WIDTH="2339"
+                         VPOS="2672"
+                         HPOS="336">
+                  <String ID="string_r1l23"
+                          HEIGHT="129"
+                          WIDTH="2339"
+                          VPOS="2672"
+                          HPOS="336"
+                          CONTENT="dine, et la sua prudentia fu tale, che non solo vinse le cose passate sotto i pericoli Caiani, ma supe"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="360,2838 473,2838 587,2840 700,2840 814,2840 928,2840 1041,2842 1155,2842 1268,2842 1382,2844 1496,2844 1609,2846 1723,2846 1836,2846 1950,2848 2064,2848 2177,2850 2291,2850 2404,2850 2518,2850 2651,2857"
+                         HEIGHT="134"
+                         WIDTH="2321"
+                         VPOS="2781"
+                         HPOS="345">
+                  <String ID="string_r1l24"
+                          HEIGHT="134"
+                          WIDTH="2321"
+                          VPOS="2781"
+                          HPOS="345"
+                          CONTENT="ro la fortuna cattiva, è spinse tutta la civile guerra, perla discordia nata tra Othone et Vitellio,"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="366,2940 480,2938 595,2938 709,2938 824,2938 938,2938 1053,2940 1167,2940 1282,2942 1396,2944 1511,2946 1625,2948 1740,2949 1854,2950 1969,2952 2083,2953 2198,2954 2312,2954 2427,2954 2541,2954 2656,2954"
+                         HEIGHT="149"
+                         WIDTH="2321"
+                         VPOS="2863"
+                         HPOS="351">
+                  <String ID="string_r1l25"
+                          HEIGHT="149"
+                          WIDTH="2321"
+                          VPOS="2863"
+                          HPOS="351"
+                          CONTENT="cosi egli sicome vinse i principi havesse superati i Vitij di Domitiano, sarebbe stato felice: et non"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="354,3032 468,3034 583,3035 698,3036 812,3038 927,3040 1042,3042 1156,3045 1271,3048 1386,3050 1501,3052 1615,3054 1730,3056 1845,3058 1959,3060 2074,3060 2189,3060 2303,3060 2418,3060 2533,3060 2648,3058"
+                         HEIGHT="150"
+                         WIDTH="2324"
+                         VPOS="2968"
+                         HPOS="339">
+                  <String ID="string_r1l26"
+                          HEIGHT="150"
+                          WIDTH="2324"
+                          VPOS="2968"
+                          HPOS="339"
+                          CONTENT="senza cagione in questo di mostrativo modo posero nella medaglia la fortuna Flaviana Felice, la"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="352,3148 467,3148 582,3148 697,3148 812,3150 927,3150 1042,3152 1157,3154 1272,3156 1387,3157 1502,3158 1617,3160 1732,3162 1847,3162 1962,3164 2077,3164 2192,3164 2307,3162 2422,3162 2549,3165 2664,3161"
+                         HEIGHT="127"
+                         WIDTH="2343"
+                         VPOS="3093"
+                         HPOS="336">
+                  <String ID="string_r1l27"
+                          HEIGHT="127"
+                          WIDTH="2343"
+                          VPOS="3093"
+                          HPOS="336"
+                          CONTENT="quale ha il corno dell'abondantia il caduceo dela pace, et il Freno del governo col mondo sotto. et"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="359,3254 475,3249 588,3251 701,3253 814,3256 928,3259 1041,3261 1154,3261 1267,3263 1380,3265 1494,3266 1607,3267 1720,3267 1833,3269 1946,3269 2060,3267 2173,3267 2286,3267 2399,3265 2512,3265 2626,3263"
+                         HEIGHT="148"
+                         WIDTH="2295"
+                         VPOS="3172"
+                         HPOS="345">
+                  <String ID="string_r1l28"
+                          HEIGHT="148"
+                          WIDTH="2295"
+                          VPOS="3172"
+                          HPOS="345"
+                          CONTENT="talvolta senza corno copia. La quale ancho seppe assai bene seguitare il suo figliuolo Tito Vespa¬"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="356,3354 470,3358 584,3362 698,3364 812,3368 926,3370 1040,3372 1154,3372 1268,3374 1382,3374 1497,3376 1611,3376 1725,3376 1839,3378 1953,3378 2067,3378 2181,3378 2295,3378 2409,3378 2523,3380 2638,3380"
+                         HEIGHT="108"
+                         WIDTH="2312"
+                         VPOS="3300"
+                         HPOS="342">
+                  <String ID="string_r1l29"
+                          HEIGHT="108"
+                          WIDTH="2312"
+                          VPOS="3300"
+                          HPOS="342"
+                          CONTENT="siano, quantunque tutta via Domitiano suo fratello il tribulasse con ogni maniera di insida. et"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="360,3458 472,3465 585,3470 697,3474 810,3478 923,3482 1035,3484 1148,3486 1260,3488 1373,3490 1486,3490 1598,3492 1711,3492 1823,3494 1936,3494 2049,3496 2161,3496 2274,3498 2386,3500 2499,3502 2637,3504"
+                         HEIGHT="141"
+                         WIDTH="2310"
+                         VPOS="3392"
+                         HPOS="343">
+                  <String ID="string_r1l30"
+                          HEIGHT="141"
+                          WIDTH="2310"
+                          VPOS="3392"
+                          HPOS="343"
+                          CONTENT="questa Dea anchora: molto meglio sela usurpa il Gran Nerva Coccei. et poscia Ulpio Traiano"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="358,3590 472,3590 587,3592 701,3592 816,3592 930,3594 1045,3594 1159,3594 1274,3596 1388,3596 1503,3597 1617,3598 1732,3600 1846,3600 1961,3602 2075,3604 2190,3606 2304,3608 2419,3611 2533,3614 2677,3629"
+                         HEIGHT="175"
+                         WIDTH="2351"
+                         VPOS="3506"
+                         HPOS="343">
+                  <String ID="string_r1l31"
+                          HEIGHT="175"
+                          WIDTH="2351"
+                          VPOS="3506"
+                          HPOS="343"
+                          CONTENT="che fu grande et degna elettione: il quale nel Valore dela guerra, fu eguale ad'ognialtro principe, ma"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="358,3696 471,3696 585,3698 699,3698 812,3700 926,3701 1040,3702 1153,3704 1267,3706 1381,3706 1495,3708 1608,3710 1722,3712 1836,3714 1949,3716 2063,3718 2177,3720 2290,3722 2404,3724 2518,3726 2661,3744"
+                         HEIGHT="129"
+                         WIDTH="2332"
+                         VPOS="3629"
+                         HPOS="344">
+                  <String ID="string_r1l32"
+                          HEIGHT="129"
+                          WIDTH="2332"
+                          VPOS="3629"
+                          HPOS="344"
+                          CONTENT="non pote esseguire, ne ancho esso la felicita, che designava et voleva, per cio che egli hebbe ancho delli"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="346,3806 460,3807 575,3808 690,3810 805,3812 920,3814 1035,3815 1150,3816 1265,3818 1380,3820 1495,3822 1609,3824 1724,3826 1839,3826 1954,3828 2069,3830 2184,3832 2299,3834 2414,3836 2529,3838 2652,3857"
+                         HEIGHT="124"
+                         WIDTH="2338"
+                         VPOS="3749"
+                         HPOS="330">
+                  <String ID="string_r1l33"
+                          HEIGHT="124"
+                          WIDTH="2338"
+                          VPOS="3749"
+                          HPOS="330"
+                          CONTENT="intoppi et fastidiosi inscontri de suoi nepoti. Ora per non andar' dicendo della Fortuna Felice quel che si"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="362,3916 478,3916 595,3914 712,3914 829,3916 946,3918 1063,3920 1180,3922 1297,3926 1414,3930 1531,3933 1647,3936 1764,3940 1881,3944 1998,3948 2115,3950 2232,3952 2349,3954 2466,3956 2583,3956 2704,3970"
+                         HEIGHT="177"
+                         WIDTH="2376"
+                         VPOS="3836"
+                         HPOS="345">
+                  <String ID="string_r1l34"
+                          HEIGHT="177"
+                          WIDTH="2376"
+                          VPOS="3836"
+                          HPOS="345"
+                          CONTENT="potrebbe dire, brevemente accennaremo dell'altre, sotto altri cognomi. La Fortuna appellata conser"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="368,4028 482,4032 597,4034 712,4038 826,4040 941,4042 1056,4042 1170,4044 1285,4046 1400,4048 1515,4050 1629,4052 1744,4054 1859,4056 1973,4058 2088,4062 2203,4064 2317,4068 2432,4072 2547,4078 2681,4098"
+                         HEIGHT="196"
+                         WIDTH="2340"
+                         VPOS="3957"
+                         HPOS="353">
+                  <String ID="string_r1l35"
+                          HEIGHT="196"
+                          WIDTH="2340"
+                          VPOS="3957"
+                          HPOS="353"
+                          CONTENT="vatrice, et la Reduce, et la Victrice, fecero vestite, colla destra, tien la tazza, et colla sinistra il Ti¬"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="362,4144 475,4147 589,4150 703,4154 817,4156 931,4158 1045,4160 1159,4162 1273,4164 1387,4166 1501,4167 1614,4168 1728,4170 1842,4170 1956,4172 2070,4174 2184,4174 2298,4176 2412,4178 2526,4180 2640,4182"
+                         HEIGHT="97"
+                         WIDTH="2310"
+                         VPOS="4096"
+                         HPOS="346">
+                  <String ID="string_r1l36"
+                          HEIGHT="97"
+                          WIDTH="2310"
+                          VPOS="4096"
+                          HPOS="346"
+                          CONTENT="mone col pie destro sopra d'una palla come una sphera, si poggia. altri lhano posto in mano la Vitto"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="354,4260 470,4264 586,4268 702,4270 818,4274 935,4276 1051,4278 1167,4280 1283,4282 1399,4284 1516,4286 1632,4288 1748,4290 1864,4291 1980,4292 2097,4294 2213,4296 2329,4300 2445,4302 2561,4304 2683,4317"
+                         HEIGHT="209"
+                         WIDTH="2362"
+                         VPOS="4166"
+                         HPOS="339">
+                  <String ID="string_r1l37"
+                          HEIGHT="209"
+                          WIDTH="2362"
+                          VPOS="4166"
+                          HPOS="339"
+                          CONTENT="ria, altri la palma, altri il corno dela copia. La Forte Fortuna Vincitrice, finsero in moto di caminar',"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

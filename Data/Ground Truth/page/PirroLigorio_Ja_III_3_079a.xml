@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.2(htr_id=40568)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:41.208+01:00</Created>
+        <LastChange>2022-05-18T17:57:59.875+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31903020" pageNr="157" tsid="82526819" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=WEMBOEXDXWOIKGYVHFWEMZJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EPKGDAGUMQIYONBVKGXVFKWC" imageId="17874025"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_079a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337514570" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1649776069865_2871"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1649776080940_2881"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1649776080940_2880"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1649776142237_2935"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1649776142236_2934"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1649776069865_2871" custom="readingOrder {index:0;}">
+            <Coords points="866,283 3563,270 3582,1482 855,1482"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1636,388 1694,378 1734,395 1749,383 1765,398 1847,356 1894,386 1915,376 1968,406 1996,402 1993,267 1928,259 1910,278 1787,278 1772,266 1744,275 1679,240 1633,244"/>
+                <Baseline points="1652,352 1677,350 1702,349 1727,348 1752,348 1778,348 1803,348 1828,348 1853,348 1879,347 1904,346 1929,345 1954,344 1980,342"/>
+                <TextEquiv>
+                    <Unicode>DI ROMA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="952,561 3178,514 3438,476 3436,390 949,451"/>
+                <Baseline points="966,528 1088,524 1211,520 1334,516 1457,514 1580,510 1702,506 1825,503 1948,500 2071,496 2194,493 2316,490 2439,486 2562,484 2685,480 2808,477 2930,474 3053,470 3176,468 3299,464 3422,462"/>
+                <TextEquiv>
+                    <Unicode>In quella parte estrema dell'Esquilie, dila dell'Aggere di Tarquinio superbo: in quel bello spiatio molto piano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="998,652 3460,578 3461,510 995,572"/>
+                <Baseline points="1012,628 1133,624 1255,622 1377,616 1498,612 1620,606 1742,602 1863,596 1985,590 2107,585 2229,580 2350,574 2472,569 2594,565 2715,561 2837,557 2959,554 3080,552 3202,550 3324,550 3446,552"/>
+                <TextEquiv>
+                    <Unicode>sente l'Aquedotto dell'Aqua Iulia Augusta, et Tepula. Cavandovi M. Paulo Ponti vi furono scoperte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1008,748 3434,679 3430,587 3121,556 1006,684"/>
+                <Baseline points="1022,728 1141,726 1261,720 1381,714 1501,709 1621,703 1740,695 1860,689 1980,681 2100,676 2220,668 2339,663 2459,658 2579,652 2699,648 2819,646 2938,642 3058,642 3178,642 3298,644 3418,646"/>
+                <TextEquiv>
+                    <Unicode>infiniti fundamenti et Rovine dela Diata che vi havea Alexandro Mamaeo. con molte imagini. tra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1017,848 3429,750 3437,663 1012,750"/>
+                <Baseline points="1032,820 1151,818 1271,815 1390,810 1510,804 1630,797 1749,791 1869,784 1988,776 2108,768 2228,761 2347,754 2467,747 2586,741 2706,737 2826,732 2945,730 3065,728 3184,728 3304,730 3424,734"/>
+                <TextEquiv>
+                    <Unicode>le quali era la caccia di Meliagro, ò pure del porco chelidonio, ove trovo di tutto rilievo, molti He</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1015,921 3458,843 3454,748 1012,854"/>
+                <Baseline points="1030,892 1150,892 1271,892 1391,890 1512,887 1633,882 1753,878 1874,872 1994,866 2115,860 2236,852 2356,846 2477,840 2597,833 2718,828 2839,822 2959,817 3080,812 3200,809 3321,807 3442,806"/>
+                <TextEquiv>
+                    <Unicode>roi che combattevano et col spieto in mano, et colhaste et Archi et saette. i quali erano estremamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1012,982 3422,905 3261,816 1009,920"/>
+                <Baseline points="1026,966 1145,966 1264,966 1383,964 1502,962 1621,958 1740,954 1859,948 1978,944 2097,938 2216,932 2335,926 2454,920 2573,915 2692,909 2811,905 2930,900 3049,897 3168,894 3287,894 3406,892"/>
+                <TextEquiv>
+                    <Unicode>rovinati, et vi era il porco integrissimo, lo quale cinghiale stava in atto di sentire i cacciatori.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1017,1068 3129,1032 3454,1012 3453,941 1015,1009"/>
+                <Baseline points="1030,1046 1150,1044 1270,1041 1391,1038 1511,1034 1632,1030 1752,1028 1872,1023 1993,1020 2113,1016 2234,1012 2354,1009 2474,1006 2595,1002 2715,1000 2836,998 2956,995 3076,994 3197,992 3317,991 3438,990"/>
+                <TextEquiv>
+                    <Unicode>mezzo sollevato et mezzo con una natica interra, nel vero animale ditanto alto artificio, che parea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1033,1186 3422,1126 3435,1033 1030,1066"/>
+                <Baseline points="1046,1134 1164,1132 1283,1130 1402,1127 1521,1124 1640,1121 1758,1118 1877,1115 1996,1112 2115,1108 2234,1104 2352,1102 2471,1099 2590,1096 2709,1094 2828,1090 2946,1088 3065,1086 3184,1084 3303,1084 3422,1082"/>
+                <TextEquiv>
+                    <Unicode>essere sopra anatura vivace et terribile, et horrente mostro preter natura, havea l'aspetto il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1035,1261 3446,1221 3480,1113 1033,1184"/>
+                <Baseline points="1048,1222 1168,1220 1289,1218 1410,1216 1531,1213 1652,1211 1773,1208 1894,1206 2015,1204 2136,1200 2257,1198 2377,1196 2498,1193 2619,1190 2740,1188 2861,1186 2982,1184 3103,1182 3224,1182 3345,1180 3466,1178"/>
+                <TextEquiv>
+                    <Unicode>voltarsi, il sguardo di quella crudeltà et truculentia, chel discrive Ovidio nella Metamorphose conle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1034,1352 3441,1308 3479,1206 1032,1270"/>
+                <Baseline points="1048,1316 1168,1313 1289,1310 1410,1306 1531,1302 1652,1298 1773,1295 1894,1292 2015,1288 2136,1286 2257,1282 2377,1278 2498,1276 2619,1272 2740,1270 2861,1267 2982,1264 3103,1262 3224,1259 3345,1256 3466,1254"/>
+                <TextEquiv>
+                    <Unicode>creste alzate et rivolte à guisa di lance. Lo qual animale fu presentato, da Papa pio quarto al Duca cosmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} unclear {offset:29; length:6;}">
+                <Coords points="1024,1416 1554,1436 1626,1390 1864,1441 2298,1371 2265,1301 1910,1350 1746,1306 1628,1359 1565,1321 1022,1349"/>
+                <Baseline points="1040,1412 1102,1408 1164,1405 1226,1402 1288,1400 1351,1396 1413,1394 1475,1392 1537,1390 1599,1388 1662,1386 1724,1384 1786,1382 1848,1380 1910,1379 1973,1376 2035,1375 2097,1374 2159,1372 2221,1370 2284,1368"/>
+                <TextEquiv>
+                    <Unicode>di Medici, con altri animali decani cani Molossi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DI ROMA.
+In quella parte estrema dell'Esquilie, dila dell'Aggere di Tarquinio superbo: in quel bello spiatio molto piano
+sente l'Aquedotto dell'Aqua Iulia Augusta, et Tepula. Cavandovi M. Paulo Ponti vi furono scoperte
+infiniti fundamenti et Rovine dela Diata che vi havea Alexandro Mamaeo. con molte imagini. tra
+le quali era la caccia di Meliagro, ò pure del porco chelidonio, ove trovo di tutto rilievo, molti He
+roi che combattevano et col spieto in mano, et colhaste et Archi et saette. i quali erano estremamente
+rovinati, et vi era il porco integrissimo, lo quale cinghiale stava in atto di sentire i cacciatori.
+mezzo sollevato et mezzo con una natica interra, nel vero animale ditanto alto artificio, che parea
+essere sopra anatura vivace et terribile, et horrente mostro preter natura, havea l'aspetto il
+voltarsi, il sguardo di quella crudeltà et truculentia, chel discrive Ovidio nella Metamorphose conle
+creste alzate et rivolte à guisa di lance. Lo qual animale fu presentato, da Papa pio quarto al Duca cosmo
+di Medici, con altri animali decani cani Molossi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649776080940_2881" custom="readingOrder {index:1;}">
+            <Coords points="855,1482 1849,1482 1849,3454 839,3454"/>
+            <TextLine id="r1l15" custom="readingOrder {index:0;}">
+                <Coords points="1154,1687 1333,1699 1406,1681 1443,1696 1489,1673 1536,1703 1594,1677 1637,1685 1634,1587 1588,1585 1566,1564 1441,1607 1389,1580 1336,1588 1280,1555 1152,1574"/>
+                <Baseline points="1168,1670 1193,1670 1218,1668 1243,1668 1268,1668 1294,1668 1319,1668 1344,1668 1369,1668 1395,1668 1420,1666 1445,1666 1470,1666 1495,1664 1521,1664 1546,1663 1571,1661 1596,1658 1622,1656"/>
+                <TextEquiv>
+                    <Unicode>GESTATIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:1;}">
+                <Coords points="1122,1803 1211,1803 1280,1769 1545,1784 1655,1752 1775,1753 1771,1673 1671,1696 1593,1677 1539,1704 1483,1675 1119,1717"/>
+                <Baseline points="1136,1770 1165,1768 1194,1768 1223,1766 1252,1766 1282,1764 1311,1763 1340,1762 1369,1761 1398,1760 1428,1758 1457,1757 1486,1756 1515,1754 1544,1753 1574,1752 1603,1751 1632,1750 1661,1749 1690,1748 1758,1747"/>
+                <TextEquiv>
+                    <Unicode>CIRCINI•EXTERIOR•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650535007049_1585" custom="readingOrder {index:2;}">
+                <Coords points="1250,1797 1265,1797 1275,1803 1281,1800 1299,1800 1302,1803 1311,1797 1327,1797 1327,1735 1311,1735 1308,1738 1302,1735 1284,1754 1271,1754 1268,1751 1265,1754 1250,1754"/>
+                <Baseline points="1264,1796 1311,1796"/>
+                <TextEquiv>
+                    <Unicode>SIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:3;}">
+                <Coords points="1128,1867 1374,1849 1608,1877 1650,1845 1767,1839 1765,1762 1728,1781 1703,1761 1642,1784 1587,1763 1532,1789 1382,1799 1335,1779 1308,1801 1127,1803"/>
+                <Baseline points="1142,1848 1170,1851 1199,1852 1228,1854 1257,1854 1286,1854 1314,1854 1343,1854 1372,1854 1401,1853 1430,1852 1458,1851 1487,1849 1516,1848 1545,1847 1574,1845 1602,1844 1631,1842 1660,1842 1689,1840 1751,1840"/>
+                <TextEquiv>
+                    <Unicode>A•DIETA•APOLLINIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650535009772_1590" custom="readingOrder {index:4;}">
+                <Coords points="1348,1883 1394,1880 1400,1886 1410,1883 1416,1889 1431,1889 1431,1849 1400,1849 1397,1846 1388,1849 1379,1849 1376,1846 1373,1849 1348,1849"/>
+                <Baseline points="1363,1879 1417,1879"/>
+                <TextEquiv>
+                    <Unicode>SIC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:5;}">
+                <Coords points="1139,1952 1182,1950 1219,1977 1307,1950 1649,1955 1694,1932 1692,1865 1570,1881 1502,1867 1426,1891 1345,1863 1303,1885 1136,1875"/>
+                <Baseline points="1152,1936 1178,1936 1204,1934 1230,1934 1257,1932 1283,1932 1309,1932 1336,1930 1362,1930 1388,1930 1415,1930 1441,1929 1467,1928 1493,1928 1520,1927 1546,1926 1572,1926 1599,1924 1625,1921 1651,1919 1678,1918"/>
+                <TextEquiv>
+                    <Unicode>AD•DIETA•EANDEM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:6;}">
+                <Coords points="1142,2032 1446,2010 1504,2024 1617,2002 1661,2022 1719,2008 1717,1928 1595,1960 1401,1944 1220,1978 1140,1952"/>
+                <Baseline points="1156,2018 1181,2018 1207,2017 1232,2016 1258,2014 1284,2012 1309,2012 1335,2010 1360,2009 1386,2008 1412,2006 1437,2006 1463,2006 1488,2004 1514,2004 1540,2004 1565,2004 1591,2004 1616,2004 1642,2004 1702,2000"/>
+                <TextEquiv>
+                    <Unicode>INCIRCVITV•P•ↀ CC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650535033174_1604" custom="readingOrder {index:7;}">
+                <Coords points="1146,2088 1779,2073 1779,1977 1645,2016 1144,2026"/>
+                <Baseline points="1160,2076 1192,2074 1224,2072 1256,2070 1289,2068 1321,2067 1353,2066 1386,2066 1418,2065 1450,2064 1483,2064 1515,2063 1547,2062 1579,2061 1612,2060 1644,2058 1676,2057 1709,2055 1741,2053 1767,2050"/>
+                <TextEquiv>
+                    <Unicode>LXXVII•EFF•VIII•M•PĪĪ•ET•CCV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:8;}">
+                <Coords points="1149,2155 1278,2166 1315,2146 1337,2164 1416,2143 1500,2165 1523,2142 1616,2158 1760,2134 1757,2067 1739,2064 1509,2091 1487,2073 1380,2095 1328,2078 1307,2097 1147,2088"/>
+                <Baseline points="1164,2144 1191,2144 1218,2141 1245,2140 1272,2139 1299,2138 1326,2136 1353,2134 1380,2134 1407,2133 1434,2132 1461,2130 1488,2130 1515,2129 1542,2128 1569,2128 1596,2127 1623,2126 1650,2126 1677,2126 1745,2125"/>
+                <TextEquiv>
+                    <Unicode>E•XLVII•M•P•XĪĪ•ET•P•XVIIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:9;}">
+                <Coords points="1145,2213 1268,2232 1344,2205 1403,2219 1421,2200 1473,2217 1759,2194 1757,2139 1729,2131 1699,2150 1530,2142 1500,2164 1416,2142 1143,2152"/>
+                <Baseline points="1160,2198 1189,2198 1218,2198 1247,2198 1276,2197 1306,2196 1335,2196 1364,2196 1393,2195 1422,2194 1452,2194 1481,2194 1510,2192 1539,2192 1568,2190 1598,2189 1627,2188 1656,2188 1685,2186 1714,2184 1744,2182"/>
+                <TextEquiv>
+                    <Unicode>GESTATIO•INTERIORA DIETA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:10;}">
+                <Coords points="1142,2293 1259,2261 1311,2286 1378,2270 1449,2288 1698,2252 1772,2267 1771,2203 1418,2202 1277,2228 1142,2213"/>
+                <Baseline points="1158,2258 1186,2257 1215,2256 1244,2256 1272,2256 1301,2256 1330,2256 1358,2256 1387,2258 1416,2258 1445,2258 1473,2258 1502,2258 1531,2258 1559,2257 1588,2256 1617,2255 1645,2253 1674,2250 1727,2255 1756,2252"/>
+                <TextEquiv>
+                    <Unicode>EAND•INCIRCVIT•P•IX•EFF•V•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:11;}">
+                <Coords points="1234,2382 1286,2388 1326,2367 1344,2385 1363,2373 1409,2388 1442,2357 1541,2336 1581,2360 1691,2342 1725,2333 1725,2256 1593,2277 1574,2265 1531,2290 1234,2275"/>
+                <Baseline points="1248,2326 1274,2326 1300,2324 1326,2324 1352,2324 1378,2324 1404,2324 1430,2326 1456,2326 1482,2326 1508,2328 1534,2328 1560,2328 1586,2328 1612,2326 1638,2325 1664,2323 1709,2320"/>
+                <TextEquiv>
+                    <Unicode>P•ↀ•E•LX•M•P•XĪĪĪĪ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>GESTATIO
+CIRCINI•EXTERIOR•
+SIC
+A•DIETA•APOLLINIS
+SIC
+AD•DIETA•EANDEM
+INCIRCVITV•P•ↀ CC
+LXXVII•EFF•VIII•M•PĪĪ•ET•CCV
+E•XLVII•M•P•XĪĪ•ET•P•XVIIII
+GESTATIO•INTERIORA DIETA
+EAND•INCIRCVIT•P•IX•EFF•V•
+P•ↀ•E•LX•M•P•XĪĪĪĪ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649776080940_2880" custom="readingOrder {index:2;}">
+            <Coords points="1849,1482 3582,1482 3613,3454 1849,3454"/>
+            <TextLine id="line_1650535062846_1618" custom="readingOrder {index:0;}">
+                <Coords points="1894,1584 3402,1584 3481,1570 3480,1493 1892,1492"/>
+                <Baseline points="1908,1576 1952,1574 2036,1571 2120,1566 2204,1564 2288,1562 2372,1560 2456,1558 2540,1556 2624,1555 2708,1554 2792,1552 2876,1550 2960,1550 3044,1548 3128,1547 3212,1546 3296,1544 3380,1542 3464,1540"/>
+                <TextEquiv>
+                    <Unicode>Inquesta Dieta Mamaea di cui fa menzione Sexto Rufu era questo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:1;}">
+                <Coords points="1916,1699 3507,1664 3506,1585 3432,1561 1915,1592"/>
+                <Baseline points="1932,1656 2009,1654 2087,1650 2165,1648 2243,1646 2321,1644 2399,1642 2477,1642 2555,1640 2633,1640 2711,1640 2788,1638 2866,1638 2944,1638 3022,1638 3100,1636 3178,1636 3256,1636 3334,1634 3412,1634 3490,1632"/>
+                <TextEquiv>
+                    <Unicode>Termine, pure trovato nelle dette cose. et da esso si ritrae la quadra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:2;}">
+                <Coords points="1916,1772 2373,1742 2598,1801 2787,1731 3101,1783 3494,1750 3493,1667 1915,1698"/>
+                <Baseline points="1930,1749 2020,1747 2097,1744 2174,1742 2250,1740 2327,1738 2404,1736 2480,1736 2557,1734 2634,1734 2711,1732 2787,1732 2864,1732 2941,1732 3017,1730 3094,1730 3171,1730 3247,1730 3324,1730 3401,1730 3478,1730"/>
+                <TextEquiv>
+                    <Unicode>tura di essa Dieta. dove lo imperadore andava a digerire le sue cose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:3;}">
+                <Coords points="1922,1855 3442,1885 3522,1865 3521,1730 3236,1789 1921,1775"/>
+                <Baseline points="1936,1839 2025,1836 2103,1836 2181,1834 2259,1832 2337,1832 2415,1830 2493,1830 2571,1828 2649,1828 2727,1826 2804,1826 2882,1825 2960,1824 3038,1824 3116,1822 3194,1822 3272,1822 3350,1822 3428,1822 3506,1820"/>
+                <TextEquiv>
+                    <Unicode>del grave carrico che havea, percio che quivi era una granpiazza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:4;}">
+                <Coords points="1927,1990 2390,1950 2768,1996 2854,1937 3140,1994 3502,1958 3501,1859 1926,1898"/>
+                <Baseline points="1942,1942 2019,1942 2096,1942 2173,1942 2251,1942 2328,1940 2405,1940 2483,1940 2560,1938 2637,1938 2715,1938 2792,1936 2869,1936 2946,1936 3024,1936 3101,1934 3178,1934 3256,1934 3333,1934 3410,1934 3488,1934"/>
+                <TextEquiv>
+                    <Unicode>et grandissime stantie. Inquesta parte anchora trovarono la dedi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:5;}">
+                <Coords points="1930,2115 2900,2066 3275,2107 3490,2073 3490,1987 3229,2021 3066,1962 2649,2014 2335,1949 1930,2007"/>
+                <Baseline points="1946,2065 2028,2058 2104,2056 2180,2056 2256,2056 2332,2054 2408,2054 2484,2054 2560,2054 2636,2056 2713,2056 2789,2056 2865,2056 2941,2058 3017,2058 3093,2058 3169,2058 3245,2058 3321,2058 3397,2058 3474,2056"/>
+                <TextEquiv>
+                    <Unicode>catione della picciola Base la quale è stata portata incasa di M. Lo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:6;}">
+                <Coords points="1930,2178 3515,2185 3515,2102 3116,2076 2929,2122 2741,2070 1931,2114"/>
+                <Baseline points="1946,2160 2023,2158 2101,2156 2179,2156 2256,2156 2334,2154 2412,2154 2489,2154 2567,2154 2645,2154 2723,2154 2800,2154 2878,2154 2956,2155 3033,2156 3111,2156 3189,2158 3266,2158 3344,2160 3422,2160 3500,2162"/>
+                <TextEquiv>
+                    <Unicode>renzo Cipriani, ove sono altre inscrittioni raccolte, la qual base</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:7;}">
+                <Coords points="1921,2311 2256,2265 3478,2301 3507,2185 1922,2213"/>
+                <Baseline points="1938,2252 2015,2254 2093,2254 2170,2254 2248,2254 2326,2256 2403,2256 2481,2256 2558,2258 2636,2258 2714,2258 2791,2258 2869,2260 2946,2260 3024,2260 3102,2262 3179,2262 3257,2262 3334,2262 3412,2264 3490,2264"/>
+                <TextEquiv>
+                    <Unicode>è scritta da tre lati. ma duoi di essi sono di uno medesimo tenore,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:8;}">
+                <Coords points="1923,2391 2931,2369 3437,2422 3505,2401 3506,2291 2996,2336 2256,2265 1924,2311"/>
+                <Baseline points="1940,2360 2017,2360 2095,2360 2172,2359 2250,2358 2327,2358 2405,2358 2482,2358 2560,2358 2637,2359 2715,2360 2792,2360 2870,2362 2947,2362 3025,2364 3102,2365 3180,2366 3257,2368 3335,2370 3412,2372 3490,2374"/>
+                <TextEquiv>
+                    <Unicode>tal che il senso tutto si ritrahe in due faccie come è qui l'essempio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:9;}">
+                <Coords points="1929,2482 3474,2472 3474,2417 3317,2396 1929,2393"/>
+                <Baseline points="1944,2460 2019,2460 2095,2458 2171,2458 2246,2458 2322,2456 2398,2456 2473,2456 2549,2456 2625,2456 2701,2454 2776,2454 2852,2454 2928,2454 3003,2454 3079,2454 3155,2454 3230,2456 3306,2456 3382,2456 3458,2456"/>
+                <TextEquiv>
+                    <Unicode>posto appunto. È cosa degna di annotatione. Primieramente, mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:10;}">
+                <Coords points="1912,2592 3497,2567 3497,2506 3140,2467 1912,2484"/>
+                <Baseline points="1926,2550 2003,2548 2081,2548 2159,2548 2237,2546 2315,2546 2392,2544 2470,2544 2548,2544 2626,2544 2704,2544 2781,2544 2859,2544 2937,2544 3015,2544 3093,2544 3170,2544 3248,2544 3326,2546 3404,2546 3482,2548"/>
+                <TextEquiv>
+                    <Unicode>pare, che in essa era sopra la statua di Hercole, percio che cio pare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:11;}">
+                <Coords points="1920,2673 3527,2684 3526,2592 3256,2571 1920,2593"/>
+                <Baseline points="1936,2642 2014,2644 2092,2644 2170,2644 2248,2644 2326,2644 2404,2644 2482,2644 2560,2644 2638,2642 2716,2642 2794,2640 2872,2640 2950,2640 3028,2638 3106,2638 3184,2638 3262,2638 3340,2638 3418,2640 3512,2659"/>
+                <TextEquiv>
+                    <Unicode>che signi ca cosi essere la Decima che segli offeriva, et perle ab¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:12;}">
+                <Coords points="1912,2748 3503,2779 3503,2721 3329,2667 3255,2710 3003,2650 2468,2702 1913,2665"/>
+                <Baseline points="1928,2732 2006,2734 2084,2734 2162,2736 2240,2736 2318,2736 2396,2738 2474,2738 2552,2738 2630,2738 2708,2738 2786,2738 2864,2738 2942,2738 3020,2739 3098,2740 3176,2740 3254,2742 3332,2742 3410,2744 3488,2746"/>
+                <TextEquiv>
+                    <Unicode>breviature. H.V.D. che significa quel che inlatino si dice cosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:13;} unclear {offset:33; length:5;}">
+                <Coords points="1904,2858 3507,2864 3477,2775 1904,2759"/>
+                <Baseline points="1918,2824 1996,2826 2075,2826 2154,2826 2232,2828 2311,2828 2390,2828 2468,2826 2547,2826 2626,2826 2705,2826 2783,2826 2862,2826 2941,2826 3019,2826 3098,2826 3177,2826 3255,2828 3334,2830 3413,2832 3492,2834"/>
+                <TextEquiv>
+                    <Unicode>Hoc Votum dedit, ò pure Hoc voto dedit, ò dedicavit. Overo Herculi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:14;}">
+                <Coords points="1907,2942 3504,2957 3503,2855 3214,2836 1906,2862"/>
+                <Baseline points="1923,2913 2010,2914 2087,2916 2164,2917 2241,2918 2318,2916 2394,2916 2471,2915 2548,2914 2625,2912 2702,2910 2778,2908 2855,2907 2932,2906 3009,2904 3086,2904 3162,2904 3239,2904 3316,2906 3393,2908 3488,2917"/>
+                <TextEquiv>
+                    <Unicode>voto dicavit. et il .P.X. par che dica pondus decem d'Argento. per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:15;}">
+                <Coords points="1905,3029 3536,3045 3410,2935 1905,2937"/>
+                <Baseline points="1920,3007 1998,3009 2076,3011 2155,3011 2233,3011 2312,3011 2390,3011 2468,3009 2547,3009 2625,3007 2704,3005 2782,3005 2860,3003 2939,3003 3017,3002 3096,3001 3174,3003 3252,3003 3331,3005 3409,3007 3521,3038"/>
+                <TextEquiv>
+                    <Unicode>cio che per causa votiva gli fu data la decima. Oltre à cio visi impa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:16;}">
+                <Coords points="1907,3129 3514,3124 3514,3054 3428,3026 3244,3068 3075,3019 2602,3063 1908,3025"/>
+                <Baseline points="1922,3092 2000,3092 2079,3094 2158,3094 2237,3094 2316,3096 2394,3096 2473,3096 2552,3096 2631,3096 2710,3096 2788,3096 2867,3096 2946,3096 3025,3096 3104,3096 3182,3096 3261,3096 3340,3098 3419,3098 3498,3100"/>
+                <TextEquiv>
+                    <Unicode>ra quella Regola di Martiano Capella, et di Prisciano, i quali dicono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:17;}">
+                <Coords points="1894,3216 3399,3231 3522,3207 3522,3115 3291,3161 3101,3109 1894,3136"/>
+                <Baseline points="1910,3190 1989,3192 2069,3192 2149,3192 2229,3192 2309,3192 2389,3192 2469,3192 2549,3192 2629,3190 2709,3190 2788,3190 2868,3189 2948,3188 3028,3188 3108,3188 3188,3188 3268,3190 3348,3190 3428,3192 3508,3194"/>
+                <TextEquiv>
+                    <Unicode>che appresso gli antichi si metteva invece dela .S. il Z. et lo essem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:18;}">
+                <Coords points="1893,3325 2667,3283 2766,3341 3509,3327 3509,3238 3336,3199 1893,3233"/>
+                <Baseline points="1910,3280 1989,3280 2068,3280 2147,3278 2226,3278 2305,3278 2384,3276 2463,3276 2542,3274 2621,3274 2701,3274 2780,3272 2859,3272 2938,3272 3017,3272 3096,3273 3175,3274 3254,3276 3333,3277 3412,3279 3492,3282"/>
+                <TextEquiv>
+                    <Unicode>pio che essi ne mostrano è il nome Smyrna, come è inquesta dedica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:19;}">
+                <Coords points="3282,3438 3306,3440 3346,3409 3417,3405 3426,3414 3444,3408 3460,3420 3472,3417 3487,3401 3509,3398 3508,3333 3483,3337 3462,3325 3428,3350 3400,3325 3385,3335 3351,3326 3321,3354 3281,3348"/>
+                <Baseline points="3298,3382 3325,3384 3353,3385 3381,3386 3408,3385 3436,3384 3464,3382 3492,3380"/>
+                <TextEquiv>
+                    <Unicode>tione.⁓</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Inquesta Dieta Mamaea di cui fa menzione Sexto Rufu era questo
+Termine, pure trovato nelle dette cose. et da esso si ritrae la quadra
+tura di essa Dieta. dove lo imperadore andava a digerire le sue cose
+del grave carrico che havea, percio che quivi era una granpiazza
+et grandissime stantie. Inquesta parte anchora trovarono la dedi
+catione della picciola Base la quale è stata portata incasa di M. Lo¬
+renzo Cipriani, ove sono altre inscrittioni raccolte, la qual base
+è scritta da tre lati. ma duoi di essi sono di uno medesimo tenore,
+tal che il senso tutto si ritrahe in due faccie come è qui l'essempio
+posto appunto. È cosa degna di annotatione. Primieramente, mi
+pare, che in essa era sopra la statua di Hercole, percio che cio pare
+che signi ca cosi essere la Decima che segli offeriva, et perle ab¬
+breviature. H.V.D. che significa quel che inlatino si dice cosi
+Hoc Votum dedit, ò pure Hoc voto dedit, ò dedicavit. Overo Herculi,
+voto dicavit. et il .P.X. par che dica pondus decem d'Argento. per
+cio che per causa votiva gli fu data la decima. Oltre à cio visi impa¬
+ra quella Regola di Martiano Capella, et di Prisciano, i quali dicono
+che appresso gli antichi si metteva invece dela .S. il Z. et lo essem
+pio che essi ne mostrano è il nome Smyrna, come è inquesta dedica
+tione.⁓</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649776142237_2935" custom="readingOrder {index:3;}">
+            <Coords points="2016,3476 2755,3465 2755,3988 1991,3985"/>
+            <TextLine id="r1l50" custom="readingOrder {index:0;}">
+                <Coords points="2084,3601 2155,3578 2404,3595 2545,3566 2671,3604 2733,3583 2734,3470 2654,3490 2451,3467 2389,3494 2086,3463"/>
+                <Baseline points="2100,3548 2130,3549 2161,3550 2192,3551 2223,3552 2254,3553 2284,3554 2315,3554 2346,3554 2377,3554 2408,3556 2438,3556 2469,3556 2500,3556 2531,3556 2562,3556 2592,3556 2623,3556 2654,3554 2685,3554 2716,3554"/>
+                <TextEquiv>
+                    <Unicode>POMPONIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:1;}">
+                <Coords points="2159,3659 2401,3686 2420,3667 2457,3680 2481,3658 2558,3687 2641,3660 2642,3583 2547,3567 2479,3594 2319,3590 2160,3558"/>
+                <Baseline points="2174,3644 2199,3644 2224,3646 2249,3646 2274,3646 2299,3646 2324,3648 2349,3648 2374,3648 2400,3648 2425,3648 2450,3648 2475,3648 2500,3648 2525,3648 2550,3648 2575,3648 2600,3648 2626,3648"/>
+                <TextEquiv>
+                    <Unicode>BVTEONIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l53" custom="readingOrder {index:2;}">
+                <Coords points="2079,3769 2177,3772 2266,3732 2451,3769 2506,3751 2586,3770 2644,3745 2687,3764 2721,3755 2721,3656 2672,3659 2632,3696 2525,3659 2445,3683 2288,3668 2224,3695 2079,3677"/>
+                <Baseline points="2096,3736 2126,3734 2157,3733 2187,3732 2218,3732 2248,3732 2279,3732 2309,3732 2340,3732 2370,3732 2401,3732 2431,3732 2462,3732 2492,3732 2523,3732 2553,3734 2584,3734 2614,3734 2645,3734 2675,3734 2706,3734"/>
+                <TextEquiv>
+                    <Unicode>H•V•D•ARG•P•X</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:3;}">
+                <Coords points="2090,3863 2299,3846 2369,3871 2526,3842 2698,3868 2753,3856 2754,3761 2662,3754 2609,3788 2560,3766 2523,3790 2281,3779 2217,3747 2180,3772 2090,3771"/>
+                <Baseline points="2104,3832 2134,3830 2164,3830 2195,3828 2225,3828 2256,3828 2286,3828 2316,3829 2347,3830 2377,3830 2408,3831 2438,3832 2468,3832 2499,3834 2529,3834 2560,3834 2590,3834 2620,3832 2651,3832 2707,3833 2738,3832"/>
+                <TextEquiv>
+                    <Unicode>ET•TESTAMENTO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1650535157068_1660" custom="readingOrder {index:4;}">
+                <Coords points="2288,3962 2322,3962 2374,3993 2417,3962 2439,3977 2460,3977 2460,3867 2445,3867 2426,3851 2389,3873 2377,3867 2365,3873 2353,3861 2331,3867 2310,3854 2288,3857"/>
+                <Baseline points="2302,3930 2446,3930"/>
+                <TextEquiv>
+                    <Unicode>•D•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>POMPONIA
+BVTEONIS
+H•V•D•ARG•P•X
+ET•TESTAMENTO
+•D•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1649776142236_2934" custom="readingOrder {index:4;}">
+            <Coords points="2755,3465 3319,3481 3348,4005 2755,3988"/>
+            <TextLine id="r1l49" custom="readingOrder {index:0;}">
+                <Coords points="2825,3576 2939,3591 2985,3563 3019,3587 3052,3557 3077,3581 3184,3559 3184,3491 3160,3498 3129,3476 3083,3489 3030,3465 3015,3480 3000,3468 2945,3493 2901,3471 2825,3472"/>
+                <Baseline points="2840,3556 2865,3556 2890,3556 2915,3555 2940,3554 2966,3554 2991,3552 3016,3552 3041,3550 3067,3549 3092,3547 3117,3564 3142,3562 3168,3542"/>
+                <TextEquiv>
+                    <Unicode>H•V•D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:1;}">
+                <Coords points="2812,3678 3006,3667 3061,3692 3126,3688 3147,3666 3199,3669 3198,3558 3079,3581 3042,3569 3021,3591 2990,3563 2938,3591 2812,3577"/>
+                <Baseline points="2829,3662 2854,3660 2879,3660 2904,3660 2930,3660 2955,3660 2980,3660 3006,3660 3031,3660 3056,3660 3081,3660 3107,3659 3132,3658 3157,3658 3183,3656"/>
+                <TextEquiv>
+                    <Unicode>ARG•P•X•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:2;}">
+                <Coords points="2764,3754 2924,3764 3115,3747 3243,3772 3244,3634 3124,3688 3053,3691 2977,3666 2823,3684 2765,3671"/>
+                <Baseline points="2779,3736 2804,3736 2829,3737 2854,3738 2879,3738 2904,3738 2929,3739 2954,3740 2979,3741 3004,3742 3029,3742 3054,3742 3079,3742 3104,3742 3129,3741 3154,3740 3179,3739 3228,3733"/>
+                <TextEquiv>
+                    <Unicode>POMPONIA•ZMYRN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:3;}">
+                <Coords points="2796,3814 2888,3810 2925,3835 2944,3822 2978,3850 3002,3825 3021,3834 3067,3812 3208,3845 3207,3753 3045,3760 2983,3745 2925,3764 2796,3749"/>
+                <Baseline points="2812,3792 2837,3795 2862,3797 2888,3798 2913,3799 2938,3800 2964,3800 2989,3800 3014,3800 3040,3798 3065,3798 3090,3797 3116,3796 3141,3795 3166,3793 3192,3792"/>
+                <TextEquiv>
+                    <Unicode>TESTAMENTO•D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>H•V•D
+ARG•P•X•
+POMPONIA•ZMYRN
+TESTAMENTO•D</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

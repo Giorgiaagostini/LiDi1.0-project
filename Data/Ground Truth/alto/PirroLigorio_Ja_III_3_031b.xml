@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_031b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:02.635+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643803640529_1349"
+                       HEIGHT="226"
+                       WIDTH="355"
+                       VPOS="192"
+                       HPOS="2897">
+               <Shape>
+                  <Polygon POINTS="2902,196 3252,192 3252,418 2897,413"/>
+               </Shape>
+               <TextLine ID="line_1642701681532_489"
+                         BASELINE="2916,290 3080,283"
+                         HEIGHT="57"
+                         WIDTH="166"
+                         VPOS="238"
+                         HPOS="2914">
+                  <String ID="string_line_1642701681532_489"
+                          HEIGHT="57"
+                          WIDTH="166"
+                          VPOS="238"
+                          HPOS="2914"
+                          CONTENT="34"/>
+               </TextLine>
+               <TextLine ID="line_1642701685381_494"
+                         BASELINE="3109,401 3202,394"
+                         HEIGHT="57"
+                         WIDTH="96"
+                         VPOS="349"
+                         HPOS="3106">
+                  <String ID="string_line_1642701685381_494"
+                          HEIGHT="57"
+                          WIDTH="96"
+                          VPOS="349"
+                          HPOS="3106"
+                          CONTENT="31"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643803640529_1348"
+                       HEIGHT="3426"
+                       WIDTH="3019"
+                       VPOS="196"
+                       HPOS="240">
+               <Shape>
+                  <Polygon POINTS="240,233 2902,196 2897,413 3252,418 3259,3622 266,3617"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="266,402 393,404 521,405 649,406 777,406 905,406 1032,404 1160,404 1288,402 1416,400 1544,398 1671,396 1799,394 1927,392 2055,390 2183,388 2310,386 2438,384 2566,382 2694,380 2822,378"
+                         HEIGHT="92"
+                         WIDTH="2556"
+                         VPOS="335"
+                         HPOS="266">
+                  <String ID="string_r1l1"
+                          HEIGHT="92"
+                          WIDTH="2556"
+                          VPOS="335"
+                          HPOS="266"
+                          CONTENT="RHESUS, è nome di fiume et di Re valorosissimo, il quale i greci scrivono, ΡΗΣΟΣ, secondo scrive Suida"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="310,502 436,500 562,498 688,496 814,494 941,492 1067,490 1193,488 1319,486 1445,484 1572,482 1698,481 1824,479 1950,477 2076,476 2203,474 2329,472 2455,470 2581,468 2707,466 2834,464"
+                         HEIGHT="93"
+                         WIDTH="2524"
+                         VPOS="427"
+                         HPOS="310">
+                  <String ID="string_r1l2"
+                          HEIGHT="93"
+                          WIDTH="2524"
+                          VPOS="427"
+                          HPOS="310"
+                          CONTENT="fu duce di Byzantij, il quale habitava fuori dela città in Thracia pontica, lo cui luogho s'appellava Rhaesio,"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="320,600 445,598 571,594 696,592 822,590 947,587 1073,584 1198,581 1324,578 1449,575 1575,572 1700,570 1826,566 1951,564 2077,560 2202,556 2328,554 2453,550 2579,546 2704,542 2830,538"
+                         HEIGHT="116"
+                         WIDTH="2510"
+                         VPOS="502"
+                         HPOS="320">
+                  <String ID="string_r1l3"
+                          HEIGHT="116"
+                          WIDTH="2510"
+                          VPOS="502"
+                          HPOS="320"
+                          CONTENT="dove fu poi fatta l'aede del Magno Theodoro. Et essendo andato in aiuto di Troiani, in uno suburbano ha"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="320,688 446,686 573,683 700,680 826,678 953,674 1080,672 1206,668 1333,666 1460,664 1587,660 1713,657 1840,654 1967,652 2093,648 2220,646 2347,644 2473,642 2600,638 2727,636 2854,634"
+                         HEIGHT="118"
+                         WIDTH="2534"
+                         VPOS="591"
+                         HPOS="320">
+                  <String ID="string_r1l4"
+                          HEIGHT="118"
+                          WIDTH="2534"
+                          VPOS="591"
+                          HPOS="320"
+                          CONTENT="vendo posto il campo di notte sendo assaltato da Ulysse et da Diomede fù ucciso: et dove finila vita il fiume"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="302,774 428,772 555,770 682,766 809,764 936,762 1062,758 1189,756 1316,754 1443,752 1570,748 1696,746 1823,744 1950,742 2077,740 2204,738 2330,736 2457,734 2584,732 2711,730 2838,728"
+                         HEIGHT="110"
+                         WIDTH="2536"
+                         VPOS="685"
+                         HPOS="302">
+                  <String ID="string_r1l5"
+                          HEIGHT="110"
+                          WIDTH="2536"
+                          VPOS="685"
+                          HPOS="302"
+                          CONTENT="fù appellato dal suo nome, che è nel territorio di Troia, ò vogliamo dire Iliense. Costui hebbe animo grande"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="328,856 453,854 578,852 703,851 828,850 953,848 1078,846 1203,844 1328,842 1453,840 1578,838 1703,836 1828,834 1953,832 2078,830 2203,828 2328,825 2453,823 2578,820 2703,818 2828,816"
+                         HEIGHT="103"
+                         WIDTH="2500"
+                         VPOS="774"
+                         HPOS="328">
+                  <String ID="string_r1l6"
+                          HEIGHT="103"
+                          WIDTH="2500"
+                          VPOS="774"
+                          HPOS="328"
+                          CONTENT="et si fece Re di molti luoghi, et molte cose di lui scrivono i Greci: ma per adornamento del nome del fiu"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="326,942 451,940 576,939 702,938 827,936 953,934 1078,932 1203,930 1329,928 1454,924 1580,922 1705,920 1830,918 1956,916 2081,914 2207,912 2332,910 2457,908 2583,906 2708,905 2834,904"
+                         HEIGHT="101"
+                         WIDTH="2508"
+                         VPOS="862"
+                         HPOS="326">
+                  <String ID="string_r1l7"
+                          HEIGHT="101"
+                          WIDTH="2508"
+                          VPOS="862"
+                          HPOS="326"
+                          CONTENT="me recitaremo quello che referisce Parthenio negli Herasti. Dicono, che havanti che Rheso andasse"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="310,1030 435,1030 560,1030 685,1028 810,1028 935,1026 1060,1024 1185,1020 1310,1018 1435,1016 1560,1012 1685,1010 1810,1006 1935,1004 2060,1000 2185,998 2310,994 2435,992 2560,988 2685,986 2810,984"
+                         HEIGHT="107"
+                         WIDTH="2500"
+                         VPOS="943"
+                         HPOS="310">
+                  <String ID="string_r1l8"
+                          HEIGHT="107"
+                          WIDTH="2500"
+                          VPOS="943"
+                          HPOS="310"
+                          CONTENT="in aiuto di Troiani, che nel viaggio predo, et sugiogo di molte terre, et sele fece Tributarie. Poscia sen¬"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="312,1122 436,1120 560,1118 684,1116 808,1114 932,1112 1056,1108 1180,1106 1304,1102 1428,1100 1553,1097 1677,1094 1801,1090 1925,1088 2049,1084 2173,1080 2297,1078 2421,1074 2545,1070 2669,1066 2794,1062"
+                         HEIGHT="121"
+                         WIDTH="2482"
+                         VPOS="1021"
+                         HPOS="312">
+                  <String ID="string_r1l9"
+                          HEIGHT="121"
+                          WIDTH="2482"
+                          VPOS="1021"
+                          HPOS="312"
+                          CONTENT="do pervenuto in cio allettato dalla fame di Arganthona bellissima giovane, sene innamorò, et"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="314,1204 440,1202 567,1200 693,1198 820,1194 947,1192 1073,1190 1200,1188 1326,1184 1453,1182 1580,1179 1706,1176 1833,1174 1959,1171 2086,1168 2213,1164 2339,1162 2466,1158 2592,1154 2719,1151 2846,1148"
+                         HEIGHT="117"
+                         WIDTH="2532"
+                         VPOS="1107"
+                         HPOS="314">
+                  <String ID="string_r1l10"
+                          HEIGHT="117"
+                          WIDTH="2532"
+                          VPOS="1107"
+                          HPOS="314"
+                          CONTENT="concio sia cosa, che habitasse con lei et che cosi ambi duoi insiemi vivessero di un vitto medemo, non"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="318,1288 443,1286 569,1286 694,1284 820,1282 946,1280 1071,1278 1197,1276 1322,1274 1448,1272 1574,1270 1699,1266 1825,1264 1950,1262 2076,1260 2202,1258 2327,1256 2453,1254 2578,1252 2704,1252 2830,1250"
+                         HEIGHT="101"
+                         WIDTH="2512"
+                         VPOS="1208"
+                         HPOS="318">
+                  <String ID="string_r1l11"
+                          HEIGHT="101"
+                          WIDTH="2512"
+                          VPOS="1208"
+                          HPOS="318"
+                          CONTENT="dimeno, anchora cercava, con il cacciar dietro ai cervi et altri animali selvaggi dilettare ala sua"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="326,1372 451,1372 576,1372 701,1370 826,1369 951,1368 1076,1366 1201,1364 1326,1362 1451,1360 1577,1358 1702,1356 1827,1354 1952,1352 2077,1350 2202,1348 2327,1346 2452,1344 2577,1342 2702,1342 2828,1340"
+                         HEIGHT="95"
+                         WIDTH="2502"
+                         VPOS="1298"
+                         HPOS="326">
+                  <String ID="string_r1l12"
+                          HEIGHT="95"
+                          WIDTH="2502"
+                          VPOS="1298"
+                          HPOS="326"
+                          CONTENT="amata Donzella, le cui cose nel vero erano gratissime alla giovane: di più anchora che quantun¬"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="352,1468 476,1464 601,1462 726,1460 851,1458 976,1456 1101,1454 1226,1454 1351,1452 1476,1452 1601,1450 1725,1450 1850,1448 1975,1448 2100,1447 2225,1446 2350,1444 2475,1444 2600,1442 2725,1440 2850,1436"
+                         HEIGHT="96"
+                         WIDTH="2498"
+                         VPOS="1393"
+                         HPOS="352">
+                  <String ID="string_r1l13"
+                          HEIGHT="96"
+                          WIDTH="2498"
+                          VPOS="1393"
+                          HPOS="352"
+                          CONTENT="que fosse entrato in quella provincia per forza, et che havesse potuto far'anchor del male et agravar"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="322,1550 447,1548 573,1546 698,1544 824,1542 950,1542 1075,1540 1201,1540 1326,1538 1452,1536 1578,1536 1703,1534 1829,1534 1954,1532 2080,1530 2206,1528 2331,1526 2457,1522 2582,1520 2708,1516 2834,1510"
+                         HEIGHT="104"
+                         WIDTH="2512"
+                         VPOS="1467"
+                         HPOS="322">
+                  <String ID="string_r1l14"
+                          HEIGHT="104"
+                          WIDTH="2512"
+                          VPOS="1467"
+                          HPOS="322"
+                          CONTENT="i popoli non dimeno per l amor che portava à colei, si astenne di tutti i mali che harrebbe potu"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="334,1644 459,1644 584,1644 709,1642 834,1642 960,1640 1085,1639 1210,1638 1335,1636 1460,1634 1586,1632 1711,1630 1836,1628 1961,1624 2086,1622 2212,1620 2337,1616 2462,1613 2587,1610 2712,1606 2838,1602"
+                         HEIGHT="106"
+                         WIDTH="2504"
+                         VPOS="1559"
+                         HPOS="334">
+                  <String ID="string_r1l15"
+                          HEIGHT="106"
+                          WIDTH="2504"
+                          VPOS="1559"
+                          HPOS="334"
+                          CONTENT="to fare. Frale altre cose un giorno richiese la Giovane che volesse seco uscire in campagna ala"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="332,1744 456,1744 580,1742 704,1740 828,1740 953,1738 1077,1738 1201,1736 1325,1735 1449,1734 1574,1732 1698,1732 1822,1730 1946,1728 2070,1726 2195,1725 2319,1724 2443,1722 2567,1718 2691,1716 2816,1714"
+                         HEIGHT="94"
+                         WIDTH="2484"
+                         VPOS="1671"
+                         HPOS="332">
+                  <String ID="string_r1l16"
+                          HEIGHT="94"
+                          WIDTH="2484"
+                          VPOS="1671"
+                          HPOS="332"
+                          CONTENT="caccia, il che denego, dicendo, che à lei non si richiedeva essendo in quel grado ch'era uscire tra"/>
+               </TextLine>
+               <TextLine ID="line_1645017616939_274"
+                         BASELINE="333,1847 2850,1818"
+                         HEIGHT="79"
+                         WIDTH="2518"
+                         VPOS="1773"
+                         HPOS="332">
+                  <String ID="string_line_1645017616939_274"
+                          HEIGHT="79"
+                          WIDTH="2518"
+                          VPOS="1773"
+                          HPOS="332"
+                          CONTENT="tanto com mercio d'huomini, il cui parlare parendo a Rheso esser saggio il laudo grandemente;"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="352,1936 474,1934 597,1934 720,1932 843,1930 966,1928 1089,1926 1212,1924 1335,1922 1458,1920 1581,1918 1703,1914 1826,1912 1949,1910 2072,1906 2195,1904 2318,1902 2441,1898 2564,1896 2687,1894 2810,1890"
+                         HEIGHT="109"
+                         WIDTH="2458"
+                         VPOS="1848"
+                         HPOS="352">
+                  <String ID="string_r1l18"
+                          HEIGHT="109"
+                          WIDTH="2458"
+                          VPOS="1848"
+                          HPOS="352"
+                          CONTENT="et cosi perseverando nell'amore ognidi piu s'accrebbe à maggior legame, atale che se delibero,"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="352,2032 475,2032 598,2030 721,2030 844,2028 967,2026 1090,2023 1213,2020 1336,2018 1459,2016 1582,2012 1705,2010 1828,2007 1951,2004 2074,2002 2197,1999 2320,1997 2443,1994 2566,1994 2689,1992 2812,1992"
+                         HEIGHT="104"
+                         WIDTH="2460"
+                         VPOS="1949"
+                         HPOS="352">
+                  <String ID="string_r1l19"
+                          HEIGHT="104"
+                          WIDTH="2460"
+                          VPOS="1949"
+                          HPOS="352"
+                          CONTENT="di darle un buono et compito fine à tante pene porre quella ultima dolcezza consolatoria con"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="325,2140 444,2141 570,2136 696,2132 822,2128 949,2124 1075,2120 1201,2116 1327,2114 1453,2111 1580,2108 1706,2106 1832,2102 1958,2100 2084,2097 2211,2094 2337,2091 2463,2087 2589,2084 2715,2080 2842,2076"
+                         HEIGHT="134"
+                         WIDTH="2524"
+                         VPOS="2033"
+                         HPOS="318">
+                  <String ID="string_r1l20"
+                          HEIGHT="134"
+                          WIDTH="2524"
+                          VPOS="2033"
+                          HPOS="318"
+                          CONTENT="sposarla: et furono fatte le allegre nozze: Ma la Fortuna che spesso vuole la baia, converse tal giuoco"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="342,2230 466,2228 590,2226 714,2224 838,2222 963,2220 1087,2218 1211,2216 1335,2216 1459,2214 1584,2212 1708,2210 1832,2208 1956,2206 2080,2204 2205,2202 2329,2200 2453,2198 2577,2196 2701,2193 2826,2190"
+                         HEIGHT="104"
+                         WIDTH="2484"
+                         VPOS="2147"
+                         HPOS="342">
+                  <String ID="string_r1l21"
+                          HEIGHT="104"
+                          WIDTH="2484"
+                          VPOS="2147"
+                          HPOS="342"
+                          CONTENT="in grave mestitia. Impero che non tantosta, che fusse sposata accadde, che non fu piu presto conten"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="346,2316 470,2318 594,2318 718,2318 842,2318 967,2318 1091,2316 1215,2316 1339,2314 1463,2312 1588,2309 1712,2306 1836,2304 1960,2302 2084,2300 2209,2298 2333,2296 2457,2294 2581,2294 2705,2292 2830,2292"
+                         HEIGHT="90"
+                         WIDTH="2484"
+                         VPOS="2249"
+                         HPOS="346">
+                  <String ID="string_r1l22"
+                          HEIGHT="90"
+                          WIDTH="2484"
+                          VPOS="2249"
+                          HPOS="346"
+                          CONTENT="ta, che Rheso fu da Troiani sollicitato di andare in loro aiuto, et essendo esso Rheso posto inordine"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="352,2420 476,2420 601,2418 725,2416 850,2414 975,2412 1099,2410 1224,2408 1348,2405 1473,2402 1598,2400 1722,2398 1847,2396 1971,2393 2096,2390 2221,2388 2345,2386 2470,2384 2594,2382 2719,2380 2844,2378"
+                         HEIGHT="106"
+                         WIDTH="2492"
+                         VPOS="2335"
+                         HPOS="352">
+                  <String ID="string_r1l23"
+                          HEIGHT="106"
+                          WIDTH="2492"
+                          VPOS="2335"
+                          HPOS="352"
+                          CONTENT="per volere andare, dicono chela sua Arganthona, ruppe il suo pensiero alquanto, percio che non vo¬"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="362,2514 485,2512 608,2510 731,2509 854,2507 978,2505 1101,2502 1224,2500 1347,2498 1470,2496 1594,2494 1717,2491 1840,2488 1963,2486 2086,2484 2210,2480 2333,2478 2456,2476 2579,2472 2702,2470 2826,2466"
+                         HEIGHT="112"
+                         WIDTH="2464"
+                         VPOS="2423"
+                         HPOS="362">
+                  <String ID="string_r1l24"
+                          HEIGHT="112"
+                          WIDTH="2464"
+                          VPOS="2423"
+                          HPOS="362"
+                          CONTENT="leva à niuno patto che'l andasse, et quando quella pensando di haver vietata cotale andata, non gli val"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="356,2604 478,2604 601,2602 724,2602 847,2600 970,2598 1092,2596 1215,2594 1338,2592 1461,2590 1584,2587 1706,2584 1829,2582 1952,2578 2075,2576 2198,2572 2320,2569 2443,2566 2566,2563 2689,2560 2812,2558"
+                         HEIGHT="110"
+                         WIDTH="2456"
+                         VPOS="2515"
+                         HPOS="356">
+                  <String ID="string_r1l25"
+                          HEIGHT="110"
+                          WIDTH="2456"
+                          VPOS="2515"
+                          HPOS="356"
+                          CONTENT="se cosa alcuna, e lei vistala cosa disperata; ò per che fusse perlo troppo amore verso di lui, ò che sa"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="360,2700 483,2698 606,2694 729,2692 853,2690 976,2688 1099,2686 1223,2684 1346,2680 1469,2678 1593,2676 1716,2673 1839,2670 1962,2668 2086,2664 2209,2662 2332,2658 2456,2654 2579,2650 2702,2646 2826,2642"
+                         HEIGHT="118"
+                         WIDTH="2466"
+                         VPOS="2602"
+                         HPOS="360">
+                  <String ID="string_r1l26"
+                          HEIGHT="118"
+                          WIDTH="2466"
+                          VPOS="2602"
+                          HPOS="360"
+                          CONTENT="pese per qualche via, à niun patto gli voleva conceder che andasse; ma lui fattosi beffe, de a"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="360,2784 482,2781 605,2778 728,2776 850,2774 973,2772 1096,2770 1218,2766 1341,2764 1464,2762 1587,2760 1709,2757 1832,2754 1955,2752 2077,2749 2200,2746 2323,2742 2445,2738 2568,2734 2691,2730 2814,2726"
+                         HEIGHT="118"
+                         WIDTH="2454"
+                         VPOS="2686"
+                         HPOS="360">
+                  <String ID="string_r1l27"
+                          HEIGHT="118"
+                          WIDTH="2454"
+                          VPOS="2686"
+                          HPOS="360"
+                          CONTENT="Giovane, accelerò tanto piu presto il viaggio per andare à Troia: ma gionto à un fiume il"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="364,2870 487,2866 611,2864 734,2862 858,2860 981,2858 1105,2856 1228,2854 1352,2852 1475,2850 1599,2848 1722,2846 1846,2844 1969,2842 2093,2840 2216,2838 2340,2836 2463,2834 2587,2832 2710,2828 2834,2826"
+                         HEIGHT="107"
+                         WIDTH="2470"
+                         VPOS="2784"
+                         HPOS="364">
+                  <String ID="string_r1l28"
+                          HEIGHT="107"
+                          WIDTH="2470"
+                          VPOS="2784"
+                          HPOS="364"
+                          CONTENT="quale anchor'hoggidi è chiamato Rheso, fu da Diomede Ucciso. et Arganthona qual bene"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="372,2964 494,2962 617,2960 740,2958 863,2954 986,2952 1108,2950 1231,2947 1354,2944 1477,2942 1600,2938 1722,2936 1845,2934 1968,2931 2091,2928 2214,2926 2336,2924 2459,2922 2582,2920 2705,2918 2828,2916"
+                         HEIGHT="112"
+                         WIDTH="2456"
+                         VPOS="2873"
+                         HPOS="372">
+                  <String ID="string_r1l29"
+                          HEIGHT="112"
+                          WIDTH="2456"
+                          VPOS="2873"
+                          HPOS="372"
+                          CONTENT="haveva conosciuta la sua morte, di subito andò in quel luogo dove giacque morto il mari¬"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="368,3056 492,3054 617,3052 741,3050 866,3046 990,3044 1115,3042 1239,3038 1364,3036 1488,3032 1613,3030 1737,3028 1862,3024 1986,3022 2111,3018 2235,3016 2360,3012 2484,3010 2609,3006 2733,3004 2858,3002"
+                         HEIGHT="114"
+                         WIDTH="2490"
+                         VPOS="2962"
+                         HPOS="368">
+                  <String ID="string_r1l30"
+                          HEIGHT="114"
+                          WIDTH="2490"
+                          VPOS="2962"
+                          HPOS="368"
+                          CONTENT="to, è tanto il chiamò, et tanto si sbracciò, che finalmente per il gran dolore, che li pungeva i cuore"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="368,3146 492,3144 617,3140 741,3138 866,3134 990,3132 1115,3129 1239,3126 1364,3124 1488,3120 1613,3118 1737,3114 1862,3112 1986,3108 2111,3106 2235,3102 2360,3099 2484,3096 2609,3092 2733,3088 2858,3084"
+                         HEIGHT="122"
+                         WIDTH="2490"
+                         VPOS="3044"
+                         HPOS="368">
+                  <String ID="string_r1l31"
+                          HEIGHT="122"
+                          WIDTH="2490"
+                          VPOS="3044"
+                          HPOS="368"
+                          CONTENT="non potendosi contenere volle ancho lei fargli compagnia. Questo monumento di questo Heroe"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="376,3242 498,3236 621,3232 743,3228 866,3224 988,3222 1111,3218 1233,3214 1356,3212 1478,3208 1601,3206 1723,3202 1846,3200 1968,3196 2091,3194 2213,3190 2336,3187 2458,3184 2581,3180 2703,3177 2826,3172"
+                         HEIGHT="134"
+                         WIDTH="2450"
+                         VPOS="3129"
+                         HPOS="376">
+                  <String ID="string_r1l32"
+                          HEIGHT="134"
+                          WIDTH="2450"
+                          VPOS="3129"
+                          HPOS="376"
+                          CONTENT="il fiume fu appellato Rheso. et cosi scrisse Argea greco scoliasta. et il sudetto parthenio nell"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="382,3338 441,3334 501,3332 560,3328 620,3326 680,3324 739,3323 799,3322 858,3320 918,3318 978,3318 1037,3316 1097,3314 1156,3312 1216,3312 1276,3310 1335,3308 1395,3306 1454,3303 1514,3300 1574,3298"
+                         HEIGHT="101"
+                         WIDTH="1192"
+                         VPOS="3257"
+                         HPOS="382">
+                  <String ID="string_r1l33"
+                          HEIGHT="101"
+                          WIDTH="1192"
+                          VPOS="3257"
+                          HPOS="382"
+                          CONTENT="libro dell'Herotica al capo trentesimo sesto."/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="326,3418 451,3416 577,3412 703,3410 828,3406 954,3404 1080,3400 1205,3398 1331,3395 1457,3392 1583,3390 1708,3386 1834,3384 1960,3380 2085,3378 2211,3376 2337,3372 2462,3370 2588,3366 2714,3364 2840,3360"
+                         HEIGHT="119"
+                         WIDTH="2514"
+                         VPOS="3319"
+                         HPOS="326">
+                  <String ID="string_r1l34"
+                          HEIGHT="119"
+                          WIDTH="2514"
+                          VPOS="3319"
+                          HPOS="326"
+                          CONTENT="RHEXENORII, sono stati detti qui di Cercyra, ò Corcyra Isola, che hora s'appella Corfù. Chiamati gia da"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="374,3496 497,3498 621,3498 745,3498 869,3496 993,3494 1116,3492 1240,3490 1364,3486 1488,3484 1612,3480 1735,3477 1859,3474 1983,3470 2107,3466 2231,3464 2354,3460 2478,3457 2602,3454 2726,3452 2850,3450"
+                         HEIGHT="112"
+                         WIDTH="2476"
+                         VPOS="3407"
+                         HPOS="374">
+                  <String ID="string_r1l35"
+                          HEIGHT="112"
+                          WIDTH="2476"
+                          VPOS="3407"
+                          HPOS="374"
+                          CONTENT="Rhaxenor, figliuolo di Nausithoi fratello di Alcinoi Re di phaeaci cercyrei di cui parla Homero nel libro"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="356,3596 383,3596 410,3596 437,3594 464,3594 491,3594 518,3594 545,3593 572,3592 599,3592 627,3592 654,3591 681,3590 708,3590 735,3590 762,3589 789,3588 816,3588 843,3588 870,3587 898,3586"
+                         HEIGHT="74"
+                         WIDTH="542"
+                         VPOS="3543"
+                         HPOS="356">
+                  <String ID="string_r1l36"
+                          HEIGHT="74"
+                          WIDTH="542"
+                          VPOS="3543"
+                          HPOS="356"
+                          CONTENT="settimo dell'Odyssea."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

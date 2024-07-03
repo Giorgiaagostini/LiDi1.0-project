@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:34.030+01:00</Created>
+        <LastChange>2024-06-25T19:21:57.702+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902803" pageNr="12" tsid="174113668" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=CWIROIACOEEDIFZFFYCKBLSS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SPFZIPNJAJCYAQQYAPJLQBXQ" imageId="17873880"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_006b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337491512" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1643801223805_895"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1643801223805_894"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1643801223805_895" custom="readingOrder {index:0;}">
+            <Coords points="2977,161 3329,158 3330,351 2968,361"/>
+            <TextLine id="line_1641287201583_1397" custom="readingOrder {index:0;}">
+                <Coords points="3043,233 3116,233 3116,283 3043,283"/>
+                <Baseline points="3043,278 3116,278"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1641287205379_1402" custom="readingOrder {index:1;}">
+                <Coords points="3189,254 3266,248 3269,298 3192,304"/>
+                <Baseline points="3192,299 3269,293"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9
+6</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1643801223805_894" custom="readingOrder {index:1;}">
+            <Coords points="309,190 2977,161 2968,361 3330,351 3341,1827 296,1877"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} Greek {offset:14; length:4;}">
+                <Coords points="472,461 591,463 710,466 829,467 949,467 1068,467 1187,467 1307,466 1426,465 1545,463 1665,461 1784,459 1903,457 2022,457 2142,455 2261,453 2380,453 2500,453 2619,455 2738,457 2858,459 2858,407 2738,405 2619,403 2500,401 2380,401 2261,401 2142,403 2022,405 1903,405 1784,407 1665,409 1545,411 1426,413 1307,414 1187,415 1068,415 949,415 829,415 710,414 591,411 472,409"/>
+                <Baseline points="472,444 591,446 710,449 829,450 949,450 1068,450 1187,450 1307,449 1426,448 1545,446 1665,444 1784,442 1903,440 2022,440 2142,438 2261,436 2380,436 2500,436 2619,438 2738,440 2858,442"/>
+                <TextEquiv>
+                    <Unicode>RAGA, i greci ΡΑΓΑ, è citta nella Media Regione, donde i Medi popoli chiamano il citta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} unclear {offset:50; length:9;}">
+                <Coords points="508,559 624,557 741,557 857,555 974,555 1091,553 1207,551 1324,549 1440,547 1557,545 1674,543 1790,541 1907,539 2023,537 2140,535 2257,534 2373,533 2490,533 2606,531 2723,531 2840,533 2840,481 2723,479 2606,479 2490,481 2373,481 2257,482 2140,483 2023,485 1907,487 1790,489 1674,491 1557,493 1440,495 1324,497 1207,499 1091,501 974,503 857,503 741,505 624,505 508,507"/>
+                <Baseline points="508,542 624,540 741,540 857,538 974,538 1091,536 1207,534 1324,532 1440,530 1557,528 1674,526 1790,524 1907,522 2023,520 2140,518 2257,517 2373,516 2490,516 2606,514 2723,514 2840,516"/>
+                <TextEquiv>
+                    <Unicode>dino Ragòs, et Ragios, alcuni scrivono Rhaga per .H. co ene Rhagae la regione, ma i greci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} Greek {offset:0; length:5;} Greek {offset:10; length:7;} unclear {offset:36; length:6;} Greek {offset:44; length:8;}">
+                <Coords points="520,647 636,647 753,647 870,646 986,645 1103,643 1220,641 1336,639 1453,637 1570,633 1687,631 1803,629 1920,627 2037,625 2153,623 2270,621 2387,619 2503,617 2620,617 2737,615 2854,615 2854,563 2737,563 2620,565 2503,565 2387,567 2270,569 2153,571 2037,573 1920,575 1803,577 1687,579 1570,581 1453,585 1336,587 1220,589 1103,591 986,593 870,594 753,595 636,595 520,595"/>
+                <Baseline points="520,630 636,630 753,630 870,629 986,628 1103,626 1220,624 1336,622 1453,620 1570,616 1687,614 1803,612 1920,610 2037,608 2153,606 2270,604 2387,602 2503,600 2620,600 2737,598 2854,598"/>
+                <TextEquiv>
+                    <Unicode>ΡΑΓΑΙ, et ΡΑΓΗΝΟΣ talvolta, come da Rearos, ΡΑΡΡΙΝΟΣ: Fu acquisto di Selucho Nicatore,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="520,743 636,740 753,737 870,735 987,733 1104,731 1220,729 1337,727 1454,725 1571,723 1688,721 1804,719 1921,717 2038,715 2155,714 2272,712 2388,709 2505,707 2622,705 2739,703 2856,701 2856,649 2739,651 2622,653 2505,655 2388,657 2272,660 2155,662 2038,663 1921,665 1804,667 1688,669 1571,671 1454,673 1337,675 1220,677 1104,679 987,681 870,683 753,685 636,688 520,691"/>
+                <Baseline points="520,726 636,723 753,720 870,718 987,716 1104,714 1220,712 1337,710 1454,708 1571,706 1688,704 1804,702 1921,700 2038,698 2155,697 2272,695 2388,692 2505,690 2622,688 2739,686 2856,684"/>
+                <TextEquiv>
+                    <Unicode>et pria chiamata Praga, et mutata la .P. nell'.R. fu fatta Raga. fu occupata da Arsace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} unclear {offset:41; length:7;}">
+                <Coords points="524,829 640,829 757,827 873,825 990,825 1106,822 1223,819 1339,817 1456,815 1572,813 1689,811 1805,809 1922,806 2038,805 2155,802 2271,800 2388,799 2504,797 2621,796 2737,795 2854,795 2854,743 2737,743 2621,744 2504,745 2388,747 2271,748 2155,750 2038,753 1922,754 1805,757 1689,759 1572,761 1456,763 1339,765 1223,767 1106,770 990,773 873,773 757,775 640,777 524,777"/>
+                <Baseline points="524,812 640,812 757,810 873,808 990,808 1106,805 1223,802 1339,800 1456,798 1572,796 1689,794 1805,792 1922,789 2038,788 2155,785 2271,783 2388,782 2504,780 2621,779 2737,778 2854,778"/>
+                <TextEquiv>
+                    <Unicode>Re di Media lo quale era Eunuco et hebbe volutta di Regnare, et allhora si diceria Eu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} Greek {offset:47; length:6;}">
+                <Coords points="524,919 638,917 753,915 868,913 983,910 1098,909 1213,905 1328,903 1443,901 1558,899 1673,896 1787,893 1902,891 2017,889 2132,885 2247,883 2362,881 2477,877 2592,874 2707,871 2822,867 2822,815 2707,819 2592,822 2477,825 2362,829 2247,831 2132,833 2017,837 1902,839 1787,841 1673,844 1558,847 1443,849 1328,851 1213,853 1098,857 983,858 868,861 753,863 638,865 524,867"/>
+                <Baseline points="524,902 638,900 753,898 868,896 983,893 1098,892 1213,888 1328,886 1443,884 1558,882 1673,879 1787,876 1902,874 2017,872 2132,868 2247,866 2362,864 2477,860 2592,857 2707,854 2822,850"/>
+                <TextEquiv>
+                    <Unicode>yopos, et egli la chiamò Arsace, et Arsacia, ò ΑΡΣΑΚΗ da esso Arsaco Re di Persi. Raga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="524,1005 640,1003 756,1001 872,997 989,995 1105,991 1221,989 1338,987 1454,983 1570,979 1687,977 1803,975 1919,971 2035,969 2152,965 2268,963 2384,961 2501,959 2617,957 2733,956 2850,955 2850,903 2733,904 2617,905 2501,907 2384,909 2268,911 2152,913 2035,917 1919,919 1803,923 1687,925 1570,927 1454,931 1338,935 1221,937 1105,939 989,943 872,945 756,949 640,951 524,953"/>
+                <Baseline points="524,988 640,986 756,984 872,980 989,978 1105,974 1221,972 1338,970 1454,966 1570,962 1687,960 1803,958 1919,954 2035,952 2152,948 2268,946 2384,944 2501,942 2617,940 2733,939 2850,938"/>
+                <TextEquiv>
+                    <Unicode>anchora è Isola della Licia, detta da Rax, et lhabitatore di qui si dice Ragios, et il cittadino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} Greek {offset:15; length:7;} Greek {offset:27; length:6;}">
+                <Coords points="524,1099 597,1096 670,1094 743,1091 816,1089 889,1089 962,1086 1035,1085 1108,1083 1181,1081 1254,1079 1327,1077 1400,1076 1473,1074 1546,1073 1619,1070 1692,1067 1765,1066 1838,1063 1911,1061 1984,1057 1984,1005 1911,1009 1838,1011 1765,1014 1692,1015 1619,1018 1546,1021 1473,1022 1400,1024 1327,1025 1254,1027 1181,1029 1108,1031 1035,1033 962,1034 889,1037 816,1037 743,1039 670,1042 597,1044 524,1047"/>
+                <Baseline points="524,1082 597,1079 670,1077 743,1074 816,1072 889,1072 962,1069 1035,1068 1108,1066 1181,1064 1254,1062 1327,1060 1400,1059 1473,1057 1546,1056 1619,1053 1692,1050 1765,1049 1838,1046 1911,1044 1984,1040"/>
+                <TextEquiv>
+                    <Unicode>Ragenos, cio è ΡΑΤΗΝΟΣ, et ΡΑΤΙΟΣ. come dice Stephano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="480,1175 606,1174 733,1173 860,1171 987,1169 1114,1167 1241,1163 1368,1161 1495,1157 1622,1152 1749,1149 1875,1145 2002,1141 2129,1137 2256,1133 2383,1131 2510,1129 2637,1127 2764,1125 2891,1125 3018,1125 3018,1073 2891,1073 2764,1073 2637,1075 2510,1077 2383,1079 2256,1081 2129,1085 2002,1089 1875,1093 1749,1097 1622,1100 1495,1105 1368,1109 1241,1111 1114,1115 987,1117 860,1119 733,1121 606,1122 480,1123"/>
+                <Baseline points="480,1158 606,1157 733,1156 860,1154 987,1152 1114,1150 1241,1146 1368,1144 1495,1140 1622,1135 1749,1132 1875,1128 2002,1124 2129,1120 2256,1116 2383,1114 2510,1112 2637,1110 2764,1108 2891,1108 3018,1108"/>
+                <TextEquiv>
+                    <Unicode>RAGUSI, Ragusta, et Ragugia, è città cosi detta dal vulgo, che gia si diceva Epidauro. Come è detto in Rhagusa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="460,1258 580,1260 700,1260 821,1260 941,1260 1062,1258 1182,1256 1302,1252 1423,1248 1543,1244 1664,1240 1784,1236 1904,1232 2025,1226 2145,1222 2266,1218 2386,1214 2506,1210 2627,1208 2747,1206 2868,1204 2868,1156 2747,1158 2627,1160 2506,1162 2386,1166 2266,1170 2145,1174 2025,1178 1904,1184 1784,1188 1664,1192 1543,1196 1423,1200 1302,1204 1182,1208 1062,1210 941,1212 821,1212 700,1212 580,1212 460,1210"/>
+                <Baseline points="460,1242 580,1244 700,1244 821,1244 941,1244 1062,1242 1182,1240 1302,1236 1423,1232 1543,1228 1664,1224 1784,1220 1904,1216 2025,1210 2145,1206 2266,1202 2386,1198 2506,1194 2627,1192 2747,1190 2868,1188"/>
+                <TextEquiv>
+                    <Unicode>RAFEI, è voce moderna presa perlo porto dell Achaia verso l'Arcipelago, che anticamente si diceva,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="528,1327 553,1325 579,1325 605,1325 631,1324 657,1323 683,1323 709,1323 734,1323 760,1323 786,1323 812,1323 838,1323 864,1322 890,1321 890,1275 864,1276 838,1277 812,1277 786,1277 760,1277 734,1277 709,1277 683,1277 657,1277 631,1278 605,1279 579,1279 553,1279 528,1281"/>
+                <Baseline points="528,1312 553,1310 579,1310 605,1310 631,1309 657,1308 683,1308 709,1308 734,1308 760,1308 786,1308 812,1308 838,1308 864,1307 890,1306"/>
+                <TextEquiv>
+                    <Unicode>porto panormo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} unclear {offset:10; length:5;}">
+                <Coords points="462,1403 552,1407 643,1409 734,1409 824,1409 915,1409 1006,1407 1096,1405 1187,1401 1278,1399 1369,1395 1459,1391 1550,1387 1641,1385 1731,1381 1822,1379 1913,1375 2003,1373 2094,1373 2185,1371 2276,1373 2276,1333 2185,1331 2094,1333 2003,1333 1913,1335 1822,1339 1731,1341 1641,1345 1550,1347 1459,1351 1369,1355 1278,1359 1187,1361 1096,1365 1006,1367 915,1369 824,1369 734,1369 643,1369 552,1367 462,1363"/>
+                <Baseline points="462,1390 552,1394 643,1396 734,1396 824,1396 915,1396 1006,1394 1096,1392 1187,1388 1278,1386 1369,1382 1459,1378 1550,1374 1641,1372 1731,1368 1822,1366 1913,1362 2003,1360 2094,1360 2185,1358 2276,1360"/>
+                <TextEquiv>
+                    <Unicode>RAIGNY, è citta et Porto di Provenza, è di Liguria, che gia si diceva Antipoli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="488,1463 609,1465 731,1465 852,1465 974,1465 1096,1465 1217,1463 1339,1461 1460,1459 1582,1457 1704,1456 1825,1455 1947,1453 2068,1451 2190,1451 2312,1450 2433,1451 2555,1451 2676,1453 2798,1455 2920,1457 2920,1417 2798,1415 2676,1413 2555,1411 2433,1411 2312,1410 2190,1411 2068,1411 1947,1413 1825,1415 1704,1416 1582,1417 1460,1419 1339,1421 1217,1423 1096,1425 974,1425 852,1425 731,1425 609,1425 488,1423"/>
+                <Baseline points="488,1450 609,1452 731,1452 852,1452 974,1452 1096,1452 1217,1450 1339,1448 1460,1446 1582,1444 1704,1443 1825,1442 1947,1440 2068,1438 2190,1438 2312,1437 2433,1438 2555,1438 2676,1440 2798,1442 2920,1444"/>
+                <TextEquiv>
+                    <Unicode>RAMA è citta della Suria, che si diceva dall'antichi Lydda et Diospoli. Et Ramà, è citta della palestina in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2702,1517 2727,1517 2752,1519 2777,1519 2802,1517 2827,1517 2852,1515 2878,1513 2878,1468 2852,1470 2827,1472 2802,1472 2777,1474 2752,1474 2727,1472 2702,1472"/>
+                <Baseline points="2714,1504 2739,1504 2764,1506 2789,1506 2814,1504 2839,1504 2864,1502 2890,1500"/>
+                <TextEquiv>
+                    <Unicode>Iudaea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="492,1527 565,1527 639,1528 712,1529 786,1529 859,1529 933,1531 1006,1531 1080,1531 1153,1531 1227,1531 1300,1531 1374,1531 1447,1530 1521,1529 1594,1528 1668,1527 1741,1525 1815,1523 1888,1521 1962,1517 1962,1471 1888,1475 1815,1477 1741,1479 1668,1481 1594,1482 1521,1483 1447,1484 1374,1485 1300,1485 1227,1485 1153,1485 1080,1485 1006,1485 933,1485 859,1483 786,1483 712,1483 639,1482 565,1481 492,1481"/>
+                <Baseline points="492,1512 565,1512 639,1513 712,1514 786,1514 859,1514 933,1516 1006,1516 1080,1516 1153,1516 1227,1516 1300,1516 1374,1516 1447,1515 1521,1514 1594,1513 1668,1512 1741,1510 1815,1508 1888,1506 1962,1502"/>
+                <TextEquiv>
+                    <Unicode>RAMIDAVA, è citta della Dacia, secondo scrive ptolemaeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="476,1604 580,1602 685,1602 790,1600 894,1600 999,1598 1104,1598 1208,1598 1313,1596 1418,1596 1523,1594 1627,1594 1732,1592 1837,1590 1941,1590 2046,1587 2151,1584 2255,1581 2360,1578 2465,1572 2570,1568 2570,1520 2465,1524 2360,1530 2255,1533 2151,1536 2046,1539 1941,1542 1837,1542 1732,1544 1627,1546 1523,1546 1418,1548 1313,1548 1208,1550 1104,1550 999,1550 894,1552 790,1552 685,1554 580,1554 476,1556"/>
+                <Baseline points="476,1588 580,1586 685,1586 790,1584 894,1584 999,1582 1104,1582 1208,1582 1313,1580 1418,1580 1523,1578 1627,1578 1732,1576 1837,1574 1941,1574 2046,1571 2151,1568 2255,1565 2360,1562 2465,1556 2570,1552"/>
+                <TextEquiv>
+                    <Unicode>RAMNETE, ò Ramnetes, era una quarta parte del popolo Romano nel tempo di Romolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="472,1675 594,1671 717,1669 840,1667 962,1665 1085,1664 1208,1663 1330,1661 1453,1661 1576,1659 1699,1659 1821,1659 1944,1657 2067,1657 2189,1657 2312,1657 2435,1657 2557,1659 2680,1659 2803,1659 2926,1659 2926,1613 2803,1613 2680,1613 2557,1613 2435,1611 2312,1611 2189,1611 2067,1611 1944,1611 1821,1613 1699,1613 1576,1613 1453,1615 1330,1615 1208,1617 1085,1618 962,1619 840,1621 717,1623 594,1625 472,1629"/>
+                <Baseline points="472,1660 594,1656 717,1654 840,1652 962,1650 1085,1649 1208,1648 1330,1646 1453,1646 1576,1644 1699,1644 1821,1644 1944,1642 2067,1642 2189,1642 2312,1642 2435,1642 2557,1644 2680,1644 2803,1644 2926,1644"/>
+                <TextEquiv>
+                    <Unicode>RAMNENSI, ò Ramnenses è la medesimo parte de Romani et Tribu. La quale Titolivio chiama cosi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="498,1735 533,1737 568,1737 604,1737 639,1737 675,1737 710,1736 745,1735 781,1735 816,1733 852,1733 887,1731 922,1729 958,1729 993,1728 1029,1727 1064,1727 1099,1727 1135,1727 1170,1729 1206,1731 1206,1685 1170,1683 1135,1681 1099,1681 1064,1681 1029,1681 993,1682 958,1683 922,1683 887,1685 852,1687 816,1687 781,1689 745,1689 710,1690 675,1691 639,1691 604,1691 568,1691 533,1691 498,1689"/>
+                <Baseline points="498,1720 533,1722 568,1722 604,1722 639,1722 675,1722 710,1721 745,1720 781,1720 816,1718 852,1718 887,1716 922,1714 958,1714 993,1713 1029,1712 1064,1712 1099,1712 1135,1712 1170,1714 1206,1716"/>
+                <TextEquiv>
+                    <Unicode>RAMNETES. nel primo libro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAGA, i greci ΡΑΓΑ, è citta nella Media Regione, donde i Medi popoli chiamano il citta¬
+dino Ragòs, et Ragios, alcuni scrivono Rhaga per .H. co ene Rhagae la regione, ma i greci
+ΡΑΓΑΙ, et ΡΑΓΗΝΟΣ talvolta, come da Rearos, ΡΑΡΡΙΝΟΣ: Fu acquisto di Selucho Nicatore,
+et pria chiamata Praga, et mutata la .P. nell'.R. fu fatta Raga. fu occupata da Arsace
+Re di Media lo quale era Eunuco et hebbe volutta di Regnare, et allhora si diceria Eu¬
+yopos, et egli la chiamò Arsace, et Arsacia, ò ΑΡΣΑΚΗ da esso Arsaco Re di Persi. Raga
+anchora è Isola della Licia, detta da Rax, et lhabitatore di qui si dice Ragios, et il cittadino
+Ragenos, cio è ΡΑΤΗΝΟΣ, et ΡΑΤΙΟΣ. come dice Stephano.
+RAGUSI, Ragusta, et Ragugia, è città cosi detta dal vulgo, che gia si diceva Epidauro. Come è detto in Rhagusa.
+RAFEI, è voce moderna presa perlo porto dell Achaia verso l'Arcipelago, che anticamente si diceva,
+porto panormo.
+RAIGNY, è citta et Porto di Provenza, è di Liguria, che gia si diceva Antipoli
+RAMA è citta della Suria, che si diceva dall'antichi Lydda et Diospoli. Et Ramà, è citta della palestina in
+Iudaea
+RAMIDAVA, è citta della Dacia, secondo scrive ptolemaeo.
+RAMNETE, ò Ramnetes, era una quarta parte del popolo Romano nel tempo di Romolo
+RAMNENSI, ò Ramnenses è la medesimo parte de Romani et Tribu. La quale Titolivio chiama cosi
+RAMNETES. nel primo libro</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

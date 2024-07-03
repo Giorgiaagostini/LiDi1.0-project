@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_005a.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:44:51.408+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1818" WIDTH="2949" VPOS="209" HPOS="661">
+               <Shape>
+                  <Polygon POINTS="661,252 687,2027 3610,2001 3557,209"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="808,376 941,372 1075,370 1208,368 1342,366 1475,364 1609,362 1742,360 1876,358 2009,357 2143,356 2276,354 2410,352 2543,350 2677,350 2810,348 2944,346 3077,344 3211,344 3344,342 3478,340"
+                         HEIGHT="90"
+                         WIDTH="2670"
+                         VPOS="304"
+                         HPOS="808">
+                  <String ID="string_r1l1"
+                          HEIGHT="90"
+                          WIDTH="2670"
+                          VPOS="304"
+                          HPOS="808"
+                          CONTENT="insino allyco fiume verso levante, confina essa Raetia conla Vindelica, et da essa divisa dal Danuvio, dallato del"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="808,450 940,450 1073,450 1205,450 1338,448 1471,448 1603,446 1736,444 1868,442 2001,441 2134,439 2266,436 2399,434 2531,432 2664,430 2797,428 2929,426 3062,423 3194,421 3327,420 3460,418"
+                         HEIGHT="86"
+                         WIDTH="2652"
+                         VPOS="382"
+                         HPOS="808">
+                  <String ID="string_r1l2"
+                          HEIGHT="86"
+                          WIDTH="2652"
+                          VPOS="382"
+                          HPOS="808"
+                          CONTENT="settentrione. et verso Meridie, tiene i termini conl'Alpi oltre alla Gallia Cisalpina. et la medesimo Raetia, verso"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="798,540 931,540 1064,540 1197,538 1331,537 1464,536 1597,534 1731,532 1864,530 1997,528 2131,524 2264,522 2397,520 2530,516 2664,514 2797,510 2930,508 3064,504 3197,502 3330,500 3464,496"
+                         HEIGHT="99"
+                         WIDTH="2666"
+                         VPOS="459"
+                         HPOS="798">
+                  <String ID="string_r1l3"
+                          HEIGHT="99"
+                          WIDTH="2666"
+                          VPOS="459"
+                          HPOS="798"
+                          CONTENT="l'oriente, hala vendelica, et la Norica dishnta da esse dal fiume Aeno per per unlato la circunda, et la parte"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="794,630 926,626 1059,623 1192,620 1325,616 1458,614 1591,610 1724,608 1857,606 1990,604 2123,600 2255,598 2388,596 2521,594 2654,592 2787,588 2920,586 3053,583 3186,580 3319,576 3452,572"
+                         HEIGHT="113"
+                         WIDTH="2658"
+                         VPOS="535"
+                         HPOS="794">
+                  <String ID="string_r1l4"
+                          HEIGHT="113"
+                          WIDTH="2658"
+                          VPOS="535"
+                          HPOS="794"
+                          CONTENT="Raetica detta superiore hali Helvetij et partedella Gallia Cisalpina insino allago Lario comprende, et le cuigenti"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="806,712 937,711 1069,708 1201,706 1333,703 1465,700 1597,696 1729,692 1861,689 1993,686 2125,682 2256,678 2388,676 2520,672 2652,670 2784,668 2916,666 3048,666 3180,666 3312,666 3444,666"
+                         HEIGHT="103"
+                         WIDTH="2638"
+                         VPOS="628"
+                         HPOS="806">
+                  <String ID="string_r1l5"
+                          HEIGHT="103"
+                          WIDTH="2638"
+                          VPOS="628"
+                          HPOS="806"
+                          CONTENT="hogidi verso questa parte sono chiamati Griscioni ò Grisones, et la parte inferiore, verso il fiume Lyco insino al"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="796,804 929,802 1063,800 1196,796 1330,792 1464,790 1597,786 1731,782 1864,778 1998,775 2132,772 2265,768 2399,765 2532,762 2666,758 2800,756 2933,754 3067,752 3200,750 3334,748 3468,748"
+                         HEIGHT="116"
+                         WIDTH="2672"
+                         VPOS="708"
+                         HPOS="796">
+                  <String ID="string_r1l6"
+                          HEIGHT="116"
+                          WIDTH="2672"
+                          VPOS="708"
+                          HPOS="796"
+                          CONTENT="fiume Aeno, sono altre nationi, che con Norici et Raeti confinano, chiamate, Boioarij, et Rhetij Thusci, per cioche, come"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="816,892 947,889 1079,886 1211,884 1343,882 1475,878 1607,876 1739,872 1871,870 2003,866 2135,864 2266,861 2398,858 2530,856 2662,853 2794,850 2926,848 3058,846 3190,844 3322,844 3454,842"
+                         HEIGHT="102"
+                         WIDTH="2638"
+                         VPOS="807"
+                         HPOS="816">
+                  <String ID="string_r1l7"
+                          HEIGHT="102"
+                          WIDTH="2638"
+                          VPOS="807"
+                          HPOS="816"
+                          CONTENT="è sudetto credevano havere havuta dalli Thusci, la origine. Hanno i Raeti nobilissimo vino, et confinano dalla"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="808,966 940,962 1072,960 1205,957 1337,954 1470,952 1602,948 1734,946 1867,942 1999,940 2132,938 2264,936 2396,934 2529,932 2661,930 2794,928 2926,926 3058,924 3191,924 3323,922 3456,922"
+                         HEIGHT="96"
+                         WIDTH="2648"
+                         VPOS="887"
+                         HPOS="808">
+                  <String ID="string_r1l8"
+                          HEIGHT="96"
+                          WIDTH="2648"
+                          VPOS="887"
+                          HPOS="808"
+                          CONTENT="parte di Italia, con Verona, et con Como, situate all'Alpinee radici. Della qual Raetia parla Virgilio laudando il"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="816,1052 909,1050 1002,1049 1096,1047 1189,1044 1283,1042 1376,1041 1469,1040 1563,1038 1656,1036 1750,1036 1843,1034 1936,1032 2030,1032 2123,1030 2217,1030 2310,1030 2403,1028 2497,1028 2590,1028 2684,1026"
+                         HEIGHT="86"
+                         WIDTH="1868"
+                         VPOS="986"
+                         HPOS="816">
+                  <String ID="string_r1l9"
+                          HEIGHT="86"
+                          WIDTH="1868"
+                          VPOS="986"
+                          HPOS="816"
+                          CONTENT="Vino, col Falerno, nel secondo dela Georgica — ET QVO TE CARMINE DICAM"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="1114,1138 1230,1139 1346,1140 1462,1140 1578,1140 1694,1139 1810,1138 1926,1138 2042,1136 2158,1135 2274,1134 2390,1131 2506,1129 2622,1126 2738,1124 2854,1120 2970,1118 3086,1114 3202,1110 3318,1106 3434,1100"
+                         HEIGHT="100"
+                         WIDTH="2320"
+                         VPOS="1060"
+                         HPOS="1114">
+                  <String ID="string_r1l10"
+                          HEIGHT="100"
+                          WIDTH="2320"
+                          VPOS="1060"
+                          HPOS="1114"
+                          CONTENT="RAETICA.⁓ NE CELLIS IDEO CONTENDE FALERNIS. Percio che esso poeta, compara il Vino delle"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="816,1228 948,1226 1081,1226 1214,1226 1347,1224 1480,1224 1613,1222 1746,1222 1879,1220 2012,1218 2145,1216 2277,1215 2410,1212 2543,1210 2676,1206 2809,1203 2942,1198 3075,1194 3208,1190 3341,1183 3474,1178"
+                         HEIGHT="110"
+                         WIDTH="2658"
+                         VPOS="1138"
+                         HPOS="816">
+                  <String ID="string_r1l11"
+                          HEIGHT="110"
+                          WIDTH="2658"
+                          VPOS="1138"
+                          HPOS="816"
+                          CONTENT="Raetiche cantine,non meno ch'è il Falerno vino rosso de campani, nobile et buono, et celebrato, et da poeti, et da Ga"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="802,1312 936,1314 1071,1316 1205,1318 1340,1318 1475,1320 1609,1320 1744,1318 1878,1318 2013,1316 2148,1314 2282,1312 2417,1310 2551,1306 2686,1304 2821,1300 2955,1296 3090,1292 3224,1286 3359,1282 3494,1276"
+                         HEIGHT="104"
+                         WIDTH="2692"
+                         VPOS="1236"
+                         HPOS="802">
+                  <String ID="string_r1l12"
+                          HEIGHT="104"
+                          WIDTH="2692"
+                          VPOS="1236"
+                          HPOS="802"
+                          CONTENT="leno, et da Atheneo. Ora quella Raetia che confina col fonte del Rheno, et col Lyco fiume è quella chel vulgo appel¬"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="830,1408 961,1410 1092,1412 1223,1414 1354,1414 1486,1414 1617,1414 1748,1414 1879,1412 2010,1412 2142,1410 2273,1407 2404,1404 2535,1402 2666,1398 2797,1393 2929,1389 3060,1384 3191,1378 3322,1372 3454,1366"
+                         HEIGHT="106"
+                         WIDTH="2624"
+                         VPOS="1327"
+                         HPOS="830">
+                  <String ID="string_r1l13"
+                          HEIGHT="106"
+                          WIDTH="2624"
+                          VPOS="1327"
+                          HPOS="830"
+                          CONTENT="la Svevia. et quella inferiore, infra il Fonte del Danuvio et allyco, etparte della Bavaria dove sono l'Hyle Alpi,"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="824,1506 929,1503 1035,1500 1140,1498 1246,1498 1352,1496 1457,1496 1563,1496 1668,1494 1774,1494 1880,1494 1985,1494 2091,1494 2196,1492 2302,1490 2408,1488 2513,1486 2619,1482 2724,1479 2830,1474 2936,1468"
+                         HEIGHT="96"
+                         WIDTH="2112"
+                         VPOS="1429"
+                         HPOS="824">
+                  <String ID="string_r1l14"
+                          HEIGHT="96"
+                          WIDTH="2112"
+                          VPOS="1429"
+                          HPOS="824"
+                          CONTENT="ricentate dal Danuvio. et la parteche col stato di Venetia confina si dicono Grisoni Raetei."/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="782,1578 915,1578 1049,1580 1182,1580 1316,1580 1450,1580 1583,1580 1717,1580 1850,1580 1984,1580 2118,1578 2251,1578 2385,1576 2518,1574 2652,1574 2786,1572 2919,1570 3053,1568 3186,1564 3320,1562 3454,1558"
+                         HEIGHT="82"
+                         WIDTH="2672"
+                         VPOS="1518"
+                         HPOS="782">
+                  <String ID="string_r1l15"
+                          HEIGHT="82"
+                          WIDTH="2672"
+                          VPOS="1518"
+                          HPOS="782"
+                          CONTENT="Raetico, et Raetionis, è nome di Monte, nella sudetta Raetia habitato da Raetij. et Rhetico si dice l'exercito, et"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="824,1666 954,1666 1085,1664 1216,1664 1347,1664 1478,1664 1609,1664 1740,1664 1871,1664 2002,1664 2133,1664 2263,1664 2394,1664 2525,1662 2656,1662 2787,1660 2918,1658 3049,1656 3180,1654 3311,1650 3442,1646"
+                         HEIGHT="80"
+                         WIDTH="2618"
+                         VPOS="1606"
+                         HPOS="824">
+                  <String ID="string_r1l16"
+                          HEIGHT="80"
+                          WIDTH="2618"
+                          VPOS="1606"
+                          HPOS="824"
+                          CONTENT="Raetica ognicosa appartenente alla Raetia. et Raetico è nome di Gigante, et si scrive anchora per .H. Rhetico."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="820,1762 952,1762 1085,1760 1218,1759 1351,1758 1484,1756 1617,1756 1750,1754 1883,1752 2016,1752 2149,1750 2281,1748 2414,1746 2547,1746 2680,1744 2813,1743 2946,1742 3079,1740 3212,1739 3345,1738 3478,1736"
+                         HEIGHT="86"
+                         WIDTH="2658"
+                         VPOS="1696"
+                         HPOS="820">
+                  <String ID="string_r1l17"
+                          HEIGHT="86"
+                          WIDTH="2658"
+                          VPOS="1696"
+                          HPOS="820"
+                          CONTENT="Loquale si converse in leone combattendo fuucciso come dice Diodoro Syracosano et si scrive come Rheto Centauro"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="822,1858 954,1856 1086,1854 1218,1850 1350,1849 1482,1846 1614,1846 1746,1844 1878,1842 2010,1840 2142,1838 2274,1838 2406,1836 2538,1834 2670,1832 2802,1830 2934,1828 3066,1826 3198,1824 3330,1820 3462,1818"
+                         HEIGHT="100"
+                         WIDTH="2640"
+                         VPOS="1778"
+                         HPOS="822">
+                  <String ID="string_r1l18"
+                          HEIGHT="100"
+                          WIDTH="2640"
+                          VPOS="1778"
+                          HPOS="822"
+                          CONTENT="figliuolo di Ixione come scrive Lucano. ma questo non è aquesto proposito per altro detto se non perdire come si scri"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="816,1940 888,1938 961,1936 1033,1934 1106,1932 1179,1932 1251,1932 1324,1932 1396,1932 1469,1932 1542,1932 1614,1932 1687,1932 1759,1932 1832,1932 1905,1932 1977,1932 2050,1932 2122,1930 2195,1930 2268,1928"
+                         HEIGHT="72"
+                         WIDTH="1452"
+                         VPOS="1888"
+                         HPOS="816">
+                  <String ID="string_r1l19"
+                          HEIGHT="72"
+                          WIDTH="1452"
+                          VPOS="1888"
+                          HPOS="816"
+                          CONTENT="vono indifferentemente, i detti nomi che sono simiglevoli."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

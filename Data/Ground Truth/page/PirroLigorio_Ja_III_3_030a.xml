@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:36.711+01:00</Created>
+        <LastChange>2024-06-25T19:28:50.526+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902872" pageNr="59" tsid="174124775" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=EZHEVSSLIMIWTQIGCWNKQPGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVQWJXUMGQHAZWOUHJDNPCJX" imageId="17873927"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_030a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337501808" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="764,289 775,4392 3550,4404 3536,266"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="820,439 949,439 1079,438 1209,437 1339,435 1469,435 1598,432 1728,431 1858,428 1988,425 2118,423 2247,419 2377,417 2507,414 2637,411 2767,409 2896,405 3026,403 3156,399 3286,397 3416,395 3416,337 3286,339 3156,341 3026,345 2896,347 2767,351 2637,353 2507,356 2377,359 2247,361 2118,365 1988,367 1858,370 1728,373 1598,374 1469,377 1339,377 1209,379 1079,380 949,381 820,381"/>
+                <Baseline points="820,420 949,420 1079,419 1209,418 1339,416 1469,416 1598,413 1728,412 1858,409 1988,406 2118,404 2247,400 2377,398 2507,395 2637,392 2767,390 2896,386 3026,384 3156,380 3286,378 3416,376"/>
+                <TextEquiv>
+                    <Unicode>RHEA, Fonte fu sullago Albano, sotto l'Albano Monte, dove fu edificata Alba Longa de latini da Iulo Ascanio figliuolo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="852,527 979,525 1107,523 1234,521 1362,519 1490,517 1617,515 1745,513 1872,510 2000,507 2128,505 2255,501 2383,499 2510,495 2638,493 2766,489 2893,487 3021,483 3148,480 3276,477 3404,475 3404,417 3276,419 3148,422 3021,425 2893,429 2766,431 2638,435 2510,437 2383,441 2255,443 2128,447 2000,449 1872,452 1745,455 1617,457 1490,459 1362,461 1234,463 1107,465 979,467 852,469"/>
+                <Baseline points="852,508 979,506 1107,504 1234,502 1362,500 1490,498 1617,496 1745,494 1872,491 2000,488 2128,486 2255,482 2383,480 2510,476 2638,474 2766,470 2893,468 3021,464 3148,461 3276,458 3404,456"/>
+                <TextEquiv>
+                    <Unicode>di Aenea: et secondo scrisse Porcilio, fu detto il Fonte da Rhea Silvia Ilia figliuola di Numitore: la quale sendo fatta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="852,607 981,605 1110,603 1239,601 1368,599 1498,595 1627,593 1756,591 1885,587 2014,585 2144,581 2273,578 2402,575 2531,571 2660,568 2789,565 2919,561 3048,557 3177,555 3306,551 3436,547 3436,490 3306,494 3177,498 3048,500 2919,504 2789,508 2660,511 2531,514 2402,518 2273,521 2144,524 2014,528 1885,530 1756,534 1627,536 1498,538 1368,542 1239,544 1110,546 981,548 852,550"/>
+                <Baseline points="852,588 981,586 1110,584 1239,582 1368,580 1498,576 1627,574 1756,572 1885,568 2014,566 2144,562 2273,559 2402,556 2531,552 2660,549 2789,546 2919,542 3048,538 3177,536 3306,532 3436,528"/>
+                <TextEquiv>
+                    <Unicode>per forza sacerdote nelle Vergini Vestali Albane dal traditore di Amulio suo zio, per havere espulso dal stato Numito¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="858,683 988,683 1118,683 1248,683 1378,681 1508,679 1638,677 1768,674 1898,671 2028,669 2158,666 2288,663 2418,659 2548,657 2678,654 2808,651 2938,649 3068,647 3198,645 3328,643 3458,643 3458,586 3328,586 3198,588 3068,590 2938,592 2808,594 2678,597 2548,600 2418,602 2288,606 2158,609 2028,612 1898,614 1768,617 1638,620 1508,622 1378,624 1248,626 1118,626 988,626 858,626"/>
+                <Baseline points="858,664 988,664 1118,664 1248,664 1378,662 1508,660 1638,658 1768,655 1898,652 2028,650 2158,647 2288,644 2418,640 2548,638 2678,635 2808,632 2938,630 3068,628 3198,626 3328,624 3458,624"/>
+                <TextEquiv>
+                    <Unicode>re, et levatolo di Alba, privo la fanciulla anchora di potere generare, con ordinarla sacerdote della Dea Vesta. et cosi costei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="856,775 983,774 1111,773 1239,771 1367,769 1495,767 1623,765 1751,762 1879,759 2007,757 2135,755 2262,751 2390,749 2518,747 2646,744 2774,741 2902,739 3030,737 3158,735 3286,733 3414,731 3414,667 3286,669 3158,671 3030,673 2902,675 2774,677 2646,680 2518,683 2390,685 2262,687 2135,691 2007,693 1879,695 1751,698 1623,701 1495,703 1367,705 1239,707 1111,709 983,710 856,711"/>
+                <Baseline points="856,754 983,753 1111,752 1239,750 1367,748 1495,746 1623,744 1751,741 1879,738 2007,736 2135,734 2262,730 2390,728 2518,726 2646,723 2774,720 2902,718 3030,716 3158,714 3286,712 3414,710"/>
+                <TextEquiv>
+                    <Unicode>secondo l'usanza uscita dal Tempio ò claustro scese al Fonte, per prendere dell'acqua, ove riposandosi, distesa interra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="844,867 974,865 1105,863 1235,861 1366,857 1496,855 1627,851 1757,849 1888,845 2018,843 2149,839 2279,837 2410,833 2540,831 2671,827 2801,825 2932,823 3062,819 3193,817 3323,815 3454,813 3454,749 3323,751 3193,753 3062,755 2932,759 2801,761 2671,763 2540,767 2410,769 2279,773 2149,775 2018,779 1888,781 1757,785 1627,787 1496,791 1366,793 1235,797 1105,799 974,801 844,803"/>
+                <Baseline points="844,846 974,844 1105,842 1235,840 1366,836 1496,834 1627,830 1757,828 1888,824 2018,822 2149,818 2279,816 2410,812 2540,810 2671,806 2801,804 2932,802 3062,798 3193,796 3323,794 3454,792"/>
+                <TextEquiv>
+                    <Unicode>fu sopraffatta da un'huomo armato creduto che fuste Marte, et dalui fatta gravida, partori Romolo et Remo, che poscia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="868,961 996,959 1124,955 1252,953 1381,951 1509,947 1637,943 1766,941 1894,937 2022,934 2151,931 2279,927 2407,923 2535,920 2664,917 2792,915 2920,911 3049,909 3177,907 3305,905 3434,903 3434,840 3305,842 3177,844 3049,846 2920,848 2792,852 2664,854 2535,857 2407,860 2279,864 2151,868 2022,871 1894,874 1766,878 1637,880 1509,884 1381,888 1252,890 1124,892 996,896 868,898"/>
+                <Baseline points="868,940 996,938 1124,934 1252,932 1381,930 1509,926 1637,922 1766,920 1894,916 2022,913 2151,910 2279,906 2407,902 2535,899 2664,896 2792,894 2920,890 3049,888 3177,886 3305,884 3434,882"/>
+                <TextEquiv>
+                    <Unicode>sendo gittati nei gorghi del Tibere ò Albula fiume, furono allevati et nodriti da Fostolo et da Larentia Lupa: et sen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="876,1048 1004,1046 1132,1044 1260,1040 1388,1038 1517,1034 1645,1030 1773,1028 1901,1024 2029,1020 2158,1016 2286,1012 2414,1009 2542,1006 2670,1002 2798,999 2927,996 3055,994 3183,992 3311,990 3440,988 3440,928 3311,930 3183,932 3055,934 2927,936 2798,939 2670,942 2542,946 2414,949 2286,952 2158,956 2029,960 1901,964 1773,968 1645,970 1517,974 1388,978 1260,980 1132,984 1004,986 876,988"/>
+                <Baseline points="876,1028 1004,1026 1132,1024 1260,1020 1388,1018 1517,1014 1645,1010 1773,1008 1901,1004 2029,1000 2158,996 2286,992 2414,989 2542,986 2670,982 2798,979 2927,976 3055,974 3183,972 3311,970 3440,968"/>
+                <TextEquiv>
+                    <Unicode>do poscia grandi gittarono dalla Regia Amulio, et instituirono Re dell'Albani Numitore loro Avo: et incontenente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="880,1132 1006,1130 1133,1126 1259,1124 1386,1122 1513,1119 1639,1117 1766,1114 1892,1113 2019,1112 2146,1110 2272,1108 2399,1106 2525,1104 2652,1102 2779,1100 2905,1098 3032,1096 3158,1093 3285,1090 3412,1088 3412,1027 3285,1029 3158,1032 3032,1035 2905,1037 2779,1039 2652,1041 2525,1043 2399,1045 2272,1047 2146,1049 2019,1051 1892,1052 1766,1053 1639,1056 1513,1058 1386,1061 1259,1063 1133,1065 1006,1069 880,1071"/>
+                <Baseline points="880,1112 1006,1110 1133,1106 1259,1104 1386,1102 1513,1099 1639,1097 1766,1094 1892,1093 2019,1092 2146,1090 2272,1088 2399,1086 2525,1084 2652,1082 2779,1080 2905,1078 3032,1076 3158,1073 3285,1070 3412,1068"/>
+                <TextEquiv>
+                    <Unicode>dedussero colonia Albana Roma, nelluogo dove tra pastori furono allevati. et cosi per questo nelle cose Romane</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="854,1221 982,1219 1111,1217 1239,1213 1368,1211 1496,1209 1625,1209 1753,1207 1882,1205 2010,1205 2139,1203 2267,1203 2396,1201 2524,1199 2653,1199 2781,1197 2910,1197 3038,1195 3167,1193 3295,1191 3424,1189 3424,1126 3295,1128 3167,1130 3038,1132 2910,1134 2781,1134 2653,1136 2524,1136 2396,1138 2267,1140 2139,1140 2010,1142 1882,1142 1753,1144 1625,1146 1496,1146 1368,1148 1239,1150 1111,1154 982,1156 854,1158"/>
+                <Baseline points="854,1200 982,1198 1111,1196 1239,1192 1368,1190 1496,1188 1625,1188 1753,1186 1882,1184 2010,1184 2139,1182 2267,1182 2396,1180 2524,1178 2653,1178 2781,1176 2910,1176 3038,1174 3167,1172 3295,1170 3424,1168"/>
+                <TextEquiv>
+                    <Unicode>fu essaltata à gran gloria Rhea et fatta Iddea. et fu stimato come Dea apparo à Rhea mogliere di Saturno,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="872,1299 999,1297 1126,1297 1253,1295 1380,1295 1507,1293 1634,1293 1761,1291 1888,1291 2015,1289 2142,1289 2269,1289 2396,1289 2523,1289 2650,1289 2777,1289 2904,1289 3031,1289 3158,1291 3285,1292 3412,1293 3412,1230 3285,1229 3158,1228 3031,1226 2904,1226 2777,1226 2650,1226 2523,1226 2396,1226 2269,1226 2142,1226 2015,1226 1888,1228 1761,1228 1634,1230 1507,1230 1380,1232 1253,1232 1126,1234 999,1234 872,1236"/>
+                <Baseline points="872,1278 999,1276 1126,1276 1253,1274 1380,1274 1507,1272 1634,1272 1761,1270 1888,1270 2015,1268 2142,1268 2269,1268 2396,1268 2523,1268 2650,1268 2777,1268 2904,1268 3031,1268 3158,1270 3285,1271 3412,1272"/>
+                <TextEquiv>
+                    <Unicode>et figliuola di Caelo et di Terra, che alcuni chiamano Cybele et Tellure che fu madre di Vesta, et di questa scri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="880,1392 1008,1390 1136,1388 1264,1386 1392,1386 1521,1384 1649,1382 1777,1382 1905,1380 2033,1378 2162,1378 2290,1378 2418,1376 2546,1376 2674,1376 2802,1376 2931,1378 3059,1378 3187,1380 3315,1382 3444,1384 3444,1318 3315,1316 3187,1314 3059,1312 2931,1312 2802,1310 2674,1310 2546,1310 2418,1310 2290,1312 2162,1312 2033,1312 1905,1314 1777,1316 1649,1316 1521,1318 1392,1320 1264,1320 1136,1322 1008,1324 880,1326"/>
+                <Baseline points="880,1370 1008,1368 1136,1366 1264,1364 1392,1364 1521,1362 1649,1360 1777,1360 1905,1358 2033,1356 2162,1356 2290,1356 2418,1354 2546,1354 2674,1354 2802,1354 2931,1356 3059,1356 3187,1358 3315,1360 3444,1362"/>
+                <TextEquiv>
+                    <Unicode>vono Apollodoro et Hesiodo nelle Theogonie. et quando à questa si celebrava presso de Romani, si venereva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="876,1482 937,1484 999,1484 1061,1486 1123,1486 1185,1486 1247,1486 1309,1486 1371,1485 1433,1484 1495,1484 1556,1482 1618,1482 1680,1480 1742,1478 1804,1477 1866,1476 1928,1474 1990,1474 2052,1472 2114,1472 2114,1406 2052,1406 1990,1408 1928,1408 1866,1410 1804,1411 1742,1412 1680,1414 1618,1416 1556,1416 1495,1418 1433,1418 1371,1419 1309,1420 1247,1420 1185,1420 1123,1420 1061,1420 999,1418 937,1418 876,1416"/>
+                <Baseline points="876,1460 937,1462 999,1462 1061,1464 1123,1464 1185,1464 1247,1464 1309,1464 1371,1463 1433,1462 1495,1462 1556,1460 1618,1460 1680,1458 1742,1456 1804,1455 1866,1454 1928,1452 1990,1452 2052,1450 2114,1450"/>
+                <TextEquiv>
+                    <Unicode>Rhea llia figliuola di Numitore et madre di Romolo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} Greek {offset:44; length:5;}">
+                <Coords points="770,1576 901,1576 1033,1576 1165,1576 1297,1576 1429,1575 1561,1574 1693,1574 1825,1572 1957,1572 2089,1572 2220,1570 2352,1570 2484,1570 2616,1569 2748,1568 2880,1568 3012,1570 3144,1570 3276,1570 3408,1572 3408,1505 3276,1503 3144,1503 3012,1503 2880,1501 2748,1501 2616,1502 2484,1503 2352,1503 2220,1503 2089,1505 1957,1505 1825,1505 1693,1507 1561,1507 1429,1508 1297,1509 1165,1509 1033,1509 901,1509 770,1509"/>
+                <Baseline points="770,1554 901,1554 1033,1554 1165,1554 1297,1554 1429,1553 1561,1552 1693,1552 1825,1550 1957,1550 2089,1550 2220,1548 2352,1548 2484,1548 2616,1547 2748,1546 2880,1546 3012,1548 3144,1548 3276,1548 3408,1550"/>
+                <TextEquiv>
+                    <Unicode>RHEBAEI, sono i Rhebasij, detti da Rheba, ò ΡΗΒΑΣ, Regione della Thracia, posta intrale fauce, ò stretto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="874,1671 1001,1673 1128,1673 1256,1673 1383,1675 1511,1675 1638,1675 1765,1673 1893,1673 2020,1673 2148,1672 2275,1671 2402,1671 2530,1671 2657,1669 2785,1669 2912,1669 3039,1669 3167,1671 3294,1671 3422,1673 3422,1598 3294,1596 3167,1596 3039,1594 2912,1594 2785,1594 2657,1594 2530,1596 2402,1596 2275,1596 2148,1597 2020,1598 1893,1598 1765,1598 1638,1600 1511,1600 1383,1600 1256,1598 1128,1598 1001,1598 874,1596"/>
+                <Baseline points="874,1646 1001,1648 1128,1648 1256,1648 1383,1650 1511,1650 1638,1650 1765,1648 1893,1648 2020,1648 2148,1647 2275,1646 2402,1646 2530,1646 2657,1644 2785,1644 2912,1644 3039,1644 3167,1646 3294,1646 3422,1648"/>
+                <TextEquiv>
+                    <Unicode>del Boshoro Thracio, della quale narra Plinio nel sesto libro al primo capo. dove tragli duoi Bosphori, essa giace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="892,1766 1005,1768 1118,1768 1232,1768 1345,1768 1459,1770 1572,1770 1685,1768 1799,1768 1912,1768 2026,1768 2139,1768 2252,1766 2366,1766 2479,1766 2593,1766 2706,1764 2819,1764 2933,1764 3046,1766 3160,1766 3160,1706 3046,1706 2933,1704 2819,1704 2706,1704 2593,1706 2479,1706 2366,1706 2252,1706 2139,1708 2026,1708 1912,1708 1799,1708 1685,1708 1572,1710 1459,1710 1345,1708 1232,1708 1118,1708 1005,1708 892,1706"/>
+                <Baseline points="892,1746 1005,1748 1118,1748 1232,1748 1345,1748 1459,1750 1572,1750 1685,1748 1799,1748 1912,1748 2026,1748 2139,1748 2252,1746 2366,1746 2479,1746 2593,1746 2706,1744 2819,1744 2933,1744 3046,1746 3160,1746"/>
+                <TextEquiv>
+                    <Unicode>et perlo mezzo vi corre il fiume Rheba, nella parola senza spiratione: et qui disotto spiratamente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} Greek {offset:19; length:5;} Greek {offset:30; length:5;}">
+                <Coords points="770,1852 904,1854 1039,1856 1173,1856 1308,1856 1442,1856 1577,1856 1711,1856 1846,1854 1980,1853 2115,1852 2249,1850 2384,1848 2518,1848 2653,1848 2787,1846 2922,1846 3056,1846 3191,1848 3325,1850 3460,1852 3460,1792 3325,1790 3191,1788 3056,1786 2922,1786 2787,1786 2653,1788 2518,1788 2384,1788 2249,1790 2115,1792 1980,1793 1846,1794 1711,1796 1577,1796 1442,1796 1308,1796 1173,1796 1039,1796 904,1794 770,1792"/>
+                <Baseline points="770,1832 904,1834 1039,1836 1173,1836 1308,1836 1442,1836 1577,1836 1711,1836 1846,1834 1980,1833 2115,1832 2249,1830 2384,1828 2518,1828 2653,1828 2787,1826 2922,1826 3056,1826 3191,1828 3325,1830 3460,1832"/>
+                <TextEquiv>
+                    <Unicode>RHEBO, et Rheba, ò ΡΗΒΟΣ, et, ΡΕΒΑΣ, è fiume di Rhebaei sopradetto nello Bosphoro Thracio corrente. dove ac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="886,1949 965,1949 1044,1951 1124,1951 1203,1951 1283,1953 1362,1953 1441,1953 1521,1953 1600,1953 1680,1953 1759,1953 1838,1953 1918,1953 1997,1953 2077,1951 2156,1951 2235,1949 2315,1949 2394,1947 2474,1945 2474,1876 2394,1878 2315,1880 2235,1880 2156,1882 2077,1882 1997,1884 1918,1884 1838,1884 1759,1884 1680,1884 1600,1884 1521,1884 1441,1884 1362,1884 1283,1884 1203,1882 1124,1882 1044,1882 965,1880 886,1880"/>
+                <Baseline points="886,1926 965,1926 1044,1928 1124,1928 1203,1928 1283,1930 1362,1930 1441,1930 1521,1930 1600,1930 1680,1930 1759,1930 1838,1930 1918,1930 1997,1930 2077,1928 2156,1928 2235,1926 2315,1926 2394,1924 2474,1922"/>
+                <TextEquiv>
+                    <Unicode>capito Io, figliuola di Inacho sul Bove accavallo, andando in Aegypto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} Greek {offset:19; length:7;}">
+                <Coords points="810,2045 939,2045 1069,2047 1198,2047 1328,2049 1458,2049 1587,2047 1717,2047 1846,2047 1976,2045 2106,2043 2235,2043 2365,2041 2494,2039 2624,2039 2754,2037 2883,2037 3013,2036 3142,2035 3272,2035 3402,2035 3402,1971 3272,1971 3142,1971 3013,1972 2883,1973 2754,1973 2624,1975 2494,1975 2365,1977 2235,1979 2106,1979 1976,1981 1846,1983 1717,1983 1587,1983 1458,1985 1328,1985 1198,1983 1069,1983 939,1981 810,1981"/>
+                <Baseline points="810,2024 939,2024 1069,2026 1198,2026 1328,2028 1458,2028 1587,2026 1717,2026 1846,2026 1976,2024 2106,2022 2235,2022 2365,2020 2494,2018 2624,2018 2754,2016 2883,2016 3013,2015 3142,2014 3272,2014 3402,2014"/>
+                <TextEquiv>
+                    <Unicode>RHEDONI, Rhedones, ΡΗΔΟΝΕΣ, sono populi della Gallia Lugdunense, come dice Ptolemaeo, et sono detti dal vulgo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="882,2138 934,2136 987,2136 1039,2136 1092,2136 1144,2136 1197,2136 1249,2136 1302,2138 1354,2139 1407,2140 1459,2141 1512,2142 1564,2143 1617,2144 1669,2144 1722,2146 1774,2146 1827,2146 1879,2146 1932,2144 1932,2078 1879,2080 1827,2080 1774,2080 1722,2080 1669,2078 1617,2078 1564,2077 1512,2076 1459,2075 1407,2074 1354,2073 1302,2072 1249,2070 1197,2070 1144,2070 1092,2070 1039,2070 987,2070 934,2070 882,2072"/>
+                <Baseline points="882,2116 934,2114 987,2114 1039,2114 1092,2114 1144,2114 1197,2114 1249,2114 1302,2116 1354,2117 1407,2118 1459,2119 1512,2120 1564,2121 1617,2122 1669,2122 1722,2124 1774,2124 1827,2124 1879,2124 1932,2122"/>
+                <TextEquiv>
+                    <Unicode>quei di Rens. Come quelli della Britannia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="792,2709 922,2709 1053,2711 1184,2711 1315,2713 1446,2713 1576,2715 1707,2715 1838,2717 1969,2717 2100,2719 2230,2721 2361,2721 2492,2723 2623,2725 2754,2725 2884,2727 3015,2729 3146,2731 3277,2732 3408,2733 3408,2658 3277,2657 3146,2656 3015,2654 2884,2652 2754,2650 2623,2650 2492,2648 2361,2646 2230,2646 2100,2644 1969,2642 1838,2642 1707,2640 1576,2640 1446,2638 1315,2638 1184,2636 1053,2636 922,2634 792,2634"/>
+                <Baseline points="792,2684 922,2684 1053,2686 1184,2686 1315,2688 1446,2688 1576,2690 1707,2690 1838,2692 1969,2692 2100,2694 2230,2696 2361,2696 2492,2698 2623,2700 2754,2700 2884,2702 3015,2704 3146,2706 3277,2707 3408,2708"/>
+                <TextEquiv>
+                    <Unicode>RHEGENA, è la istessa ch'è Begenna, citta nell'Arabia deserta, secondo la mette Ptolemaeo. dalla quale dicono,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="894,2791 1022,2793 1150,2795 1278,2797 1407,2799 1535,2800 1663,2801 1792,2803 1920,2803 2048,2805 2177,2807 2305,2807 2433,2809 2561,2811 2690,2813 2818,2814 2946,2815 3075,2819 3203,2821 3331,2823 3460,2827 3460,2758 3331,2754 3203,2752 3075,2750 2946,2746 2818,2745 2690,2744 2561,2742 2433,2740 2305,2738 2177,2738 2048,2736 1920,2734 1792,2734 1663,2732 1535,2731 1407,2730 1278,2728 1150,2726 1022,2724 894,2722"/>
+                <Baseline points="894,2768 1022,2770 1150,2772 1278,2774 1407,2776 1535,2777 1663,2778 1792,2780 1920,2780 2048,2782 2177,2784 2305,2784 2433,2786 2561,2788 2690,2790 2818,2791 2946,2792 3075,2796 3203,2798 3331,2800 3460,2804"/>
+                <TextEquiv>
+                    <Unicode>Rhegenaeo, et Rhegenense. Come Begennaeo, Begennense, et Begennate: et nelle dittioni si trova per megliore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="890,2883 937,2885 984,2887 1031,2887 1078,2889 1125,2889 1172,2889 1219,2891 1266,2891 1313,2891 1360,2893 1407,2893 1454,2893 1501,2893 1548,2893 1595,2893 1642,2893 1689,2895 1736,2895 1783,2895 1830,2895 1830,2826 1783,2826 1736,2826 1689,2826 1642,2824 1595,2824 1548,2824 1501,2824 1454,2824 1407,2824 1360,2824 1313,2822 1266,2822 1219,2822 1172,2820 1125,2820 1078,2820 1031,2818 984,2818 937,2816 890,2814"/>
+                <Baseline points="890,2860 937,2862 984,2864 1031,2864 1078,2866 1125,2866 1172,2866 1219,2868 1266,2868 1313,2868 1360,2870 1407,2870 1454,2870 1501,2870 1548,2870 1595,2870 1642,2870 1689,2872 1736,2872 1783,2872 1830,2872"/>
+                <TextEquiv>
+                    <Unicode>l'essere scritta Begenna, che Rhegena.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="814,3263 943,3263 1073,3265 1203,3265 1333,3267 1463,3267 1593,3269 1723,3271 1853,3273 1983,3275 2113,3277 2242,3279 2372,3281 2502,3283 2632,3286 2762,3288 2892,3290 3022,3293 3152,3295 3282,3297 3412,3299 3412,3224 3282,3222 3152,3220 3022,3218 2892,3215 2762,3213 2632,3211 2502,3208 2372,3206 2242,3204 2113,3202 1983,3200 1853,3198 1723,3196 1593,3194 1463,3192 1333,3192 1203,3190 1073,3190 943,3188 814,3188"/>
+                <Baseline points="814,3238 943,3238 1073,3240 1203,3240 1333,3242 1463,3242 1593,3244 1723,3246 1853,3248 1983,3250 2113,3252 2242,3254 2372,3256 2502,3258 2632,3261 2762,3263 2892,3265 3022,3268 3152,3270 3282,3272 3412,3274"/>
+                <TextEquiv>
+                    <Unicode>RHEGEISIA, fù nome di Fonte privato in Roma, dell'acqua Claudia nella Regione della Via Lata, ch'era nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="900,3355 1027,3357 1155,3359 1282,3361 1410,3363 1538,3365 1665,3367 1793,3368 1920,3369 2048,3371 2176,3373 2303,3375 2431,3377 2558,3379 2686,3381 2814,3383 2941,3385 3069,3387 3196,3387 3324,3389 3452,3391 3452,3316 3324,3314 3196,3312 3069,3312 2941,3310 2814,3308 2686,3306 2558,3304 2431,3302 2303,3300 2176,3298 2048,3296 1920,3294 1793,3293 1665,3292 1538,3290 1410,3288 1282,3286 1155,3284 1027,3282 900,3280"/>
+                <Baseline points="900,3330 1027,3332 1155,3334 1282,3336 1410,3338 1538,3340 1665,3342 1793,3343 1920,3344 2048,3346 2176,3348 2303,3350 2431,3352 2558,3354 2686,3356 2814,3358 2941,3360 3069,3362 3196,3362 3324,3364 3452,3366"/>
+                <TextEquiv>
+                    <Unicode>casata Rhegeisia, secondo accusavano le parole scritti nella Fistula di piombo. AQVACLAVDIA RHEGEISIA. L•RHEGEISI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="850,3465 978,3465 1106,3465 1234,3465 1363,3465 1491,3465 1619,3465 1748,3465 1876,3467 2004,3467 2133,3469 2261,3469 2389,3471 2517,3471 2646,3473 2774,3473 2902,3475 3031,3477 3159,3477 3287,3479 3416,3479 3416,3404 3287,3404 3159,3402 3031,3402 2902,3400 2774,3398 2646,3398 2517,3396 2389,3396 2261,3394 2133,3394 2004,3392 1876,3392 1748,3390 1619,3390 1491,3390 1363,3390 1234,3390 1106,3390 978,3390 850,3390"/>
+                <Baseline points="850,3440 978,3440 1106,3440 1234,3440 1363,3440 1491,3440 1619,3440 1748,3440 1876,3442 2004,3442 2133,3444 2261,3444 2389,3446 2517,3446 2646,3448 2774,3448 2902,3450 3031,3452 3159,3452 3287,3454 3416,3454"/>
+                <TextEquiv>
+                    <Unicode>RHEGIA COLVMNA. et Columnella Rhegia, è Vico et luogo antico gia incapo alla Italia sul fine della Via Appia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="890,3558 1018,3560 1146,3560 1275,3560 1403,3562 1532,3562 1660,3564 1788,3564 1917,3566 2045,3566 2174,3568 2302,3570 2430,3570 2559,3572 2687,3574 2816,3576 2944,3576 3072,3578 3201,3580 3329,3582 3458,3584 3458,3512 3329,3510 3201,3508 3072,3506 2944,3504 2816,3504 2687,3502 2559,3500 2430,3498 2302,3498 2174,3496 2045,3494 1917,3494 1788,3492 1660,3492 1532,3490 1403,3490 1275,3488 1146,3488 1018,3488 890,3486"/>
+                <Baseline points="890,3534 1018,3536 1146,3536 1275,3536 1403,3538 1532,3538 1660,3540 1788,3540 1917,3542 2045,3542 2174,3544 2302,3546 2430,3546 2559,3548 2687,3550 2816,3552 2944,3552 3072,3554 3201,3556 3329,3558 3458,3560"/>
+                <TextEquiv>
+                    <Unicode>situato sul Freto Siciliano nella Italia tra li Brutij, nel territorio di Rhegio città opposta incontro Messena, ò Mes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="902,3655 1027,3657 1152,3657 1277,3658 1402,3659 1527,3661 1652,3662 1777,3663 1902,3665 2027,3667 2153,3669 2278,3671 2403,3673 2528,3675 2653,3675 2778,3677 2903,3679 3028,3679 3153,3679 3278,3679 3404,3679 3404,3610 3278,3610 3153,3610 3028,3610 2903,3610 2778,3608 2653,3606 2528,3606 2403,3604 2278,3602 2153,3600 2027,3598 1902,3596 1777,3594 1652,3593 1527,3592 1402,3590 1277,3589 1152,3588 1027,3588 902,3586"/>
+                <Baseline points="902,3632 1027,3634 1152,3634 1277,3635 1402,3636 1527,3638 1652,3639 1777,3640 1902,3642 2027,3644 2153,3646 2278,3648 2403,3650 2528,3652 2653,3652 2778,3654 2903,3656 3028,3656 3153,3656 3278,3656 3404,3656"/>
+                <TextEquiv>
+                    <Unicode>sina, come è detto. piu oltre in Rhegio città. Et alcuni scrivono la Columna Regiense, come il nome del paesano,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="890,3757 1015,3759 1141,3761 1266,3763 1392,3763 1518,3765 1643,3765 1769,3767 1894,3767 2020,3767 2146,3769 2271,3769 2397,3769 2522,3769 2648,3769 2774,3769 2899,3771 3025,3771 3150,3771 3276,3772 3402,3773 3402,3704 3276,3703 3150,3702 3025,3702 2899,3702 2774,3700 2648,3700 2522,3700 2397,3700 2271,3700 2146,3700 2020,3698 1894,3698 1769,3698 1643,3696 1518,3696 1392,3694 1266,3694 1141,3692 1015,3690 890,3688"/>
+                <Baseline points="890,3734 1015,3736 1141,3738 1266,3740 1392,3740 1518,3742 1643,3742 1769,3744 1894,3744 2020,3744 2146,3746 2271,3746 2397,3746 2522,3746 2648,3746 2774,3746 2899,3748 3025,3748 3150,3748 3276,3749 3402,3750"/>
+                <TextEquiv>
+                    <Unicode>et il cittadino d'essa Rhegio Rhegino, et Rhegina la Donna. come nel latino Rheginus. Rhegina, Rheginum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="882,3863 1008,3863 1135,3861 1261,3861 1388,3861 1515,3863 1641,3863 1768,3863 1894,3863 2021,3865 2148,3865 2274,3865 2401,3867 2527,3867 2654,3867 2781,3869 2907,3869 3034,3869 3160,3871 3287,3871 3414,3871 3414,3801 3287,3801 3160,3801 3034,3799 2907,3799 2781,3799 2654,3797 2527,3797 2401,3797 2274,3795 2148,3795 2021,3795 1894,3793 1768,3793 1641,3793 1515,3793 1388,3791 1261,3791 1135,3791 1008,3793 882,3793"/>
+                <Baseline points="882,3840 1008,3840 1135,3838 1261,3838 1388,3838 1515,3840 1641,3840 1768,3840 1894,3840 2021,3842 2148,3842 2274,3842 2401,3844 2527,3844 2654,3844 2781,3846 2907,3846 3034,3846 3160,3848 3287,3848 3414,3848"/>
+                <TextEquiv>
+                    <Unicode>Ora essa colonna Rhegia, ò Columnella fu posta come termine ultimo della Via Appia da Roma à Rhegio, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="894,3965 1022,3967 1150,3969 1278,3969 1407,3969 1535,3971 1663,3971 1792,3971 1920,3973 2048,3973 2177,3973 2305,3973 2433,3975 2561,3975 2690,3975 2818,3976 2946,3977 3075,3977 3203,3979 3331,3981 3460,3981 3460,3911 3331,3911 3203,3909 3075,3907 2946,3907 2818,3906 2690,3905 2561,3905 2433,3905 2305,3903 2177,3903 2048,3903 1920,3903 1792,3901 1663,3901 1535,3901 1407,3899 1278,3899 1150,3899 1022,3897 894,3895"/>
+                <Baseline points="894,3942 1022,3944 1150,3946 1278,3946 1407,3946 1535,3948 1663,3948 1792,3948 1920,3950 2048,3950 2177,3950 2305,3950 2433,3952 2561,3952 2690,3952 2818,3953 2946,3954 3075,3954 3203,3956 3331,3958 3460,3958"/>
+                <TextEquiv>
+                    <Unicode>per segno di Victoria: nella destra parte della Via Appia, percio che essa se partiva da Roma et arrivava à Capua¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="900,4073 1027,4073 1154,4073 1281,4073 1408,4073 1535,4073 1662,4071 1789,4071 1916,4071 2043,4069 2170,4069 2297,4069 2424,4069 2551,4069 2678,4069 2805,4069 2932,4069 3059,4069 3186,4071 3313,4071 3440,4073 3440,4004 3313,4002 3186,4002 3059,4000 2932,4000 2805,4000 2678,4000 2551,4000 2424,4000 2297,4000 2170,4000 2043,4000 1916,4002 1789,4002 1662,4002 1535,4004 1408,4004 1281,4004 1154,4004 1027,4004 900,4004"/>
+                <Baseline points="900,4050 1027,4050 1154,4050 1281,4050 1408,4050 1535,4050 1662,4048 1789,4048 1916,4048 2043,4046 2170,4046 2297,4046 2424,4046 2551,4046 2678,4046 2805,4046 2932,4046 3059,4046 3186,4048 3313,4048 3440,4050"/>
+                <TextEquiv>
+                    <Unicode>et da Capua faceva due parti: à senistra ne andava à Bonevento et à Brandusio finiva. et da Capua nella</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="912,4177 1039,4177 1166,4177 1293,4177 1421,4177 1548,4177 1675,4175 1803,4175 1930,4175 2057,4173 2185,4173 2312,4171 2439,4171 2566,4169 2694,4169 2821,4169 2948,4167 3076,4167 3203,4167 3330,4167 3458,4167 3458,4092 3330,4092 3203,4092 3076,4092 2948,4092 2821,4094 2694,4094 2566,4094 2439,4096 2312,4096 2185,4098 2057,4098 1930,4100 1803,4100 1675,4100 1548,4102 1421,4102 1293,4102 1166,4102 1039,4102 912,4102"/>
+                <Baseline points="912,4152 1039,4152 1166,4152 1293,4152 1421,4152 1548,4152 1675,4150 1803,4150 1930,4150 2057,4148 2185,4148 2312,4146 2439,4146 2566,4144 2694,4144 2821,4144 2948,4142 3076,4142 3203,4142 3330,4142 3458,4142"/>
+                <TextEquiv>
+                    <Unicode>destra, partiva, per Nola per Sarno, per Salerno, et andava oltre in sino à Rhegio alla colonna. dove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="900,4272 1026,4274 1152,4274 1278,4276 1405,4276 1531,4276 1657,4276 1784,4276 1910,4274 2036,4274 2163,4272 2289,4270 2415,4270 2541,4268 2668,4266 2794,4264 2920,4263 3047,4262 3173,4260 3299,4258 3426,4258 3426,4185 3299,4185 3173,4187 3047,4189 2920,4190 2794,4191 2668,4193 2541,4195 2415,4197 2289,4197 2163,4199 2036,4201 1910,4201 1784,4203 1657,4203 1531,4203 1405,4203 1278,4203 1152,4201 1026,4201 900,4199"/>
+                <Baseline points="900,4248 1026,4250 1152,4250 1278,4252 1405,4252 1531,4252 1657,4252 1784,4252 1910,4250 2036,4250 2163,4248 2289,4246 2415,4246 2541,4244 2668,4242 2794,4240 2920,4239 3047,4238 3173,4236 3299,4234 3426,4234"/>
+                <TextEquiv>
+                    <Unicode>Hannibale suspirando, nel tempo ch'egli era sforzato partirsi d'Italia afflitto et mesto, si dolea della suo in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="892,4378 966,4378 1040,4376 1115,4376 1189,4376 1264,4376 1338,4376 1412,4376 1487,4376 1561,4376 1636,4376 1710,4376 1784,4376 1859,4376 1933,4376 2008,4374 2082,4374 2156,4372 2231,4370 2305,4368 2380,4364 2380,4291 2305,4295 2231,4297 2156,4299 2082,4301 2008,4301 1933,4303 1859,4303 1784,4303 1710,4303 1636,4303 1561,4303 1487,4303 1412,4303 1338,4303 1264,4303 1189,4303 1115,4303 1040,4303 966,4305 892,4305"/>
+                <Baseline points="892,4354 966,4354 1040,4352 1115,4352 1189,4352 1264,4352 1338,4352 1412,4352 1487,4352 1561,4352 1636,4352 1710,4352 1784,4352 1859,4352 1933,4352 2008,4350 2082,4350 2156,4348 2231,4346 2305,4344 2380,4340"/>
+                <TextEquiv>
+                    <Unicode>fortunio et della patria, che per l'ultimo refugio lo chiamava.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RHEA, Fonte fu sullago Albano, sotto l'Albano Monte, dove fu edificata Alba Longa de latini da Iulo Ascanio figliuolo
+di Aenea: et secondo scrisse Porcilio, fu detto il Fonte da Rhea Silvia Ilia figliuola di Numitore: la quale sendo fatta
+per forza sacerdote nelle Vergini Vestali Albane dal traditore di Amulio suo zio, per havere espulso dal stato Numito¬
+re, et levatolo di Alba, privo la fanciulla anchora di potere generare, con ordinarla sacerdote della Dea Vesta. et cosi costei
+secondo l'usanza uscita dal Tempio ò claustro scese al Fonte, per prendere dell'acqua, ove riposandosi, distesa interra
+fu sopraffatta da un'huomo armato creduto che fuste Marte, et dalui fatta gravida, partori Romolo et Remo, che poscia
+sendo gittati nei gorghi del Tibere ò Albula fiume, furono allevati et nodriti da Fostolo et da Larentia Lupa: et sen
+do poscia grandi gittarono dalla Regia Amulio, et instituirono Re dell'Albani Numitore loro Avo: et incontenente
+dedussero colonia Albana Roma, nelluogo dove tra pastori furono allevati. et cosi per questo nelle cose Romane
+fu essaltata à gran gloria Rhea et fatta Iddea. et fu stimato come Dea apparo à Rhea mogliere di Saturno,
+et figliuola di Caelo et di Terra, che alcuni chiamano Cybele et Tellure che fu madre di Vesta, et di questa scri
+vono Apollodoro et Hesiodo nelle Theogonie. et quando à questa si celebrava presso de Romani, si venereva
+Rhea llia figliuola di Numitore et madre di Romolo.
+RHEBAEI, sono i Rhebasij, detti da Rheba, ò ΡΗΒΑΣ, Regione della Thracia, posta intrale fauce, ò stretto
+del Boshoro Thracio, della quale narra Plinio nel sesto libro al primo capo. dove tragli duoi Bosphori, essa giace
+et perlo mezzo vi corre il fiume Rheba, nella parola senza spiratione: et qui disotto spiratamente.
+RHEBO, et Rheba, ò ΡΗΒΟΣ, et, ΡΕΒΑΣ, è fiume di Rhebaei sopradetto nello Bosphoro Thracio corrente. dove ac¬
+capito Io, figliuola di Inacho sul Bove accavallo, andando in Aegypto
+RHEDONI, Rhedones, ΡΗΔΟΝΕΣ, sono populi della Gallia Lugdunense, come dice Ptolemaeo, et sono detti dal vulgo
+quei di Rens. Come quelli della Britannia.
+RHEGENA, è la istessa ch'è Begenna, citta nell'Arabia deserta, secondo la mette Ptolemaeo. dalla quale dicono,
+Rhegenaeo, et Rhegenense. Come Begennaeo, Begennense, et Begennate: et nelle dittioni si trova per megliore
+l'essere scritta Begenna, che Rhegena.
+RHEGEISIA, fù nome di Fonte privato in Roma, dell'acqua Claudia nella Regione della Via Lata, ch'era nella
+casata Rhegeisia, secondo accusavano le parole scritti nella Fistula di piombo. AQVACLAVDIA RHEGEISIA. L•RHEGEISI.
+RHEGIA COLVMNA. et Columnella Rhegia, è Vico et luogo antico gia incapo alla Italia sul fine della Via Appia.
+situato sul Freto Siciliano nella Italia tra li Brutij, nel territorio di Rhegio città opposta incontro Messena, ò Mes¬
+sina, come è detto. piu oltre in Rhegio città. Et alcuni scrivono la Columna Regiense, come il nome del paesano,
+et il cittadino d'essa Rhegio Rhegino, et Rhegina la Donna. come nel latino Rheginus. Rhegina, Rheginum.
+Ora essa colonna Rhegia, ò Columnella fu posta come termine ultimo della Via Appia da Roma à Rhegio, et
+per segno di Victoria: nella destra parte della Via Appia, percio che essa se partiva da Roma et arrivava à Capua¬
+et da Capua faceva due parti: à senistra ne andava à Bonevento et à Brandusio finiva. et da Capua nella
+destra, partiva, per Nola per Sarno, per Salerno, et andava oltre in sino à Rhegio alla colonna. dove
+Hannibale suspirando, nel tempo ch'egli era sforzato partirsi d'Italia afflitto et mesto, si dolea della suo in
+fortunio et della patria, che per l'ultimo refugio lo chiamava.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

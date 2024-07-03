@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_040b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:06.03+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="4147" WIDTH="2944" VPOS="205" HPOS="427">
+               <Shape>
+                  <Polygon POINTS="427,211 436,4348 3367,4352 3371,205"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="2888,279 2917,278 2946,263 2975,258 3002,237 3032,234"
+                         HEIGHT="90"
+                         WIDTH="146"
+                         VPOS="186"
+                         HPOS="2884">
+                  <String ID="string_r1l1"
+                          HEIGHT="90"
+                          WIDTH="146"
+                          VPOS="186"
+                          HPOS="2884"
+                          CONTENT="43"/>
+               </TextLine>
+               <TextLine ID="line_1643210031894_205"
+                         BASELINE="3181,356 3283,356"
+                         HEIGHT="50"
+                         WIDTH="102"
+                         VPOS="317"
+                         HPOS="3174">
+                  <String ID="string_line_1643210031894_205"
+                          HEIGHT="50"
+                          WIDTH="102"
+                          VPOS="317"
+                          HPOS="3174"
+                          CONTENT="40"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="454,466 578,466 703,464 828,464 953,462 1078,462 1202,462 1327,460 1452,460 1577,460 1702,458 1826,458 1951,458 2076,456 2201,456 2326,456 2450,454 2575,454 2700,452 2825,452 2950,450"
+                         HEIGHT="88"
+                         WIDTH="2496"
+                         VPOS="402"
+                         HPOS="454">
+                  <String ID="string_r1l2"
+                          HEIGHT="88"
+                          WIDTH="2496"
+                          VPOS="402"
+                          HPOS="454"
+                          CONTENT="no si baciano, come per segno di allegrezza, et quelle Donne cosi pacificate chiamarono"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="484,556 608,560 732,562 856,562 980,564 1104,564 1228,564 1352,564 1476,564 1600,564 1724,564 1848,564 1972,564 2096,564 2220,564 2344,564 2468,564 2592,566 2716,566 2840,568 2964,572"
+                         HEIGHT="88"
+                         WIDTH="2480"
+                         VPOS="508"
+                         HPOS="484">
+                  <String ID="string_r1l3"
+                          HEIGHT="88"
+                          WIDTH="2480"
+                          VPOS="508"
+                          HPOS="484"
+                          CONTENT="la nuova citta Roma, per un ricordo di quella generosa donna latina, che pria colle la"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="478,660 601,664 724,666 848,668 971,668 1095,670 1218,670 1341,670 1465,672 1588,672 1712,672 1835,672 1958,672 2082,672 2205,673 2329,674 2452,676 2575,678 2699,680 2822,684 2946,688"
+                         HEIGHT="100"
+                         WIDTH="2468"
+                         VPOS="612"
+                         HPOS="478">
+                  <String ID="string_r1l4"
+                          HEIGHT="100"
+                          WIDTH="2468"
+                          VPOS="612"
+                          HPOS="478"
+                          CONTENT="tine et poscia con li Troiani le adolcirono et le strinsero nell'amore della amaicabile fe"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="466,770 589,772 712,774 835,774 958,776 1082,776 1205,776 1328,778 1451,778 1574,780 1698,780 1821,780 1944,782 2067,782 2190,784 2314,786 2437,787 2560,788 2683,790 2806,792 2930,796"
+                         HEIGHT="98"
+                         WIDTH="2464"
+                         VPOS="722"
+                         HPOS="466">
+                  <String ID="string_r1l5"
+                          HEIGHT="98"
+                          WIDTH="2464"
+                          VPOS="722"
+                          HPOS="466"
+                          CONTENT="dutia, et per insino nelle nozze et matrimoniij s'invocava la madre Roma. Conferma"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="462,884 587,884 712,884 837,884 963,884 1088,884 1213,884 1339,884 1464,884 1589,886 1715,886 1840,886 1965,888 2090,888 2216,890 2341,892 2466,892 2592,894 2717,896 2842,898 2968,900"
+                         HEIGHT="88"
+                         WIDTH="2506"
+                         VPOS="836"
+                         HPOS="462">
+                  <String ID="string_r1l6"
+                          HEIGHT="88"
+                          WIDTH="2506"
+                          VPOS="836"
+                          HPOS="462"
+                          CONTENT="questo costume Plutarcho. Ma Paullo antico Iureconsulto, scrisse che Romolo dal suo nome"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="466,988 589,988 712,990 835,990 959,990 1082,990 1205,990 1329,992 1452,992 1575,992 1699,992 1822,992 1945,994 2068,994 2192,996 2315,996 2438,998 2562,1000 2685,1002 2808,1006 2932,1008"
+                         HEIGHT="86"
+                         WIDTH="2466"
+                         VPOS="944"
+                         HPOS="466">
+                  <String ID="string_r1l7"
+                          HEIGHT="86"
+                          WIDTH="2466"
+                          VPOS="944"
+                          HPOS="466"
+                          CONTENT="appello Roma, et non fù Romula, che per ampliare i vocabuli è stato tenuto. Percioche"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="472,1078 596,1080 720,1082 844,1084 968,1084 1093,1086 1217,1086 1341,1088 1465,1088 1589,1088 1714,1088 1838,1090 1962,1090 2086,1090 2210,1090 2335,1092 2459,1092 2583,1093 2707,1094 2831,1096 2956,1096"
+                         HEIGHT="84"
+                         WIDTH="2484"
+                         VPOS="1034"
+                         HPOS="472">
+                  <String ID="string_r1l8"
+                          HEIGHT="84"
+                          WIDTH="2484"
+                          VPOS="1034"
+                          HPOS="472"
+                          CONTENT="Roma significa prosperità. et cosi dala: PROSPERIOSA PATRIAE SVAE OMINAREVTR, et"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="470,1184 592,1184 715,1184 837,1184 960,1184 1083,1184 1205,1186 1328,1186 1450,1186 1573,1186 1696,1186 1818,1186 1941,1188 2063,1188 2186,1188 2309,1190 2431,1190 2554,1192 2676,1194 2799,1194 2922,1196"
+                         HEIGHT="84"
+                         WIDTH="2452"
+                         VPOS="1136"
+                         HPOS="470">
+                  <String ID="string_r1l9"
+                          HEIGHT="84"
+                          WIDTH="2452"
+                          VPOS="1136"
+                          HPOS="470"
+                          CONTENT="cosi termina nelle sue leggi antiche. Et Festo pompeio, recitando dela porta Romanola"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="480,1286 602,1288 725,1290 847,1290 970,1290 1093,1292 1215,1292 1338,1292 1460,1294 1583,1294 1706,1294 1828,1294 1951,1296 2073,1296 2196,1296 2319,1296 2441,1298 2564,1298 2686,1300 2809,1302 2932,1302"
+                         HEIGHT="88"
+                         WIDTH="2452"
+                         VPOS="1238"
+                         HPOS="480">
+                  <String ID="string_r1l10"
+                          HEIGHT="88"
+                          WIDTH="2452"
+                          VPOS="1238"
+                          HPOS="480"
+                          CONTENT="che è una dele porte di Roma, la dice Romanola dall'Rominato Epistijlio, donde fluisce et"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="466,1380 590,1384 714,1388 838,1392 962,1394 1086,1396 1210,1398 1334,1398 1458,1398 1582,1400 1707,1400 1831,1400 1955,1400 2079,1402 2203,1402 2327,1404 2451,1406 2575,1408 2699,1410 2823,1414 2948,1418"
+                         HEIGHT="110"
+                         WIDTH="2482"
+                         VPOS="1332"
+                         HPOS="466">
+                  <String ID="string_r1l11"
+                          HEIGHT="110"
+                          WIDTH="2482"
+                          VPOS="1332"
+                          HPOS="466"
+                          CONTENT="scola l'acqua per cio che viera una porta Romanola et Romana da alcuni detta, dela qual"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="462,1486 586,1492 711,1497 836,1500 960,1504 1085,1506 1210,1508 1334,1508 1459,1508 1584,1508 1709,1508 1833,1508 1958,1508 2083,1508 2207,1508 2332,1508 2457,1508 2581,1510 2706,1512 2831,1515 2956,1518"
+                         HEIGHT="104"
+                         WIDTH="2494"
+                         VPOS="1438"
+                         HPOS="462">
+                  <String ID="string_r1l12"
+                          HEIGHT="104"
+                          WIDTH="2494"
+                          VPOS="1438"
+                          HPOS="462"
+                          CONTENT="parla Cincio nel suo monumento ch'era della sua fameglia sotto d'essa Romanola porta"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="466,1588 589,1592 713,1596 837,1600 961,1602 1085,1604 1209,1606 1333,1608 1457,1608 1581,1610 1705,1610 1828,1612 1952,1614 2076,1616 2200,1618 2324,1620 2448,1622 2572,1626 2696,1632 2820,1637 2944,1644"
+                         HEIGHT="128"
+                         WIDTH="2478"
+                         VPOS="1540"
+                         HPOS="466">
+                  <String ID="string_r1l13"
+                          HEIGHT="128"
+                          WIDTH="2478"
+                          VPOS="1540"
+                          HPOS="466"
+                          CONTENT="instituta da Romolo, la quale era nel clivo dela Vittoria lo qualluogho dicono ch'era qua¬"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="468,1690 591,1694 715,1698 839,1702 963,1704 1087,1708 1210,1710 1334,1710 1458,1712 1582,1714 1706,1716 1829,1716 1953,1718 2077,1720 2201,1723 2325,1726 2448,1730 2572,1734 2696,1740 2820,1746 2944,1754"
+                         HEIGHT="133"
+                         WIDTH="2476"
+                         VPOS="1644"
+                         HPOS="468">
+                  <String ID="string_r1l14"
+                          HEIGHT="133"
+                          WIDTH="2476"
+                          VPOS="1644"
+                          HPOS="468"
+                          CONTENT="drato et visi montava per piedi et gradi. Fu chiamata Romana,da sabini, per che appresso"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="486,1812 608,1814 731,1816 854,1818 976,1818 1099,1820 1222,1820 1344,1822 1467,1822 1590,1822 1713,1824 1835,1824 1958,1826 2081,1826 2203,1828 2326,1830 2449,1832 2571,1834 2694,1838 2817,1842 2940,1846"
+                         HEIGHT="103"
+                         WIDTH="2454"
+                         VPOS="1766"
+                         HPOS="486">
+                  <String ID="string_r1l15"
+                          HEIGHT="103"
+                          WIDTH="2454"
+                          VPOS="1766"
+                          HPOS="486"
+                          CONTENT="all'andito dove si fermarono era Roma. ò pure per cheper quella essi sabini con gagliar¬"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="470,1922 593,1924 717,1926 841,1928 964,1928 1088,1930 1212,1930 1335,1930 1459,1932 1583,1932 1707,1932 1830,1932 1954,1932 2078,1932 2201,1934 2325,1934 2449,1936 2572,1937 2696,1939 2820,1942 2944,1944"
+                         HEIGHT="94"
+                         WIDTH="2474"
+                         VPOS="1874"
+                         HPOS="470">
+                  <String ID="string_r1l16"
+                          HEIGHT="94"
+                          WIDTH="2474"
+                          VPOS="1874"
+                          HPOS="470"
+                          CONTENT="dezza entrarono nel capitoglio. Dela cuiattione scrive Macrobio con unaltro senso, che"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="470,2034 594,2034 718,2036 842,2036 966,2038 1090,2038 1214,2038 1338,2038 1462,2038 1586,2036 1710,2036 1834,2036 1958,2036 2082,2036 2206,2036 2330,2037 2454,2038 2578,2039 2702,2040 2826,2043 2950,2046"
+                         HEIGHT="79"
+                         WIDTH="2480"
+                         VPOS="1989"
+                         HPOS="470">
+                  <String ID="string_r1l17"
+                          HEIGHT="79"
+                          WIDTH="2480"
+                          VPOS="1989"
+                          HPOS="470"
+                          CONTENT="sendo assaltato il capitoglio da nimici sabini corse dell'acqua dala porta per insino al Tem¬"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="466,2124 588,2128 711,2132 834,2134 957,2136 1080,2136 1203,2138 1326,2138 1449,2138 1572,2138 1695,2138 1817,2138 1940,2138 2063,2138 2186,2138 2309,2140 2432,2140 2555,2142 2678,2146 2801,2148 2924,2152"
+                         HEIGHT="95"
+                         WIDTH="2458"
+                         VPOS="2079"
+                         HPOS="466">
+                  <String ID="string_r1l18"
+                          HEIGHT="95"
+                          WIDTH="2458"
+                          VPOS="2079"
+                          HPOS="466"
+                          CONTENT="pio di Iano Gemino, lo quale era posto sotto la porta Ianuale dell'antica Roma la quale"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="446,2238 570,2236 695,2234 820,2232 945,2232 1070,2232 1195,2230 1320,2232 1445,2232 1570,2232 1695,2234 1819,2234 1944,2236 2069,2238 2194,2238 2319,2240 2444,2240 2569,2242 2694,2242 2819,2242 2944,2242"
+                         HEIGHT="81"
+                         WIDTH="2498"
+                         VPOS="2184"
+                         HPOS="446">
+                  <String ID="string_r1l19"
+                          HEIGHT="81"
+                          WIDTH="2498"
+                          VPOS="2184"
+                          HPOS="446"
+                          CONTENT="fu fabricata da Romolo, figliuolo di Marte et di Ilia. Et Verrio Flacco particolarmente"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="454,2336 577,2336 700,2336 823,2338 946,2338 1069,2340 1192,2340 1315,2342 1438,2342 1561,2342 1685,2344 1808,2344 1931,2345 2054,2346 2177,2346 2300,2346 2423,2346 2546,2346 2669,2346 2792,2346 2916,2346"
+                         HEIGHT="82"
+                         WIDTH="2462"
+                         VPOS="2288"
+                         HPOS="454">
+                  <String ID="string_r1l20"
+                          HEIGHT="82"
+                          WIDTH="2462"
+                          VPOS="2288"
+                          HPOS="454"
+                          CONTENT="dice, che Romolo et Remo, comeanche disse Paullo furono appellati dala virtù et Robu¬"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="466,2450 589,2447 712,2445 835,2444 959,2444 1082,2444 1205,2444 1329,2446 1452,2446 1575,2448 1699,2450 1822,2452 1945,2454 2068,2454 2192,2456 2315,2458 2438,2458 2562,2460 2685,2460 2808,2460 2932,2460"
+                         HEIGHT="88"
+                         WIDTH="2466"
+                         VPOS="2396"
+                         HPOS="466">
+                  <String ID="string_r1l21"
+                          HEIGHT="88"
+                          WIDTH="2466"
+                          VPOS="2396"
+                          HPOS="466"
+                          CONTENT="stezza. Il medesimo afferma Trogo Pompeio, citato da Grammatici latini, et nel me"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="470,2554 592,2552 715,2552 837,2552 960,2554 1082,2554 1205,2556 1327,2558 1450,2558 1572,2560 1695,2562 1817,2564 1940,2566 2062,2568 2185,2570 2307,2572 2430,2574 2552,2576 2675,2578 2797,2580 2920,2582"
+                         HEIGHT="102"
+                         WIDTH="2450"
+                         VPOS="2504"
+                         HPOS="470">
+                  <String ID="string_r1l22"
+                          HEIGHT="102"
+                          WIDTH="2450"
+                          VPOS="2504"
+                          HPOS="470"
+                          CONTENT="desimo si compiace Plutarcho, et dice che fu fabricator di Roma, et fu da Romani ado"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="454,2666 576,2668 699,2668 822,2670 945,2670 1068,2672 1191,2672 1314,2672 1437,2674 1560,2674 1683,2674 1805,2676 1928,2676 2051,2676 2174,2677 2297,2678 2420,2678 2543,2680 2666,2680 2789,2682 2912,2682"
+                         HEIGHT="88"
+                         WIDTH="2458"
+                         VPOS="2618"
+                         HPOS="454">
+                  <String ID="string_r1l23"
+                          HEIGHT="88"
+                          WIDTH="2458"
+                          VPOS="2618"
+                          HPOS="454"
+                          CONTENT="rato, et chiamato Quirino, etgli fecero Templi et altari, et per che credettero che bambi"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="466,2772 588,2776 711,2776 833,2778 956,2780 1079,2780 1201,2780 1324,2780 1446,2780 1569,2780 1692,2780 1814,2780 1937,2780 2059,2780 2182,2780 2305,2782 2427,2782 2550,2784 2672,2786 2795,2788 2918,2790"
+                         HEIGHT="90"
+                         WIDTH="2452"
+                         VPOS="2724"
+                         HPOS="466">
+                  <String ID="string_r1l24"
+                          HEIGHT="90"
+                          WIDTH="2452"
+                          VPOS="2724"
+                          HPOS="466"
+                          CONTENT="ni fussero nodricati dala lupa sotto il fico Ruminale, vi furono posti essi fanciulli"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="470,2876 592,2878 714,2878 836,2880 958,2880 1080,2881 1202,2882 1324,2884 1446,2884 1568,2886 1690,2886 1812,2888 1934,2888 2056,2890 2178,2890 2300,2892 2422,2892 2544,2894 2666,2894 2788,2896 2910,2896"
+                         HEIGHT="92"
+                         WIDTH="2440"
+                         VPOS="2828"
+                         HPOS="470">
+                  <String ID="string_r1l25"
+                          HEIGHT="92"
+                          WIDTH="2440"
+                          VPOS="2828"
+                          HPOS="470"
+                          CONTENT="nella grotta di Panaquivi prossima alfico, di opera di bronzo: et questo affermano"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="462,2988 585,2990 708,2992 831,2994 954,2996 1077,2996 1200,2998 1323,2998 1446,2998 1569,2998 1693,2998 1816,3000 1939,3000 2062,3000 2185,3000 2308,3002 2431,3002 2554,3004 2677,3006 2800,3009 2924,3012"
+                         HEIGHT="96"
+                         WIDTH="2462"
+                         VPOS="2940"
+                         HPOS="462">
+                  <String ID="string_r1l26"
+                          HEIGHT="96"
+                          WIDTH="2462"
+                          VPOS="2940"
+                          HPOS="462"
+                          CONTENT="gli auttori che doppo alle guerre civili scrissero, et cosi si vede nella medaglie Roma"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="474,3100 596,3104 719,3108 842,3110 964,3112 1087,3112 1210,3114 1332,3114 1455,3116 1578,3116 1701,3116 1823,3116 1946,3116 2069,3116 2191,3118 2314,3118 2437,3120 2559,3122 2682,3124 2805,3127 2928,3130"
+                         HEIGHT="102"
+                         WIDTH="2454"
+                         VPOS="3052"
+                         HPOS="474">
+                  <String ID="string_r1l27"
+                          HEIGHT="102"
+                          WIDTH="2454"
+                          VPOS="3052"
+                          HPOS="474"
+                          CONTENT="ne et danari; la onde i Romani serbavano ingrandissima custodia il detto Fico arbo¬"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="482,3208 603,3213 724,3216 846,3220 967,3222 1089,3224 1210,3226 1331,3226 1453,3228 1574,3228 1696,3228 1817,3228 1938,3228 2060,3230 2181,3230 2303,3230 2424,3232 2545,3234 2667,3236 2788,3238 2910,3242"
+                         HEIGHT="74"
+                         WIDTH="2428"
+                         VPOS="3181"
+                         HPOS="482">
+                  <String ID="string_r1l28"
+                          HEIGHT="74"
+                          WIDTH="2428"
+                          VPOS="3181"
+                          HPOS="482"
+                          CONTENT="ro, et due case, l'una fatta da Romolo nel colle palatino nell'Angolo donde si andava"/>
+               </TextLine>
+               <TextLine ID="line_1643617747049_70"
+                         BASELINE="474,3332 595,3332 711,3332"
+                         HEIGHT="72"
+                         WIDTH="237"
+                         VPOS="3284"
+                         HPOS="474">
+                  <String ID="string_line_1643617747049_70"
+                          HEIGHT="72"
+                          WIDTH="237"
+                          VPOS="3284"
+                          HPOS="474"
+                          CONTENT="dal foro"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="674,3268 702,3271 731,3272 760,3272 789,3270 818,3272"
+                         HEIGHT="44"
+                         WIDTH="144"
+                         VPOS="3241"
+                         HPOS="674">
+                  <String ID="string_r1l29"
+                          HEIGHT="44"
+                          WIDTH="144"
+                          VPOS="3241"
+                          HPOS="674"
+                          CONTENT="Romano"/>
+               </TextLine>
+               <TextLine ID="line_1643617747047_69"
+                         BASELINE="711,3332 717,3332 838,3334 960,3334 1082,3336 1203,3336 1325,3338 1446,3338 1568,3340 1690,3340 1811,3342 1933,3343 2054,3344 2176,3346 2298,3346 2419,3348 2541,3348 2662,3348 2784,3350 2906,3350"
+                         HEIGHT="90"
+                         WIDTH="2195"
+                         VPOS="3284"
+                         HPOS="711">
+                  <String ID="string_line_1643617747047_69"
+                          HEIGHT="90"
+                          WIDTH="2195"
+                          VPOS="3284"
+                          HPOS="711"
+                          CONTENT="al circo Maximo et l'altra nel capitoglio, come scriveno Vitruvio, et Diony¬"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="480,3438 601,3442 722,3444 844,3446 965,3448 1087,3450 1208,3450 1329,3452 1451,3452 1572,3452 1694,3452 1815,3452 1936,3452 2058,3452 2179,3452 2301,3452 2422,3453 2543,3454 2665,3456 2786,3458 2908,3460"
+                         HEIGHT="94"
+                         WIDTH="2428"
+                         VPOS="3390"
+                         HPOS="480">
+                  <String ID="string_r1l31"
+                          HEIGHT="94"
+                          WIDTH="2428"
+                          VPOS="3390"
+                          HPOS="480"
+                          CONTENT="sio, et quando mancavano alcuni legni i sacerdoti Quirinali consomma diligenza velo"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="478,3538 599,3540 720,3542 841,3545 962,3546 1083,3550 1204,3550 1325,3553 1446,3554 1567,3556 1689,3558 1810,3560 1931,3561 2052,3562 2173,3564 2294,3564 2415,3564 2536,3566 2657,3566 2778,3566 2900,3566"
+                         HEIGHT="100"
+                         WIDTH="2422"
+                         VPOS="3490"
+                         HPOS="478">
+                  <String ID="string_r1l32"
+                          HEIGHT="100"
+                          WIDTH="2422"
+                          VPOS="3490"
+                          HPOS="478"
+                          CONTENT="riportavano dinuovo. Tenivano memoria nel foro dela sepultura di Fostolo colla ima"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="458,3648 579,3649 700,3650 822,3652 943,3654 1065,3654 1186,3656 1307,3658 1429,3660 1550,3662 1672,3663 1793,3664 1914,3666 2036,3668 2157,3668 2279,3670 2400,3670 2521,3670 2643,3670 2764,3670 2886,3668"
+                         HEIGHT="94"
+                         WIDTH="2428"
+                         VPOS="3600"
+                         HPOS="458">
+                  <String ID="string_r1l33"
+                          HEIGHT="94"
+                          WIDTH="2428"
+                          VPOS="3600"
+                          HPOS="458"
+                          CONTENT="gine di un leone; et nel Foro Boaria del Monumento di Accalarentia, notritori di"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="454,3758 574,3756 695,3756 816,3756 937,3756 1058,3758 1179,3759 1300,3760 1421,3762 1542,3764 1663,3766 1783,3769 1904,3772 2025,3774 2146,3776 2267,3778 2388,3781 2509,3784 2630,3785 2751,3786 2872,3788"
+                         HEIGHT="104"
+                         WIDTH="2418"
+                         VPOS="3708"
+                         HPOS="454">
+                  <String ID="string_r1l34"
+                          HEIGHT="104"
+                          WIDTH="2418"
+                          VPOS="3708"
+                          HPOS="454"
+                          CONTENT="esso Romolo et Remo. Questa Accalarentia fù chiamata Lupa, perche sendo moglie di Marco"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="456,3858 576,3860 696,3862 816,3864 936,3866 1056,3868 1176,3868 1296,3870 1416,3870 1536,3872 1656,3872 1776,3874 1896,3874 2016,3876 2136,3876 2256,3878 2376,3880 2496,3880 2616,3882 2736,3884 2856,3886"
+                         HEIGHT="98"
+                         WIDTH="2400"
+                         VPOS="3811"
+                         HPOS="456">
+                  <String ID="string_r1l35"
+                          HEIGHT="98"
+                          WIDTH="2400"
+                          VPOS="3811"
+                          HPOS="456"
+                          CONTENT="Fostolo porcaro nel colle palatino accommodava dela sua persona a i pastori, onde ne prese il no"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="446,3952 566,3958 686,3961 806,3965 926,3968 1046,3972 1166,3974 1286,3976 1406,3976 1526,3978 1647,3980 1767,3981 1887,3982 2007,3984 2127,3984 2247,3986 2367,3988 2487,3989 2607,3991 2727,3994 2848,3996"
+                         HEIGHT="114"
+                         WIDTH="2402"
+                         VPOS="3905"
+                         HPOS="446">
+                  <String ID="string_r1l36"
+                          HEIGHT="114"
+                          WIDTH="2402"
+                          VPOS="3905"
+                          HPOS="446"
+                          CONTENT="me ò cognome di detto animale, o pure per che ella tolse i duoi bambini dal petto dela lupa,"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="446,4052 568,4060 691,4065 814,4068 937,4072 1060,4074 1182,4076 1305,4078 1428,4078 1551,4078 1674,4079 1796,4080 1919,4080 2042,4080 2165,4082 2288,4082 2410,4086 2533,4088 2656,4092 2779,4097 2902,4104"
+                         HEIGHT="124"
+                         WIDTH="2456"
+                         VPOS="4004"
+                         HPOS="446">
+                  <String ID="string_r1l37"
+                          HEIGHT="124"
+                          WIDTH="2456"
+                          VPOS="4004"
+                          HPOS="446"
+                          CONTENT="et li allatto: havendoli trovati sula belletta del Tibere, et la lupa fugita nella Grotta detta di pan"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="466,4152 584,4159 703,4164 821,4168 940,4172 1059,4176 1177,4180 1296,4182 1414,4184 1533,4186 1652,4188 1770,4190 1889,4192 2007,4194 2126,4194 2245,4197 2363,4198 2482,4202 2600,4204 2719,4208 2838,4212"
+                         HEIGHT="132"
+                         WIDTH="2372"
+                         VPOS="4104"
+                         HPOS="466">
+                  <String ID="string_r1l38"
+                          HEIGHT="132"
+                          WIDTH="2372"
+                          VPOS="4104"
+                          HPOS="466"
+                          CONTENT="et chiamata lupercale dela Vergine Romona. Et quivi quei duoi fratellini rimasero insecco"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="436,4274 557,4278 678,4280 799,4282 921,4284 1042,4284 1163,4286 1285,4288 1406,4288 1527,4290 1649,4291 1770,4292 1891,4294 2012,4296 2134,4298 2255,4302 2376,4304 2498,4308 2619,4312 2740,4318 2862,4324"
+                         HEIGHT="122"
+                         WIDTH="2426"
+                         VPOS="4226"
+                         HPOS="436">
+                  <String ID="string_r1l39"
+                          HEIGHT="122"
+                          WIDTH="2426"
+                          VPOS="4226"
+                          HPOS="436"
+                          CONTENT="sendo slati gittati nel fiume suli gorghi, et retirandosi nel suoletto gli depose interra come per "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

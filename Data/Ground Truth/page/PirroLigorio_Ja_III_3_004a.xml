@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:33.739+01:00</Created>
+        <LastChange>2024-06-25T19:20:15.256+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902796" pageNr="7" tsid="174113666" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=RLHUAHZZEUDRMIGOENLPQSER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKOKZKSRGRIMAKCSOMFMZIQR" imageId="17873875"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_004a.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337490845" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1671012458063_472"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1671012458063_473"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1671012467920_481"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1671012467920_480"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1671012477460_488"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1671012477460_487"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1671012487785_495"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1671012487784_494"/>
+                <RegionRefIndexed index="8" regionRef="TextRegion_1671012498594_502"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1671012498594_501"/>
+                <RegionRefIndexed index="10" regionRef="TextRegion_1671012508437_509"/>
+                <RegionRefIndexed index="11" regionRef="TextRegion_1671012508436_508"/>
+                <RegionRefIndexed index="12" regionRef="TextRegion_1671012515838_516"/>
+                <RegionRefIndexed index="13" regionRef="TextRegion_1671012515837_515"/>
+                <RegionRefIndexed index="15" regionRef="r2"/>
+                <RegionRefIndexed index="17" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations>
+            <Relation type="link">
+                <RegionRef regionRef="TextRegion_1671012515838_516"/>
+                <RegionRef regionRef="TextRegion_1671012515837_515"/>
+                <RegionRef regionRef="r2"/>
+                <RegionRef regionRef="Image_1607149688284_17"/>
+                <RegionRef regionRef="r3"/>
+                <RegionRef regionRef="Image_1607149697543_20"/>
+            </Relation>
+        </Relations>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012458063_472" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="894,328 1328,325 1328,477 894,480"/>
+            <TextLine id="line_1671012458179_475" custom="readingOrder {index:0;}">
+                <Coords points="984,425 1111,423 1238,421 1328,419 1328,477 984,480"/>
+                <Baseline points="984,464 1111,462 1238,460 1328,458"/>
+                <TextEquiv>
+                    <Unicode>RADANUSIA </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RADANUSIA </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012458063_473" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="894,480 1328,477 1328,325 3561,313 3562,646 894,646"/>
+            <TextLine id="line_1671012458180_476" custom="readingOrder {index:0;}">
+                <Coords points="984,480 1328,477 1328,419 1366,419 1493,417 1621,413 1748,411 1875,408 2003,405 2130,403 2258,401 2385,399 2512,398 2640,397 2767,399 2895,399 3022,402 3149,407 3277,411 3404,418 3532,425 3532,483 3404,476 3277,469 3149,465 3022,460 2895,457 2767,457 2640,455 2512,456 2385,457 2258,459 2130,461 2003,463 1875,466 1748,469 1621,471 1493,475 1366,477 1238,479 1111,481 984,483"/>
+                <Baseline points="1328,458 1366,458 1493,456 1621,452 1748,450 1875,447 2003,444 2130,442 2258,440 2385,438 2512,437 2640,436 2767,438 2895,438 3022,441 3149,446 3277,450 3404,457 3532,464"/>
+                <TextEquiv>
+                    <Unicode>è città della Massalia, nella libyshca celtica, donde Stephano forma il nome gentile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} Greek {offset:18; length:10;} Greek {offset:47; length:10;} Greek {offset:59; length:11;}">
+                <Coords points="1058,559 1180,557 1302,555 1425,553 1547,551 1670,549 1792,547 1914,545 2037,545 2159,543 2282,543 2404,543 2526,543 2649,545 2771,546 2894,549 3016,551 3138,555 3261,559 3383,564 3506,571 3506,520 3383,513 3261,508 3138,504 3016,500 2894,498 2771,495 2649,494 2526,492 2404,492 2282,492 2159,492 2037,494 1914,494 1792,496 1670,498 1547,500 1425,502 1302,504 1180,506 1058,508"/>
+                <Baseline points="1058,542 1180,540 1302,538 1425,536 1547,534 1670,532 1792,530 1914,528 2037,528 2159,526 2282,526 2404,526 2526,526 2649,528 2771,529 2894,532 3016,534 3138,538 3261,542 3383,547 3506,554"/>
+                <TextEquiv>
+                    <Unicode>Massaliense cio è ΜΑΣΣΑΛΙΕΥΣ. nel nome plurale ΜΑΣΣΛΕΤΤΩΝ. ΡΑΔΑΝΟΥΣΙΩΝ, et anchora</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} Greek {offset:0; length:13;} Greek {offset:22; length:12;}">
+                <Coords points="1050,627 1128,627 1206,627 1285,629 1363,629 1442,629 1520,629 1598,631 1677,631 1755,631 1834,631 1912,631 1990,631 2069,631 2147,631 2226,631 2304,629 2382,629 2461,629 2539,627 2618,627 2618,576 2539,576 2461,578 2382,578 2304,578 2226,580 2147,580 2069,580 1990,580 1912,580 1834,580 1755,580 1677,580 1598,580 1520,578 1442,578 1363,578 1285,578 1206,576 1128,576 1050,576"/>
+                <Baseline points="1050,610 1128,610 1206,610 1285,612 1363,612 1442,612 1520,612 1598,614 1677,614 1755,614 1834,614 1912,614 1990,614 2069,614 2147,614 2226,614 2304,612 2382,612 2461,612 2539,610 2618,610"/>
+                <TextEquiv>
+                    <Unicode>ΡΑΔΑΝΟΥΣΙΑΙΩΝ, altri. ΡΑΔΑΝΟΥΣΙΕΩΝ senza diphthongo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>è città della Massalia, nella libyshca celtica, donde Stephano forma il nome gentile
+Massaliense cio è ΜΑΣΣΑΛΙΕΥΣ. nel nome plurale ΜΑΣΣΛΕΤΤΩΝ. ΡΑΔΑΝΟΥΣΙΩΝ, et anchora
+ΡΑΔΑΝΟΥΣΙΑΙΩΝ, altri. ΡΑΔΑΝΟΥΣΙΕΩΝ senza diphthongo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012467920_481" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="894,729 1362,729 1362,797 894,800"/>
+            <TextLine id="line_1671012468033_483" custom="readingOrder {index:0;}">
+                <Coords points="988,755 1115,753 1242,751 1362,749 1362,797 988,799"/>
+                <Baseline points="988,788 1115,786 1242,784 1362,782"/>
+                <TextEquiv>
+                    <Unicode>RADAGASIANA,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RADAGASIANA,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012467920_480" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="894,800 1362,797 1362,729 3563,729 3564,887 895,887"/>
+            <TextLine id="line_1671012468033_484" custom="readingOrder {index:0;}">
+                <Coords points="988,799 1362,797 1362,749 1370,749 1497,748 1625,747 1752,745 2516,745 2644,747 2771,747 2899,749 3026,753 3153,755 3281,759 3408,763 3536,767 3536,816 3408,812 3281,808 3153,804 3026,802 2899,798 2771,796 2644,796 2516,794 1752,794 1625,796 1497,797 1370,798 1242,800 1115,802 988,804"/>
+                <Baseline points="1362,782 1370,782 1497,781 1625,780 1752,778 1879,778 2007,778 2134,778 2262,778 2389,778 2516,778 2644,780 2771,780 2899,782 3026,786 3153,788 3281,792 3408,796 3536,800"/>
+                <TextEquiv>
+                    <Unicode>fu Villa nella Dalmatia, et fu luogo da Radagasio Re di Gothi, donato alla figliuola, lo quale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="1008,876 1104,871 1201,868 1297,866 1394,864 1491,863 1587,862 1684,862 1780,864 1877,864 1974,866 2070,866 2167,868 2263,870 2360,872 2457,872 2553,874 2650,874 2746,874 2843,874 2940,874 2940,825 2843,825 2746,825 2650,825 2553,825 2457,823 2360,823 2263,821 2167,819 2070,817 1974,817 1877,815 1780,815 1684,813 1587,813 1491,814 1394,815 1297,817 1201,819 1104,822 1008,827"/>
+                <Baseline points="1008,860 1104,855 1201,852 1297,850 1394,848 1491,847 1587,846 1684,846 1780,848 1877,848 1974,850 2070,850 2167,852 2263,854 2360,856 2457,856 2553,858 2650,858 2746,858 2843,858 2940,858"/>
+                <TextEquiv>
+                    <Unicode>fù superbissimo Re e signore di piu di ducento mila soldati come di Paulo Diacono.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fu Villa nella Dalmatia, et fu luogo da Radagasio Re di Gothi, donato alla figliuola, lo quale
+fù superbissimo Re e signore di piu di ducento mila soldati come di Paulo Diacono.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012477460_488" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="896,1180 1353,1180 1366,1315 896,1326"/>
+            <TextLine id="line_1671012477593_490" custom="readingOrder {index:0;}">
+                <Coords points="956,1261 1083,1257 1210,1253 1337,1247 1359,1246 1365,1304 1337,1305 1210,1311 1083,1315 956,1319"/>
+                <Baseline points="956,1300 1083,1296 1210,1292 1337,1286 1363,1285"/>
+                <TextEquiv>
+                    <Unicode>RAEMIANA,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAEMIANA,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012477460_487" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="896,1326 1366,1315 1353,1180 3567,1180 3571,1584 898,1584"/>
+            <TextLine id="line_1671012477594_491" custom="readingOrder {index:0;}">
+                <Coords points="1359,1246 1465,1244 1592,1240 1719,1237 1847,1233 1974,1231 2101,1227 2229,1225 2356,1221 2483,1219 2610,1215 2738,1212 2865,1209 2992,1205 3120,1201 3247,1197 3374,1193 3502,1187 3502,1245 3374,1251 3247,1255 3120,1259 2992,1263 2865,1267 2738,1270 2610,1273 2483,1277 2356,1279 2229,1283 2101,1285 1974,1289 1847,1291 1719,1295 1592,1298 1465,1302 1365,1304"/>
+                <Baseline points="1363,1285 1465,1283 1592,1279 1719,1276 1847,1272 1974,1270 2101,1266 2229,1264 2356,1260 2483,1258 2610,1254 2738,1251 2865,1248 2992,1244 3120,1240 3247,1236 3374,1232 3502,1226"/>
+                <TextEquiv>
+                    <Unicode>è nome di Villa, di Sesto Raemio Tribuno della terza legione Italia, in luogo della quale, è</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;}">
+                <Coords points="994,1411 1120,1404 1246,1397 1372,1391 1498,1385 1624,1381 1750,1377 1876,1373 2002,1371 2128,1369 2254,1367 2380,1365 2506,1364 2632,1363 2758,1363 2884,1361 3010,1361 3136,1359 3262,1359 3388,1357 3514,1357 3514,1299 3388,1299 3262,1301 3136,1301 3010,1303 2884,1303 2758,1305 2632,1305 2506,1306 2380,1307 2254,1309 2128,1311 2002,1313 1876,1315 1750,1319 1624,1323 1498,1327 1372,1333 1246,1339 1120,1346 994,1353"/>
+                <Baseline points="994,1392 1120,1385 1246,1378 1372,1372 1498,1366 1624,1362 1750,1358 1876,1354 2002,1352 2128,1350 2254,1348 2380,1346 2506,1345 2632,1344 2758,1344 2884,1342 3010,1342 3136,1340 3262,1340 3388,1338 3514,1338"/>
+                <TextEquiv>
+                    <Unicode>fatto il castello chiamato Pretella, ò vero Predella, nel paese de Praetatij d'Italia, che hoggidi si dicono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="1004,1497 1129,1491 1255,1485 1381,1481 1507,1475 1633,1471 1758,1467 1884,1463 2010,1459 2136,1457 2262,1453 2387,1453 2513,1451 2639,1450 2765,1449 2891,1451 3016,1451 3142,1453 3268,1455 3394,1457 3520,1461 3520,1403 3394,1399 3268,1397 3142,1395 3016,1393 2891,1393 2765,1391 2639,1392 2513,1393 2387,1395 2262,1395 2136,1399 2010,1401 1884,1405 1758,1409 1633,1413 1507,1417 1381,1423 1255,1427 1129,1433 1004,1439"/>
+                <Baseline points="1004,1478 1129,1472 1255,1466 1381,1462 1507,1456 1633,1452 1758,1448 1884,1444 2010,1440 2136,1438 2262,1434 2387,1434 2513,1432 2639,1431 2765,1430 2891,1432 3016,1432 3142,1434 3268,1436 3394,1438 3520,1442"/>
+                <TextEquiv>
+                    <Unicode>Abruzzesi, lo quale castello è poco discosto à quello chiamato Cappadoce. Fu detta predella dall'acquisto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="992,1573 1102,1571 1212,1568 1323,1565 1433,1563 1544,1560 1654,1557 1764,1555 1875,1553 1985,1551 2096,1549 2206,1548 2316,1547 2427,1547 2537,1547 2648,1547 2758,1547 2868,1549 2979,1551 3089,1553 3200,1557 3200,1499 3089,1495 2979,1493 2868,1491 2758,1489 2648,1489 2537,1489 2427,1489 2316,1489 2206,1490 2096,1491 1985,1493 1875,1495 1764,1497 1654,1499 1544,1502 1433,1505 1323,1507 1212,1510 1102,1513 992,1515"/>
+                <Baseline points="992,1554 1102,1552 1212,1549 1323,1546 1433,1544 1544,1541 1654,1538 1764,1536 1875,1534 1985,1532 2096,1530 2206,1529 2316,1528 2427,1528 2537,1528 2648,1528 2758,1528 2868,1530 2979,1532 3089,1534 3200,1538"/>
+                <TextEquiv>
+                    <Unicode>che fecero i Francesi, nell'assaltare il stato colonnesi, dove fu fatta una picciola preda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>è nome di Villa, di Sesto Raemio Tribuno della terza legione Italia, in luogo della quale, è
+fatto il castello chiamato Pretella, ò vero Predella, nel paese de Praetatij d'Italia, che hoggidi si dicono
+Abruzzesi, lo quale castello è poco discosto à quello chiamato Cappadoce. Fu detta predella dall'acquisto
+che fecero i Francesi, nell'assaltare il stato colonnesi, dove fu fatta una picciola preda.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012487785_495" custom="readingOrder {index:6;} structure {type:heading;}">
+            <Coords points="900,1914 1125,1914 1120,2005 900,2011"/>
+            <TextLine id="line_1671012487921_497" custom="readingOrder {index:0;}">
+                <Coords points="926,1951 1053,1954 1122,1954 1120,2003 1053,2003 926,2000"/>
+                <Baseline points="926,1984 1053,1987 1120,1987"/>
+                <TextEquiv>
+                    <Unicode>RAEA,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAEA,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012487784_494" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="900,2011 1120,2005 1125,1914 3574,1914 3577,2260 902,2260"/>
+            <TextLine id="line_1671012487922_498" custom="readingOrder {index:0;}">
+                <Coords points="1122,1954 1181,1955 1437,1955 1565,1953 1692,1952 1820,1949 1948,1947 2076,1945 2204,1943 2331,1941 2459,1939 2843,1939 2970,1941 3098,1943 3226,1947 3354,1953 3482,1961 3482,2010 3354,2002 3226,1996 3098,1992 2970,1990 2843,1988 2459,1988 2331,1990 2204,1992 2076,1994 1948,1996 1820,1998 1692,2001 1565,2002 1437,2004 1181,2004 1120,2003"/>
+                <Baseline points="1120,1987 1181,1988 1309,1988 1437,1988 1565,1986 1692,1985 1820,1982 1948,1980 2076,1978 2204,1976 2331,1974 2459,1972 2587,1972 2715,1972 2843,1972 2970,1974 3098,1976 3226,1980 3354,1986 3482,1994"/>
+                <TextEquiv>
+                    <Unicode>e citta non molto grande nella scythia, et città di Hyrcania, habitata gia da Isdraeliti, dale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:1;} unclear {offset:44; length:7;} Greek {offset:64; length:7;}">
+                <Coords points="998,2082 1122,2082 1246,2082 1370,2082 1494,2082 1619,2080 1743,2078 1867,2077 1991,2075 2115,2074 2240,2072 2364,2070 2488,2070 2612,2068 2736,2068 2861,2068 2985,2068 3109,2070 3233,2072 3357,2074 3482,2078 3482,2029 3357,2025 3233,2023 3109,2021 2985,2019 2861,2019 2736,2019 2612,2019 2488,2021 2364,2021 2240,2023 2115,2025 1991,2026 1867,2028 1743,2029 1619,2031 1494,2033 1370,2033 1246,2033 1122,2033 998,2033"/>
+                <Baseline points="998,2066 1122,2066 1246,2066 1370,2066 1494,2066 1619,2064 1743,2062 1867,2061 1991,2059 2115,2058 2240,2056 2364,2054 2488,2054 2612,2052 2736,2052 2861,2052 2985,2052 3109,2054 3233,2056 3357,2058 3482,2062"/>
+                <TextEquiv>
+                    <Unicode>quali il cittadino secondo Stephano si dice Raeaeus, alla greca ΡΑΙΑΙΟΣ. et nel plurale Hegesippo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:2;} unclear {offset:38; length:9;}">
+                <Coords points="986,2171 1111,2171 1236,2171 1361,2171 1486,2169 1612,2168 1737,2167 1862,2165 1987,2163 2112,2163 2238,2161 2363,2159 2488,2157 2613,2157 2738,2155 2864,2155 2989,2153 3114,2153 3239,2153 3364,2155 3490,2155 3490,2103 3364,2103 3239,2101 3114,2101 2989,2101 2864,2103 2738,2103 2613,2105 2488,2105 2363,2107 2238,2109 2112,2111 1987,2111 1862,2113 1737,2115 1612,2116 1486,2117 1361,2119 1236,2119 1111,2119 986,2119"/>
+                <Baseline points="986,2154 1111,2154 1236,2154 1361,2154 1486,2152 1612,2151 1737,2150 1862,2148 1987,2146 2112,2146 2238,2144 2363,2142 2488,2140 2613,2140 2738,2138 2864,2138 2989,2136 3114,2136 3239,2136 3364,2138 3490,2138"/>
+                <TextEquiv>
+                    <Unicode>Raeaeneiti. onde potemo dire Raeo, et Raeaenite. et Raeus. et alcuni la scriveno Rhaea. perla .H. che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+                <Coords points="1002,2247 1027,2247 1052,2247 1077,2247 1103,2245 1128,2245 1153,2245 1179,2244 1204,2243 1229,2243 1254,2243 1280,2243 1305,2243 1330,2243 1356,2243 1381,2243 1406,2243 1432,2245 1432,2193 1406,2191 1381,2191 1356,2191 1330,2191 1305,2191 1280,2191 1254,2191 1229,2191 1204,2191 1179,2192 1153,2193 1128,2193 1103,2193 1077,2195 1052,2195 1027,2195 1002,2195"/>
+                <Baseline points="1002,2230 1027,2230 1052,2230 1077,2230 1103,2228 1128,2228 1153,2228 1179,2227 1204,2226 1229,2226 1254,2226 1280,2226 1305,2226 1330,2226 1356,2226 1381,2226 1406,2226 1432,2228"/>
+                <TextEquiv>
+                    <Unicode>non è di necessita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>e citta non molto grande nella scythia, et città di Hyrcania, habitata gia da Isdraeliti, dale
+quali il cittadino secondo Stephano si dice Raeaeus, alla greca ΡΑΙΑΙΟΣ. et nel plurale Hegesippo
+Raeaeneiti. onde potemo dire Raeo, et Raeaenite. et Raeus. et alcuni la scriveno Rhaea. perla .H. che
+non è di necessita.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012498594_502" custom="readingOrder {index:8;} structure {type:heading;}">
+            <Coords points="904,2475 1257,2475 1264,2607 904,2607"/>
+            <TextLine id="line_1671012498751_504" custom="readingOrder {index:0;}">
+                <Coords points="988,2546 1109,2543 1230,2540 1260,2538 1263,2592 1230,2594 1109,2597 988,2600"/>
+                <Baseline points="988,2582 1109,2579 1230,2576 1262,2574"/>
+                <TextEquiv>
+                    <Unicode>RAETEI,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAETEI,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012498594_501" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="904,2607 1264,2607 1257,2475 3579,2475 3581,2685 905,2685"/>
+            <TextLine id="line_1671012498752_505" custom="readingOrder {index:0;} Greek {offset:76; length:6;}">
+                <Coords points="1260,2538 1352,2536 1473,2534 1595,2532 1716,2530 1837,2528 1959,2526 2080,2526 2202,2524 2444,2524 2566,2522 2687,2524 3051,2524 3173,2526 3294,2528 3416,2528 3416,2582 3294,2582 3173,2580 3051,2578 2687,2578 2566,2576 2444,2578 2202,2578 2080,2580 1959,2580 1837,2582 1716,2584 1595,2586 1473,2588 1352,2590 1263,2592"/>
+                <Baseline points="1262,2574 1352,2572 1473,2570 1595,2568 1716,2566 1837,2564 1959,2562 2080,2562 2202,2560 2323,2560 2444,2560 2566,2558 2687,2560 2809,2560 2930,2560 3051,2560 3173,2562 3294,2564 3416,2564"/>
+                <TextEquiv>
+                    <Unicode>ò vero come i greci dicono sono gente nel Tyrrhenico paese, et li scrivono, ΡΑΙΤΟΙ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+                <Coords points="1048,2678 1165,2680 1282,2680 1399,2680 1516,2680 1633,2678 1750,2676 1867,2672 1984,2670 2101,2666 2218,2664 2335,2660 2452,2658 2569,2656 2686,2654 2803,2652 2920,2652 3037,2652 3154,2654 3271,2656 3388,2660 3388,2606 3271,2602 3154,2600 3037,2598 2920,2598 2803,2598 2686,2600 2569,2602 2452,2604 2335,2606 2218,2610 2101,2612 1984,2616 1867,2618 1750,2622 1633,2624 1516,2626 1399,2626 1282,2626 1165,2626 1048,2624"/>
+                <Baseline points="1048,2660 1165,2662 1282,2662 1399,2662 1516,2662 1633,2660 1750,2658 1867,2654 1984,2652 2101,2648 2218,2646 2335,2642 2452,2640 2569,2638 2686,2636 2803,2634 2920,2634 3037,2634 3154,2636 3271,2638 3388,2642"/>
+                <TextEquiv>
+                    <Unicode>come usa il gramatico delle citta, et sono popoli della Raetia, come è detto piu oltre al suo luogo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ò vero come i greci dicono sono gente nel Tyrrhenico paese, et li scrivono, ΡΑΙΤΟΙ;
+come usa il gramatico delle citta, et sono popoli della Raetia, come è detto piu oltre al suo luogo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012508437_509" custom="readingOrder {index:10;} structure {type:heading;}">
+            <Coords points="907,2989 1328,2989 1330,3078 907,3072"/>
+            <TextLine id="line_1671012508560_512" custom="readingOrder {index:0;}">
+                <Coords points="990,3013 1115,3017 1240,3019 1328,3020 1330,3078 1136,3075 1115,3075 990,3071"/>
+                <Baseline points="990,3052 1115,3056 1240,3058 1329,3059"/>
+                <TextEquiv>
+                    <Unicode>RAETIARIA,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAETIARIA,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012508436_508" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="907,3072 1330,3078 1328,2989 3584,2989 3587,3377 908,3377"/>
+            <TextLine id="line_1671012508560_511" custom="readingOrder {index:0;}">
+                <Coords points="1136,3075 1330,3078 1328,3020 1365,3021 2117,3021 2243,3019 2493,3019 2618,3017 2744,3017 2869,3019 3120,3019 3245,3021 3370,3023 3496,3027 3496,3085 3370,3081 3245,3079 3120,3077 2869,3077 2744,3075 2618,3075 2493,3077 2243,3077 2117,3079 1365,3079 1240,3077"/>
+                <Baseline points="1329,3059 1365,3060 1491,3060 1616,3060 1741,3060 1867,3060 1992,3060 2117,3060 2243,3058 2368,3058 2493,3058 2618,3056 2744,3056 2869,3058 2994,3058 3120,3058 3245,3060 3370,3062 3496,3066"/>
+                <TextEquiv>
+                    <Unicode>è città nella Mysia Superiore, secondo scrive Ptolemaeo nella cosmographia. donde si dice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:1;} unclear {offset:30; length:7;}">
+                <Coords points="1026,3167 1148,3167 1271,3167 1393,3167 1516,3167 1638,3167 1761,3166 1883,3165 2006,3165 2128,3163 2251,3163 2373,3162 2496,3161 2618,3161 2741,3161 2863,3163 2986,3164 3108,3165 3231,3169 3353,3171 3476,3175 3476,3118 3353,3114 3231,3112 3108,3108 2986,3107 2863,3106 2741,3104 2618,3104 2496,3104 2373,3105 2251,3106 2128,3106 2006,3108 1883,3108 1761,3109 1638,3110 1516,3110 1393,3110 1271,3110 1148,3110 1026,3110"/>
+                <Baseline points="1026,3148 1148,3148 1271,3148 1393,3148 1516,3148 1638,3148 1761,3147 1883,3146 2006,3146 2128,3144 2251,3144 2373,3143 2496,3142 2618,3142 2741,3142 2863,3144 2986,3145 3108,3146 3231,3150 3353,3152 3476,3156"/>
+                <TextEquiv>
+                    <Unicode>Raetiarino, et Raetiarini nel gentila, come si trova scritto nella Medaglia di Decio imperatore Romano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:2;} Greek {offset:54; length:12;} Greek {offset:68; length:8;}">
+                <Coords points="1040,3269 1162,3267 1284,3265 1406,3263 1528,3261 1651,3259 1773,3257 1895,3257 2017,3255 2139,3255 2262,3255 2384,3255 2506,3255 2628,3254 2750,3253 2873,3253 2995,3253 3117,3253 3239,3253 3361,3253 3484,3253 3484,3195 3361,3195 3239,3195 3117,3195 2995,3195 2873,3195 2750,3195 2628,3196 2506,3197 2384,3197 2262,3197 2139,3197 2017,3197 1895,3199 1773,3199 1651,3201 1528,3203 1406,3205 1284,3207 1162,3209 1040,3211"/>
+                <Baseline points="1040,3250 1162,3248 1284,3246 1406,3244 1528,3242 1651,3240 1773,3238 1895,3238 2017,3236 2139,3236 2262,3236 2384,3236 2506,3236 2628,3235 2750,3234 2873,3234 2995,3234 3117,3234 3239,3234 3361,3234 3484,3234"/>
+                <TextEquiv>
+                    <Unicode>nel numero del piu scritto sotto la imagine di Cybele ΡΑΙΤΙΑΡΕΙΝΩΝ. ΝΕΩΚΟΡΩΝ. cio è li Raetia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:3;}">
+                <Coords points="1036,3363 1065,3363 1094,3364 1124,3365 1153,3365 1183,3365 1212,3365 1241,3365 1271,3365 1300,3363 1330,3363 1359,3363 1388,3361 1418,3361 1447,3359 1477,3359 1506,3357 1535,3357 1565,3357 1594,3355 1624,3355 1624,3297 1594,3297 1565,3299 1535,3299 1506,3299 1477,3301 1447,3301 1418,3303 1388,3303 1359,3305 1330,3305 1300,3305 1271,3307 1241,3307 1212,3307 1183,3307 1153,3307 1124,3307 1094,3306 1065,3305 1036,3305"/>
+                <Baseline points="1036,3344 1065,3344 1094,3345 1124,3346 1153,3346 1183,3346 1212,3346 1241,3346 1271,3346 1300,3344 1330,3344 1359,3344 1388,3342 1418,3342 1447,3340 1477,3340 1506,3338 1535,3338 1565,3338 1594,3336 1624,3336"/>
+                <TextEquiv>
+                    <Unicode>rini cultori di Cybele.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>è città nella Mysia Superiore, secondo scrive Ptolemaeo nella cosmographia. donde si dice
+Raetiarino, et Raetiarini nel gentila, come si trova scritto nella Medaglia di Decio imperatore Romano.
+nel numero del piu scritto sotto la imagine di Cybele ΡΑΙΤΙΑΡΕΙΝΩΝ. ΝΕΩΚΟΡΩΝ. cio è li Raetia¬
+rini cultori di Cybele.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1671012515838_516" custom="readingOrder {index:12;} structure {type:heading;}">
+            <Coords points="909,3476 1304,3476 1313,3560 909,3560"/>
+            <TextLine id="line_1671012515971_518" custom="readingOrder {index:0;}">
+                <Coords points="1016,3501 1139,3499 1306,3499 1312,3557 1139,3557 1016,3559"/>
+                <Baseline points="1016,3540 1139,3538 1263,3538 1310,3538"/>
+                <TextEquiv>
+                    <Unicode>RAESIANO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAESIANO,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1671012515837_515" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="909,3560 1313,3560 1304,3476 3588,3476 3590,3653 1128,3651 1131,3745 909,3748 911,3653"/>
+            <TextLine id="line_1671012515971_519" custom="readingOrder {index:0;}">
+                <Coords points="1306,3499 1510,3499 1634,3497 1758,3497 1881,3495 2129,3495 2253,3493 2500,3493 2624,3491 2871,3491 2995,3493 3118,3493 3242,3495 3366,3495 3490,3499 3490,3557 3366,3553 3242,3553 3118,3551 2995,3551 2871,3549 2624,3549 2500,3551 2253,3551 2129,3553 1881,3553 1758,3555 1634,3555 1510,3557 1312,3557"/>
+                <Baseline points="1310,3538 1387,3538 1510,3538 1634,3536 1758,3536 1881,3534 2005,3534 2129,3534 2253,3532 2376,3532 2500,3532 2624,3530 2747,3530 2871,3530 2995,3532 3118,3532 3242,3534 3366,3534 3490,3538"/>
+                <TextEquiv>
+                    <Unicode>è nome di possessione et di Villa nella Via Appia, della fameglia Raesia, dove havea il monu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:1;}">
+                <Coords points="1036,3651 1158,3651 1280,3649 1402,3649 1524,3647 1646,3647 1768,3645 1890,3643 2012,3642 2134,3641 2257,3639 2379,3639 2501,3637 2623,3637 2745,3635 2867,3635 2989,3635 3111,3635 3233,3635 3355,3637 3478,3637 3478,3579 3355,3579 3233,3577 3111,3577 2989,3577 2867,3577 2745,3577 2623,3579 2501,3579 2379,3581 2257,3581 2134,3583 2012,3584 1890,3585 1768,3587 1646,3589 1524,3589 1402,3591 1280,3591 1158,3593 1036,3593"/>
+                <Baseline points="1036,3632 1158,3632 1280,3630 1402,3630 1524,3628 1646,3628 1768,3626 1890,3624 2012,3623 2134,3622 2257,3620 2379,3620 2501,3618 2623,3618 2745,3616 2867,3616 2989,3616 3111,3616 3233,3616 3355,3618 3478,3618"/>
+                <TextEquiv>
+                    <Unicode>mento, presso quello della fameglia Livinia. dove furono trovati queste intitulationi cavandosi nelle rovi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:2;}">
+                <Coords points="1029,3677 1129,3677 1129,3727 1029,3727"/>
+                <Baseline points="1029,3722 1129,3722"/>
+                <TextEquiv>
+                    <Unicode>ne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>è nome di possessione et di Villa nella Via Appia, della fameglia Raesia, dove havea il monu¬
+mento, presso quello della fameglia Livinia. dove furono trovati queste intitulationi cavandosi nelle rovi
+ne.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1607149688284_17" custom="readingOrder {index:14;}">
+            <Coords points="1952,4314 2011,4375 2014,4460 1072,4459 1081,4372 1137,4311 1141,3661 1946,3655"/>
+        </ImageRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:15;}">
+            <Coords points="1146,3658 1897,3678 1918,4025 1159,4028"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1220,3733 1250,3733 1280,3733 1310,3733 1340,3733 1370,3733 1400,3733 1430,3733 1460,3733 1490,3733 1520,3733 1550,3733 1580,3733 1610,3733 1640,3733 1670,3733 1700,3733 1730,3733 1760,3733 1790,3733 1820,3733 1820,3675 1790,3675 1760,3675 1730,3675 1700,3675 1670,3675 1640,3675 1610,3675 1580,3675 1550,3675 1520,3675 1490,3675 1460,3675 1430,3675 1400,3675 1370,3675 1340,3675 1310,3675 1280,3675 1250,3675 1220,3675"/>
+                <Baseline points="1220,3714 1250,3714 1280,3714 1310,3714 1340,3714 1370,3714 1400,3714 1430,3714 1460,3714 1490,3714 1520,3714 1550,3714 1580,3714 1610,3714 1640,3714 1670,3714 1700,3714 1730,3714 1760,3714 1790,3714 1820,3714"/>
+                <TextEquiv>
+                    <Unicode>DIANAE RAESIANAE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1180,3823 1216,3825 1252,3825 1288,3825 1324,3825 1360,3825 1396,3825 1432,3823 1468,3823 1504,3823 1540,3823 1576,3823 1612,3821 1648,3821 1684,3821 1720,3821 1756,3821 1792,3821 1828,3823 1864,3823 1900,3825 1900,3767 1864,3765 1828,3765 1792,3763 1756,3763 1720,3763 1684,3763 1648,3763 1612,3763 1576,3765 1540,3765 1504,3765 1468,3765 1432,3765 1396,3767 1360,3767 1324,3767 1288,3767 1252,3767 1216,3767 1180,3765"/>
+                <Baseline points="1161,3806 1216,3806 1252,3806 1288,3806 1324,3806 1360,3806 1396,3806 1432,3804 1468,3804 1504,3804 1540,3804 1576,3804 1612,3802 1648,3802 1684,3802 1720,3802 1756,3802 1792,3802 1828,3804 1864,3804 1900,3806"/>
+                <TextEquiv>
+                    <Unicode>Q•RAESIVS•Q•F•PAL•SVRDINVS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1184,3921 1220,3921 1256,3921 1293,3921 1329,3921 1366,3919 1402,3919 1438,3919 1475,3917 1511,3917 1548,3915 1584,3915 1620,3915 1657,3914 1693,3913 1730,3913 1766,3913 1802,3913 1839,3913 1875,3915 1912,3915 1912,3857 1875,3857 1839,3855 1802,3855 1766,3855 1730,3855 1693,3855 1657,3856 1620,3857 1584,3857 1548,3857 1511,3859 1475,3859 1438,3861 1402,3861 1366,3861 1329,3863 1293,3863 1256,3863 1220,3863 1184,3863"/>
+                <Baseline points="1184,3902 1220,3902 1256,3902 1293,3902 1329,3902 1366,3900 1402,3900 1438,3900 1475,3898 1511,3898 1548,3896 1584,3896 1620,3896 1657,3895 1693,3894 1730,3894 1766,3894 1802,3894 1839,3894 1875,3896 1912,3896"/>
+                <TextEquiv>
+                    <Unicode>CVM RAESIA•HERCVLANILLA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1368,4007 1394,4005 1421,4005 1447,4005 1474,4003 1500,4003 1527,4003 1554,4003 1580,4001 1607,4001 1633,4001 1660,4001 1686,4001 1713,4002 1740,4003 1740,3945 1713,3944 1686,3943 1660,3943 1633,3943 1607,3943 1580,3943 1554,3945 1527,3945 1500,3945 1474,3945 1447,3947 1421,3947 1394,3947 1368,3949"/>
+                <Baseline points="1368,3988 1394,3986 1421,3986 1447,3986 1474,3984 1500,3984 1527,3984 1554,3984 1580,3982 1607,3982 1633,3982 1660,3982 1686,3982 1713,3983 1740,3984"/>
+                <TextEquiv>
+                    <Unicode>•SACRVM•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DIANAE RAESIANAE&#13;
+Q•RAESIVS•Q•F•PAL•SVRDINVS&#13;
+CVM RAESIA•HERCVLANILLA&#13;
+•SACRVM•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1607149697543_20" custom="readingOrder {index:16;}">
+            <Coords points="2272,3656 3476,3658 3465,4493 2272,4468"/>
+        </ImageRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:17;}">
+            <Coords points="2296,3664 3450,3691 3440,4463 2299,4440"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2524,3749 2561,3749 2598,3747 2635,3747 2672,3747 2709,3747 2746,3747 2783,3749 2820,3749 2857,3749 2895,3749 2932,3751 2969,3751 3006,3751 3043,3751 3080,3751 3117,3751 3154,3751 3191,3751 3228,3749 3266,3747 3266,3707 3228,3709 3191,3711 3154,3711 3117,3711 3080,3711 3043,3711 3006,3711 2969,3711 2932,3711 2895,3709 2857,3709 2820,3709 2783,3709 2746,3707 2709,3707 2672,3707 2635,3707 2598,3707 2561,3709 2524,3709"/>
+                <Baseline points="2524,3736 2561,3736 2598,3734 2635,3734 2672,3734 2709,3734 2746,3734 2783,3736 2820,3736 2857,3736 2895,3736 2932,3738 2969,3738 3006,3738 3043,3738 3080,3738 3117,3738 3154,3738 3191,3738 3228,3736 3266,3734"/>
+                <TextEquiv>
+                    <Unicode>RAESIANOR•FAMIL•D•D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="2326,3812 2381,3812 2436,3812 2491,3812 2547,3812 2602,3812 2657,3812 2713,3812 2768,3812 2823,3811 2879,3810 2934,3810 2989,3810 3044,3810 3100,3808 3155,3808 3210,3808 3266,3806 3321,3806 3376,3804 3432,3804 3432,3762 3376,3762 3321,3764 3266,3764 3210,3766 3155,3766 3100,3766 3044,3768 2989,3768 2934,3768 2879,3768 2823,3769 2768,3770 2713,3770 2657,3770 2602,3770 2547,3770 2491,3770 2436,3770 2381,3770 2326,3770"/>
+                <Baseline points="2326,3798 2381,3798 2436,3798 2491,3798 2547,3798 2602,3798 2657,3798 2713,3798 2768,3798 2823,3797 2879,3796 2934,3796 2989,3796 3044,3796 3100,3794 3155,3794 3210,3794 3266,3792 3321,3792 3376,3790 3432,3790"/>
+                <TextEquiv>
+                    <Unicode>Q•RAESIVS•Q•F•PAL•SVRDINVS•MIL•VETER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="2336,3907 2392,3906 2448,3905 2504,3905 2560,3903 2616,3903 2672,3903 2728,3903 2784,3901 2840,3901 2896,3901 2952,3901 3008,3901 3064,3899 3120,3899 3176,3899 3232,3899 3288,3897 3344,3897 3400,3897 3456,3895 3456,3837 3400,3839 3344,3839 3288,3839 3232,3841 3176,3841 3120,3841 3064,3841 3008,3843 2952,3843 2896,3843 2840,3843 2784,3843 2728,3845 2672,3845 2616,3845 2560,3845 2504,3847 2448,3847 2392,3848 2336,3849"/>
+                <Baseline points="2336,3888 2392,3887 2448,3886 2504,3886 2560,3884 2616,3884 2672,3884 2728,3884 2784,3882 2840,3882 2896,3882 2952,3882 3008,3882 3064,3880 3120,3880 3176,3880 3232,3880 3288,3878 3344,3878 3400,3878 3456,3876"/>
+                <TextEquiv>
+                    <Unicode>COH•VĪĪ•VIGIL•V•F•SIBI•ET SVIS LIBERIS•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="2344,4003 2398,4003 2453,4001 2508,4001 2563,4001 2618,3999 2672,3999 2727,3997 2782,3997 2837,3997 2892,3996 2946,3995 3001,3995 3056,3995 3111,3995 3166,3995 3220,3995 3275,3995 3330,3995 3385,3996 3440,3997 3440,3939 3385,3938 3330,3937 3275,3937 3220,3937 3166,3937 3111,3937 3056,3937 3001,3937 2946,3937 2892,3938 2837,3939 2782,3939 2727,3939 2672,3941 2618,3941 2563,3943 2508,3943 2453,3943 2398,3945 2344,3945"/>
+                <Baseline points="2344,3984 2398,3984 2453,3982 2508,3982 2563,3982 2618,3980 2672,3980 2727,3978 2782,3978 2837,3978 2892,3977 2946,3976 3001,3976 3056,3976 3111,3976 3166,3976 3220,3976 3275,3976 3330,3976 3385,3977 3440,3978"/>
+                <TextEquiv>
+                    <Unicode>IDEM•LIBERTIS•LIBERTABVSQVE SVIS•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="2342,4093 2396,4093 2451,4093 2505,4093 2560,4093 2615,4093 2669,4091 2724,4091 2778,4091 2833,4091 2888,4091 2942,4091 2997,4091 3051,4091 3106,4091 3161,4091 3215,4092 3270,4093 3324,4093 3379,4095 3434,4095 3434,4037 3379,4037 3324,4035 3270,4035 3215,4034 3161,4033 3106,4033 3051,4033 2997,4033 2942,4033 2888,4033 2833,4033 2778,4033 2724,4033 2669,4033 2615,4035 2560,4035 2505,4035 2451,4035 2396,4035 2342,4035"/>
+                <Baseline points="2342,4074 2396,4074 2451,4074 2505,4074 2560,4074 2615,4074 2669,4072 2724,4072 2778,4072 2833,4072 2888,4072 2942,4072 2997,4072 3051,4072 3106,4072 3161,4072 3215,4073 3270,4074 3324,4074 3379,4076 3434,4076"/>
+                <TextEquiv>
+                    <Unicode>OLL•DD•X̄L̄•IN HYPOGEVM•TESTACI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;} unclear {offset:18; length:3;}">
+                <Coords points="2340,4177 2392,4177 2444,4175 2496,4175 2548,4175 2600,4173 2652,4173 2704,4173 2756,4173 2808,4173 2860,4174 2912,4175 2964,4175 3016,4175 3068,4175 3120,4175 3172,4175 3224,4175 3276,4175 3328,4175 3380,4175 3380,4117 3328,4117 3276,4117 3224,4117 3172,4117 3120,4117 3068,4117 3016,4117 2964,4117 2912,4117 2860,4116 2808,4115 2756,4115 2704,4115 2652,4115 2600,4115 2548,4117 2496,4117 2444,4117 2392,4119 2340,4119"/>
+                <Baseline points="2340,4158 2392,4158 2444,4156 2496,4156 2548,4156 2600,4154 2652,4154 2704,4154 2756,4154 2808,4154 2860,4155 2912,4156 2964,4156 3016,4156 3068,4156 3120,4156 3172,4156 3224,4156 3276,4156 3328,4156 3380,4156"/>
+                <TextEquiv>
+                    <Unicode>CVM•SERV•INCISVRVM...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;} unclear {offset:13; length:3;}">
+                <Coords points="2350,4265 2403,4263 2457,4261 2511,4261 2565,4261 2619,4261 2672,4261 2726,4261 2780,4263 2834,4264 2888,4265 2941,4267 2995,4268 3049,4269 3103,4271 3157,4273 3210,4273 3264,4275 3318,4275 3372,4275 3426,4275 3426,4217 3372,4217 3318,4217 3264,4217 3210,4215 3157,4215 3103,4213 3049,4211 2995,4210 2941,4209 2888,4207 2834,4206 2780,4205 2726,4203 2672,4203 2619,4203 2565,4203 2511,4203 2457,4203 2403,4205 2350,4207"/>
+                <Baseline points="2350,4246 2403,4244 2457,4242 2511,4242 2565,4242 2619,4242 2672,4242 2726,4242 2780,4244 2834,4245 2888,4246 2941,4248 2995,4249 3049,4250 3103,4252 3157,4254 3210,4254 3264,4256 3318,4256 3372,4256 3426,4256"/>
+                <TextEquiv>
+                    <Unicode>DIVISVM•INPAR...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;} unclear {offset:13; length:3;}">
+                <Coords points="2350,4354 2403,4354 2457,4354 2510,4354 2564,4354 2618,4356 2671,4356 2725,4358 2778,4359 2832,4360 2886,4362 2939,4364 2993,4366 3046,4366 3100,4368 3154,4370 3207,4372 3261,4372 3314,4374 3368,4374 3422,4374 3422,4325 3368,4325 3314,4325 3261,4323 3207,4323 3154,4321 3100,4319 3046,4317 2993,4317 2939,4315 2886,4313 2832,4311 2778,4310 2725,4309 2671,4307 2618,4307 2564,4305 2510,4305 2457,4305 2403,4305 2350,4305"/>
+                <Baseline points="2350,4338 2403,4338 2457,4338 2510,4338 2564,4338 2618,4340 2671,4340 2725,4342 2778,4343 2832,4344 2886,4346 2939,4348 2993,4350 3046,4350 3100,4352 3154,4354 3207,4356 3261,4356 3314,4358 3368,4358 3422,4358"/>
+                <TextEquiv>
+                    <Unicode>LAT•PED•XIII•...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;} unclear {offset:12; length:3;}">
+                <Coords points="2318,4435 2373,4435 2428,4433 2484,4433 2539,4433 2595,4434 2650,4435 2705,4435 2761,4437 2816,4439 2872,4439 2927,4441 2982,4443 3038,4443 3093,4445 3149,4445 3204,4445 3259,4445 3315,4445 3370,4445 3426,4443 3426,4392 3370,4394 3315,4394 3259,4394 3204,4394 3149,4394 3093,4394 3038,4392 2982,4392 2927,4390 2872,4388 2816,4388 2761,4386 2705,4384 2650,4384 2595,4383 2539,4382 2484,4382 2428,4382 2373,4384 2318,4384"/>
+                <Baseline points="2318,4418 2373,4418 2428,4416 2484,4416 2539,4416 2595,4417 2650,4418 2705,4418 2761,4420 2816,4422 2872,4422 2927,4424 2982,4426 3038,4426 3093,4428 3149,4428 3204,4428 3259,4428 3315,4428 3370,4428 3426,4426"/>
+                <TextEquiv>
+                    <Unicode>ASCENSVM PER...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RAESIANOR•FAMIL•D•D
+Q•RAESIVS•Q•F•PAL•SVRDINVS•MIL•VETER
+COH•VĪĪ•VIGIL•V•F•SIBI•ET SVIS LIBERIS•
+IDEM•LIBERTIS•LIBERTABVSQVE SVIS•
+OLL•DD•X̄L̄•IN HYPOGEVM•TESTACI
+CVM•SERV•INCISVRVM...
+DIVISVM•INPAR...
+LAT•PED•XIII•...
+ASCENSVM PER...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

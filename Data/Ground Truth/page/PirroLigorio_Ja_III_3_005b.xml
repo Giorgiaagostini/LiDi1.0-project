@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:33.912+01:00</Created>
+        <LastChange>2022-05-12T12:23:17.073+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902801" pageNr="10" tsid="82220826" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=NNUYMYTEENSWRPFCAICANVXX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZKLSFGQTDXUDLPCLQJIAXRW" imageId="17873878"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_005b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337491438" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1641287125761_1365"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1641287125761_1365" custom="readingOrder {index:0;}">
+            <Coords points="2877,126 3372,127 3351,304 2890,304"/>
+            <TextLine id="line_1641287140331_1369" custom="readingOrder {index:0;}">
+                <Coords points="3021,164 3132,164 3132,214 3021,214"/>
+                <Baseline points="3021,209 3132,209"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1641287143853_1374" custom="readingOrder {index:1;}">
+                <Coords points="3194,234 3289,225 3293,275 3198,284"/>
+                <Baseline points="3202,271 3297,262"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8
+5</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

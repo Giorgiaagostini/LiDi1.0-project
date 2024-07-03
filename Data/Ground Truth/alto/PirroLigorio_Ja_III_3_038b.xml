@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_038b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:05.106+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643804050675_1425"
+                       HEIGHT="199"
+                       WIDTH="364"
+                       VPOS="192"
+                       HPOS="2954">
+               <Shape>
+                  <Polygon POINTS="2954,196 3318,192 3317,391 2958,391"/>
+               </Shape>
+               <TextLine ID="line_1643209855801_147"
+                         BASELINE="2989,262 3146,258"
+                         HEIGHT="54"
+                         WIDTH="158"
+                         VPOS="213"
+                         HPOS="2988">
+                  <String ID="string_line_1643209855801_147"
+                          HEIGHT="54"
+                          WIDTH="158"
+                          VPOS="213"
+                          HPOS="2988"
+                          CONTENT="41"/>
+               </TextLine>
+               <TextLine ID="line_1643209860299_152"
+                         BASELINE="3153,357 3264,350"
+                         HEIGHT="57"
+                         WIDTH="114"
+                         VPOS="290"
+                         HPOS="3150">
+                  <String ID="string_line_1643209860299_152"
+                          HEIGHT="57"
+                          WIDTH="114"
+                          VPOS="290"
+                          HPOS="3150"
+                          CONTENT="38"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643804050675_1424"
+                       HEIGHT="4173"
+                       WIDTH="2963"
+                       VPOS="196"
+                       HPOS="354">
+               <Shape>
+                  <Polygon POINTS="388,232 2954,196 2958,391 3317,391 3304,4356 354,4369"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="420,422 546,430 673,436 800,440 927,444 1054,448 1180,450 1307,452 1434,454 1561,454 1688,454 1814,454 1941,456 2068,456 2195,456 2322,458 2448,460 2575,462 2702,466 2829,470 2956,476"
+                         HEIGHT="126"
+                         WIDTH="2536"
+                         VPOS="374"
+                         HPOS="420">
+                  <String ID="string_r1l1"
+                          HEIGHT="126"
+                          WIDTH="2536"
+                          VPOS="374"
+                          HPOS="420"
+                          CONTENT="ROMA, ò pure, ΡΩΜΗ, è citta di Italia, madre et capo di tutte le virtù et de tutti i popoli, sola"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="460,540 583,544 707,546 830,548 954,550 1078,552 1201,552 1325,552 1448,554 1572,554 1696,554 1819,554 1943,554 2066,556 2190,556 2314,556 2437,558 2561,560 2684,562 2808,564 2932,568"
+                         HEIGHT="100"
+                         WIDTH="2472"
+                         VPOS="492"
+                         HPOS="460">
+                  <String ID="string_r1l2"
+                          HEIGHT="100"
+                          WIDTH="2472"
+                          VPOS="492"
+                          HPOS="460"
+                          CONTENT="al mondo regina et difensatrice dele genti di tutte le città. donde il cittadino si dice Romano, et"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="452,648 578,650 704,652 830,654 956,656 1082,658 1208,660 1334,660 1460,662 1586,662 1712,664 1838,664 1964,664 2090,664 2216,666 2342,666 2468,666 2594,666 2720,668 2846,668 2972,668"
+                         HEIGHT="92"
+                         WIDTH="2520"
+                         VPOS="600"
+                         HPOS="452">
+                  <String ID="string_r1l3"
+                          HEIGHT="92"
+                          WIDTH="2520"
+                          VPOS="600"
+                          HPOS="452"
+                          CONTENT="Romano il Municipio di essa città posto nell'oschi campani. et i Greci dicono Romaeo, cosi ΡΩΜΑΙΟΣ"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="456,748 580,750 705,750 829,752 954,754 1079,756 1203,758 1328,760 1452,762 1577,762 1702,764 1826,766 1951,766 2075,768 2200,768 2325,768 2449,766 2574,766 2698,764 2823,762 2948,760"
+                         HEIGHT="89"
+                         WIDTH="2492"
+                         VPOS="702"
+                         HPOS="456">
+                  <String ID="string_r1l4"
+                          HEIGHT="89"
+                          WIDTH="2492"
+                          VPOS="702"
+                          HPOS="456"
+                          CONTENT="come da Thebe ΤΗΒΑΙΟΣ, et si dice ΡΩΜΑΙΑ, et ΡΩΜΙΣ, quella che noi dicemo Romana, all'"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="456,846 580,848 704,848 828,849 952,850 1077,852 1201,852 1325,854 1449,854 1573,856 1698,857 1822,858 1946,860 2070,860 2194,862 2319,862 2443,862 2567,864 2691,864 2815,864 2940,864"
+                         HEIGHT="87"
+                         WIDTH="2484"
+                         VPOS="800"
+                         HPOS="456">
+                  <String ID="string_r1l5"
+                          HEIGHT="87"
+                          WIDTH="2484"
+                          VPOS="800"
+                          HPOS="456"
+                          CONTENT="uso latino come disse Terentio. Ora questa città signora di tutte le bonta, hebbe si antico origene,"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="456,946 580,948 705,951 829,952 954,954 1079,956 1203,958 1328,958 1452,960 1577,960 1702,962 1826,962 1951,964 2075,964 2200,966 2325,966 2449,966 2574,968 2698,968 2823,968 2948,970"
+                         HEIGHT="96"
+                         WIDTH="2492"
+                         VPOS="898"
+                         HPOS="456">
+                  <String ID="string_r1l6"
+                          HEIGHT="96"
+                          WIDTH="2492"
+                          VPOS="898"
+                          HPOS="456"
+                          CONTENT="che ha dato materia di dire sopra del suo nome, derivato da varij modi, invarij tempi, invarie occa¬"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="456,1050 580,1052 705,1056 830,1058 955,1060 1080,1062 1204,1063 1329,1064 1454,1066 1579,1066 1704,1066 1828,1068 1953,1068 2078,1068 2203,1068 2328,1068 2452,1068 2577,1068 2702,1068 2827,1068 2952,1068"
+                         HEIGHT="84"
+                         WIDTH="2496"
+                         VPOS="1006"
+                         HPOS="456">
+                  <String ID="string_r1l7"
+                          HEIGHT="84"
+                          WIDTH="2496"
+                          VPOS="1006"
+                          HPOS="456"
+                          CONTENT="sioni confirmato sotto un'solo significato, et se bene pare che alcuni si contradicono nella sua analogia"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="468,1138 592,1142 716,1146 840,1148 965,1150 1089,1152 1213,1154 1338,1156 1462,1158 1586,1158 1711,1160 1835,1160 1959,1162 2083,1162 2208,1164 2332,1164 2456,1164 2581,1164 2705,1166 2829,1166 2954,1168"
+                         HEIGHT="96"
+                         WIDTH="2486"
+                         VPOS="1094"
+                         HPOS="468">
+                  <String ID="string_r1l8"
+                          HEIGHT="96"
+                          WIDTH="2486"
+                          VPOS="1094"
+                          HPOS="468"
+                          CONTENT="non dimeno nel medesimo suono concorrono, et senza alcuna discrepantia il formano sotto un'nome for"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="438,1260 563,1260 688,1262 813,1264 938,1264 1063,1266 1188,1266 1313,1268 1438,1269 1563,1270 1689,1270 1814,1272 1939,1272 2064,1272 2189,1272 2314,1274 2439,1274 2564,1274 2689,1274 2814,1272 2940,1272"
+                         HEIGHT="89"
+                         WIDTH="2502"
+                         VPOS="1210"
+                         HPOS="438">
+                  <String ID="string_r1l9"
+                          HEIGHT="89"
+                          WIDTH="2502"
+                          VPOS="1210"
+                          HPOS="438"
+                          CONTENT="te et possente: et tutti lhanno derivato dala gagliardezza del valore et robustezza, ò dicendolo dal sito, che"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="442,1374 567,1374 692,1376 817,1376 943,1378 1068,1378 1193,1380 1319,1380 1444,1380 1569,1382 1695,1382 1820,1382 1945,1384 2070,1384 2196,1384 2321,1386 2446,1386 2572,1386 2697,1386 2822,1386 2948,1388"
+                         HEIGHT="89"
+                         WIDTH="2506"
+                         VPOS="1324"
+                         HPOS="442">
+                  <String ID="string_r1l10"
+                          HEIGHT="89"
+                          WIDTH="2506"
+                          VPOS="1324"
+                          HPOS="442"
+                          CONTENT="dal valor degli edificatori suona valore et gagliardia d'una suprema virtù: Impero che sopra di esso no¬"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="458,1478 581,1482 705,1484 829,1486 953,1488 1077,1490 1200,1492 1324,1492 1448,1494 1572,1494 1696,1494 1819,1494 1943,1494 2067,1494 2191,1494 2315,1494 2438,1494 2562,1494 2686,1494 2810,1494 2934,1494"
+                         HEIGHT="91"
+                         WIDTH="2476"
+                         VPOS="1428"
+                         HPOS="458">
+                  <String ID="string_r1l11"
+                          HEIGHT="91"
+                          WIDTH="2476"
+                          VPOS="1428"
+                          HPOS="458"
+                          CONTENT="me hanno scritte queste cose. et perla prima sentenza Varrone traglialtri porremo, che fù l'oracolo dell'"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="442,1594 566,1596 690,1598 814,1600 938,1602 1062,1604 1186,1604 1310,1606 1434,1607 1558,1608 1682,1608 1806,1610 1930,1610 2054,1610 2178,1610 2302,1610 2426,1610 2550,1610 2674,1610 2798,1608 2922,1608"
+                         HEIGHT="91"
+                         WIDTH="2480"
+                         VPOS="1544"
+                         HPOS="442">
+                  <String ID="string_r1l12"
+                          HEIGHT="91"
+                          WIDTH="2480"
+                          VPOS="1544"
+                          HPOS="442"
+                          CONTENT="antichità del popolo Romano, senza negare la varietà recitata da molti greci nanzi alui scrittori"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="446,1712 570,1710 695,1710 820,1710 945,1710 1070,1712 1194,1712 1319,1714 1444,1714 1569,1716 1694,1718 1818,1718 1943,1720 2068,1720 2193,1722 2318,1722 2442,1722 2567,1720 2692,1720 2817,1718 2942,1714"
+                         HEIGHT="87"
+                         WIDTH="2496"
+                         VPOS="1660"
+                         HPOS="446">
+                  <String ID="string_r1l13"
+                          HEIGHT="87"
+                          WIDTH="2496"
+                          VPOS="1660"
+                          HPOS="446"
+                          CONTENT="degnissimi, et senza mancare à quel che si ricerca alla verita, confessando Roma esser stata più volte"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="448,1818 571,1819 694,1820 817,1822 941,1822 1064,1824 1187,1824 1311,1824 1434,1826 1557,1826 1681,1826 1804,1826 1927,1828 2050,1828 2174,1828 2297,1828 2420,1828 2544,1828 2667,1828 2790,1828 2914,1828"
+                         HEIGHT="85"
+                         WIDTH="2466"
+                         VPOS="1768"
+                         HPOS="448">
+                  <String ID="string_r1l14"
+                          HEIGHT="85"
+                          WIDTH="2466"
+                          VPOS="1768"
+                          HPOS="448"
+                          CONTENT="edificata sotto il medesimo nome, come confirmata per diversi auttori: et per l'ultimo come fù essa ò"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="442,1920 566,1922 691,1922 816,1924 941,1926 1066,1926 1191,1928 1316,1930 1441,1930 1566,1932 1691,1934 1815,1934 1940,1936 2065,1936 2190,1938 2315,1938 2440,1938 2565,1938 2690,1938 2815,1938 2940,1938"
+                         HEIGHT="93"
+                         WIDTH="2498"
+                         VPOS="1870"
+                         HPOS="442">
+                  <String ID="string_r1l15"
+                          HEIGHT="93"
+                          WIDTH="2498"
+                          VPOS="1870"
+                          HPOS="442"
+                          CONTENT="iluogo gia chiamato Romone, diede il nome à Romolo et à Remo, et questi lo diedeno à lei per essere nellu"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="428,2034 552,2034 676,2034 800,2034 924,2035 1048,2036 1172,2036 1296,2037 1420,2038 1544,2038 1668,2040 1792,2040 1916,2042 2040,2042 2164,2044 2288,2044 2412,2046 2536,2046 2660,2046 2784,2048 3068,2082"
+                         HEIGHT="86"
+                         WIDTH="2480"
+                         VPOS="1986"
+                         HPOS="428">
+                  <String ID="string_r1l16"
+                          HEIGHT="86"
+                          WIDTH="2480"
+                          VPOS="1986"
+                          HPOS="428"
+                          CONTENT="go istesso allevati, et da essi inalzata nel dedurvi la colonia Albana latina. Ma pria che havesse nome di Roma, nanzi"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="430,2136 553,2136 676,2138 800,2140 923,2140 1047,2140 1170,2142 1293,2142 1417,2142 1540,2144 1664,2144 1787,2144 1910,2144 2034,2144 2157,2144 2281,2144 2404,2144 2527,2144 2651,2144 2774,2144 2898,2144"
+                         HEIGHT="80"
+                         WIDTH="2468"
+                         VPOS="2088"
+                         HPOS="430">
+                  <String ID="string_r1l17"
+                          HEIGHT="80"
+                          WIDTH="2468"
+                          VPOS="2088"
+                          HPOS="430"
+                          CONTENT="et di poi fù chiamato il medesimo colle, Palazzo, Palatino, et da sabini prima, et poi dall'Arcadi, et dall'Ar"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="446,2252 569,2252 692,2252 815,2252 939,2252 1062,2252 1185,2254 1309,2254 1432,2254 1555,2256 1679,2256 1802,2256 1925,2258 2048,2258 2172,2260 2295,2260 2418,2260 2542,2262 2665,2262 2788,2262 2912,2262"
+                         HEIGHT="85"
+                         WIDTH="2466"
+                         VPOS="2202"
+                         HPOS="446">
+                  <String ID="string_r1l18"
+                          HEIGHT="85"
+                          WIDTH="2466"
+                          VPOS="2202"
+                          HPOS="446"
+                          CONTENT="gei: Ma colnome di Roma il medesimo luogho lhebbe da circa à due volte, per piu edificationi che vi fu"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="434,2360 558,2362 682,2364 806,2366 930,2366 1055,2368 1179,2368 1303,2370 1427,2370 1551,2370 1676,2370 1800,2372 1924,2372 2048,2372 2172,2372 2297,2372 2421,2374 2545,2374 2669,2374 2793,2376 2918,2376"
+                         HEIGHT="89"
+                         WIDTH="2484"
+                         VPOS="2311"
+                         HPOS="434">
+                  <String ID="string_r1l19"
+                          HEIGHT="89"
+                          WIDTH="2484"
+                          VPOS="2311"
+                          HPOS="434"
+                          CONTENT="rono fatte et nel colle et circa ald'intorno ad esso. Et l'ultimo nome fu quello che gli lasciarono Romo"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="424,2470 548,2472 672,2472 796,2474 921,2474 1045,2474 1169,2474 1294,2476 1418,2476 1542,2476 1667,2474 1791,2474 1915,2474 2039,2474 2164,2474 2288,2474 2412,2474 2537,2474 2661,2474 2785,2474 2910,2476"
+                         HEIGHT="75"
+                         WIDTH="2486"
+                         VPOS="2424"
+                         HPOS="424">
+                  <String ID="string_r1l20"
+                          HEIGHT="75"
+                          WIDTH="2486"
+                          VPOS="2424"
+                          HPOS="424"
+                          CONTENT="lo et Remo fratelli figliuoli di Marte et di Ilia Rhea Vergine Vestale Albana dela progenie di Numi"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="424,2564 548,2566 672,2568 796,2570 920,2572 1044,2574 1168,2574 1292,2576 1416,2578 1540,2578 1664,2580 1788,2580 1912,2580 2036,2582 2160,2582 2284,2582 2408,2582 2532,2582 2656,2580 2780,2580 2904,2578"
+                         HEIGHT="87"
+                         WIDTH="2480"
+                         VPOS="2518"
+                         HPOS="424">
+                  <String ID="string_r1l21"
+                          HEIGHT="87"
+                          WIDTH="2480"
+                          VPOS="2518"
+                          HPOS="424"
+                          CONTENT="tore fratello di Amulio Re degli Albani quando essi giovanetti gia allevati inquesto luogo espulsero da l'"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="436,2664 560,2666 685,2668 809,2670 934,2670 1059,2672 1183,2672 1308,2674 1432,2674 1557,2674 1682,2676 1806,2677 1931,2678 2055,2680 2180,2682 2305,2684 2429,2688 2554,2692 2678,2696 2803,2700 2928,2706"
+                         HEIGHT="117"
+                         WIDTH="2492"
+                         VPOS="2614"
+                         HPOS="436">
+                  <String ID="string_r1l22"
+                          HEIGHT="117"
+                          WIDTH="2492"
+                          VPOS="2614"
+                          HPOS="436"
+                          CONTENT="stato il Traditore Amulio, et rimesso Numitore loro Avo donde era stato cacciato in Alba Longa, et d'indi con"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="440,2766 563,2768 686,2772 810,2774 933,2776 1057,2778 1180,2778 1303,2779 1427,2780 1550,2780 1674,2780 1797,2782 1920,2782 2044,2784 2167,2784 2291,2786 2414,2789 2537,2792 2661,2796 2784,2800 2908,2806"
+                         HEIGHT="115"
+                         WIDTH="2468"
+                         VPOS="2716"
+                         HPOS="440">
+                  <String ID="string_r1l23"
+                          HEIGHT="115"
+                          WIDTH="2468"
+                          VPOS="2716"
+                          HPOS="440"
+                          CONTENT="dussero sul palatino Romone gli habitatori. Cosidunque pria che questo inquesto luogho di Roma fusse"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="420,2864 543,2868 667,2872 790,2875 914,2878 1037,2880 1161,2882 1284,2884 1408,2884 1531,2886 1655,2888 1778,2888 1902,2890 2025,2892 2149,2894 2272,2896 2396,2898 2519,2900 2643,2904 2766,2908 2890,2912"
+                         HEIGHT="123"
+                         WIDTH="2470"
+                         VPOS="2814"
+                         HPOS="420">
+                  <String ID="string_r1l24"
+                          HEIGHT="123"
+                          WIDTH="2470"
+                          VPOS="2814"
+                          HPOS="420"
+                          CONTENT="edificio deli detti fratelli, fu appellato Palazzo da sabini, poscia sendo guasto il luogo fu detto Romone, di"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="418,2978 542,2984 667,2986 791,2990 916,2992 1040,2994 1165,2996 1289,2996 1414,2998 1538,2998 1663,2998 1787,2998 1912,2998 2036,2998 2161,2998 2285,3000 2410,3000 2534,3001 2659,3002 2783,3004 2908,3006"
+                         HEIGHT="97"
+                         WIDTH="2490"
+                         VPOS="2932"
+                         HPOS="418">
+                  <String ID="string_r1l25"
+                          HEIGHT="97"
+                          WIDTH="2490"
+                          VPOS="2932"
+                          HPOS="418"
+                          CONTENT="poi guasto, questo oppido fu detta Palanteo et palatino da Evandro Re degli Arcadi denominandolo da"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="414,3090 539,3094 664,3096 789,3098 914,3100 1040,3100 1165,3100 1290,3100 1415,3100 1540,3098 1666,3098 1791,3096 1916,3096 2041,3094 2166,3094 2292,3094 2417,3094 2542,3094 2667,3096 2792,3098 2918,3102"
+                         HEIGHT="81"
+                         WIDTH="2504"
+                         VPOS="3044"
+                         HPOS="414">
+                  <String ID="string_r1l26"
+                          HEIGHT="81"
+                          WIDTH="2504"
+                          VPOS="3044"
+                          HPOS="414"
+                          CONTENT="Palanteo, ò Palantio sua patria lasciata in Arcadia, per necessita di non potervi vivere passo in Italia"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="432,3206 554,3206 677,3206 800,3206 923,3206 1046,3206 1168,3204 1291,3204 1414,3202 1537,3202 1660,3200 1782,3200 1905,3198 2028,3196 2151,3196 2274,3194 2396,3194 2519,3192 2642,3192 2765,3190 2888,3190"
+                         HEIGHT="91"
+                         WIDTH="2456"
+                         VPOS="3140"
+                         HPOS="432">
+                  <String ID="string_r1l27"
+                          HEIGHT="91"
+                          WIDTH="2456"
+                          VPOS="3140"
+                          HPOS="432"
+                          CONTENT="con Arcadi et Argei, et chiamo questo nuovo albergo in tal modo, ò pure lo denominò da Pallante suo fi"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="418,3306 541,3310 664,3312 787,3313 910,3314 1034,3314 1157,3314 1280,3314 1403,3312 1526,3312 1650,3310 1773,3308 1896,3308 2019,3306 2142,3306 2266,3304 2389,3304 2512,3304 2635,3304 2758,3306 2882,3308"
+                         HEIGHT="85"
+                         WIDTH="2464"
+                         VPOS="3254"
+                         HPOS="418">
+                  <String ID="string_r1l28"
+                          HEIGHT="85"
+                          WIDTH="2464"
+                          VPOS="3254"
+                          HPOS="418"
+                          CONTENT="gliuolo, ò pure dal sacello di Pales, che vifecero perlo augurio, comprato il luogo da pastori latini volle re"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="422,3414 553,3417 685,3418 817,3420 949,3420 1081,3420 1213,3420 1345,3420 1477,3419 1609,3418 1741,3418 1872,3416 2004,3416 2136,3416 2268,3416 2400,3416 2532,3416 2664,3418 2796,3420 2928,3423 3060,3426"
+                         HEIGHT="87"
+                         WIDTH="2638"
+                         VPOS="3364"
+                         HPOS="422">
+                  <String ID="string_r1l29"
+                          HEIGHT="87"
+                          WIDTH="2638"
+                          VPOS="3364"
+                          HPOS="422"
+                          CONTENT="verire la Dea di essi bifolci et porcari et pecorari i quali habitavano le grotte delluogho rovinato. Doppodicono che"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="410,3508 532,3509 654,3510 776,3510 898,3512 1020,3512 1142,3512 1264,3514 1386,3514 1508,3514 1630,3516 1752,3516 1874,3518 1996,3518 2118,3520 2240,3522 2362,3524 2484,3524 2606,3526 2728,3529 2850,3532"
+                         HEIGHT="99"
+                         WIDTH="2440"
+                         VPOS="3458"
+                         HPOS="410">
+                  <String ID="string_r1l30"
+                          HEIGHT="99"
+                          WIDTH="2440"
+                          VPOS="3458"
+                          HPOS="410"
+                          CONTENT="Evandro anchora fu edificatoisotto nome di Roma, et rovinato anchora sendo ridutto à pascoli di Tauri"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="414,3610 537,3613 660,3615 783,3616 906,3618 1030,3620 1153,3622 1276,3624 1399,3624 1522,3626 1646,3626 1769,3628 1892,3630 2015,3630 2138,3632 2262,3632 2385,3632 2508,3634 2631,3635 2754,3636 2878,3636"
+                         HEIGHT="101"
+                         WIDTH="2464"
+                         VPOS="3560"
+                         HPOS="414">
+                  <String ID="string_r1l31"
+                          HEIGHT="101"
+                          WIDTH="2464"
+                          VPOS="3560"
+                          HPOS="414"
+                          CONTENT="et di porci et d'altri Gregi, i pastori veneravano Pan iddio di Arcadia detto da latini Luperco et Inno, et"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="418,3712 541,3716 664,3720 788,3722 911,3726 1035,3728 1158,3730 1281,3732 1405,3734 1528,3736 1652,3736 1775,3738 1898,3738 2022,3740 2145,3740 2269,3742 2392,3743 2515,3744 2639,3746 2762,3746 2886,3748"
+                         HEIGHT="111"
+                         WIDTH="2468"
+                         VPOS="3662"
+                         HPOS="418">
+                  <String ID="string_r1l32"
+                          HEIGHT="111"
+                          WIDTH="2468"
+                          VPOS="3662"
+                          HPOS="418"
+                          CONTENT="veneravano Pales, et sendovi un Pastore chiamato Fostolo, chealcuni corrottamente dicono Faustulo colla sua"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="422,3828 544,3830 666,3832 788,3834 911,3836 1033,3838 1155,3840 1278,3842 1400,3842 1522,3844 1645,3846 1767,3846 1889,3848 2011,3848 2134,3850 2256,3850 2378,3850 2501,3852 2623,3852 2745,3852 2868,3850"
+                         HEIGHT="99"
+                         WIDTH="2446"
+                         VPOS="3778"
+                         HPOS="422">
+                  <String ID="string_r1l33"
+                          HEIGHT="99"
+                          WIDTH="2446"
+                          VPOS="3778"
+                          HPOS="422"
+                          CONTENT="moglie chiamata Larentia Acca, per fortuna nodricarono Romolo et Remo sopradetti; et inmemoria di"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="418,3938 541,3942 664,3946 787,3950 910,3952 1034,3954 1157,3956 1280,3958 1403,3958 1526,3960 1650,3960 1773,3960 1896,3962 2019,3962 2142,3962 2266,3962 2389,3964 2512,3964 2635,3965 2758,3966 2882,3968"
+                         HEIGHT="105"
+                         WIDTH="2464"
+                         VPOS="3888"
+                         HPOS="418">
+                  <String ID="string_r1l34"
+                          HEIGHT="105"
+                          WIDTH="2464"
+                          VPOS="3888"
+                          HPOS="418"
+                          CONTENT="questo sendo fatti di età fortissimi come si dirra disotto, vi fecero Roma unaltra volta, che sempre di poi"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="420,4054 543,4058 666,4063 789,4066 912,4070 1035,4072 1158,4074 1281,4076 1404,4078 1527,4078 1650,4080 1773,4080 1896,4082 2019,4082 2142,4082 2265,4084 2388,4084 2511,4086 2634,4086 2757,4088 2880,4090"
+                         HEIGHT="111"
+                         WIDTH="2460"
+                         VPOS="4004"
+                         HPOS="420">
+                  <String ID="string_r1l35"
+                          HEIGHT="111"
+                          WIDTH="2460"
+                          VPOS="4004"
+                          HPOS="420"
+                          CONTENT="accrebbe nella maiesta et imperio. Ma pria che fusse da essi edificata dirremo brevemente dela varieta"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="416,4164 539,4168 662,4172 785,4176 908,4178 1031,4180 1154,4182 1277,4184 1400,4186 1523,4186 1646,4188 1769,4188 1892,4190 2015,4190 2138,4192 2261,4192 2384,4194 2507,4196 2630,4198 2753,4201 2893,4226"
+                         HEIGHT="115"
+                         WIDTH="2460"
+                         VPOS="4114"
+                         HPOS="416">
+                  <String ID="string_r1l36"
+                          HEIGHT="115"
+                          WIDTH="2460"
+                          VPOS="4114"
+                          HPOS="416"
+                          CONTENT="che di essa è stata referita da diversi auttori: accio che poi alfine si conosca la sua leggittima concordantia."/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="409,4282 530,4286 652,4289 773,4292 895,4294 1016,4297 1138,4298 1259,4300 1381,4302 1502,4304 1624,4306 1745,4308 1867,4309 1988,4311 2110,4312 2231,4314 2353,4317 2474,4320 2596,4322 2717,4326 2878,4329"
+                         HEIGHT="123"
+                         WIDTH="2430"
+                         VPOS="4226"
+                         HPOS="424">
+                  <String ID="string_r1l37"
+                          HEIGHT="123"
+                          WIDTH="2430"
+                          VPOS="4226"
+                          HPOS="424"
+                          CONTENT="et gli auttori che prima scrissero sopra dell'evento di essa citta furono questi. Mithradoro Scepsio, Plu"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

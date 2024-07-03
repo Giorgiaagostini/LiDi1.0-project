@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Ligorio 0.1 HTR(htr_id=40036)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-12-04T19:23:39.571+01:00</Created>
+        <LastChange>2022-05-18T17:22:36.663+02:00</LastChange>
+        <TranskribusMetadata docId="855487" pageId="31902964" pageNr="120" tsid="82522273" status="GT" userId="87579" imgUrl="https://files.transkribus.eu/Get?id=IPYJTRXZLZSHHAYTAFVHESDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTMGFRDRWHJUUHAGXOJAQOBN" imageId="17873988"/>
+    </Metadata>
+    <Page imageFilename="PirroLigorio_Ja_III_3_060b.jpg" imageWidth="3800" imageHeight="5255">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719337511595" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1646755939457_1242"/>
+                <RegionRefIndexed index="2" regionRef="region_1646756012608_1282"/>
+                <RegionRefIndexed index="3" regionRef="region_1646755973273_1260"/>
+                <RegionRefIndexed index="4" regionRef="region_1646756017342_1285"/>
+                <RegionRefIndexed index="5" regionRef="region_1646756020076_1288"/>
+                <RegionRefIndexed index="6" regionRef="region_1646756022541_1291"/>
+                <RegionRefIndexed index="7" regionRef="region_1646756024441_1294"/>
+                <RegionRefIndexed index="8" regionRef="region_1646755976190_1263"/>
+                <RegionRefIndexed index="9" regionRef="region_1646756027511_1297"/>
+                <RegionRefIndexed index="10" regionRef="region_1646756029609_1300"/>
+                <RegionRefIndexed index="11" regionRef="region_1646755992339_1268"/>
+                <RegionRefIndexed index="12" regionRef="region_1646756037592_1309"/>
+                <RegionRefIndexed index="13" regionRef="region_1646756034875_1306"/>
+                <RegionRefIndexed index="14" regionRef="region_1646756033075_1303"/>
+                <RegionRefIndexed index="15" regionRef="region_1646755994557_1271"/>
+                <RegionRefIndexed index="16" regionRef="region_1646756003524_1279"/>
+                <RegionRefIndexed index="17" regionRef="region_1646756058417_1315"/>
+                <RegionRefIndexed index="18" regionRef="region_1646756042116_1312"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:0;}">
+            <Coords points="2983,188 2983,396 3399,384 3386,169"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="3255,282 3270,282 3283,269 3295,269 3315,284 3330,280 3337,287 3352,274 3368,273 3366,185 3350,185 3338,198 3328,199 3322,192 3315,199 3300,196 3272,222 3253,223"/>
+                <Baseline points="3270,254 3296,260 3323,257 3350,254"/>
+                <TextEquiv>
+                    <Unicode>63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1646755933320_1235" custom="readingOrder {index:1;}">
+                <Coords points="3014,407 3030,406 3043,414 3053,410 3072,421 3102,400 3112,405 3134,401 3122,250 3090,246 3078,256 3062,248 3038,263 3003,263"/>
+                <Baseline points="3027,362 3116,355"/>
+                <TextEquiv>
+                    <Unicode>60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>63
+60</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1646755939457_1242" custom="readingOrder {index:1;}">
+            <Coords points="342,312 2914,268 2954,1608 353,1653"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="377,430 2717,432 2895,307 1916,367 1777,302 1614,374 1307,283 375,313"/>
+                <Baseline points="391,414 513,412 635,412 757,412 880,412 1002,412 1124,412 1247,412 1369,412 1491,410 1614,410 1736,410 1858,408 1980,406 2103,404 2225,402 2347,398 2470,394 2592,388 2714,382 2881,375"/>
+                <TextEquiv>
+                    <Unicode>Vedesi dala pianta istessa del fonte Lolliano, come gli antichi edificavano gli edificij Fonti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} unclear {offset:12; length:5;}">
+                <Coords points="400,514 2831,512 2859,436 400,458"/>
+                <Baseline points="415,510 535,507 655,504 775,502 895,500 1015,498 1135,496 1255,494 1375,494 1495,492 1616,492 1736,490 1856,489 1976,488 2096,486 2216,484 2336,483 2456,482 2576,480 2696,476 2843,474"/>
+                <TextEquiv>
+                    <Unicode>nali et gli antri, quasi à similitudine, di Tempij, accio che fussero come luoghi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="407,608 2586,607 2897,583 2896,514 405,519"/>
+                <Baseline points="421,599 562,594 684,592 806,590 928,587 1050,585 1172,583 1294,582 1416,580 1538,578 1661,576 1783,576 1905,574 2027,572 2149,570 2271,568 2393,566 2515,563 2637,560 2759,556 2882,554"/>
+                <TextEquiv>
+                    <Unicode>reveriti et appropriati alla Deita dell'Acque, dele Nymphe, et di Venere et dell'altre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="400,747 2849,684 2894,588 397,618"/>
+                <Baseline points="416,695 545,691 667,688 788,684 910,680 1031,677 1153,674 1274,670 1396,668 1517,664 1639,662 1760,660 1882,656 2003,654 2125,652 2246,650 2368,650 2489,648 2611,646 2756,646 2878,646"/>
+                <TextEquiv>
+                    <Unicode>Lymphe,à quali gliantichi diedono l'occulta Deita di quella proprietà profonda del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="408,796 2763,776 2864,758 2862,670 407,752"/>
+                <Baseline points="424,780 544,777 665,776 786,772 906,770 1027,768 1148,766 1268,764 1389,762 1510,760 1631,758 1751,756 1872,753 1993,751 2113,750 2234,746 2355,744 2475,742 2596,740 2717,738 2847,740"/>
+                <TextEquiv>
+                    <Unicode>acque, alla quale sacrificavano et facevano la Festa Fontinale. Et da principio li</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="382,911 2891,846 2889,774 2562,756 380,801"/>
+                <Baseline points="398,868 521,864 645,861 769,858 893,854 1017,852 1141,848 1265,846 1389,844 1513,842 1637,840 1760,838 1884,836 2008,836 2132,834 2256,834 2380,833 2504,832 2628,832 2752,832 2876,832"/>
+                <TextEquiv>
+                    <Unicode>facevano suli passi del Tevere, sull'Almone fuori della porta Capena, chiamata Ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="393,976 2758,961 2864,875 392,891"/>
+                <Baseline points="408,957 537,952 659,948 780,946 902,943 1023,941 1145,938 1266,938 1388,936 1509,934 1631,932 1752,932 1874,930 1995,928 2117,926 2238,924 2360,921 2481,918 2603,914 2727,918 2848,918"/>
+                <TextEquiv>
+                    <Unicode>dida capena come dice Varrone dala copia di fonti, quasi molla et bagnata. Dipo i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="379,1052 2930,1036 2928,926 378,980"/>
+                <Baseline points="396,1044 539,1042 663,1038 787,1036 910,1033 1034,1030 1158,1028 1281,1026 1405,1023 1529,1021 1653,1018 1776,1016 1900,1015 2024,1014 2147,1012 2271,1010 2395,1008 2518,1006 2642,1004 2790,1008 2914,1006"/>
+                <TextEquiv>
+                    <Unicode>havendo l'acque dedutte per forza di stupende anzi miracolose fabriche, in ogni casaera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="391,1148 2904,1141 2862,1063 2537,1035 390,1066"/>
+                <Baseline points="408,1136 530,1134 653,1130 775,1128 898,1126 1020,1124 1143,1122 1265,1118 1388,1117 1510,1116 1633,1114 1755,1112 1878,1110 2000,1109 2123,1108 2245,1108 2368,1108 2490,1106 2613,1108 2735,1108 2888,1112"/>
+                <TextEquiv>
+                    <Unicode>un luogho bello edificato alla medesimo deita, come hovemo osservato nelle cavationi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="388,1256 2825,1271 2926,1248 2925,1126 387,1168"/>
+                <Baseline points="405,1234 527,1232 650,1230 773,1228 896,1224 1019,1222 1142,1220 1265,1218 1388,1216 1511,1214 1634,1214 1756,1212 1879,1210 2002,1210 2125,1210 2248,1210 2371,1210 2494,1212 2617,1212 2740,1214 2909,1221"/>
+                <TextEquiv>
+                    <Unicode>delle antiche rovine dove havemo visti i Vestiggi di essi luoghi, di bella maniera come</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="387,1366 2808,1358 2874,1264 386,1259"/>
+                <Baseline points="402,1320 524,1320 647,1318 770,1318 893,1316 1016,1316 1138,1314 1261,1314 1384,1312 1507,1312 1630,1312 1752,1310 1875,1310 1998,1310 2121,1310 2244,1312 2366,1312 2489,1314 2612,1315 2735,1318 2858,1320"/>
+                <TextEquiv>
+                    <Unicode>posti, come era sul Quirinale nella casa Fluvia, nella Quintiana, nella corneliava</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="385,1430 2898,1446 2898,1364 2640,1336 385,1364"/>
+                <Baseline points="402,1410 525,1409 648,1408 771,1406 894,1404 1017,1404 1140,1402 1263,1402 1386,1402 1509,1400 1632,1400 1755,1401 1878,1402 2001,1402 2124,1404 2247,1404 2370,1406 2493,1408 2616,1410 2739,1412 2881,1416"/>
+                <TextEquiv>
+                    <Unicode>et sul palatino la scauriana deli quattro scauri: nel Monte Aventino unaltra della</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} unclear {offset:49; length:2;}">
+                <Coords points="381,1521 2267,1575 2786,1557 2913,1454 382,1439"/>
+                <Baseline points="397,1490 520,1493 643,1496 767,1498 890,1498 1014,1500 1137,1500 1260,1500 1384,1500 1507,1500 1631,1502 1754,1502 1877,1502 2001,1502 2124,1504 2248,1504 2371,1506 2494,1509 2618,1512 2741,1516 2897,1524"/>
+                <TextEquiv>
+                    <Unicode>medesimo fameglia, et infiniti altri luoghi. Ora Io profilo di questa facciata, è di quel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="366,1625 525,1675 914,1617 1089,1660 1377,1602 1796,1614 1794,1529 1459,1506 1158,1554 364,1547"/>
+                <Baseline points="382,1612 451,1614 521,1614 591,1613 661,1612 731,1610 801,1608 871,1606 941,1604 1011,1601 1081,1598 1150,1596 1220,1593 1290,1590 1360,1588 1430,1586 1500,1586 1570,1586 1640,1586 1710,1587 1780,1588"/>
+                <TextEquiv>
+                    <Unicode>la parte segnata•A, di opera rustica et di Tivertino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vedesi dala pianta istessa del fonte Lolliano, come gli antichi edificavano gli edificij Fonti
+nali et gli antri, quasi à similitudine, di Tempij, accio che fussero come luoghi.
+reveriti et appropriati alla Deita dell'Acque, dele Nymphe, et di Venere et dell'altre
+Lymphe,à quali gliantichi diedono l'occulta Deita di quella proprietà profonda del
+acque, alla quale sacrificavano et facevano la Festa Fontinale. Et da principio li
+facevano suli passi del Tevere, sull'Almone fuori della porta Capena, chiamata Ma
+dida capena come dice Varrone dala copia di fonti, quasi molla et bagnata. Dipo i
+havendo l'acque dedutte per forza di stupende anzi miracolose fabriche, in ogni casaera
+un luogho bello edificato alla medesimo deita, come hovemo osservato nelle cavationi.
+delle antiche rovine dove havemo visti i Vestiggi di essi luoghi, di bella maniera come
+posti, come era sul Quirinale nella casa Fluvia, nella Quintiana, nella corneliava
+et sul palatino la scauriana deli quattro scauri: nel Monte Aventino unaltra della
+medesimo fameglia, et infiniti altri luoghi. Ora Io profilo di questa facciata, è di quel
+la parte segnata•A, di opera rustica et di Tivertino.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756012608_1282" custom="readingOrder {index:2;}">
+            <Coords points="493,4136 1454,4136 1454,4253 493,4253"/>
+            <TextLine id="line_1646756108107_1343" custom="readingOrder {index:0;}">
+                <Coords points="515,4205 626,4194 726,4228 1015,4202 1128,4239 1190,4210 1393,4225 1394,4176 1209,4162 516,4159"/>
+                <Baseline points="521,4190 1388,4205"/>
+                <TextEquiv>
+                    <Unicode>Iltutto porta colle oncie piedi .40.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Iltutto porta colle oncie piedi .40.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646755973273_1260" custom="readingOrder {index:3;}">
+            <Coords points="1609,2501 1698,2501 1698,2838 1609,2838"/>
+            <TextLine id="line_1646756076388_1318" custom="readingOrder {index:0;}">
+                <Coords points="1681,2786 1672,2768 1694,2723 1671,2656 1700,2621 1677,2588 1671,2524 1611,2524 1616,2538 1607,2555 1621,2579 1614,2603 1621,2638 1605,2670 1610,2683 1597,2721 1596,2752 1606,2769 1599,2786"/>
+                <Baseline points="1673,2781 1673,2529"/>
+                <TextEquiv>
+                    <Unicode>Piedi •9•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi •9•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756017342_1285" custom="readingOrder {index:4;}">
+            <Coords points="1747,4006 1819,4006 1819,4068 1747,4068"/>
+            <TextLine id="line_1646756117692_1348" custom="readingOrder {index:0;} unclear {offset:0; length:2;}">
+                <Coords points="1748,4067 1757,4068 1766,4064 1769,4068 1778,4064 1780,4066 1794,4064 1796,4067 1801,4065 1805,4069 1810,4069 1813,4014 1803,4015 1799,4010 1794,4010 1768,4023 1758,4016 1751,4016"/>
+                <Baseline points="1754,4052 1805,4054"/>
+                <TextEquiv>
+                    <Unicode>06</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>06</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756020076_1288" custom="readingOrder {index:5;}">
+            <Coords points="1839,3973 2049,3973 2049,4056 1839,4056"/>
+            <TextLine id="line_1646756121541_1353" custom="readingOrder {index:0;}">
+                <Coords points="1839,4049 1862,4046 1888,4028 1902,4037 1928,4029 1983,4051 2046,4030 2046,3999 2024,4000 2006,4010 1953,3969 1893,3983 1860,3972 1839,3982"/>
+                <Baseline points="1845,4022 2041,4022"/>
+                <TextEquiv>
+                    <Unicode>Piedi •4•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi •4•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756022541_1291" custom="readingOrder {index:6;}">
+            <Coords points="1942,3618 2080,3618 2080,3941 1942,3941"/>
+            <TextLine id="line_1646756133783_1359" custom="readingOrder {index:0;}">
+                <Coords points="2024,3919 2040,3875 2023,3826 2035,3810 2033,3725 2067,3675 2058,3657 2066,3629 2006,3614 1999,3636 2010,3680 1994,3689 1986,3712 2000,3756 1994,3781 1970,3807 1978,3827 1967,3904"/>
+                <Baseline points="2016,3911 2033,3701 2066,3681 2071,3636"/>
+                <TextEquiv>
+                    <Unicode>Piedi •8 •¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi •8 •¼</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756024441_1294" custom="readingOrder {index:7;}">
+            <Coords points="2072,4000 2160,4000 2160,4072 2072,4072"/>
+            <TextLine id="line_1646756138184_1364" custom="readingOrder {index:0;} unclear {offset:0; length:3;}">
+                <Coords points="2076,4072 2089,4070 2098,4059 2102,4061 2110,4053 2118,4058 2129,4054 2138,4041 2146,4038 2118,3943 2106,3950 2098,3947 2086,3962 2081,3960 2071,3973 2059,3974 2049,3983"/>
+                <Baseline points="2080,4066 2143,4047"/>
+                <TextEquiv>
+                    <Unicode>...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646755976190_1263" custom="readingOrder {index:8;}">
+            <Coords points="2199,2554 2363,2554 2363,2656 2199,2656"/>
+            <TextLine id="line_1646756080000_1323" custom="readingOrder {index:0;}">
+                <Coords points="2223,2663 2239,2671 2259,2667 2292,2677 2298,2671 2312,2675 2335,2658 2356,2667 2359,2588 2348,2590 2333,2579 2319,2586 2305,2583 2277,2590 2258,2578 2226,2579"/>
+                <Baseline points="2229,2630 2352,2634"/>
+                <TextEquiv>
+                    <Unicode>P•2•¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P•2•¼</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756027511_1297" custom="readingOrder {index:9;}">
+            <Coords points="2176,3955 2304,3955 2304,4024 2176,4024"/>
+            <TextLine id="line_1646756141407_1369" custom="readingOrder {index:0;}">
+                <Coords points="2177,4020 2207,4009 2226,4009 2235,3999 2260,4007 2296,4002 2293,3928 2282,3934 2233,3918 2218,3926 2208,3918 2190,3931 2174,3931"/>
+                <Baseline points="2182,4002 2291,3998"/>
+                <TextEquiv>
+                    <Unicode>Pi 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pi 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756029609_1300" custom="readingOrder {index:10;}">
+            <Coords points="2134,4119 2332,4119 2332,4206 2134,4206"/>
+            <TextLine id="line_1646756147792_1374" custom="readingOrder {index:0;}">
+                <Coords points="2129,4167 2161,4170 2168,4178 2240,4173 2285,4211 2313,4215 2344,4118 2328,4108 2292,4115 2269,4102 2206,4110 2194,4098 2151,4101"/>
+                <Baseline points="2140,4153 2246,4156 2273,4198 2313,4196"/>
+                <TextEquiv>
+                    <Unicode>•P•2•¼</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>•P•2•¼</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646755992339_1268" custom="readingOrder {index:11;}">
+            <Coords points="2485,2373 2578,2373 2578,2627 2485,2627"/>
+            <TextLine id="line_1646756084013_1328" custom="readingOrder {index:0;}">
+                <Coords points="2583,2621 2590,2540 2576,2514 2583,2500 2579,2440 2586,2434 2556,2399 2553,2372 2486,2372 2487,2416 2507,2484 2492,2531 2509,2549 2519,2582 2504,2605 2506,2621"/>
+                <Baseline points="2563,2616 2563,2377"/>
+                <TextEquiv>
+                    <Unicode>Piedi •7•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi •7•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756037592_1309" custom="readingOrder {index:12;}">
+            <Coords points="2534,3543 2631,3543 2631,3792 2534,3792"/>
+            <TextLine id="line_1646756169134_1394" custom="readingOrder {index:0;}">
+                <Coords points="2609,3761 2619,3736 2605,3702 2607,3675 2590,3638 2608,3616 2589,3571 2591,3546 2552,3547 2559,3582 2548,3592 2561,3637 2538,3663 2556,3701 2553,3731 2539,3757"/>
+                <Baseline points="2583,3754 2596,3552"/>
+                <TextEquiv>
+                    <Unicode>Piedi •8•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi •8•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756034875_1306" custom="readingOrder {index:13;}">
+            <Coords points="2493,3820 2673,3820 2673,3903 2493,3903"/>
+            <TextLine id="line_1646756155175_1384" custom="readingOrder {index:0;}">
+                <Coords points="2496,3892 2574,3894 2588,3886 2617,3896 2634,3891 2652,3899 2666,3893 2666,3846 2634,3831 2627,3835 2597,3825 2581,3829 2561,3811 2535,3817 2496,3815"/>
+                <Baseline points="2501,3874 2660,3874"/>
+                <TextEquiv>
+                    <Unicode>Piedi 4•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi 4•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756033075_1303" custom="readingOrder {index:14;}">
+            <Coords points="2485,4000 2633,4000 2633,4074 2485,4074"/>
+            <TextLine id="line_1646756151674_1379" custom="readingOrder {index:0;}">
+                <Coords points="2489,4068 2533,4052 2570,4074 2582,4061 2608,4066 2633,4052 2631,4005 2621,4010 2604,4000 2588,4007 2571,4001 2553,4013 2545,4010 2535,4015 2522,4008 2510,4014 2487,4014"/>
+                <Baseline points="2494,4050 2627,4045"/>
+                <TextEquiv>
+                    <Unicode>P•5•</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P•5•</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646755994557_1271" custom="readingOrder {index:15;}">
+            <Coords points="2588,2567 2682,2567 2682,2650 2588,2650"/>
+            <TextLine id="line_1646756087043_1333" custom="readingOrder {index:0;}">
+                <Coords points="2589,2624 2602,2622 2609,2629 2615,2626 2626,2637 2633,2635 2648,2644 2662,2639 2675,2642 2675,2569 2667,2570 2659,2563 2653,2565 2640,2561 2620,2566 2589,2554"/>
+                <Baseline points="2594,2623 2669,2623"/>
+                <TextEquiv>
+                    <Unicode>P 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P 4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756003524_1279" custom="readingOrder {index:16;}">
+            <Coords points="2772,2563 2878,2563 2878,2657 2772,2657"/>
+            <TextLine id="line_1646756095633_1338" custom="readingOrder {index:0;}">
+                <Coords points="2788,2639 2795,2640 2802,2647 2804,2644 2813,2646 2816,2643 2821,2647 2827,2645 2832,2648 2843,2636 2848,2638 2851,2634 2857,2635 2856,2582 2845,2581 2837,2576 2829,2577 2820,2570 2816,2572 2811,2568 2804,2573 2794,2568 2786,2568"/>
+                <Baseline points="2793,2625 2852,2624"/>
+                <TextEquiv>
+                    <Unicode>P 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756058417_1315" custom="readingOrder {index:17;}">
+            <Coords points="2752,2933 2874,2933 2874,3268 2752,3268"/>
+            <TextLine id="line_1652887333291_662" custom="readingOrder {index:0;}">
+                <Coords points="2780,3003 2816,3003 2809,3027 2825,3048 2818,3070 2831,3103 2821,3178 2830,3187 2817,3202 2830,3232 2732,3235 2727,3179 2759,3143 2785,3078 2773,3019"/>
+                <Baseline points="2810,3144 2819,3003"/>
+                <TextEquiv>
+                    <Unicode>P 2•÷</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P 2•÷</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646756042116_1312" custom="readingOrder {index:18;}">
+            <Coords points="2754,3697 2881,3697 2881,4080 2754,4080"/>
+            <TextLine id="line_1646756160373_1389" custom="readingOrder {index:0;} unclear {offset:9; length:3;}">
+                <Coords points="2832,4077 2815,4041 2834,3993 2822,3938 2835,3865 2806,3794 2815,3740 2803,3705 2782,3705 2794,3771 2760,3924 2785,3999 2769,4022 2774,4079"/>
+                <Baseline points="2814,4043 2820,3710"/>
+                <TextEquiv>
+                    <Unicode>Piedi 10 ...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Piedi 10 ...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

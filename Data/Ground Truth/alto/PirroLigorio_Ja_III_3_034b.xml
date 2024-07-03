@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_034b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:03.705+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1643803711615_1380"
+                       HEIGHT="203"
+                       WIDTH="345"
+                       VPOS="191"
+                       HPOS="3001">
+               <Shape>
+                  <Polygon POINTS="3004,194 3346,191 3346,378 3001,394"/>
+               </Shape>
+               <TextLine ID="line_1642702322428_635"
+                         BASELINE="3015,282 3174,275"
+                         HEIGHT="57"
+                         WIDTH="161"
+                         VPOS="230"
+                         HPOS="3013">
+                  <String ID="string_line_1642702322428_635"
+                          HEIGHT="57"
+                          WIDTH="161"
+                          VPOS="230"
+                          HPOS="3013"
+                          CONTENT="37"/>
+               </TextLine>
+               <TextLine ID="line_1642702325725_640"
+                         BASELINE="3167,343 3285,343"
+                         HEIGHT="50"
+                         WIDTH="118"
+                         VPOS="298"
+                         HPOS="3167">
+                  <String ID="string_line_1642702325725_640"
+                          HEIGHT="50"
+                          WIDTH="118"
+                          VPOS="298"
+                          HPOS="3167"
+                          CONTENT="34"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1643803711614_1379"
+                       HEIGHT="4640"
+                       WIDTH="3014"
+                       VPOS="194"
+                       HPOS="336">
+               <Shape>
+                  <Polygon POINTS="339,221 3004,194 3001,394 3346,378 3350,4834 336,4832"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="442,472 567,478 693,484 818,489 944,494 1070,500 1195,504 1321,510 1446,514 1572,518 1698,522 1823,526 1949,528 2074,532 2200,534 2326,536 2451,538 2577,540 2702,542 2828,542 2954,542"
+                         HEIGHT="133"
+                         WIDTH="2512"
+                         VPOS="430"
+                         HPOS="442">
+                  <String ID="string_r1l1"
+                          HEIGHT="133"
+                          WIDTH="2512"
+                          VPOS="430"
+                          HPOS="442"
+                          CONTENT="RHODUNTIA, ò pure, ΡΟΔΟΥΝΤΙΑ, è Regione, nella Gallia Lugdunense sul Rhodano"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="492,570 613,583 735,593 856,602 978,610 1100,618 1221,622 1343,628 1464,632 1586,636 1708,638 1829,641 1951,644 2072,646 2194,648 2316,652 2437,654 2559,658 2680,662 2802,667 2924,674"
+                         HEIGHT="167"
+                         WIDTH="2432"
+                         VPOS="528"
+                         HPOS="492">
+                  <String ID="string_r1l2"
+                          HEIGHT="167"
+                          WIDTH="2432"
+                          VPOS="528"
+                          HPOS="492"
+                          CONTENT="da cui si dicono Rhoduntij et Roduntio, nel singulare, onde i greci dicono ΡΟΔΟΥΤΙΟΣ,"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="498,692 524,694 550,695 577,698 603,699 629,701 656,704 682,704 709,706 735,707 761,708 788,710 814,711 840,712 867,712 893,712 939,714"
+                         HEIGHT="83"
+                         WIDTH="422"
+                         VPOS="650"
+                         HPOS="498">
+                  <String ID="string_r1l3"
+                          HEIGHT="83"
+                          WIDTH="422"
+                          VPOS="650"
+                          HPOS="498"
+                          CONTENT="et ΡΟΔΟΥΝΤΙΟΝ,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="472,1056 598,1059 724,1062 850,1064 977,1065 1103,1066 1229,1066 1356,1068 1482,1068 1608,1066 1735,1066 1861,1066 1987,1064 2113,1062 2240,1061 2366,1060 2492,1058 2619,1054 2745,1052 2871,1050 2998,1048"
+                         HEIGHT="83"
+                         WIDTH="2526"
+                         VPOS="1006"
+                         HPOS="472">
+                  <String ID="string_r1l4"
+                          HEIGHT="83"
+                          WIDTH="2526"
+                          VPOS="1006"
+                          HPOS="472"
+                          CONTENT="RHODUSSA, ò , ΡΟΔΟΥΣΣΑ, è citta Arguia, nell'Argolide, donde il cittadino s'appella Ro¬"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="526,1164 648,1164 770,1164 892,1162 1014,1162 1136,1162 1258,1162 1380,1162 1502,1160 1624,1160 1746,1160 1868,1158 1990,1158 2112,1158 2234,1156 2356,1156 2478,1156 2600,1156 2722,1154 2844,1154 2966,1154"
+                         HEIGHT="73"
+                         WIDTH="2440"
+                         VPOS="1112"
+                         HPOS="526">
+                  <String ID="string_r1l5"
+                          HEIGHT="73"
+                          WIDTH="2440"
+                          VPOS="1112"
+                          HPOS="526"
+                          CONTENT="dusto, òvero ΡΟΔΟΥΣΣΙΟΣ, come ΠΙΤΥΟΥΣΣΙΟΣ, et ancho ΡΟΔΟΥΣΑΙΟΣ. Onde alla cui imita¬"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="526,1262 649,1260 773,1260 897,1258 1021,1258 1145,1256 1269,1256 1393,1254 1517,1254 1641,1254 1765,1252 1888,1252 2012,1252 2136,1252 2260,1252 2384,1250 2508,1250 2632,1250 2756,1250 2880,1250 3004,1250"
+                         HEIGHT="75"
+                         WIDTH="2478"
+                         VPOS="1208"
+                         HPOS="526">
+                  <String ID="string_r1l6"
+                          HEIGHT="75"
+                          WIDTH="2478"
+                          VPOS="1208"
+                          HPOS="526"
+                          CONTENT="tione potemo dire Rhodusio et Rhodusaeo, come da pityussa pityussaeo et pityussio."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="516,1990 643,2000 771,2008 899,2014 1027,2018 1155,2022 1282,2024 1410,2026 1538,2026 1666,2026 1794,2026 1921,2026 2049,2024 2177,2022 2305,2020 2433,2018 2560,2018 2688,2016 2816,2016 2944,2016 3072,2018"
+                         HEIGHT="99"
+                         WIDTH="2556"
+                         VPOS="1948"
+                         HPOS="516">
+                  <String ID="string_r1l7"
+                          HEIGHT="99"
+                          WIDTH="2556"
+                          VPOS="1948"
+                          HPOS="516"
+                          CONTENT="RHOEBUSIANUM, è nome della Villa di Raebusio liberto di Claudio, ch'era nel laurentino paese"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="552,2098 678,2106 805,2111 931,2115 1058,2118 1185,2120 1311,2120 1438,2120 1564,2120 1691,2120 1818,2118 1944,2117 2071,2116 2197,2114 2324,2114 2451,2114 2577,2114 2704,2116 2830,2118 2957,2122 3084,2128"
+                         HEIGHT="93"
+                         WIDTH="2532"
+                         VPOS="2056"
+                         HPOS="552">
+                  <String ID="string_r1l8"
+                          HEIGHT="93"
+                          WIDTH="2532"
+                          VPOS="2056"
+                          HPOS="552"
+                          CONTENT="latino cerca al Mare Tyrrheno: ove adi nostri sono state trovate molte statue rotte et in manera"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="576,2194 698,2198 820,2200 943,2204 1065,2206 1188,2206 1310,2208 1432,2208 1555,2208 1677,2208 1800,2208 1922,2206 2044,2206 2167,2206 2289,2206 2412,2206 2534,2208 2656,2208 2779,2210 2901,2213 3024,2216"
+                         HEIGHT="85"
+                         WIDTH="2448"
+                         VPOS="2152"
+                         HPOS="576">
+                  <String ID="string_r1l9"
+                          HEIGHT="85"
+                          WIDTH="2448"
+                          VPOS="2152"
+                          HPOS="576"
+                          CONTENT="rovinate, che appena si conoscevano, essere di Iove, di Neptuno,et delle Nymphe marine acca¬"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="562,2276 684,2281 806,2286 929,2290 1051,2294 1174,2296 1296,2298 1418,2300 1541,2300 1663,2300 1786,2300 1908,2300 2030,2300 2153,2300 2275,2300 2398,2298 2520,2298 2642,2298 2765,2298 2887,2298 3010,2300"
+                         HEIGHT="87"
+                         WIDTH="2448"
+                         VPOS="2234"
+                         HPOS="562">
+                  <String ID="string_r1l10"
+                          HEIGHT="87"
+                          WIDTH="2448"
+                          VPOS="2234"
+                          HPOS="562"
+                          CONTENT="vallo sui Delphini et suli Gryphi marini. Roebo, ò vero ΡΟΙΒΙΟΣ, è nome del cavallo che"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="576,2382 697,2386 818,2388 939,2391 1060,2392 1182,2394 1303,2396 1424,2398 1545,2398 1666,2398 1788,2398 1909,2400 2030,2400 2151,2400 2272,2400 2394,2398 2515,2398 2636,2398 2757,2398 2878,2398 3000,2398"
+                         HEIGHT="81"
+                         WIDTH="2424"
+                         VPOS="2340"
+                         HPOS="576">
+                  <String ID="string_r1l11"
+                          HEIGHT="81"
+                          WIDTH="2424"
+                          VPOS="2340"
+                          HPOS="576"
+                          CONTENT="havea Mazentio. Come si trova presso di Virgilio nel decimo dell'Aeneide, dove comincia cosi à"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="584,2478 705,2480 827,2483 948,2486 1070,2488 1191,2490 1313,2490 1434,2492 1556,2492 1677,2494 1799,2494 1920,2496 2042,2496 2163,2496 2285,2496 2406,2496 2528,2496 2649,2496 2771,2496 2892,2496 3014,2496"
+                         HEIGHT="79"
+                         WIDTH="2430"
+                         VPOS="2437"
+                         HPOS="584">
+                  <String ID="string_r1l12"
+                          HEIGHT="79"
+                          WIDTH="2430"
+                          VPOS="2437"
+                          HPOS="584"
+                          CONTENT="dire d'esso Re crudele di Thoscana: RHOEBE DIV, RES SI QVA DIV MORTALIBVS VLLA EST,"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="576,2560 696,2564 816,2568 937,2572 1057,2575 1178,2578 1298,2581 1418,2584 1539,2586 1659,2588 1780,2590 1900,2592 2020,2594 2141,2594 2261,2596 2382,2596 2502,2596 2622,2596 2743,2596 2863,2594 2984,2592"
+                         HEIGHT="97"
+                         WIDTH="2408"
+                         VPOS="2519"
+                         HPOS="576">
+                  <String ID="string_r1l13"
+                          HEIGHT="97"
+                          WIDTH="2408"
+                          VPOS="2519"
+                          HPOS="576"
+                          CONTENT="VIXIMVS et cetera. Lo quale Re combattendo contra Aenea fù in questo paese laurentino, chia¬"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="572,2654 694,2661 816,2667 938,2672 1060,2676 1182,2682 1304,2685 1426,2689 1548,2692 1670,2694 1792,2696 1914,2698 2036,2698 2158,2698 2280,2698 2402,2698 2524,2696 2646,2694 2768,2692 2890,2688 3012,2684"
+                         HEIGHT="107"
+                         WIDTH="2440"
+                         VPOS="2612"
+                         HPOS="572">
+                  <String ID="string_r1l14"
+                          HEIGHT="107"
+                          WIDTH="2440"
+                          VPOS="2612"
+                          HPOS="572"
+                          CONTENT="mato in Aiuto da Turno. et alcuni pensano che esso libertino prendesse il nome da esso Rhoebo, cavallo"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="576,2742 700,2750 825,2758 950,2766 1075,2772 1200,2778 1324,2784 1449,2788 1574,2793 1699,2796 1824,2800 1948,2802 2073,2806 2198,2807 2323,2808 2448,2808 2572,2810 2697,2808 2822,2808 2947,2806 3072,2804"
+                         HEIGHT="131"
+                         WIDTH="2496"
+                         VPOS="2700"
+                         HPOS="576">
+                  <String ID="string_r1l15"
+                          HEIGHT="131"
+                          WIDTH="2496"
+                          VPOS="2700"
+                          HPOS="576"
+                          CONTENT="sendo nato dali servi di Claudio imperatore, per essere curatore dell'Armenti dei cavalli dell'imperatore, et"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="568,2836 692,2846 816,2854 941,2863 1065,2871 1190,2876 1314,2883 1438,2888 1563,2892 1687,2896 1812,2898 1936,2900 2060,2902 2185,2902 2309,2902 2434,2900 2558,2899 2682,2896 2807,2894 2931,2890 3056,2886"
+                         HEIGHT="127"
+                         WIDTH="2488"
+                         VPOS="2795"
+                         HPOS="568">
+                  <String ID="string_r1l16"
+                          HEIGHT="127"
+                          WIDTH="2488"
+                          VPOS="2795"
+                          HPOS="568"
+                          CONTENT="liberto: ma noi non crediamo, che da Rhoebo cavallo venisse: ma dal nome proprio di Rhoebuscio."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="574,2929 698,2935 823,2942 948,2947 1073,2955 1198,2961 1323,2967 1448,2973 1573,2979 1702,2999 1829,3000 1944,2998 2072,2995 2197,2997 2322,2999 2447,2999 2572,2999 2697,2997 2822,2995 2947,2991 3075,3019"
+                         HEIGHT="131"
+                         WIDTH="2498"
+                         VPOS="2887"
+                         HPOS="574">
+                  <String ID="string_r1l17"
+                          HEIGHT="131"
+                          WIDTH="2498"
+                          VPOS="2887"
+                          HPOS="574"
+                          CONTENT="Che puote derivare da Rhoebe, ò Rhoibio, ò pure da ΡΟΙΑ, ò ΡΟΙΑΣ, che suona Volutabrum Equo¬"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="566,3030 690,3032 812,3047 939,3051 1065,3042 1190,3049 1315,3054 1440,3062 1565,3069 1690,3075 1815,3082 1939,3087 2064,3092 2193,3111 2313,3113 2439,3104 2564,3106 2689,3106 2814,3104 2939,3100 3064,3094"
+                         HEIGHT="134"
+                         WIDTH="2498"
+                         VPOS="2991"
+                         HPOS="566">
+                  <String ID="string_r1l18"
+                          HEIGHT="134"
+                          WIDTH="2498"
+                          VPOS="2991"
+                          HPOS="566"
+                          CONTENT="rum: la qual voce Virgilio Uso nel terzo della Georgica dicendo, SAEPE VOLVTABRIS PVLSOS SELVESTRI¬"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="562,3112 687,3118 812,3126 937,3132 1063,3139 1188,3144 1313,3150 1439,3156 1564,3161 1689,3166 1815,3170 1940,3174 2065,3178 2190,3180 2316,3183 2441,3184 2566,3186 2692,3186 2817,3188 2942,3186 3067,3199"
+                         HEIGHT="134"
+                         WIDTH="2506"
+                         VPOS="3073"
+                         HPOS="562">
+                  <String ID="string_r1l19"
+                          HEIGHT="134"
+                          WIDTH="2506"
+                          VPOS="3073"
+                          HPOS="562"
+                          CONTENT="RVS, APROS LATRATV TVRBABIS AGENS. Per cio che chi cura gli armenti per luoghi aspriet pia"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="576,3210 620,3214 665,3217 709,3220 754,3223 798,3226 843,3228 887,3232 932,3232 976,3234 1021,3236 1065,3238 1110,3239 1154,3240 1199,3241 1243,3242 1288,3242 1332,3242 1377,3242 1421,3242 1466,3242"
+                         HEIGHT="95"
+                         WIDTH="890"
+                         VPOS="3168"
+                         HPOS="576">
+                  <String ID="string_r1l20"
+                          HEIGHT="95"
+                          WIDTH="890"
+                          VPOS="3168"
+                          HPOS="576"
+                          CONTENT="cevoli va volgendo i suoi animali."/>
+               </TextLine>
+               <TextLine ID="line_1643186225554_10"
+                         BASELINE="336,3290 362,3292 388,3293 414,3296 441,3298 467,3301 493,3303 520,3306 542,3316 668,3325 794,3331 920,3336 1047,3338 1173,3340 1299,3340 1426,3338 1552,3336 1678,3334 1805,3331 1931,3328 2057,3324 2183,3320 2310,3318 2436,3315 2562,3312 2689,3312 2815,3312 2941,3312 3068,3314"
+                         HEIGHT="113"
+                         WIDTH="2732"
+                         VPOS="3248"
+                         HPOS="336">
+                  <String ID="string_line_1643186225554_10"
+                          HEIGHT="113"
+                          WIDTH="2732"
+                          VPOS="3248"
+                          HPOS="336"
+                          CONTENT="RHOETIO, RHOETIVM, ò vero, ΡΟΙΤΕΙΟΝ, è nome di Monte nel Troade aspro et nome di citta nel medesimo, dalla"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="576,3424 700,3429 824,3433 948,3436 1073,3438 1197,3438 1321,3438 1446,3436 1570,3434 1694,3432 1819,3430 1943,3428 2067,3424 2191,3421 2316,3418 2440,3416 2564,3412 2689,3410 2813,3408 2937,3408 3062,3408"
+                         HEIGHT="93"
+                         WIDTH="2486"
+                         VPOS="3366"
+                         HPOS="576">
+                  <String ID="string_r1l23"
+                          HEIGHT="93"
+                          WIDTH="2486"
+                          VPOS="3366"
+                          HPOS="576"
+                          CONTENT="quale Stephano dice il nome del cittadino Rhoetiense, ò pure, ΡΟΙΤΕΙΕΥΣ, et si dice ΡΟΙΤΕΙΑΣ, et ΡΟΙΤΙΣ"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="592,3524 686,3526 780,3529 874,3530 968,3532 1063,3532 1157,3532 1251,3532 1345,3530 1439,3530 1534,3528 1628,3526 1722,3524 1816,3523 1910,3522 2005,3520 2099,3518 2193,3518 2287,3518 2381,3518 2476,3518"
+                         HEIGHT="77"
+                         WIDTH="1884"
+                         VPOS="3476"
+                         HPOS="592">
+                  <String ID="string_r1l24"
+                          HEIGHT="77"
+                          WIDTH="1884"
+                          VPOS="3476"
+                          HPOS="592"
+                          CONTENT="la femina. Et Rhoetio, è nome di monte nell'Isola di Corsica, secondo Ptolemaeo."/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="388,3598 526,3604 665,3608 803,3610 942,3612 1080,3614 1219,3614 1357,3612 1496,3612 1634,3610 1773,3608 1911,3606 2050,3604 2188,3604 2327,3602 2465,3602 2604,3602 2742,3602 2881,3604 3019,3606 3158,3610"
+                         HEIGHT="62"
+                         WIDTH="2770"
+                         VPOS="3567"
+                         HPOS="388">
+                  <String ID="string_r1l25"
+                          HEIGHT="62"
+                          WIDTH="2770"
+                          VPOS="3567"
+                          HPOS="388"
+                          CONTENT="RHOETII, sono stati detti, i Marrubiori populi d'Italia, da Rhoeto Re di Marubiori istessi, nominato da Virgilio nel quinto dell'"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="582,3668 608,3670 635,3672 662,3672 689,3672 715,3672 742,3672 769,3672 796,3670"
+                         HEIGHT="49"
+                         WIDTH="214"
+                         VPOS="3638"
+                         HPOS="582">
+                  <String ID="string_r1l26"
+                          HEIGHT="49"
+                          WIDTH="214"
+                          VPOS="3638"
+                          HPOS="582"
+                          CONTENT="Aeneide."/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="540,3742 668,3742 796,3753 925,3753 1057,3746 1184,3738 1312,3736 1441,3732 1570,3730 1699,3726 1828,3722 1956,3718 2085,3716 2214,3712 2343,3710 2472,3707 2600,3706 2729,3704 2858,3704 2987,3706 3116,3708"
+                         HEIGHT="90"
+                         WIDTH="2576"
+                         VPOS="3669"
+                         HPOS="540">
+                  <String ID="string_r1l27"
+                          HEIGHT="90"
+                          WIDTH="2576"
+                          VPOS="3669"
+                          HPOS="540"
+                          CONTENT="RHOETIA è citta di Bactri cio è nella Bactriana Regione dell'Asia. et il nome gentile dicono Rhoetiano,"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="568,3828 695,3834 823,3837 951,3839 1079,3840 1207,3840 1334,3838 1462,3836 1590,3834 1718,3830 1846,3827 1973,3824 2101,3820 2229,3816 2357,3812 2485,3810 2612,3806 2740,3804 2868,3804 2996,3802 3124,3804"
+                         HEIGHT="99"
+                         WIDTH="2556"
+                         VPOS="3761"
+                         HPOS="568">
+                  <String ID="string_r1l28"
+                          HEIGHT="99"
+                          WIDTH="2556"
+                          VPOS="3761"
+                          HPOS="568"
+                          CONTENT="overo, ΡΟΙΤΙΑΝΟΣ, come Arienos et Bactriano, allusanza greca ΑΡΙΗΝΟΣ, et ΡΟΙΤΙΑΝΟΣ, et ΒΑΚΤΡΙΑ¬"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="564,3914 597,3917 630,3919 663,3920 696,3922 729,3922 762,3922 795,3922 828,3924 861,3923 895,3922 928,3922 961,3922 994,3922 1027,3922 1060,3922 1093,3923 1126,3924 1159,3924 1192,3926 1226,3928"
+                         HEIGHT="77"
+                         WIDTH="662"
+                         VPOS="3872"
+                         HPOS="564">
+                  <String ID="string_r1l29"
+                          HEIGHT="77"
+                          WIDTH="662"
+                          VPOS="3872"
+                          HPOS="564"
+                          CONTENT="ΝΟΣ. Come piace à Stephano."/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="510,4160 642,4156 773,4168 906,4156 1041,4151 1173,4148 1307,4138 1440,4136 1573,4136 1706,4134 1839,4134 1971,4134 2104,4136 2237,4138 2370,4138 2503,4142 2636,4144 2769,4148 2902,4152 3035,4155 3168,4160"
+                         HEIGHT="65"
+                         WIDTH="2658"
+                         VPOS="4108"
+                         HPOS="510">
+                  <String ID="string_r1l30"
+                          HEIGHT="65"
+                          WIDTH="2658"
+                          VPOS="4108"
+                          HPOS="510"
+                          CONTENT="RHOETEVM, Rhoeteo et, ΡΟΙΤΕΙΟΝ, è promontorio et citta, ò vero oppido nel Troade, ove fu il sepul¬"/>
+               </TextLine>
+               <TextLine ID="line_1643187165294_48"
+                         BASELINE="550,4246 678,4240 806,4236 893,4233"
+                         HEIGHT="43"
+                         WIDTH="343"
+                         VPOS="4213"
+                         HPOS="550">
+                  <String ID="string_line_1643187165294_48"
+                          HEIGHT="43"
+                          WIDTH="343"
+                          VPOS="4213"
+                          HPOS="550"
+                          CONTENT="cho di Aiace"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="863,4203 955,4197 982,4196 1010,4196 1037,4196 1064,4194 1095,4193"
+                         HEIGHT="38"
+                         WIDTH="164"
+                         VPOS="4172"
+                         HPOS="928">
+                  <String ID="string_r1l31"
+                          HEIGHT="38"
+                          WIDTH="164"
+                          VPOS="4172"
+                          HPOS="928"
+                          CONTENT="..."/>
+               </TextLine>
+               <TextLine ID="line_1643187165293_47"
+                         BASELINE="895,4240 936,4240 1064,4237 1192,4235 1320,4233 1448,4231 1576,4229 1704,4229 1832,4229 1960,4229 2088,4231 2216,4231 2344,4233 2472,4235 2600,4237 2728,4241 2856,4243 2984,4247 3112,4251"
+                         HEIGHT="52"
+                         WIDTH="2217"
+                         VPOS="4202"
+                         HPOS="893">
+                  <String ID="string_line_1643187165293_47"
+                          HEIGHT="52"
+                          WIDTH="2217"
+                          VPOS="4202"
+                          HPOS="893"
+                          CONTENT="celebrato, come quello di Achille nel si geo promontorio Troadense. Da questo è ancho"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="556,4326 684,4324 809,4328 940,4327 1068,4316 1197,4314 1325,4312 1453,4310 1581,4309 1709,4308 1838,4308 1966,4306 2094,4306 2222,4306 2350,4308 2478,4308 2607,4308 2735,4310 2863,4311 2991,4312 3120,4314"
+                         HEIGHT="74"
+                         WIDTH="2564"
+                         VPOS="4270"
+                         HPOS="556">
+                  <String ID="string_r1l33"
+                          HEIGHT="74"
+                          WIDTH="2564"
+                          VPOS="4270"
+                          HPOS="556"
+                          CONTENT="detto il Rhoetio litto. di cui Virgilio nel sesto dell'Aeneide, TUNC EGOMET TVMVLVM RHOETEO IN"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="568,4406 698,4404 828,4402 958,4402 1089,4400 1219,4400 1349,4398 1480,4398 1610,4396 1740,4396 1871,4396 2001,4395 2131,4394 2261,4394 2392,4392 2522,4392 2652,4390 2783,4390 2913,4388 3043,4386 3174,4384"
+                         HEIGHT="85"
+                         WIDTH="2606"
+                         VPOS="4342"
+                         HPOS="568">
+                  <String ID="string_r1l34"
+                          HEIGHT="85"
+                          WIDTH="2606"
+                          VPOS="4342"
+                          HPOS="568"
+                          CONTENT="LITTORE INANEM/ CONSTITVI• Fanne menzione Dyte Cretense nellibro quinto dela Iliade. et dice che fu ope¬"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="542,4484 670,4484 798,4484 926,4484 1054,4482 1182,4482 1310,4482 1438,4482 1566,4480 1694,4480 1823,4478 1951,4478 2079,4476 2207,4474 2335,4474 2463,4472 2591,4470 2719,4468 2847,4466 2975,4464 3104,4462"
+                         HEIGHT="82"
+                         WIDTH="2562"
+                         VPOS="4422"
+                         HPOS="542">
+                  <String ID="string_r1l35"
+                          HEIGHT="82"
+                          WIDTH="2562"
+                          VPOS="4422"
+                          HPOS="542"
+                          CONTENT="ra di Pyrrho Neoptilemo edificato et consecrato il corpo arso nell'olla il loco dentro del Tumulo. Lo quale fortissimo"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="544,4564 671,4564 798,4566 925,4566 1052,4566 1180,4566 1307,4568 1434,4567 1561,4566 1688,4566 1816,4566 1943,4564 2070,4564 2197,4562 2324,4562 2452,4560 2579,4558 2706,4556 2833,4554 2960,4552 3088,4548"
+                         HEIGHT="80"
+                         WIDTH="2544"
+                         VPOS="4508"
+                         HPOS="544">
+                  <String ID="string_r1l36"
+                          HEIGHT="80"
+                          WIDTH="2544"
+                          VPOS="4508"
+                          HPOS="544"
+                          CONTENT="Aiace Telamonio s'uccise, per non piu servire in quella guerra à Greci, lo quale era doppo Achille il secondo di "/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="552,4654 680,4656 808,4658 936,4658 1064,4660 1192,4660 1320,4660 1448,4660 1576,4660 1704,4660 1832,4658 1960,4658 2088,4656 2216,4656 2344,4654 2472,4654 2600,4652 2728,4652 2856,4650 2984,4650 3112,4650"
+                         HEIGHT="71"
+                         WIDTH="2560"
+                         VPOS="4609"
+                         HPOS="552">
+                  <String ID="string_r1l37"
+                          HEIGHT="71"
+                          WIDTH="2560"
+                          VPOS="4609"
+                          HPOS="552"
+                          CONTENT="valore, et schermito dall'insidie d'Ulysse, che gli tolse prima l'arme d'Achille, et poscia quel palladio, cose che"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="542,4736 673,4740 805,4744 937,4746 1069,4748 1201,4750 1333,4750 1465,4750 1597,4748 1729,4748 1861,4746 1992,4744 2124,4744 2256,4742 2388,4740 2520,4740 2652,4740 2784,4740 2916,4742 3048,4744 3180,4746"
+                         HEIGHT="62"
+                         WIDTH="2638"
+                         VPOS="4704"
+                         HPOS="542">
+                  <String ID="string_r1l38"
+                          HEIGHT="62"
+                          WIDTH="2638"
+                          VPOS="4704"
+                          HPOS="542"
+                          CONTENT="meritevolmente le doveano dare alui, s'ammazzo. Dicesi Rhoetea littorale maremma. onde Lucano: ET PRIMA"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="536,4804 561,4804 587,4804 613,4805 639,4806 665,4806 690,4808 716,4808 742,4810 768,4810 794,4812 819,4813 845,4814 871,4814 897,4816 923,4816 948,4816 974,4816 1000,4816 1026,4815 1052,4814"
+                         HEIGHT="61"
+                         WIDTH="516"
+                         VPOS="4771"
+                         HPOS="536">
+                  <String ID="string_r1l39"
+                          HEIGHT="61"
+                          WIDTH="516"
+                          VPOS="4771"
+                          HPOS="536"
+                          CONTENT="RHOETEIA LITTORA."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_077b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:14.303+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="r3" HEIGHT="278" WIDTH="269" VPOS="115" HPOS="3080">
+               <Shape>
+                  <Polygon POINTS="3080,141 3096,393 3349,384 3346,115"/>
+               </Shape>
+               <TextLine ID="line_1649775746459_2771"
+                         BASELINE="3256,157 3329,150"
+                         HEIGHT="108"
+                         WIDTH="109"
+                         VPOS="61"
+                         HPOS="3236">
+                  <String ID="string_line_1649775746459_2771"
+                          HEIGHT="108"
+                          WIDTH="109"
+                          VPOS="61"
+                          HPOS="3236"
+                          CONTENT="71"/>
+               </TextLine>
+               <TextLine ID="line_1649775749311_2776"
+                         BASELINE="3219,205 3293,199"
+                         HEIGHT="104"
+                         WIDTH="111"
+                         VPOS="146"
+                         HPOS="3201">
+                  <String ID="string_line_1649775749311_2776"
+                          HEIGHT="104"
+                          WIDTH="111"
+                          VPOS="146"
+                          HPOS="3201"
+                          CONTENT="80"/>
+               </TextLine>
+               <TextLine ID="r3l1"
+                         BASELINE="3096,332 3124,343 3152,343 3180,338 3208,336"
+                         HEIGHT="157"
+                         WIDTH="144"
+                         VPOS="231"
+                         HPOS="3080">
+                  <String ID="string_r3l1"
+                          HEIGHT="157"
+                          WIDTH="144"
+                          VPOS="231"
+                          HPOS="3080"
+                          CONTENT="77"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649775774643_2783"
+                       HEIGHT="2191"
+                       WIDTH="2448"
+                       VPOS="532"
+                       HPOS="411">
+               <Shape>
+                  <Polygon POINTS="411,562 2857,532 2859,2633 1075,2637 1075,2723 437,2713"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="488,672 602,672 716,672 830,672 944,672 1059,670 1173,668 1287,666 1401,664 1515,662 1630,658 1744,656 1858,652 1972,650 2086,648 2201,645 2315,642 2429,640 2543,638 2657,638 2772,638"
+                         HEIGHT="162"
+                         WIDTH="2315"
+                         VPOS="542"
+                         HPOS="472">
+                  <String ID="string_r1l1"
+                          HEIGHT="162"
+                          WIDTH="2315"
+                          VPOS="542"
+                          HPOS="472"
+                          CONTENT="nozze chiaman Talassio. Non mancano gli authori che questo ancor non mettano in confusione"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="480,756 593,754 707,751 820,749 934,747 1048,746 1161,744 1275,742 1388,740 1502,740 1616,738 1729,736 1843,736 1956,734 2070,732 2184,732 2297,730 2411,728 2524,728 2638,726 2752,726"
+                         HEIGHT="97"
+                         WIDTH="2303"
+                         VPOS="677"
+                         HPOS="463">
+                  <String ID="string_r1l2"
+                          HEIGHT="97"
+                          WIDTH="2303"
+                          VPOS="677"
+                          HPOS="463"
+                          CONTENT="dicendo che quelle donne Troiane stanche di tanti infortuni che havean passati, essendo smontati"/>
+               </TextLine>
+               <TextLine ID="line_1651048460918_385"
+                         BASELINE="492,832 606,830 720,828 834,826 949,826 1063,824 1146,822"
+                         HEIGHT="77"
+                         WIDTH="670"
+                         VPOS="763"
+                         HPOS="476">
+                  <String ID="string_line_1651048460918_385"
+                          HEIGHT="77"
+                          WIDTH="670"
+                          VPOS="763"
+                          HPOS="476"
+                          CONTENT="interra i mariti, et le donne,"/>
+               </TextLine>
+               <TextLine ID="line_1651048465905_389"
+                         BASELINE="1130,797 1230,789"
+                         HEIGHT="58"
+                         WIDTH="104"
+                         VPOS="744"
+                         HPOS="1126">
+                  <String ID="string_line_1651048465905_389"
+                          HEIGHT="58"
+                          WIDTH="104"
+                          VPOS="744"
+                          HPOS="1126"
+                          CONTENT="loro"/>
+               </TextLine>
+               <TextLine ID="line_1651048460918_384"
+                         BASELINE="1146,822 1177,822 1292,822 1406,820 1520,820 1635,818 1749,818 1863,816 1977,816 2092,815 2206,814 2320,814 2435,812 2549,812 2663,810 2778,810"
+                         HEIGHT="90"
+                         WIDTH="1648"
+                         VPOS="749"
+                         HPOS="1146">
+                  <String ID="string_line_1651048460918_384"
+                          HEIGHT="90"
+                          WIDTH="1648"
+                          VPOS="749"
+                          HPOS="1146"
+                          CONTENT="si consigliorono di non voler piu seguire il Mare, postesi sula riva del"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="514,912 627,912 741,910 855,910 968,908 1082,908 1196,908 1309,906 1423,906 1537,906 1651,904 1764,904 1878,904 1992,902 2105,902 2219,902 2333,900 2446,898 2560,897 2674,896 2788,894"
+                         HEIGHT="93"
+                         WIDTH="2303"
+                         VPOS="839"
+                         HPOS="498">
+                  <String ID="string_r1l4"
+                          HEIGHT="93"
+                          WIDTH="2303"
+                          VPOS="839"
+                          HPOS="498"
+                          CONTENT="Tevere arseno le navi, et i mariti per tal danno portavan odio ale sue donne onde essendo un'"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="502,994 616,992 731,992 845,990 960,990 1075,988 1189,988 1304,987 1418,986 1533,986 1648,986 1762,984 1877,984 1991,984 2106,982 2221,982 2335,980 2450,980 2564,978 2679,976 2794,974"
+                         HEIGHT="128"
+                         WIDTH="2321"
+                         VPOS="914"
+                         HPOS="487">
+                  <String ID="string_r1l5"
+                          HEIGHT="128"
+                          WIDTH="2321"
+                          VPOS="914"
+                          HPOS="487"
+                          CONTENT="giovene chiamato Talasso per virtu del quale si pacificorono. Sempre nelle congniuntioni et concor"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="492,1078 629,1076 744,1074 859,1074 975,1072 1090,1072 1205,1070 1321,1070 1436,1068 1551,1068 1667,1066 1782,1066 1897,1064 2012,1064 2128,1062 2243,1060 2358,1058 2474,1057 2589,1055 2704,1052 2820,1050"
+                         HEIGHT="141"
+                         WIDTH="2359"
+                         VPOS="984"
+                         HPOS="477">
+                  <String ID="string_r1l6"
+                          HEIGHT="141"
+                          WIDTH="2359"
+                          VPOS="984"
+                          HPOS="477"
+                          CONTENT="die chi si facevano tra maschi et femine sempre si cantò il suo nome. Donato sopra gli adel¬"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="500,1152 613,1152 727,1154 841,1154 955,1154 1069,1154 1182,1154 1296,1152 1410,1152 1524,1152 1638,1150 1751,1150 1865,1148 1979,1146 2093,1146 2207,1144 2320,1144 2434,1142 2548,1140 2662,1138 2776,1138"
+                         HEIGHT="128"
+                         WIDTH="2306"
+                         VPOS="1068"
+                         HPOS="486">
+                  <String ID="string_r1l7"
+                          HEIGHT="128"
+                          WIDTH="2306"
+                          VPOS="1068"
+                          HPOS="486"
+                          CONTENT="phi di Terentio dice, che Hymeneo secondo alcuni fù figliuolo di Venere et di Bacco (cosa"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="508,1236 619,1234 731,1234 843,1232 955,1231 1067,1230 1178,1230 1290,1230 1402,1228 1514,1228 1626,1228 1737,1228 1849,1226 1961,1226 2073,1224 2185,1224 2296,1222 2408,1220 2520,1218 2632,1216 2744,1212"
+                         HEIGHT="93"
+                         WIDTH="2265"
+                         VPOS="1171"
+                         HPOS="493">
+                  <String ID="string_r1l8"
+                          HEIGHT="93"
+                          WIDTH="2265"
+                          VPOS="1171"
+                          HPOS="493"
+                          CONTENT="intutto contraria à Catullo) il quale fu il primo, che ordinò le certe nozze, et per questo si,"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="520,1316 630,1314 741,1314 852,1312 963,1311 1074,1310 1184,1310 1295,1308 1406,1308 1517,1306 1628,1306 1738,1306 1849,1304 1960,1302 2071,1302 2182,1300 2292,1298 2403,1296 2514,1294 2625,1292 2736,1288"
+                         HEIGHT="134"
+                         WIDTH="2246"
+                         VPOS="1211"
+                         HPOS="505">
+                  <String ID="string_r1l9"
+                          HEIGHT="134"
+                          WIDTH="2246"
+                          VPOS="1211"
+                          HPOS="505"
+                          CONTENT="canta il suo nome et lo dasi,cio è nolle nozze Verginali, alcuni altri dicano, che fù un"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="512,1398 623,1398 735,1397 846,1396 958,1396 1070,1396 1181,1394 1293,1394 1404,1392 1516,1392 1628,1391 1739,1390 1851,1388 1962,1387 2074,1386 2186,1384 2297,1382 2409,1380 2520,1377 2632,1374 2744,1370"
+                         HEIGHT="144"
+                         WIDTH="2263"
+                         VPOS="1297"
+                         HPOS="495">
+                  <String ID="string_r1l10"
+                          HEIGHT="144"
+                          WIDTH="2263"
+                          VPOS="1297"
+                          HPOS="495"
+                          CONTENT="valente huomo, Atheniese il quale restitui le Vergini, ala sua patria quale erano state rubati"/>
+               </TextLine>
+               <TextLine ID="line_1650533212807_1271"
+                         BASELINE="516,1484 631,1484 746,1484 861,1484 976,1484 1091,1482 1206,1482 1220,1481"
+                         HEIGHT="110"
+                         WIDTH="731"
+                         VPOS="1409"
+                         HPOS="503">
+                  <String ID="string_line_1650533212807_1271"
+                          HEIGHT="110"
+                          WIDTH="731"
+                          VPOS="1409"
+                          HPOS="503"
+                          CONTENT="da latroni con la morte loro."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="1158,1438 1183,1440 1208,1440 1234,1439 1259,1437 1285,1435 1310,1433 1335,1432 1361,1431 1386,1430 1485,1437"
+                         HEIGHT="66"
+                         WIDTH="357"
+                         VPOS="1391"
+                         HPOS="1142">
+                  <String ID="string_r1l11"
+                          HEIGHT="66"
+                          WIDTH="357"
+                          VPOS="1391"
+                          HPOS="1142"
+                          CONTENT="come disopra è detto,"/>
+               </TextLine>
+               <TextLine ID="line_1650533212807_1270"
+                         BASELINE="1220,1481 1321,1480 1436,1479 1551,1478 1666,1476 1781,1474 1896,1472 2011,1468 2126,1466 2241,1464 2356,1462 2471,1460 2586,1458 2701,1456 2816,1454"
+                         HEIGHT="98"
+                         WIDTH="1625"
+                         VPOS="1393"
+                         HPOS="1206">
+                  <String ID="string_line_1650533212807_1270"
+                          HEIGHT="98"
+                          WIDTH="1625"
+                          VPOS="1393"
+                          HPOS="1206"
+                          CONTENT="Alc... dicano per che Hymin è una certa pellicula dove con¬"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="520,1568 635,1568 750,1566 865,1566 980,1564 1095,1562 1210,1560 1325,1558 1440,1556 1555,1554 1671,1552 1786,1550 1901,1548 2016,1546 2131,1544 2246,1543 2361,1542 2476,1540 2591,1540 2706,1540 2822,1538"
+                         HEIGHT="147"
+                         WIDTH="2330"
+                         VPOS="1461"
+                         HPOS="506">
+                  <String ID="string_r1l13"
+                          HEIGHT="147"
+                          WIDTH="2330"
+                          VPOS="1461"
+                          HPOS="506"
+                          CONTENT="siste la Verginità qual si straccia nel primo assalto, fu detto Hymeneo che quasi vol dire Hym¬"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="520,1648 633,1650 746,1652 859,1652 972,1652 1085,1652 1198,1652 1311,1650 1424,1648 1537,1646 1650,1644 1763,1642 1876,1640 1989,1636 2102,1634 2215,1632 2328,1630 2441,1626 2554,1624 2667,1622 2780,1622"
+                         HEIGHT="125"
+                         WIDTH="2289"
+                         VPOS="1553"
+                         HPOS="505">
+                  <String ID="string_r1l14"
+                          HEIGHT="125"
+                          WIDTH="2289"
+                          VPOS="1553"
+                          HPOS="505"
+                          CONTENT="no, qual si cantava nelle nozze Verginali adunque cosi pigliarai nele nozze Hymeneo,"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="518,1726 599,1724 681,1724 763,1723 845,1722 927,1722 1009,1720 1091,1720 1173,1720 1255,1720 1337,1718 1418,1718 1500,1716 1582,1716 1664,1714 1746,1714 1828,1712 1910,1710 1992,1708 2074,1706 2156,1704"
+                         HEIGHT="104"
+                         WIDTH="1668"
+                         VPOS="1646"
+                         HPOS="503">
+                  <String ID="string_r1l15"
+                          HEIGHT="104"
+                          WIDTH="1668"
+                          VPOS="1646"
+                          HPOS="503"
+                          CONTENT="come nelle essequie de morti Thremis, et nolle cose sacre Hymno."/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="494,1799 627,1798 740,1798 853,1798 967,1798 1080,1796 1193,1796 1307,1795 1420,1794 1533,1794 1647,1792 1760,1792 1873,1790 1986,1790 2100,1788 2213,1788 2326,1786 2440,1786 2553,1786 2666,1784 2780,1784"
+                         HEIGHT="114"
+                         WIDTH="2315"
+                         VPOS="1712"
+                         HPOS="478">
+                  <String ID="string_r1l16"
+                          HEIGHT="114"
+                          WIDTH="2315"
+                          VPOS="1712"
+                          HPOS="478"
+                          CONTENT="L'anticho costume di Romani, di cigere et de scioglere la cintura dal marito alla nova moglie. Festo dice"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="518,1874 629,1874 741,1872 853,1872 964,1872 1076,1870 1188,1870 1299,1870 1411,1870 1523,1868 1635,1868 1746,1868 1858,1868 1970,1868 2081,1868 2193,1868 2305,1868 2416,1866 2528,1866 2640,1866 2752,1866"
+                         HEIGHT="109"
+                         WIDTH="2262"
+                         VPOS="1807"
+                         HPOS="504">
+                  <String ID="string_r1l17"
+                          HEIGHT="109"
+                          WIDTH="2262"
+                          VPOS="1807"
+                          HPOS="504"
+                          CONTENT="inquesta sentenza solevasi la nova maritata pria cingere d'una cintura fatta di lana pecorina, qual'"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="509,1951 622,1953 736,1953 849,1953 963,1953 1077,1955 1190,1955 1304,1955 1417,1955 1531,1955 1645,1955 1758,1955 1872,1955 1985,1957 2099,1957 2213,1957 2326,1957 2440,1955 2553,1955 2667,1955 2781,1955"
+                         HEIGHT="110"
+                         WIDTH="2300"
+                         VPOS="1882"
+                         HPOS="495">
+                  <String ID="string_r1l18"
+                          HEIGHT="110"
+                          WIDTH="2300"
+                          VPOS="1882"
+                          HPOS="495"
+                          CONTENT="poi il marito la prima notte le sciogleva, accio che come ella ridotta ingiomero si venga in sieme tutta"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="518,2034 631,2034 744,2034 857,2032 970,2032 1083,2032 1196,2032 1309,2032 1422,2032 1535,2030 1649,2030 1762,2030 1875,2030 1988,2029 2101,2028 2214,2028 2327,2026 2440,2026 2553,2024 2666,2024 2780,2022"
+                         HEIGHT="115"
+                         WIDTH="2292"
+                         VPOS="1961"
+                         HPOS="504">
+                  <String ID="string_r1l19"
+                          HEIGHT="115"
+                          WIDTH="2292"
+                          VPOS="1961"
+                          HPOS="504"
+                          CONTENT="a congiongere. cosi il suo marito, seco cinto, et legato stesse. Cotal cingulo ligato corun nodo detto da Her¬"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="522,2118 634,2120 747,2120 860,2120 973,2120 1086,2120 1199,2120 1312,2120 1425,2120 1538,2120 1651,2120 1763,2118 1876,2118 1989,2116 2102,2116 2215,2116 2328,2114 2441,2114 2554,2112 2667,2112 2780,2110"
+                         HEIGHT="91"
+                         WIDTH="2289"
+                         VPOS="2061"
+                         HPOS="506">
+                  <String ID="string_r1l20"
+                          HEIGHT="91"
+                          WIDTH="2289"
+                          VPOS="2061"
+                          HPOS="506"
+                          CONTENT="cole, Herculaneo se disscioglieva dal marito per farsi buono augurio, accio egli cosi fusse felice in generare"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="528,2200 640,2200 753,2202 865,2202 978,2202 1090,2202 1203,2204 1315,2204 1428,2204 1540,2202 1653,2202 1765,2202 1878,2202 1990,2202 2103,2200 2215,2200 2328,2199 2440,2198 2553,2198 2665,2196 2778,2194"
+                         HEIGHT="98"
+                         WIDTH="2276"
+                         VPOS="2142"
+                         HPOS="515">
+                  <String ID="string_r1l21"
+                          HEIGHT="98"
+                          WIDTH="2276"
+                          VPOS="2142"
+                          HPOS="515"
+                          CONTENT="figliuoli come fu Hercole, il qual' settanta figli lascio. Appresso dicono che à Iunone Cinxia era de¬"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="522,2286 633,2286 745,2288 857,2288 969,2288 1081,2288 1193,2288 1305,2288 1417,2288 1529,2288 1641,2286 1752,2286 1864,2286 1976,2284 2088,2284 2200,2284 2312,2282 2424,2282 2536,2280 2648,2280 2760,2280"
+                         HEIGHT="115"
+                         WIDTH="2268"
+                         VPOS="2205"
+                         HPOS="506">
+                  <String ID="string_r1l22"
+                          HEIGHT="115"
+                          WIDTH="2268"
+                          VPOS="2205"
+                          HPOS="506"
+                          CONTENT="dicato quel Tempo appunto dele nozze, quando nel coniuger deli sposi si faceva tal scioglimento dela"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="518,2374 630,2374 743,2374 855,2372 968,2372 1081,2372 1193,2372 1306,2372 1418,2372 1531,2370 1644,2370 1756,2370 1869,2369 1981,2368 2094,2368 2207,2366 2319,2366 2432,2364 2544,2364 2657,2362 2770,2360"
+                         HEIGHT="112"
+                         WIDTH="2283"
+                         VPOS="2293"
+                         HPOS="502">
+                  <String ID="string_r1l23"
+                          HEIGHT="112"
+                          WIDTH="2283"
+                          VPOS="2293"
+                          HPOS="502"
+                          CONTENT="cintura, de cui la nova sposa era stata centa. Come s'è detto per li versi di Catullo. et Homero nella"/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="530,2454 641,2456 753,2456 865,2456 977,2456 1089,2456 1201,2454 1313,2454 1425,2454 1537,2452 1649,2452 1760,2450 1872,2450 1984,2448 2096,2448 2208,2446 2320,2446 2432,2444 2544,2444 2656,2442 2768,2442"
+                         HEIGHT="88"
+                         WIDTH="2268"
+                         VPOS="2403"
+                         HPOS="515">
+                  <String ID="string_r1l24"
+                          HEIGHT="88"
+                          WIDTH="2268"
+                          VPOS="2403"
+                          HPOS="515"
+                          CONTENT="Odyssea nel'libro undecimo, dove racconta come Nettuno svirginò Tyro, che del bellissimo fiume Enipeo"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="526,2533 648,2528 758,2528 868,2530 978,2530 1088,2530 1198,2532 1308,2532 1418,2532 1528,2532 1638,2532 1748,2532 1858,2532 1968,2532 2078,2532 2188,2530 2298,2530 2408,2528 2518,2526 2628,2525 2738,2522"
+                         HEIGHT="103"
+                         WIDTH="2242"
+                         VPOS="2476"
+                         HPOS="510">
+                  <String ID="string_r1l25"
+                          HEIGHT="103"
+                          WIDTH="2242"
+                          VPOS="2476"
+                          HPOS="510"
+                          CONTENT="era innamorata, ma pria Neptuno se congingesse, si mutò in la forma di esso fiumi Enipeo fece con"/>
+               </TextLine>
+               <TextLine ID="line_1651049878356_431"
+                         BASELINE="532,2614 644,2612 757,2610 870,2610 983,2610 1096,2609 1208,2610 1321,2610 1434,2610 1547,2610 1660,2610 1772,2610 1878,2611"
+                         HEIGHT="112"
+                         WIDTH="1360"
+                         VPOS="2548"
+                         HPOS="518">
+                  <String ID="string_line_1651049878356_431"
+                          HEIGHT="112"
+                          WIDTH="1360"
+                          VPOS="2548"
+                          HPOS="518"
+                          CONTENT="Tyro il fatto suo, havendo prima fatto un certo concavo ove entro"/>
+               </TextLine>
+               <TextLine ID="line_1651049884130_435"
+                         BASELINE="1858,2573 1908,2573"
+                         HEIGHT="50"
+                         WIDTH="50"
+                         VPOS="2528"
+                         HPOS="1858">
+                  <String ID="string_line_1651049884130_435"
+                          HEIGHT="50"
+                          WIDTH="50"
+                          VPOS="2528"
+                          HPOS="1858"
+                          CONTENT="et"/>
+               </TextLine>
+               <TextLine ID="line_1651049878356_430"
+                         BASELINE="1878,2611 1885,2612 1998,2612 2111,2612 2224,2612 2336,2610 2449,2610 2562,2608 2675,2606 2788,2604"
+                         HEIGHT="105"
+                         WIDTH="926"
+                         VPOS="2544"
+                         HPOS="1878">
+                  <String ID="string_line_1651049878356_430"
+                          HEIGHT="105"
+                          WIDTH="926"
+                          VPOS="2544"
+                          HPOS="1878"
+                          CONTENT="con Tyro giacque, li versi di homero dove"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="531,2707 642,2707 753,2705 865,2705 976,2703 1064,2703"
+                         HEIGHT="107"
+                         WIDTH="563"
+                         VPOS="2638"
+                         HPOS="516">
+                  <String ID="string_r1l27"
+                          HEIGHT="107"
+                          WIDTH="563"
+                          VPOS="2638"
+                          HPOS="516"
+                          CONTENT="si racconta questa festa"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649775784081_2788"
+                       HEIGHT="491"
+                       WIDTH="2422"
+                       VPOS="2633"
+                       HPOS="437">
+               <Shape>
+                  <Polygon POINTS="437,2713 1075,2723 1075,2637 2859,2633 2859,3025 1114,3042 1121,3115 442,3124"/>
+               </Shape>
+               <TextLine ID="line_1650464743499_381"
+                         BASELINE="1086,2705 2826,2705"
+                         HEIGHT="111"
+                         WIDTH="1770"
+                         VPOS="2617"
+                         HPOS="1071">
+                  <String ID="string_line_1650464743499_381"
+                          HEIGHT="111"
+                          WIDTH="1770"
+                          VPOS="2617"
+                          HPOS="1071"
+                          CONTENT="ΣΗ, ΤΥΡΩ. ΠΟΤΑΜΟΥ. ΗΡΑΣΣΑΤ ΕΝΙΠΗΟΣ. ΘΕΙΟΙΟ, ΟΣ ΠΟΛΥ ΚΑΛ¬"/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="540,2780 651,2780 762,2778 873,2778 984,2778 1096,2778 1207,2776 1318,2776 1429,2776 1540,2774 1652,2774 1763,2774 1874,2772 1985,2772 2096,2772 2208,2770 2319,2770 2430,2770 2541,2768 2652,2768 2764,2768"
+                         HEIGHT="106"
+                         WIDTH="2254"
+                         VPOS="2706"
+                         HPOS="525">
+                  <String ID="string_r1l28"
+                          HEIGHT="106"
+                          WIDTH="2254"
+                          VPOS="2706"
+                          HPOS="525"
+                          CONTENT="ΛΙΣΤΟΣ. ΠΟΤΑΜΩΝ. ΕΠΙ. ΓΑΙΑΝ ΙΗΣΙ. ΚΑΙΡ, ΕΠΕΝΙΠΗΟΣ. ΠΩΛΕΣΚΕΤΟ, ΚΑΛΑ... ΡΕΕΘPΑ"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="548,2862 660,2860 773,2858 886,2856 999,2856 1112,2854 1225,2852 1338,2852 1451,2850 1564,2850 1677,2848 1789,2848 1902,2846 2015,2846 2128,2844 2241,2844 2354,2842 2467,2842 2580,2840 2693,2840 2806,2838"
+                         HEIGHT="104"
+                         WIDTH="2286"
+                         VPOS="2791"
+                         HPOS="534">
+                  <String ID="string_r1l29"
+                          HEIGHT="104"
+                          WIDTH="2286"
+                          VPOS="2791"
+                          HPOS="534"
+                          CONTENT="ΤΩ. ΔΑΡΑ. ΕΙΣΑΜΕΝΟΣ. ΓΑΙΗΣΧΟΣ. ΕΝΝΟΣΙΓΑΙΟΣ. ΕΝ ΠΡΟΧΟΗΣ. ΠΟΤΑΜΟΥ. ΠΑΡΕΛΕΣΑ¬"/>
+               </TextLine>
+               <TextLine ID="r1l30"
+                         BASELINE="532,2944 644,2942 756,2942 868,2940 981,2940 1093,2938 1205,2936 1318,2936 1430,2934 1542,2934 1655,2932 1767,2932 1879,2930 1991,2930 2104,2928 2216,2928 2328,2928 2441,2926 2553,2926 2665,2926 2778,2926"
+                         HEIGHT="98"
+                         WIDTH="2277"
+                         VPOS="2864"
+                         HPOS="517">
+                  <String ID="string_r1l30"
+                          HEIGHT="98"
+                          WIDTH="2277"
+                          VPOS="2864"
+                          HPOS="517"
+                          CONTENT="ΤΟ, ΕΝΝΟΣΙ ΓΑΙΟΣ, ΠΟΡΦΥΡΕΟΝ ΔΑΡΑ ΧΕΙΜΑ. ΠΕΡΙΣΤΑΘΗ. ΟΥΡΕΙ. ΙΣΟΝ / ΚΥΡΤΟ¬"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="544,3022 656,3022 768,3020 880,3019 993,3018 1105,3016 1217,3014 1330,3014 1442,3012 1554,3010 1667,3008 1779,3006 1891,3004 2003,3002 2116,3000 2228,2999 2340,2998 2453,2996 2565,2995 2677,2994 2790,2992"
+                         HEIGHT="102"
+                         WIDTH="2275"
+                         VPOS="2939"
+                         HPOS="529">
+                  <String ID="string_r1l31"
+                          HEIGHT="102"
+                          WIDTH="2275"
+                          VPOS="2939"
+                          HPOS="529"
+                          CONTENT="ΘΕΝ. ΚΡΥΨΕΝΤΕ. ΘΕΟΝ, ΘΝΗΤΗΝΤΕ ΓΥΝΕΙΚΑ ΛΥΣΕ ΔΕ ΠΑΡΘΕ ΝΙΗΝ. ΖΩΝΗΝ, ΚΑΤΑ"/>
+               </TextLine>
+               <TextLine ID="line_1649775784136_2790"
+                         BASELINE="546,3094 658,3094 771,3092 884,3092 997,3092 1110,3090 1118,3090"
+                         HEIGHT="87"
+                         WIDTH="600"
+                         VPOS="3028"
+                         HPOS="532">
+                  <String ID="string_line_1649775784136_2790"
+                          HEIGHT="87"
+                          WIDTH="600"
+                          VPOS="3028"
+                          HPOS="532"
+                          CONTENT="ΔΥΠΝΟΝ, ΕΧΕΥΕΝ."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1649775784080_2787"
+                       HEIGHT="1305"
+                       WIDTH="2420"
+                       VPOS="3025"
+                       HPOS="442">
+               <Shape>
+                  <Polygon POINTS="442,3124 1121,3115 1114,3042 2859,3025 2862,4330 458,4330"/>
+               </Shape>
+               <TextLine ID="line_1649775784136_2791"
+                         BASELINE="1118,3090 1222,3090 1335,3088 1448,3086 1561,3084 1674,3084 1786,3082 1899,3081 2012,3080 2125,3079 2238,3078 2350,3078 2463,3078 2576,3078 2689,3078 2811,3083"
+                         HEIGHT="92"
+                         WIDTH="1724"
+                         VPOS="3030"
+                         HPOS="1102">
+                  <String ID="string_line_1649775784136_2791"
+                          HEIGHT="92"
+                          WIDTH="1724"
+                          VPOS="3030"
+                          HPOS="1102"
+                          CONTENT="Sin qui il poeta. dove il suo chiosatore isponendo ΛΥΣΕ ΠΑΡΘΕΝΙΝΝ, ΖΩΝΗΝ"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="542,3174 654,3174 766,3172 878,3170 990,3168 1103,3168 1215,3166 1327,3164 1439,3162 1551,3160 1664,3158 1776,3158 1888,3156 2000,3154 2112,3153 2225,3152 2337,3150 2449,3150 2561,3148 2673,3148 2786,3146"
+                         HEIGHT="114"
+                         WIDTH="2274"
+                         VPOS="3099"
+                         HPOS="527">
+                  <String ID="string_r1l33"
+                          HEIGHT="114"
+                          WIDTH="2274"
+                          VPOS="3099"
+                          HPOS="527"
+                          CONTENT="dice ΑΝΤΙ ΤΟΥ ΔΙΕΠΑΡΘΕΝΕΥΣΕΝ, cio è egli la svergino et questo significa presso di Latini scio¬"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="538,3246 651,3246 765,3245 879,3244 993,3242 1107,3240 1220,3238 1334,3238 1448,3234 1562,3234 1676,3232 1789,3230 1903,3228 2017,3226 2131,3226 2245,3224 2358,3224 2472,3224 2586,3224 2700,3224 2814,3226"
+                         HEIGHT="135"
+                         WIDTH="2306"
+                         VPOS="3160"
+                         HPOS="524">
+                  <String ID="string_r1l34"
+                          HEIGHT="135"
+                          WIDTH="2306"
+                          VPOS="3160"
+                          HPOS="524"
+                          CONTENT="gler la cintura. Ma dicano gli altri presso di greci, che subito che la donna sta per parturire, sciolgan"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="532,3320 645,3320 758,3320 871,3318 984,3318 1097,3316 1210,3315 1323,3314 1436,3312 1549,3310 1663,3308 1776,3306 1889,3304 2002,3302 2115,3300 2228,3298 2341,3298 2454,3296 2567,3294 2680,3294 2794,3294"
+                         HEIGHT="108"
+                         WIDTH="2292"
+                         VPOS="3245"
+                         HPOS="517">
+                  <String ID="string_r1l35"
+                          HEIGHT="108"
+                          WIDTH="2292"
+                          VPOS="3245"
+                          HPOS="517"
+                          CONTENT="la cintura, et che si cava dalli chiosatori di Apollonio, Era per anticho costume tra Romani nel pi¬"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="546,3401 671,3394 782,3394 894,3394 1005,3394 1117,3393 1228,3392 1339,3390 1451,3388 1562,3385 1674,3382 1785,3380 1896,3376 2008,3374 2119,3372 2231,3369 2342,3367 2453,3364 2565,3362 2676,3362 2788,3360"
+                         HEIGHT="110"
+                         WIDTH="2271"
+                         VPOS="3328"
+                         HPOS="531">
+                  <String ID="string_r1l36"
+                          HEIGHT="110"
+                          WIDTH="2271"
+                          VPOS="3328"
+                          HPOS="531"
+                          CONTENT="gliar moglie come scrivi Festo, Tanto le spose come quelle che erano per maritarsi di sacrificare alle ca¬"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="554,3472 674,3470 784,3470 894,3470 1004,3470 1115,3470 1225,3468 1335,3466 1445,3464 1555,3462 1666,3460 1776,3456 1886,3454 1996,3451 2106,3449 2217,3447 2327,3446 2437,3444 2547,3442 2657,3442 2785,3452"
+                         HEIGHT="124"
+                         WIDTH="2260"
+                         VPOS="3373"
+                         HPOS="540">
+                  <String ID="string_r1l37"
+                          HEIGHT="124"
+                          WIDTH="2260"
+                          VPOS="3373"
+                          HPOS="540"
+                          CONTENT="mene cio è alle Muse, et nel pigliar la moglie si soleva il capo dela sposa ornare in luogo del discer"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="564,3554 674,3554 785,3552 895,3552 1006,3550 1117,3548 1227,3546 1338,3544 1448,3541 1559,3538 1670,3536 1780,3533 1891,3530 2001,3528 2112,3526 2223,3522 2333,3520 2444,3518 2554,3516 2665,3514 2776,3512"
+                         HEIGHT="131"
+                         WIDTH="2244"
+                         VPOS="3451"
+                         HPOS="548">
+                  <String ID="string_r1l38"
+                          HEIGHT="131"
+                          WIDTH="2244"
+                          VPOS="3451"
+                          HPOS="548"
+                          CONTENT="niculo ò scriminale cor una hasta detta celibare, la qual fusse stata sopra un Gladiatore morto,"/>
+               </TextLine>
+               <TextLine ID="r1l39"
+                         BASELINE="546,3642 656,3639 767,3636 878,3633 989,3630 1100,3628 1210,3625 1321,3622 1432,3620 1543,3618 1654,3616 1764,3614 1875,3612 1986,3610 2097,3608 2208,3606 2318,3604 2429,3602 2540,3600 2651,3598 2762,3596"
+                         HEIGHT="109"
+                         WIDTH="2247"
+                         VPOS="3549"
+                         HPOS="530">
+                  <String ID="string_r1l39"
+                          HEIGHT="109"
+                          WIDTH="2247"
+                          VPOS="3549"
+                          HPOS="530"
+                          CONTENT="et la cagion'dicio era, che come quella hasta era stata posta sopra del corpo del gladiatore, cosi essa"/>
+               </TextLine>
+               <TextLine ID="r1l40"
+                         BASELINE="530,3712 644,3709 758,3706 872,3703 986,3700 1100,3696 1214,3694 1328,3692 1442,3690 1556,3687 1670,3684 1784,3682 1898,3680 2012,3678 2126,3676 2240,3674 2354,3672 2468,3670 2582,3668 2696,3666 2810,3664"
+                         HEIGHT="118"
+                         WIDTH="2310"
+                         VPOS="3616"
+                         HPOS="515">
+                  <String ID="string_r1l40"
+                          HEIGHT="118"
+                          WIDTH="2310"
+                          VPOS="3616"
+                          HPOS="515"
+                          CONTENT="fusse col suo marito. fu ò ver per che le spose sono in tutela de Giunon detta Cureti, che cosi è chiamata"/>
+               </TextLine>
+               <TextLine ID="r1l41"
+                         BASELINE="552,3788 664,3784 777,3782 890,3780 1002,3777 1115,3774 1228,3772 1340,3770 1453,3768 1566,3766 1679,3764 1791,3760 1904,3758 2017,3756 2129,3753 2242,3750 2355,3748 2467,3744 2580,3740 2693,3738 2806,3734"
+                         HEIGHT="138"
+                         WIDTH="2287"
+                         VPOS="3679"
+                         HPOS="536">
+                  <String ID="string_r1l41"
+                          HEIGHT="138"
+                          WIDTH="2287"
+                          VPOS="3679"
+                          HPOS="536"
+                          CONTENT="dal portar del'hasta che curis in lengua sabina se diceva. Over per che farsi augurio à generavo valen¬"/>
+               </TextLine>
+               <TextLine ID="r1l42"
+                         BASELINE="538,3864 652,3862 766,3862 881,3860 995,3858 1110,3856 1224,3854 1338,3852 1453,3848 1567,3846 1682,3844 1796,3842 1910,3840 2025,3836 2139,3834 2254,3832 2368,3830 2482,3828 2597,3826 2711,3824 2826,3822"
+                         HEIGHT="144"
+                         WIDTH="2317"
+                         VPOS="3759"
+                         HPOS="523">
+                  <String ID="string_r1l42"
+                          HEIGHT="144"
+                          WIDTH="2317"
+                          VPOS="3759"
+                          HPOS="523"
+                          CONTENT="ti huomini, ò ver per che la Donna per il matrimonio divien sugetta al marito concio sia che l'hasta"/>
+               </TextLine>
+               <TextLine ID="r1l43"
+                         BASELINE="544,3951 669,3938 781,3936 892,3936 1004,3934 1115,3932 1227,3930 1338,3928 1450,3926 1561,3924 1673,3922 1784,3920 1896,3918 2007,3916 2119,3913 2230,3911 2342,3908 2453,3906 2565,3904 2676,3902 2788,3900"
+                         HEIGHT="153"
+                         WIDTH="2275"
+                         VPOS="3829"
+                         HPOS="529">
+                  <String ID="string_r1l43"
+                          HEIGHT="153"
+                          WIDTH="2275"
+                          VPOS="3829"
+                          HPOS="529"
+                          CONTENT="è la somma dell'arme et del' Jmperio. Onde anche per questo gli valenti huomini per la prodezza loro"/>
+               </TextLine>
+               <TextLine ID="r1l44"
+                         BASELINE="550,4008 661,4008 772,4008 883,4006 994,4006 1105,4004 1216,4004 1327,4002 1438,4000 1549,4000 1660,3998 1771,3996 1882,3994 1993,3992 2104,3990 2215,3989 2326,3988 2437,3986 2548,3984 2659,3982 2770,3980"
+                         HEIGHT="114"
+                         WIDTH="2248"
+                         VPOS="3917"
+                         HPOS="536">
+                  <String ID="string_r1l44"
+                          HEIGHT="114"
+                          WIDTH="2248"
+                          VPOS="3917"
+                          HPOS="536"
+                          CONTENT="eran spessi ornati di cotal duono dai suoi Capitani, et i pregion vengo sotto quella, et per questo"/>
+               </TextLine>
+               <TextLine ID="r1l45"
+                         BASELINE="548,4079 678,4074 791,4072 903,4072 1016,4072 1129,4072 1241,4072 1354,4072 1466,4072 1579,4072 1692,4072 1804,4072 1917,4070 2029,4070 2142,4070 2255,4068 2367,4068 2480,4066 2592,4064 2705,4062 2853,4068"
+                         HEIGHT="97"
+                         WIDTH="2335"
+                         VPOS="4008"
+                         HPOS="533">
+                  <String ID="string_r1l45"
+                          HEIGHT="97"
+                          WIDTH="2335"
+                          VPOS="4008"
+                          HPOS="533"
+                          CONTENT="da i Greci i pregion nella guerra son chiamati ΔΟΡΥΑΛΩΤΟΙ cio è presi con lhasta, et ΔΟΡΥΚΤΗ¬"/>
+               </TextLine>
+               <TextLine ID="r1l46"
+                         BASELINE="554,4144 665,4144 776,4146 887,4146 998,4148 1109,4148 1220,4148 1331,4148 1442,4148 1553,4146 1664,4146 1775,4146 1886,4145 1997,4144 2108,4144 2219,4144 2330,4144 2441,4144 2552,4144 2663,4144 2774,4144"
+                         HEIGHT="90"
+                         WIDTH="2250"
+                         VPOS="4075"
+                         HPOS="539">
+                  <String ID="string_r1l46"
+                          HEIGHT="90"
+                          WIDTH="2250"
+                          VPOS="4075"
+                          HPOS="539"
+                          CONTENT="ΤΟΙ che vol dire collhasta venti, et condotti in possesione dei vincitori. Di questo costume Ovidio"/>
+               </TextLine>
+               <TextLine ID="r1l47"
+                         BASELINE="560,4208 670,4210 780,4213 890,4214 1000,4216 1111,4218 1221,4218 1331,4218 1441,4218 1551,4218 1662,4218 1772,4218 1882,4218 1992,4218 2102,4220 2213,4220 2323,4220 2433,4222 2543,4224 2653,4225 2764,4228"
+                         HEIGHT="101"
+                         WIDTH="2234"
+                         VPOS="4157"
+                         HPOS="546">
+                  <String ID="string_r1l47"
+                          HEIGHT="101"
+                          WIDTH="2234"
+                          VPOS="4157"
+                          HPOS="546"
+                          CONTENT="fa mentione ne fasti cosi al secondo. NEC•TIBI•QVAE•CVPIDAE•MATVRA•VIDEBERE•MATRI,"/>
+               </TextLine>
+               <TextLine ID="r1l48"
+                         BASELINE="556,4286 668,4288 780,4288 892,4290 1004,4292 1117,4292 1229,4294 1341,4294 1453,4296 1565,4296 1678,4298 1790,4298 1902,4298 2014,4300 2126,4300 2239,4300 2351,4300 2463,4300 2575,4300 2687,4300 2800,4300"
+                         HEIGHT="120"
+                         WIDTH="2274"
+                         VPOS="4242"
+                         HPOS="540">
+                  <String ID="string_r1l48"
+                          HEIGHT="120"
+                          WIDTH="2274"
+                          VPOS="4242"
+                          HPOS="540"
+                          CONTENT="COMAT•VIRGINEAS•HASTA•RECVRVA•COMAS, ove si comanda che nelle feste de matrimonij in fe¬"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

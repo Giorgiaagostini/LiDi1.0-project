@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>PirroLigorio_Ja_III_3_096b.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-06-25T19:45:20.398+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="5255" WIDTH="3800">
+         <TopMargin HEIGHT="0" WIDTH="3800" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5255" WIDTH="0" VPOS="0" HPOS="3800"/>
+         <BottomMargin HEIGHT="0" WIDTH="3800" VPOS="5255" HPOS="0"/>
+         <PrintSpace HEIGHT="5255" WIDTH="3800" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1650529001347_66"
+                       HEIGHT="377"
+                       WIDTH="396"
+                       VPOS="208"
+                       HPOS="2790">
+               <Shape>
+                  <Polygon POINTS="2790,208 3186,208 3186,585 2790,585"/>
+               </Shape>
+               <TextLine ID="r3l1"
+                         BASELINE="3018,262 3044,264 3070,260 3096,253 3122,250"
+                         HEIGHT="77"
+                         WIDTH="104"
+                         VPOS="208"
+                         HPOS="3018">
+                  <String ID="string_r3l1"
+                          HEIGHT="77"
+                          WIDTH="104"
+                          VPOS="208"
+                          HPOS="3018"
+                          CONTENT="99"/>
+               </TextLine>
+               <TextLine ID="r3l2"
+                         BASELINE="2952,404 2978,401 3004,398 3030,391 3056,388"
+                         HEIGHT="79"
+                         WIDTH="104"
+                         VPOS="346"
+                         HPOS="2952">
+                  <String ID="string_r3l2"
+                          HEIGHT="79"
+                          WIDTH="104"
+                          VPOS="346"
+                          HPOS="2952"
+                          CONTENT="96"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529020009_84"
+                       HEIGHT="953"
+                       WIDTH="1176"
+                       VPOS="597"
+                       HPOS="289">
+               <Shape>
+                  <Polygon POINTS="289,597 1465,597 1465,1550 289,1550"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="352,714 383,715 415,716 447,716 479,716 511,716 542,716 574,716 606,716 638,714 670,714 701,714 733,714 765,714 797,714 829,714 860,714 892,714 924,716 961,719 993,719"
+                         HEIGHT="56"
+                         WIDTH="636"
+                         VPOS="678"
+                         HPOS="352">
+                  <String ID="string_r1l1"
+                          HEIGHT="56"
+                          WIDTH="636"
+                          VPOS="678"
+                          HPOS="352"
+                          CONTENT="ΤΙΒΕΡΙΩΙ•ΚΛΑΥΔΙΩΙ"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="485,795 511,793 548,795 575,795 601,792 627,792 654,792 680,792 706,791 733,790 759,790 785,789 812,788"
+                         HEIGHT="55"
+                         WIDTH="316"
+                         VPOS="754"
+                         HPOS="496">
+                  <String ID="string_r1l2"
+                          HEIGHT="55"
+                          WIDTH="316"
+                          VPOS="754"
+                          HPOS="496"
+                          CONTENT="ΚΟΥΙΡΕΙΝΑΙ"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="356,858 386,860 417,860 448,862 478,862 509,862 540,862 570,862 601,862 632,863 663,864 693,864 724,864 755,864 785,864 816,864 847,866 877,866 908,866 939,867 970,868"
+                         HEIGHT="53"
+                         WIDTH="614"
+                         VPOS="829"
+                         HPOS="356">
+                  <String ID="string_r1l3"
+                          HEIGHT="53"
+                          WIDTH="614"
+                          VPOS="829"
+                          HPOS="356"
+                          CONTENT="ΜΕΝΕΚΡΑΤΕΙ•ΙΤΡΩΙ"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="456,932 481,931 506,929 531,928 556,928 581,928 606,926 631,926 656,926 682,926 707,926 732,926 757,926 782,926 807,926 832,926 857,926 882,926 923,926"
+                         HEIGHT="49"
+                         WIDTH="452"
+                         VPOS="897"
+                         HPOS="456">
+                  <String ID="string_r1l4"
+                          HEIGHT="49"
+                          WIDTH="452"
+                          VPOS="897"
+                          HPOS="456"
+                          CONTENT="ΚΑΙΣΑΡΩΝ•ΚΑΙ•ΙΔΙΑΣ"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="409,994 434,996 470,993 495,994 521,995 546,996 571,996 597,996 622,994 647,994 673,994 698,994 723,992 748,992 774,992 799,991 824,990 850,990 875,990 900,990 926,992"
+                         HEIGHT="52"
+                         WIDTH="506"
+                         VPOS="959"
+                         HPOS="420">
+                  <String ID="string_r1l5"
+                          HEIGHT="52"
+                          WIDTH="506"
+                          VPOS="959"
+                          HPOS="420"
+                          CONTENT="ΛΟΓΙΚΗΣ• ΕΝΑΡΓΟΥΣ"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="364,1066 394,1066 424,1066 454,1066 484,1068 515,1068 545,1068 575,1068 605,1068 635,1068 666,1069 696,1070 726,1070 756,1070 786,1070 817,1070 847,1068 877,1068 907,1068 956,1068 987,1067"
+                         HEIGHT="50"
+                         WIDTH="604"
+                         VPOS="1035"
+                         HPOS="364">
+                  <String ID="string_r1l6"
+                          HEIGHT="50"
+                          WIDTH="604"
+                          VPOS="1035"
+                          HPOS="364"
+                          CONTENT="ΙΑΤΡΙΚΗΣ•ΚΤΙΣΤΗΙ•ΕΝ"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="446,1144 471,1142 497,1142 523,1140 549,1140 575,1140 601,1140 627,1140 653,1139 679,1138 705,1138 730,1138 756,1138 782,1138 808,1138 834,1138 860,1138 886,1136 912,1136 938,1135 976,1132"
+                         HEIGHT="52"
+                         WIDTH="518"
+                         VPOS="1102"
+                         HPOS="456">
+                  <String ID="string_r1l7"
+                          HEIGHT="52"
+                          WIDTH="518"
+                          VPOS="1102"
+                          HPOS="456"
+                          CONTENT="ΒΙΒΛΙΟΙΣ•ΡΝΣ•ΔΙ•ΩΝ•"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="348,1208 378,1206 408,1205 439,1204 469,1204 500,1202 530,1201 560,1200 591,1200 621,1198 652,1198 682,1198 712,1198 743,1196 773,1196 804,1196 834,1196 864,1196 895,1196 925,1196 973,1194"
+                         HEIGHT="54"
+                         WIDTH="608"
+                         VPOS="1164"
+                         HPOS="348">
+                  <String ID="string_r1l8"
+                          HEIGHT="54"
+                          WIDTH="608"
+                          VPOS="1164"
+                          HPOS="348"
+                          CONTENT="ΕΤΕΙΜΗΘΝ•ΥΠΟ•ΤΩΝ•ΕΝ"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="356,1264 386,1263 417,1262 447,1260 478,1259 509,1257 539,1256 570,1256 600,1254 631,1254 662,1253 692,1252 723,1252 753,1252 784,1252 815,1252 845,1252 876,1252 906,1252 937,1253 972,1252"
+                         HEIGHT="54"
+                         WIDTH="612"
+                         VPOS="1224"
+                         HPOS="356">
+                  <String ID="string_r1l9"
+                          HEIGHT="54"
+                          WIDTH="612"
+                          VPOS="1224"
+                          HPOS="356"
+                          CONTENT="ΛΟΓΙΜΩΝ•ΠΟΛΕΩΝ ΨΗΦΙΣ"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="356,1322 387,1322 418,1320 449,1320 481,1320 512,1319 543,1318 575,1318 606,1318 637,1318 669,1318 700,1318 731,1318 762,1318 794,1318 825,1318 856,1318 888,1317 919,1316 950,1316 1002,1319"
+                         HEIGHT="50"
+                         WIDTH="626"
+                         VPOS="1286"
+                         HPOS="356">
+                  <String ID="string_r1l10"
+                          HEIGHT="50"
+                          WIDTH="626"
+                          VPOS="1286"
+                          HPOS="356"
+                          CONTENT="ΜΑΣΙΝ•ΕΝΤΕΛΕΣΙ•ΟΙ•ΓΝΩΡΙΜΟΙ"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="351,1376 402,1374 434,1374 467,1374 499,1374 532,1374 564,1376 596,1376 629,1376 661,1376 694,1376 726,1376 758,1376 791,1376 823,1376 856,1376 888,1376 920,1376 953,1376 985,1376 1030,1378"
+                         HEIGHT="44"
+                         WIDTH="648"
+                         VPOS="1346"
+                         HPOS="370">
+                  <String ID="string_r1l11"
+                          HEIGHT="44"
+                          WIDTH="648"
+                          VPOS="1346"
+                          HPOS="370"
+                          CONTENT="ΤΟΙ•ΕΥΤΩΝ•ΑΙΡΕΣΙΑΡΧΗΙ•ΤΟΗΡΩΟΝ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529020009_83"
+                       HEIGHT="657"
+                       WIDTH="1176"
+                       VPOS="1550"
+                       HPOS="289">
+               <Shape>
+                  <Polygon POINTS="289,1550 1465,1550 1465,2207 289,2207"/>
+               </Shape>
+               <TextLine ID="r1l12"
+                         BASELINE="326,1632 352,1632 379,1633 405,1634 432,1636 458,1637 485,1638 511,1638 538,1640 564,1641 591,1642 617,1643 644,1644 670,1644 697,1644 724,1644"
+                         HEIGHT="66"
+                         WIDTH="398"
+                         VPOS="1596"
+                         HPOS="326">
+                  <String ID="string_r1l12"
+                          HEIGHT="66"
+                          WIDTH="398"
+                          VPOS="1596"
+                          HPOS="326"
+                          CONTENT="in unaltra memoria"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="393,1852 418,1856 444,1859 470,1861 496,1862 521,1864 547,1866 573,1866 599,1867 625,1868 650,1868 676,1868 702,1868 728,1867 754,1866 779,1866 805,1866 831,1864 857,1864 887,1862"
+                         HEIGHT="70"
+                         WIDTH="490"
+                         VPOS="1812"
+                         HPOS="400">
+                  <String ID="string_r1l13"
+                          HEIGHT="70"
+                          WIDTH="490"
+                          VPOS="1812"
+                          HPOS="400"
+                          CONTENT="Γ•ΚΛΑΥΔIΟΣ"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="422,1942 447,1944 473,1945 498,1947 524,1948 550,1949 575,1950 601,1950 626,1950 652,1950 678,1950 703,1950 729,1948 754,1948 780,1948 832,1945"
+                         HEIGHT="59"
+                         WIDTH="384"
+                         VPOS="1902"
+                         HPOS="426">
+                  <String ID="string_r1l14"
+                          HEIGHT="59"
+                          WIDTH="384"
+                          VPOS="1902"
+                          HPOS="426"
+                          CONTENT="ΣΕΙΛΙΑΝΟΣ"/>
+               </TextLine>
+               <TextLine ID="line_1651499133014_3052"
+                         BASELINE="524,2018 551,2018 578,2018 605,2018 632,2017 660,2016 687,2015 714,2014 741,2014 761,2014"
+                         HEIGHT="53"
+                         WIDTH="237"
+                         VPOS="1981"
+                         HPOS="524">
+                  <String ID="string_line_1651499133014_3052"
+                          HEIGHT="53"
+                          WIDTH="237"
+                          VPOS="1981"
+                          HPOS="524"
+                          CONTENT="ΙΑΤΡΟΣ"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="422,2096 447,2094 473,2092 499,2092 525,2092 550,2092 576,2092 602,2092 628,2092 653,2092 679,2092 705,2092 731,2092 756,2092 782,2092 808,2091 852,2091"
+                         HEIGHT="55"
+                         WIDTH="412"
+                         VPOS="2051"
+                         HPOS="422">
+                  <String ID="string_r1l16"
+                          HEIGHT="55"
+                          WIDTH="412"
+                          VPOS="2051"
+                          HPOS="422"
+                          CONTENT="ΕΦΕΣΙΟΣ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529018990_79"
+                       HEIGHT="700"
+                       WIDTH="1176"
+                       VPOS="2207"
+                       HPOS="289">
+               <Shape>
+                  <Polygon POINTS="289,2207 1465,2207 1465,2907 289,2907"/>
+               </Shape>
+               <TextLine ID="r1l17"
+                         BASELINE="322,2280 348,2282 374,2283 400,2284 426,2285 452,2286 478,2286 504,2288 530,2288 556,2288 582,2288 608,2287 634,2286 660,2286 686,2284"
+                         HEIGHT="62"
+                         WIDTH="364"
+                         VPOS="2244"
+                         HPOS="322">
+                  <String ID="string_r1l17"
+                          HEIGHT="62"
+                          WIDTH="364"
+                          VPOS="2244"
+                          HPOS="322"
+                          CONTENT="Inunaltra pietra"/>
+               </TextLine>
+               <TextLine ID="line_1651499156125_3069"
+                         BASELINE="595,2414 704,2416 742,2420 772,2418 812,2420"
+                         HEIGHT="67"
+                         WIDTH="202"
+                         VPOS="2367"
+                         HPOS="600">
+                  <String ID="string_line_1651499156125_3069"
+                          HEIGHT="67"
+                          WIDTH="202"
+                          VPOS="2367"
+                          HPOS="600"
+                          CONTENT="Θ•Κ"/>
+               </TextLine>
+               <TextLine ID="line_1651499177905_3077"
+                         BASELINE="434,2477 460,2474 487,2473 514,2472 541,2471 568,2473 594,2473 621,2475 648,2475 675,2477 702,2479 728,2480 755,2482 782,2483 809,2484 836,2485 862,2486 889,2487 916,2486 933,2485"
+                         HEIGHT="59"
+                         WIDTH="515"
+                         VPOS="2439"
+                         HPOS="418">
+                  <String ID="string_line_1651499177905_3077"
+                          HEIGHT="59"
+                          WIDTH="515"
+                          VPOS="2439"
+                          HPOS="418"
+                          CONTENT="ΑΥΡΗΛΙΑΙΤΥΧΙΑΙ"/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="383,2547 428,2547 460,2548 492,2550 524,2550 556,2552 588,2553 620,2554 652,2555 684,2556 717,2558 749,2560 781,2561 813,2562 845,2562 877,2565 909,2566 941,2568 973,2568 1005,2570 1051,2571"
+                         HEIGHT="72"
+                         WIDTH="642"
+                         VPOS="2515"
+                         HPOS="396">
+                  <String ID="string_r1l21"
+                          HEIGHT="72"
+                          WIDTH="642"
+                          VPOS="2515"
+                          HPOS="396"
+                          CONTENT="Μ•ΑΥΡΗΛΙΟΣ ΔΙΟΣΚΩΡΟΣ"/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="557,2626 583,2628 606,2625 633,2626 659,2626 685,2628 712,2628 738,2627 764,2626 791,2626 817,2629 844,2629"
+                         HEIGHT="54"
+                         WIDTH="290"
+                         VPOS="2589"
+                         HPOS="554">
+                  <String ID="string_r1l22"
+                          HEIGHT="54"
+                          WIDTH="290"
+                          VPOS="2589"
+                          HPOS="554"
+                          CONTENT="ΙΑΤΡΟΣ"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="490,2686 521,2687 547,2689 573,2690 599,2692 624,2692 650,2694 676,2694 702,2694 728,2696 753,2696 779,2697 805,2698 831,2698 856,2698 882,2698 908,2698 934,2698 960,2698"
+                         HEIGHT="61"
+                         WIDTH="464"
+                         VPOS="2653"
+                         HPOS="496">
+                  <String ID="string_r1l23"
+                          HEIGHT="61"
+                          WIDTH="464"
+                          VPOS="2653"
+                          HPOS="496"
+                          CONTENT="ΣΜΥΡΝΑΙΟΣ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529017871_75"
+                       HEIGHT="717"
+                       WIDTH="1176"
+                       VPOS="2907"
+                       HPOS="289">
+               <Shape>
+                  <Polygon POINTS="289,2907 1465,2907 1465,3624 289,3624"/>
+               </Shape>
+               <TextLine ID="r1l24"
+                         BASELINE="428,3133 465,3137 511,3136 548,3138 586,3140 624,3142 661,3144 699,3146 736,3146 774,3146 812,3146 849,3146 887,3146 924,3146 962,3145 1000,3144 1037,3144 1075,3144 1112,3144 1150,3142 1188,3142"
+                         HEIGHT="67"
+                         WIDTH="752"
+                         VPOS="3095"
+                         HPOS="436">
+                  <String ID="string_r1l24"
+                          HEIGHT="67"
+                          WIDTH="752"
+                          VPOS="3095"
+                          HPOS="436"
+                          CONTENT="ΑΙΣ ΚΛΗΠΙΩΙ ΣΩΤΗΡΩΙ"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="442,3213 471,3216 504,3214 533,3215 562,3216 591,3218 620,3218 649,3218 678,3218 707,3218 736,3218 765,3217 794,3216 823,3216 852,3214 881,3214 910,3213 939,3212 968,3212 997,3212 1026,3212"
+                         HEIGHT="59"
+                         WIDTH="580"
+                         VPOS="3175"
+                         HPOS="446">
+                  <String ID="string_r1l25"
+                          HEIGHT="59"
+                          WIDTH="580"
+                          VPOS="3175"
+                          HPOS="446"
+                          CONTENT="ΘΕ•ΑΝΕΘΗΚΕΝ"/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="442,3326 479,3326 516,3325 553,3324 591,3324 628,3324 665,3322 703,3322 740,3322 777,3322 815,3322 852,3322 889,3322 926,3322 964,3322 1001,3322 1038,3322 1076,3322 1113,3322 1150,3322 1212,3326"
+                         HEIGHT="53"
+                         WIDTH="746"
+                         VPOS="3289"
+                         HPOS="442">
+                  <String ID="string_r1l26"
+                          HEIGHT="53"
+                          WIDTH="746"
+                          VPOS="3289"
+                          HPOS="442"
+                          CONTENT="ΤΙΤΟΣ ΦΛΑΟΥΙΟΣ ΛΥΣΙΑΣ"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="572,3396 601,3396 630,3395 659,3394 688,3394 718,3394 747,3393 776,3392 805,3392 834,3392 864,3392 893,3392 922,3390 951,3390 980,3390 1010,3390 1039,3390 1068,3390 1097,3391 1126,3392 1156,3392"
+                         HEIGHT="52"
+                         WIDTH="584"
+                         VPOS="3359"
+                         HPOS="572">
+                  <String ID="string_r1l27"
+                          HEIGHT="52"
+                          WIDTH="584"
+                          VPOS="3359"
+                          HPOS="572"
+                          CONTENT="ΙΑΤΡΟΣ•ΑΛΕΣΑΝΔ."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="638,3462 663,3462 688,3460 713,3460 738,3460 763,3460 788,3459 813,3458 838,3458 863,3457 888,3456 913,3456 938,3456 963,3454 988,3454 1014,3454"
+                         HEIGHT="54"
+                         WIDTH="376"
+                         VPOS="3423"
+                         HPOS="638">
+                  <String ID="string_r1l28"
+                          HEIGHT="54"
+                          WIDTH="376"
+                          VPOS="3423"
+                          HPOS="638"
+                          CONTENT="ΑΠΕΛΕΘΕΡΟΣ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529016993_71"
+                       HEIGHT="937"
+                       WIDTH="1176"
+                       VPOS="3760"
+                       HPOS="354">
+               <Shape>
+                  <Polygon POINTS="354,3760 1530,3760 1530,4697 354,4697"/>
+               </Shape>
+               <TextLine ID="r1l30"
+                         BASELINE="576,3842 602,3845 629,3847 656,3848 682,3850 709,3850 736,3850 762,3851 789,3852 816,3852 843,3852 869,3851 896,3850 923,3850 949,3850 976,3850 1003,3850 1029,3850 1056,3850 1083,3850 1110,3850"
+                         HEIGHT="64"
+                         WIDTH="534"
+                         VPOS="3806"
+                         HPOS="576">
+                  <String ID="string_r1l30"
+                          HEIGHT="64"
+                          WIDTH="534"
+                          VPOS="3806"
+                          HPOS="576"
+                          CONTENT="ΦΑΥϹΤΟϹ"/>
+               </TextLine>
+               <TextLine ID="r1l31"
+                         BASELINE="522,3964 553,3963 585,3962 616,3962 648,3962 679,3962 711,3960 742,3960 774,3960 805,3960 837,3960 868,3960 900,3960 931,3960 963,3962 994,3962 1026,3962 1057,3963 1089,3964 1120,3964 1152,3966"
+                         HEIGHT="60"
+                         WIDTH="630"
+                         VPOS="3918"
+                         HPOS="526">
+                  <String ID="string_r1l31"
+                          HEIGHT="60"
+                          WIDTH="630"
+                          VPOS="3918"
+                          HPOS="526"
+                          CONTENT="ΑΤΙΑΝΟϹ"/>
+               </TextLine>
+               <TextLine ID="r1l32"
+                         BASELINE="474,4051 510,4051 546,4051 582,4051 618,4053 655,4053 691,4053 727,4055 763,4056 799,4057 836,4058 872,4059 908,4059 944,4061 980,4061 1017,4061 1053,4061 1089,4059 1125,4059 1161,4057 1198,4055"
+                         HEIGHT="64"
+                         WIDTH="724"
+                         VPOS="4008"
+                         HPOS="474">
+                  <String ID="string_r1l32"
+                          HEIGHT="64"
+                          WIDTH="724"
+                          VPOS="4008"
+                          HPOS="474"
+                          CONTENT="Ν Η ΜΕΙΟΝ•Ε•Κ"/>
+               </TextLine>
+               <TextLine ID="r1l33"
+                         BASELINE="391,4151 440,4150 490,4149 540,4147 589,4147 639,4147 689,4149 738,4150 788,4151 838,4153 888,4154 937,4156 987,4157 1037,4159 1086,4159 1136,4161 1186,4161 1235,4161 1285,4159 1335,4157 1385,4155"
+                         HEIGHT="68"
+                         WIDTH="994"
+                         VPOS="4104"
+                         HPOS="390">
+                  <String ID="string_r1l33"
+                          HEIGHT="68"
+                          WIDTH="994"
+                          VPOS="4104"
+                          HPOS="390"
+                          CONTENT="ΕΜΕΛΙωΝ•ΕΠΟΙΗϹΑΝ"/>
+               </TextLine>
+               <TextLine ID="r1l34"
+                         BASELINE="411,4244 465,4244 520,4244 574,4246 629,4246 683,4248 738,4248 792,4250 847,4251 901,4252 956,4254 1010,4256 1065,4257 1119,4258 1174,4260 1228,4262 1283,4263 1337,4265 1392,4267 1446,4270 1501,4272"
+                         HEIGHT="82"
+                         WIDTH="1090"
+                         VPOS="4202"
+                         HPOS="408">
+                  <String ID="string_r1l34"
+                          HEIGHT="82"
+                          WIDTH="1090"
+                          VPOS="4202"
+                          HPOS="408"
+                          CONTENT="ΕΑΥΤΟΙϹ•ΤΕ•ΚΑΙ•ΕΚΓΟΝΟϹΚΑΙ"/>
+               </TextLine>
+               <TextLine ID="r1l35"
+                         BASELINE="402,4336 453,4338 504,4338 556,4340 607,4340 659,4342 710,4344 761,4344 813,4346 864,4347 916,4348 967,4349 1018,4350 1070,4351 1121,4352 1173,4353 1224,4354 1275,4354 1327,4356 1378,4356 1430,4356"
+                         HEIGHT="74"
+                         WIDTH="1028"
+                         VPOS="4294"
+                         HPOS="392">
+                  <String ID="string_r1l35"
+                          HEIGHT="74"
+                          WIDTH="1028"
+                          VPOS="4294"
+                          HPOS="392"
+                          CONTENT="ϹΥΝΓΕΝΕϹΙ•ΙΔΙΟΙϹ•ΑΠΕΛΕΥ"/>
+               </TextLine>
+               <TextLine ID="r1l36"
+                         BASELINE="522,4436 561,4436 600,4436 640,4436 679,4438 719,4438 758,4438 797,4440 837,4440 876,4440 916,4442 955,4442 994,4444 1034,4444 1073,4445 1113,4446 1152,4446 1191,4446 1231,4448 1270,4448 1310,4448"
+                         HEIGHT="66"
+                         WIDTH="788"
+                         VPOS="4396"
+                         HPOS="528">
+                  <String ID="string_r1l36"
+                          HEIGHT="66"
+                          WIDTH="788"
+                          VPOS="4396"
+                          HPOS="528"
+                          CONTENT="ΘΕΡΑΙϹ•ΚΑΙ ΤΟΙϹ"/>
+               </TextLine>
+               <TextLine ID="r1l37"
+                         BASELINE="664,4533 689,4535 714,4535 739,4535 764,4535 789,4535 814,4535 839,4537 864,4537 889,4537 914,4537 939,4537 964,4537 989,4537 1014,4537 1039,4538 1064,4539 1089,4539 1114,4539"
+                         HEIGHT="60"
+                         WIDTH="450"
+                         VPOS="4490"
+                         HPOS="660">
+                  <String ID="string_r1l37"
+                          HEIGHT="60"
+                          WIDTH="450"
+                          VPOS="4490"
+                          HPOS="660"
+                          CONTENT="ΕRΓ ΟΝΟϹ"/>
+               </TextLine>
+               <TextLine ID="r1l38"
+                         BASELINE="746,4612 772,4614 798,4614 825,4616 851,4616 878,4619 904,4620 931,4621 957,4622 983,4624 1010,4624 1036,4623 1063,4622 1089,4620 1116,4618"
+                         HEIGHT="66"
+                         WIDTH="370"
+                         VPOS="4576"
+                         HPOS="746">
+                  <String ID="string_r1l38"
+                          HEIGHT="66"
+                          WIDTH="370"
+                          VPOS="4576"
+                          HPOS="746"
+                          CONTENT="ΤΟΥ ΤωΝ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529001346_65"
+                       HEIGHT="514"
+                       WIDTH="396"
+                       VPOS="585"
+                       HPOS="2790">
+               <Shape>
+                  <Polygon POINTS="2790,585 3186,585 3186,1099 2790,1099"/>
+               </Shape>
+               <TextLine ID="r3l3"
+                         BASELINE="2808,800 2833,800 2858,798 2883,798 2908,798 2934,798 2959,798 2984,798 3009,797 3034,796 3060,796 3085,796 3110,796 3135,795 3160,794 3186,794"
+                         HEIGHT="60"
+                         WIDTH="378"
+                         VPOS="758"
+                         HPOS="2808">
+                  <String ID="string_r3l3"
+                          HEIGHT="60"
+                          WIDTH="378"
+                          VPOS="758"
+                          HPOS="2808"
+                          CONTENT="Trovato nella Via"/>
+               </TextLine>
+               <TextLine ID="r3l4"
+                         BASELINE="2790,874 2815,874 2841,872 2866,872 2892,872 2918,872 2943,872 2969,872 2994,872 3020,870 3046,870 3071,870 3097,868 3122,867 3148,865 3174,862"
+                         HEIGHT="66"
+                         WIDTH="384"
+                         VPOS="826"
+                         HPOS="2790">
+                  <String ID="string_r3l4"
+                          HEIGHT="66"
+                          WIDTH="384"
+                          VPOS="826"
+                          HPOS="2790"
+                          CONTENT="Appia et ndutto inca"/>
+               </TextLine>
+               <TextLine ID="r3l5"
+                         BASELINE="2806,946 2832,946 2858,948 2884,948 2910,948 2936,947 2962,946 2988,946 3014,946 3040,944 3066,944 3092,944 3118,942 3144,942 3170,942"
+                         HEIGHT="60"
+                         WIDTH="364"
+                         VPOS="906"
+                         HPOS="2806">
+                  <String ID="string_r3l5"
+                          HEIGHT="60"
+                          WIDTH="364"
+                          VPOS="906"
+                          HPOS="2806"
+                          CONTENT="sa di M.Francesco la"/>
+               </TextLine>
+               <TextLine ID="r3l6"
+                         BASELINE="2794,1016 2820,1018 2846,1019 2872,1020 2898,1020 2924,1018 2950,1018 2976,1017 3002,1016 3028,1016 3054,1015 3080,1014 3106,1014 3132,1014 3172,1012"
+                         HEIGHT="52"
+                         WIDTH="364"
+                         VPOS="983"
+                         HPOS="2794">
+                  <String ID="string_r3l6"
+                          HEIGHT="52"
+                          WIDTH="364"
+                          VPOS="983"
+                          HPOS="2794"
+                          CONTENT="tiale notario delli"/>
+               </TextLine>
+               <TextLine ID="r3l7"
+                         BASELINE="2794,1082 2822,1082 2851,1084 2880,1084 2908,1082 2937,1081 2966,1078"
+                         HEIGHT="52"
+                         WIDTH="172"
+                         VPOS="1047"
+                         HPOS="2794">
+                  <String ID="string_r3l7"
+                          HEIGHT="52"
+                          WIDTH="172"
+                          VPOS="1047"
+                          HPOS="2794"
+                          CONTENT="spetiali"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529036934_91"
+                       HEIGHT="988"
+                       WIDTH="1020"
+                       VPOS="374"
+                       HPOS="1784">
+               <Shape>
+                  <Polygon POINTS="1816,374 2804,428 2755,1329 1784,1362"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="1866,570 1907,572 1948,573 1989,574 2030,574 2071,574 2112,574 2153,574 2194,572 2235,570 2276,569 2317,567 2358,565 2399,564 2440,562 2481,560 2522,558 2563,558 2604,556 2645,556 2686,554"
+                         HEIGHT="86"
+                         WIDTH="820"
+                         VPOS="510"
+                         HPOS="1866">
+                  <String ID="string_r2l1"
+                          HEIGHT="86"
+                          WIDTH="820"
+                          VPOS="510"
+                          HPOS="1866"
+                          CONTENT="Λ•ΑΝΝΙΟϹ•ΦΑΥϹΤΟϹ"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="1902,666 1937,666 1972,666 2007,666 2042,668 2078,668 2113,670 2148,670 2183,672 2218,672 2254,672 2289,674 2324,674 2359,674 2394,674 2430,672 2465,672 2500,671 2535,668 2570,666 2606,664"
+                         HEIGHT="70"
+                         WIDTH="704"
+                         VPOS="624"
+                         HPOS="1902">
+                  <String ID="string_r2l2"
+                          HEIGHT="70"
+                          WIDTH="704"
+                          VPOS="624"
+                          HPOS="1902"
+                          CONTENT="ΠΑΝΚΡΑΤΙΑΝΟϹ"/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1904,754 1935,754 1967,756 1998,756 2030,756 2062,756 2093,756 2125,756 2156,756 2188,754 2220,754 2251,754 2283,754 2314,754 2346,754 2378,754 2409,754 2441,754 2472,754 2504,754 2536,754"
+                         HEIGHT="60"
+                         WIDTH="632"
+                         VPOS="715"
+                         HPOS="1904">
+                  <String ID="string_r2l3"
+                          HEIGHT="60"
+                          WIDTH="632"
+                          VPOS="715"
+                          HPOS="1904"
+                          CONTENT=".......ΝΗΜΕΙΟΝ•ΕΚ"/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="1856,836 1897,836 1939,836 1981,837 2023,838 2065,838 2106,838 2148,838 2190,838 2232,836 2274,836 2315,836 2357,836 2399,836 2441,836 2483,836 2524,835 2566,834 2608,834 2650,834 2692,834"
+                         HEIGHT="64"
+                         WIDTH="836"
+                         VPOS="794"
+                         HPOS="1856">
+                  <String ID="string_r2l4"
+                          HEIGHT="64"
+                          WIDTH="836"
+                          VPOS="794"
+                          HPOS="1856"
+                          CONTENT="ΕΜΕΛΙωΝ ΕΠΟΙΗϹΑΝ"/>
+               </TextLine>
+               <TextLine ID="r2l5"
+                         BASELINE="1858,916 1902,916 1946,918 1990,918 2035,920 2079,922 2123,922 2168,924 2212,926 2256,926 2301,928 2345,929 2389,930 2433,930 2478,932 2522,932 2566,932 2611,931 2655,930 2699,928 2744,926"
+                         HEIGHT="74"
+                         WIDTH="886"
+                         VPOS="877"
+                         HPOS="1858">
+                  <String ID="string_r2l5"
+                          HEIGHT="74"
+                          WIDTH="886"
+                          VPOS="877"
+                          HPOS="1858"
+                          CONTENT="ΕΑΥΤΟΙϹ•ΤΕ•ΚΑΙ•ΕΓΟΝΟϹ•ΚΑΙ"/>
+               </TextLine>
+               <TextLine ID="r2l6"
+                         BASELINE="1854,1010 1898,1010 1942,1010 1986,1010 2030,1012 2074,1012 2118,1014 2162,1016 2206,1018 2250,1019 2294,1021 2338,1022 2382,1026 2426,1026 2470,1028 2514,1030 2558,1032 2602,1034 2646,1034 2690,1036 2747,1035"
+                         HEIGHT="86"
+                         WIDTH="880"
+                         VPOS="970"
+                         HPOS="1854">
+                  <String ID="string_r2l6"
+                          HEIGHT="86"
+                          WIDTH="880"
+                          VPOS="970"
+                          HPOS="1854"
+                          CONTENT="ϹΥΝΓΕ ΝΕϹΙ•ΙΔΙΟΙϹ•ΑΠΕΛΕΥ"/>
+               </TextLine>
+               <TextLine ID="r2l7"
+                         BASELINE="1926,1094 1956,1094 1987,1094 2018,1094 2049,1094 2080,1095 2110,1096 2141,1096 2172,1098 2203,1099 2234,1101 2264,1102 2295,1104 2326,1105 2357,1106 2388,1109 2418,1111 2449,1112 2480,1114 2511,1115 2542,1116"
+                         HEIGHT="82"
+                         WIDTH="616"
+                         VPOS="1054"
+                         HPOS="1926">
+                  <String ID="string_r2l7"
+                          HEIGHT="82"
+                          WIDTH="616"
+                          VPOS="1054"
+                          HPOS="1926"
+                          CONTENT="ΘΕΡΑΙϹ•ΚΑΙ•ΤΟΙϹ"/>
+               </TextLine>
+               <TextLine ID="r2l8"
+                         BASELINE="2094,1184 2119,1186 2145,1189 2171,1192 2197,1193 2223,1195 2249,1198 2274,1200 2300,1202 2326,1204 2352,1205 2378,1207 2404,1209 2430,1212"
+                         HEIGHT="94"
+                         WIDTH="336"
+                         VPOS="1140"
+                         HPOS="2094">
+                  <String ID="string_r2l8"
+                          HEIGHT="94"
+                          WIDTH="336"
+                          VPOS="1140"
+                          HPOS="2094"
+                          CONTENT="ΕΓΟΝΟϹ"/>
+               </TextLine>
+               <TextLine ID="r2l9"
+                         BASELINE="2141,1286 2178,1291 2205,1292 2231,1294 2258,1297 2284,1298 2311,1301 2337,1302 2364,1304 2390,1304 2417,1304 2443,1303 2470,1300"
+                         HEIGHT="80"
+                         WIDTH="318"
+                         VPOS="1246"
+                         HPOS="2152">
+                  <String ID="string_r2l9"
+                          HEIGHT="80"
+                          WIDTH="318"
+                          VPOS="1246"
+                          HPOS="2152"
+                          CONTENT="ΤΟΥ ΤωΝ"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1650529036934_90"
+                       HEIGHT="1090"
+                       WIDTH="890"
+                       VPOS="1779"
+                       HPOS="1854">
+               <Shape>
+                  <Polygon POINTS="1854,1779 2744,1779 2744,2869 1854,2869"/>
+               </Shape>
+               <TextLine ID="r2l10"
+                         BASELINE="1956,2033 1993,2038 2028,2042 2063,2032 2098,2034 2133,2036 2168,2037 2203,2038 2238,2038 2273,2038 2308,2038 2343,2038 2378,2038 2413,2038 2448,2038 2483,2038 2518,2038 2553,2040 2588,2040 2623,2042 2658,2044"
+                         HEIGHT="88"
+                         WIDTH="700"
+                         VPOS="1978"
+                         HPOS="1958">
+                  <String ID="string_r2l10"
+                          HEIGHT="88"
+                          WIDTH="700"
+                          VPOS="1978"
+                          HPOS="1958"
+                          CONTENT="ΚΑΑΥΔΙΑ•ΚΑΛ"/>
+               </TextLine>
+               <TextLine ID="r2l11"
+                         BASELINE="1952,2140 1986,2140 2020,2140 2055,2142 2089,2142 2124,2142 2158,2142 2192,2144 2227,2144 2261,2144 2296,2144 2330,2144 2364,2144 2399,2144 2433,2144 2468,2144 2502,2144 2536,2144 2571,2144 2605,2144 2640,2144"
+                         HEIGHT="70"
+                         WIDTH="688"
+                         VPOS="2092"
+                         HPOS="1952">
+                  <String ID="string_r2l11"
+                          HEIGHT="70"
+                          WIDTH="688"
+                          VPOS="2092"
+                          HPOS="1952"
+                          CONTENT="ΛΙΚΡΑΤΕΙΑ ❦"/>
+               </TextLine>
+               <TextLine ID="r2l12"
+                         BASELINE="1957,2240 1991,2243 2025,2245 2060,2248 2094,2249 2129,2252 2163,2252 2197,2254 2232,2255 2266,2256 2301,2257 2335,2258 2369,2258 2404,2258 2438,2260 2473,2260 2507,2260 2541,2262 2576,2262 2610,2262 2645,2264"
+                         HEIGHT="90"
+                         WIDTH="688"
+                         VPOS="2192"
+                         HPOS="1966">
+                  <String ID="string_r2l12"
+                          HEIGHT="90"
+                          WIDTH="688"
+                          VPOS="2192"
+                          HPOS="1966"
+                          CONTENT="ΚΑΙ•ΚΟΡΝΗΛΙ"/>
+               </TextLine>
+               <TextLine ID="r2l13"
+                         BASELINE="1948,2330 1983,2335 2018,2339 2053,2342 2088,2345 2123,2347 2158,2349 2193,2352 2228,2354 2263,2356 2299,2357 2334,2358 2369,2359 2404,2360 2439,2360 2474,2362 2509,2362 2544,2364 2579,2364 2614,2366 2649,2369"
+                         HEIGHT="104"
+                         WIDTH="702"
+                         VPOS="2286"
+                         HPOS="1948">
+                  <String ID="string_r2l13"
+                          HEIGHT="104"
+                          WIDTH="702"
+                          VPOS="2286"
+                          HPOS="1948"
+                          CONTENT="ΟϹ•ΔΙΑΔΟΥΜΕ"/>
+               </TextLine>
+               <TextLine ID="r2l14"
+                         BASELINE="1962,2435 1998,2439 2036,2441 2073,2445 2109,2448 2146,2450 2182,2452 2218,2454 2255,2455 2291,2456 2328,2457 2364,2458 2400,2458 2437,2458 2473,2458 2510,2458 2546,2460 2582,2460 2619,2460 2655,2461 2692,2462"
+                         HEIGHT="96"
+                         WIDTH="728"
+                         VPOS="2388"
+                         HPOS="1964">
+                  <String ID="string_r2l14"
+                          HEIGHT="96"
+                          WIDTH="728"
+                          VPOS="2388"
+                          HPOS="1964"
+                          CONTENT="ΝΟϹ•ΕΣΕΠΙΤΑΓΙϹ"/>
+               </TextLine>
+               <TextLine ID="r2l15"
+                         BASELINE="1971,2570 2025,2559 2056,2554 2088,2556 2120,2551 2153,2552 2185,2554 2218,2556 2250,2556 2283,2558 2316,2558 2348,2560 2381,2560 2413,2560 2446,2560 2479,2559 2511,2558 2544,2557 2576,2556 2609,2554 2642,2552"
+                         HEIGHT="86"
+                         WIDTH="652"
+                         VPOS="2496"
+                         HPOS="1990">
+                  <String ID="string_r2l15"
+                          HEIGHT="86"
+                          WIDTH="652"
+                          VPOS="2496"
+                          HPOS="1990"
+                          CONTENT="ΘΕΟΥ ΤΟΝ Βω"/>
+               </TextLine>
+               <TextLine ID="r2l16"
+                         BASELINE="1968,2642 2002,2645 2036,2648 2071,2649 2105,2651 2140,2653 2174,2656 2208,2656 2243,2658 2277,2659 2312,2660 2346,2660 2380,2661 2415,2662 2449,2662 2484,2662 2518,2661 2552,2660 2587,2660 2621,2658 2656,2658"
+                         HEIGHT="83"
+                         WIDTH="688"
+                         VPOS="2600"
+                         HPOS="1968">
+                  <String ID="string_r2l16"
+                          HEIGHT="83"
+                          WIDTH="688"
+                          VPOS="2600"
+                          HPOS="1968"
+                          CONTENT="ΜΟΝ ΑΝΕΘΗ"/>
+               </TextLine>
+               <TextLine ID="r2l17"
+                         BASELINE="2178,2742 2199,2755 2229,2752 2254,2754 2280,2756 2306,2756 2331,2756 2357,2756 2383,2754 2408,2754 2434,2754 2460,2754"
+                         HEIGHT="77"
+                         WIDTH="282"
+                         VPOS="2700"
+                         HPOS="2178">
+                  <String ID="string_r2l17"
+                          HEIGHT="77"
+                          WIDTH="282"
+                          VPOS="2700"
+                          HPOS="2178"
+                          CONTENT="ΚΑΝ."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
