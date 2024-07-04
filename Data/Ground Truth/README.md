@@ -1,0 +1,23 @@
+# LiDi 1.0 GT
+## How to cite
+
+```
+cff-version: 1.2.0
+title: LiDi 1.0 project
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Giorgia
+    family-names: Agostini
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12639497
+repository-code: 'https://github.com/Giorgiaagostini/LiDi1.0-project'
+abstract: >-
+  Ground Truth dataset for 16th century Antiquarian Pirro
+  Ligorio HTR
+license: CC-BY-SA-4.0
+
+```
