@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>855487</docId>
+    <title>LIBRO XVII DELL'ANTICHITÀ DI PYRRHO LIGORIO, PATRITIO NEAPOLITANO ET
+CITTADINO ROMANO, NEL QUALE SI CONTIENE, SECONDO L'ORDINE DATO PER
+ALPHABETO, DE TUTTE LE COSE PIÙ ILLUSTRE, DE LUOGHI
+DE MONTI, FIUMI, VALLI, MARI ET DELLE CITTÀ
+ET DEGLI HUOMINI DI LAUDE DEGNI</title>
+    <author>Pirro Ligorio</author>
+    <uploadTimestamp>1638812559750</uploadTimestamp>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>bastiane@iuav.it</uploader>
+    <uploaderId>18615</uploaderId>
+    <nrOfPages>450</nrOfPages>
+    <pageId>31902788</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=RDWRASXSCPIMZTZCQOQIEXIU</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=RDWRASXSCPIMZTZCQOQIEXIU</thumbUrl>
+    <externalId>NA</externalId>
+    <authority>NA</authority>
+    <language>Greek, Italian, Latin, OldItalian</language>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_549254</fimgStoreColl>
+    <origDocId>549254</origDocId>
+    <collectionList>
+        <colList>
+            <colId>128439</colId>
+            <colName>Enciclopedia Volume R (15) - Torino </colName>
+            <description>Progetto dottorato LiDi</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>227621</colId>
+            <colName>Progetto LiDi 1.0</colName>
+            <description>created by giorgia.agostini@gmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>128439</mainColId>
+</trpDocMetadata>

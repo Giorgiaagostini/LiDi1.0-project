@@ -1,0 +1,9 @@
+*/*.icloud
+*/.DS_Store/
+*.icloud
+.DS_Store
+Data/.DS_Store
+Data/Ground Truth/.DS_Store
+Data/.DS_Store
+.DS_Store
+
